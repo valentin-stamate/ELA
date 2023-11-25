@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Scholarly HTML</title>
+    <link rel="stylesheet" href="css/scholarly.min.css">
+    <script src="js/scholarly.min.js"></script>
+</head>
+<body prefix="schema: http://schema.org">
+<header>
+    <div class="banner">
+        <img src="scholarly-html.svg" width="227" height="50" alt="Scholarly HTML logo">
+        <div class="status">Community Draft</div>
+    </div>
+    <h1>Scholarly HTML</h1>
+</header>
+<!--
+  XXX
+  - check refs
+  - the math example has too much maths
+  - bring back some of the old style
+  - make semantics, validation, processing sub-sections of each structural element
+  - have a section before that for general constructs
+    - explain why use RDFa
+    - explain our patterns: RDFa, roles
+  - figure captions need to get set throughout
+  - dedication? see doc-dedication
+  - syntactic constraints (prefix)
+  - needs more sthenurines
+  - examples of everything
+  - some notes on using Semantic CSS
+  - needs more RDFa in the spec itself
+-->
+<div role="contentinfo">
+    <dl>
+        <dt>Authors</dt>
+        <dd>
+            Stamate Valentin
+            &amp;
+            Mihai Cristian-Laurentiu
+        </dd>
+
+    </dl>
+</div>
+<section typeof="sa:Abstract" id="abstract" role="doc-abstract">
+    <h2>Abstract</h2>
+    <p>
+        <!--        TODO abstract-->
+
+    </p>
+</section>
+<section id="introduction" role="doc-introduction">
+    <!-- review? -->
+    <h2>Introduction</h2>
+    <!--    TODO Introduction-->
+    <!--    <p>-->
+    <!--        Scholarly articles are still primarily published as unstructured data in which most of the-->
+    <!--        information created by the research and the practice of authoring is lost. Document-->
+    <!--        technology has reached a level of maturity and universality that makes this situation no-->
+    <!--        longer tenable. Information cannot be disseminated if it is destroyed before even having-->
+    <!--        left its creator’s laptop.-->
+    <!--    </p>-->
+    <!--    <p>-->
+    <!--        According to the New York Times, adding structured information to their recipes improved-->
+    <!--        their discoverability to the point of producing an immediate rise of 52 percent in traffic-->
+    <!--        (<a role="doc-biblioref">NYT</a>). At this point in time, cupcake recipes are reaping-->
+    <!--        greater benefits from modern data format practices than the whole scientific endeavour.-->
+    <!--    </p>-->
+
+</section>
+<section id="structure">
+    <!-- review? -->
+    <h2>Structure</h2>
+    <!--    <p>-->
+    <!--        A Scholarly HTML document is a valid <a role="doc-biblioref">HTML</a> document that follows-->
+    <!--        some additional rules to specialize its meaning and make it predictable to processors-->
+    <!--        wishing to produce or consume scholarly articles. These rules are outlined in the following-->
+    <!--        sections. While valuable on its own, the content structure defined here is simply a stepping-->
+    <!--        stone to enable semantic enrichment, detailed in <a href="#semantics">Semantics-->
+    <!--        Overlays</a>. If you would like to write a validation tool, please join us on GitHub.-->
+    <!--    </p>-->
+    <section id="structure1">
+        <!-- review? -->
+        <h3>Structure 1</h3>
+        <!--        <p>-->
+        <!--            The document must be encoded in UTF-8 and transmitted with a media type of-->
+        <!--            <code>text/html</code>.-->
+        <!--        </p>-->
+    </section>
+    <section id="structure2">
+        <!-- review? -->
+        <h3>structure 2</h3>
+
+    </section>
+</section>
+<section id="architecture">
+    <!-- review? -->
+    <h2>Architecture</h2>
+
+</section>
+<!--<section id="refs">-->
+<!--    &lt;!&ndash; review? &ndash;&gt;-->
+<!--    <h2>References</h2>-->
+<!--    -->
+<!--    <p>-->
+<!--        If we somehow forgot you in this list and you are too gracious to complain, we love you-->
+<!--        all the same.-->
+<!--    </p>-->
+<!--</section>-->
+</body>
+</html>
