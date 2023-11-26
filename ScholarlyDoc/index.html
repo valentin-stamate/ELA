@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
@@ -13,25 +13,8 @@
         <img src="scholarly-html.svg" width="227" height="50" alt="Scholarly HTML logo">
         <div class="status">Community Draft</div>
     </div>
-    <h1>Scholarly HTML</h1>
+    <h1>Esoteric Language Explorer</h1>
 </header>
-<!--
-  XXX
-  - check refs
-  - the math example has too much maths
-  - bring back some of the old style
-  - make semantics, validation, processing sub-sections of each structural element
-  - have a section before that for general constructs
-    - explain why use RDFa
-    - explain our patterns: RDFa, roles
-  - figure captions need to get set throughout
-  - dedication? see doc-dedication
-  - syntactic constraints (prefix)
-  - needs more sthenurines
-  - examples of everything
-  - some notes on using Semantic CSS
-  - needs more RDFa in the spec itself
--->
 <div role="contentinfo">
     <dl>
         <dt>Authors</dt>
@@ -46,27 +29,38 @@
 <section typeof="sa:Abstract" id="abstract" role="doc-abstract">
     <h2>Abstract</h2>
     <p>
-        <!--        TODO abstract-->
+        In regards to programming languages, esoteric languages represent unique challenges and opportunities for
+        enthusiasts, researchers, and learners alike. This scholarly documentation introduces a conceptual model
+        and a web-based platform designed to facilitate exploration, learning of esoteric programming languages.
+        Leveraging existing lists of esoteric languages and enriched with knowledge from
+        <a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a> and
+        <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a>, our system offers a
+        thesaurus-like
+        ontology that categorizes languages based on paradigms, usability, computational class, and other distinguishing
+        features.
 
     </p>
 </section>
 <section id="introduction" role="doc-introduction">
     <!-- review? -->
     <h2>Introduction</h2>
-    <!--    TODO Introduction-->
-    <!--    <p>-->
-    <!--        Scholarly articles are still primarily published as unstructured data in which most of the-->
-    <!--        information created by the research and the practice of authoring is lost. Document-->
-    <!--        technology has reached a level of maturity and universality that makes this situation no-->
-    <!--        longer tenable. Information cannot be disseminated if it is destroyed before even having-->
-    <!--        left its creator’s laptop.-->
-    <!--    </p>-->
-    <!--    <p>-->
-    <!--        According to the New York Times, adding structured information to their recipes improved-->
-    <!--        their discoverability to the point of producing an immediate rise of 52 percent in traffic-->
-    <!--        (<a role="doc-biblioref">NYT</a>). At this point in time, cupcake recipes are reaping-->
-    <!--        greater benefits from modern data format practices than the whole scientific endeavour.-->
-    <!--    </p>-->
+    <p>
+        The proposed platform serves as a service-oriented architecture, delivering diverse functionalities to users. It
+        enables the best possible language selection for learning, programming, translation into general-purpose
+        languages. By exposing a SPARQL endpoint, the system provides a wealth of information about related tools,
+        including interpreters, compilers, development environments, notable applications, and more.
+    </p>
+    <p>
+        One of the platform's most notable features is its ability to recommend esoteric programming languages based on
+        a quiz to find the most relevant features of an esoteric language for end users . This recommendation engine
+        enhances the user experience, guiding individuals toward languages that align with their specific interests and
+        objectives.
+    </p>
+    <p>
+        In the subsequent sections, this documentation presents the systematic construction of our conceptual model,
+        detailing the amalgamation of esoteric language data from diverse sources and the development of an intuitive
+        web interface.
+    </p>
 
 </section>
 <section id="structure">
@@ -98,15 +92,53 @@
     <!-- review? -->
     <h2>Architecture</h2>
 
+
+    <section id="rdf-store">
+        <h3>RDF Store</h3>
+        <p>
+            In the architecture of our esoteric programming language exploration platform, the RDF store plays a key
+            role in housing the ontology created with the available data
+            (<a href="https://esolangs.org/wiki/Language_list" target="_blank">List of esoteric programming
+            languages</a>). We have chosen Apache Jena Fuseki as our RDF store, a robust and scalable solution that
+            seamlessly integrates with the broader semantic web infrastructure.
+        </p>
+        <p>
+            <a href="https://jena.apache.org/documentation/fuseki2/" target="_blank">Apache Jena Fuseki</a> serves as
+            our chosen RDF store due to its efficiency in managing and querying RDF data. It provides a robust and
+            scalable platform for storing ontological information about esoteric programming languages. The RDF store is
+            a critical component, housing the structured knowledge derived from existing lists of languages and enriched
+            through integration with <a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a> and
+            <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a>.
+        </p>
+
+    </section>
+    <section id="sparql">
+        <h3>SPARQL Endpoint</h3>
+        <p>
+            One crucial component that lets users engage with the RDF store and query and retrieve specific data on
+            esoteric programming languages is the SPARQL endpoint. By offering a user-specific way to explore the rich
+            dataset from the RDF store, it improves the user experience.
+        </p>
+        <p>
+            <b>Functionality:</b>
+        </p>
+        <ul>
+
+            <li>
+                <b>Querying:</b> To obtain comprehensive details about esoteric languages, such as their paradigms,
+                computational classes, and other characteristics, users can create SPARQL queries.
+            </li>
+            <li>
+                <b>Flexibility:</b> Because of SPARQL's flexibility, users can create their queries to meet their own
+                requirements, from straightforward questions to intricate ontology studies.
+            </li>
+            <li>
+                <b>Integration:</b> The web-based platform and the SPARQL endpoint are smoothly integrated, enabling
+                users to move from browsing language recommendations to querying precise details about the languages
+                they have selected.
+            </li>
+        </ul>
+    </section>
 </section>
-<!--<section id="refs">-->
-<!--    &lt;!&ndash; review? &ndash;&gt;-->
-<!--    <h2>References</h2>-->
-<!--    -->
-<!--    <p>-->
-<!--        If we somehow forgot you in this list and you are too gracious to complain, we love you-->
-<!--        all the same.-->
-<!--    </p>-->
-<!--</section>-->
 </body>
 </html>
