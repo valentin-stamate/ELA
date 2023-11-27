@@ -63,22 +63,35 @@
     </p>
 
 </section>
+
 <section id="structure">
     <!-- review? -->
-    <h2>Structure</h2>
-
-    <section id="structure1">
-        <h3>Github</h3>
+    <h2>Structure of the web application</h2>
+    <section id="general">
+        <h3>General</h3>
 
         <p>
-            For tracking the history of the application we will use Github because it's a very popular platform for
-            version control. We can even make use of some new feature of this platform such as Github Actions witch
-            is a CI/CD tool very powerful: the artifacts can be stored inside the repository as well as env variables
-            and is integrated with many types of applications: nodejs, java, php, ruby etc.
+            For tracking the history of the application we will use
+            <a href="https://github.com/valentin-stamate/ELA" target="_blank">Github</a> because it's a very
+            popular platform for version control. We can even make use of some new feature of this platform such as
+            Github Actions witch is a CI/CD tool very powerful: the artifacts can be stored inside the repository as
+            well as env variables and is integrated with many types of applications: nodejs, java, php, ruby etc.
         </p>
     </section>
 
-    <section id="structure2">
+    <section id="github">
+        <h3>Github</h3>
+
+        <p>
+            For tracking the history of the application we will use
+            <a href="https://github.com/valentin-stamate/ELA" target="_blank">Github</a> because it's a very
+            popular platform for version control. We can even make use of some new feature of this platform such as
+            Github Actions witch is a CI/CD tool very powerful: the artifacts can be stored inside the repository as
+            well as env variables and is integrated with many types of applications: nodejs, java, php, ruby etc.
+        </p>
+    </section>
+
+    <section id="ui">
         <h3>UI Mockup</h3>
 
         <div style="display: grid; grid-template-rows: 1fr 1fr; grid-template-columns: 1fr 1fr;">
@@ -90,26 +103,34 @@
 
         <p>
             Here we can see the mockup of the UI interface we want to implement. The first image is the initial page the
-            user sees. After the start button is pressed then in the second screen the user will be guided to some questions
-            to answer in order to make the recommendation better. After the questions are finished it will be displayed a
-            tables with some information regarding the recommended programming languages that are best suited for learning.
+            user sees. After the start button is pressed then in the second screen the user will be guided to some
+            questions
+            to answer in order to make the recommendation better. After the questions are finished it will be displayed
+            a
+            tables with some information regarding the recommended programming languages that are best suited for
+            learning.
             For more information, once a row is clicked the last page will appear with more information.
         </p>
     </section>
 </section>
 <section id="architecture">
     <h2>Architecture</h2>
-    <p>
-        In this section we will discuss about the overall system architecture together with some details of each component and
-        the reasons behind certain decisions.
-    </p>
+    <section id="overview">
+        <h3>Overview</h3>
+        <p>
+            The success of our esoteric programming language exploration platform hinges on a well-structured system
+            architecture. This chapter provides a glimpse into the architecture, highlighting the key components that
+            drive the platform's functionality. The general structure comprises a frontend, a backend, and an RDF
+            store for SPARQL queries, integrated together to offer a cohesive user experience.
+        </p>
+    </section>
 
     <p>
         <img src="./img/arch.jpg" alt="architecture" style="width: 100%;">
     </p>
 
     <section id="components-architecture">
-        <h3>ELA GUI</h3>
+        <h3>User Interface Design</h3>
 
         <p>
             Represents the component the user interacts with that will be written in Angular witch is
@@ -123,18 +144,22 @@
         </p>
 
         <p>
-            The advantage of using typescript, the language used also for the backend, is using strong data types when needed
+            The advantage of using typescript, the language used also for the backend, is using strong data types when
+            needed
             that makes the code easier to debug and maintain.
         </p>
     </section>
 
     <section id="ui-mockup">
-        <h3>ELA APP</h3>
+        <h3>Backend</h3>
 
         <p>
-            It is the server that handles the user requests. Build with Express it follows the REST architecture enforcing us
-            to create endpoints associated with certain resources. The information between the client and the server will be in JSON
-            format because is easy to work with and is translated directly as javascript object. Express is also a very popular lightweight
+            It is the server that handles the user requests. Build with Express it follows the REST architecture
+            enforcing us
+            to create endpoints associated with certain resources. The information between the client and the server
+            will be in JSON
+            format because is easy to work with and is translated directly as javascript object. Express is also a very
+            popular lightweight
             framework that has many libraries that we can use to make our work easier.
         </p>
     </section>
@@ -191,8 +216,10 @@
         <h3>Docker</h3>
 
         <p>
-            Each component will run a docker container in the final stage of the application. This provides several advantages
-            such as isolation, portability, dependency management, scalability, security and we can deploy the components easier in a
+            Each component will run a docker container in the final stage of the application. This provides several
+            advantages
+            such as isolation, portability, dependency management, scalability, security and we can deploy the
+            components easier in a
             cloud provider.
         </p>
     </section>
