@@ -66,31 +66,78 @@
 <section id="structure">
     <!-- review? -->
     <h2>Structure</h2>
-    <!--    <p>-->
-    <!--        A Scholarly HTML document is a valid <a role="doc-biblioref">HTML</a> document that follows-->
-    <!--        some additional rules to specialize its meaning and make it predictable to processors-->
-    <!--        wishing to produce or consume scholarly articles. These rules are outlined in the following-->
-    <!--        sections. While valuable on its own, the content structure defined here is simply a stepping-->
-    <!--        stone to enable semantic enrichment, detailed in <a href="#semantics">Semantics-->
-    <!--        Overlays</a>. If you would like to write a validation tool, please join us on GitHub.-->
-    <!--    </p>-->
-    <section id="structure1">
-        <!-- review? -->
-        <h3>Structure 1</h3>
-        <!--        <p>-->
-        <!--            The document must be encoded in UTF-8 and transmitted with a media type of-->
-        <!--            <code>text/html</code>.-->
-        <!--        </p>-->
-    </section>
-    <section id="structure2">
-        <!-- review? -->
-        <h3>structure 2</h3>
 
+    <section id="structure1">
+        <h3>Github</h3>
+
+        <p>
+            For tracking the history of the application we will use Github because it's a very popular platform for
+            version control. We can even make use of some new feature of this platform such as Github Actions witch
+            is a CI/CD tool very powerful: the artifacts can be stored inside the repository as well as env variables
+            and is integrated with many types of applications: nodejs, java, php, ruby etc.
+        </p>
+    </section>
+
+    <section id="structure2">
+        <h3>UI Mockup</h3>
+
+        <div style="display: grid; grid-template-rows: 1fr 1fr; grid-template-columns: 1fr 1fr;">
+            <img src="./img/screen_01.jpg" style="width:100%" alt="img">
+            <img src="./img/screen_02.jpg" style="width:100%" alt="img">
+            <img src="./img/screen_03.jpg" style="width:100%" alt="img">
+            <img src="./img/screen_04.jpg" style="width:100%" alt="img">
+        </div>
+
+        <p>
+            Here we can see the mockup of the UI interface we want to implement. The first image is the initial page the
+            user sees. After the start button is pressed then in the second screen the user will be guided to some questions
+            to answer in order to make the recommendation better. After the questions are finished it will be displayed a
+            tables with some information regarding the recommended programming languages that are best suited for learning.
+            For more information, once a row is clicked the last page will appear with more information.
+        </p>
     </section>
 </section>
 <section id="architecture">
-    <!-- review? -->
     <h2>Architecture</h2>
+    <p>
+        In this section we will discuss about the overall system architecture together with some details of each component and
+        the reasons behind certain decisions.
+    </p>
+
+    <p>
+        <img src="./img/arch.jpg" alt="architecture" style="width: 100%;">
+    </p>
+
+    <section id="components-architecture">
+        <h3>ELA GUI</h3>
+
+        <p>
+            Represents the component the user interacts with that will be written in Angular witch is
+            a widely-used open-source web application framework maintained by Google
+            and a community of developers. It's written in TypeScript and facilitates the
+            development of dynamic, single-page web applications. Angular provides a
+            comprehensive set of tools and features that simplify various aspects of web development,
+            including data binding, dependency injection, modularization, and testing. This makes the
+            development easier as every component is treated as a class together with a template and
+            a stylesheet and enforces an organized file structure.
+        </p>
+
+        <p>
+            The advantage of using typescript, the language used also for the backend, is using strong data types when needed
+            that makes the code easier to debug and maintain.
+        </p>
+    </section>
+
+    <section id="ui-mockup">
+        <h3>ELA APP</h3>
+
+        <p>
+            It is the server that handles the user requests. Build with Express it follows the REST architecture enforcing us
+            to create endpoints associated with certain resources. The information between the client and the server will be in JSON
+            format because is easy to work with and is translated directly as javascript object. Express is also a very popular lightweight
+            framework that has many libraries that we can use to make our work easier.
+        </p>
+    </section>
 
 
     <section id="rdf-store">
@@ -110,8 +157,8 @@
             through integration with <a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a> and
             <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a>.
         </p>
-
     </section>
+
     <section id="sparql">
         <h3>SPARQL Endpoint</h3>
         <p>
@@ -139,6 +186,17 @@
             </li>
         </ul>
     </section>
+
+    <section id="docker">
+        <h3>Docker</h3>
+
+        <p>
+            Each component will run a docker container in the final stage of the application. This provides several advantages
+            such as isolation, portability, dependency management, scalability, security and we can deploy the components easier in a
+            cloud provider.
+        </p>
+    </section>
+
 </section>
 </body>
 </html>
