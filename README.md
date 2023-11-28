@@ -7,6 +7,11 @@
 </h2>
 
 
+<a href="https://valentin-stamate.github.io/ELA/ELA_API.html" target="_blank">Open API Documentation</a>
+
+
+<a href="https://valentin-stamate.github.io/ELA/ScholarlyDoc/index.html" target="_blank">Scholarly Documentation</a>
+
 
 <p>
     Using the existing list of esoteric programming languages in conjunction with additional knowledge provided by DBpedia and/or Wikidata, create a proper conceptual model (thesaurus, ontology).
