@@ -1,0 +1,78 @@
+openapi: 3.1.0
+info:
+  title: ELA API Documentation
+  version: 1.0.0
+servers:
+  - url: http://localhost:8080
+paths:
+  /esolangs/categories:
+    get:
+      tags:
+        - General
+      summary: Esolangs Categories
+      description: Get esolangs based on a specified category
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /esolangs:
+    get:
+      tags:
+        - General
+      summary: Esolangs with Filter
+      description: Get a list of esolangs with optional filters
+      parameters:
+        - name: id
+          in: query
+          schema:
+            type: string
+          description: Filter by esolang id
+        - name: name
+          in: query
+          schema:
+            type: string
+          description: Filter by esolang name
+        - name: creator
+          in: query
+          schema:
+            type: string
+          description: Filter by esolang creator
+        - name: year
+          in: query
+          schema:
+            type: string
+          description: Filter by the year of creation
+        - name: category
+          in: query
+          schema:
+            type: string
+          description: Filter by esolang category
+        - name: paradigm
+          in: query
+          schema:
+            type: string
+          description: Filter by esolang paradigm
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /esolangs/recommender:
+    get:
+      tags:
+        - General
+      summary: Esolangs Reccomendation
+      description: Get recommendations for esoteric programming languages
+      parameters:
+        - name: preference
+          in: query
+          schema:
+            type: string
+          description: Preference list
+          example: A,B,C
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}

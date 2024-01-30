@@ -13,7 +13,7 @@
         <mxCell id="8j3TCWzcUJI2_n5uTD1_-10" value="Controller" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="290" y="280" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8j3TCWzcUJI2_n5uTD1_-11" value="Service" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="8j3TCWzcUJI2_n5uTD1_-11" value="EsolangService" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="290" y="330" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8j3TCWzcUJI2_n5uTD1_-12" value="Persistence" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -36,7 +36,7 @@
         <mxCell id="hKfByUnX23VzAPw4LeIJ-3" value="View" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="590" y="280" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hKfByUnX23VzAPw4LeIJ-4" value="Service" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hKfByUnX23VzAPw4LeIJ-4" value="EsolangService" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="590" y="330" width="260" height="50" as="geometry" />
         </mxCell>
       </root>

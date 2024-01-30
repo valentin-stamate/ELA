@@ -4,6 +4,8 @@ import morgan from 'morgan';
 import helmet from 'helmet';
 import cors from 'cors';
 import {Middleware} from "./middleware/middleware";
+import {Endpoint} from "./endpoints";
+import {Controller} from "./controller/controller";
 
 config();
 const env = process.env;
@@ -33,9 +35,9 @@ if (process.env.NODE_ENV === 'production') {
  *                               Register all REST routes
  ***********************************************************************************/
 
-app.get('/', (req, res) => {
-    res.end('Hello word!')
-});
+app.get(Endpoint.CATEGORIES, Controller.getCategories);
+app.get(Endpoint.ESOLANG, Controller.getWithFilter);
+app.get(Endpoint.RECCOMENDATION, Controller.getRecommendation);
 
 /************************************************************************************
  *                               Express Error Handling
