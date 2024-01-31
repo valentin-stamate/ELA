@@ -1,0 +1,150 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q25304718",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729786675"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T11:17:13Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "JavaScript\u7f16\u7a0b\u98ce\u683c",
+          "esoterische Programmiersprache",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d02\u0d17\u0d4d \u0d2d\u0d3e\u0d37",
+          "\u05d8\u05db\u05e0\u05d9\u05e7\u05ea \u05db\u05ea\u05d9\u05d1\u05d4 \u05d1\u05d2'\u05d0\u05d5\u05d5\u05d4\u05e1\u05e7\u05e8\u05d9\u05e4\u05d8 \u05d1\u05e2\u05d6\u05e8\u05ea\u05d4 \u05e0\u05d9\u05ea\u05df \u05dc\u05db\u05ea\u05d5\u05d1 \u05e7\u05d5\u05d3 \u05d1\u05e2\u05d6\u05e8\u05ea \u05e9\u05d9\u05e9\u05d4 \u05ea\u05d5\u05d5\u05d9\u05dd \u05d1\u05dc\u05d1\u05d3 ([], (),\u00a0!",
+          "6\u7a2e\u985e\u306e\u6587\u5b57\u306b\u3088\u3063\u3066\u69cb\u6210\u3055\u308c\u308bJavaScript\u3092\u5b8c\u5168\u306b\u66f8\u304d\u63db\u3048\u308b\u3053\u3068\u304c\u53ef\u80fd\u306a\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e",
+          "esoteric programming language that uses 6 characters to write all JavaScript code"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "JSFuck"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "9"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "6"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q25304718-1130fdf8-494e-01b3-a382-edef62384fdb",
+          "http://www.wikidata.org/entity/statement/Q25304718-dc539ff7-43ff-0837-7714-e9b097b01e7e"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/official website",
+        "Values": [
+          "http://www.jsfuck.com/"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/MIME type",
+        "Values": [
+          "application/javascript",
+          "text/javascript"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/file extension",
+        "Values": [
+          "js"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Google Knowledge Graph ID",
+        "Values": [
+          "/g/11cl_4xmmb"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/GitHub topic",
+        "Values": [
+          "jsfuck"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Google Knowledge Graph ID",
+        "Values": [
+          "http://g.co/kg/g/11cl_4xmmb"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/official website",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q25304718-66817f15-4133-7d13-ae67-84771e4c38f2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/MIME type",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q25304718-e3c6cb50-49bd-0144-72d8-0d2f89ace1cf",
+          "http://www.wikidata.org/entity/statement/Q25304718-4bf31c35-40e1-643c-673d-d8b3307963a4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/file extension",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q25304718-b8eaa98e-4fa9-d20d-f06e-cbb34d26de91"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q25304718-A8863F42-53B5-4A40-9C15-01188F03760C"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Google Knowledge Graph ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q25304718-6E2E4C3E-6267-40CF-A2F9-ED60260B604D"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/GitHub topic",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q25304718-2e1ae0a6-47e4-c3e6-5ca7-5298975792b7"
+        ]
+      }
+    ]
+  }
+]

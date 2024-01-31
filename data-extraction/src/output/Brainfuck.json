@@ -1,0 +1,349 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Brainfuck",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/ProgrammingLanguage106898352",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguagesCreatedIn1993",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguages",
+          "http://schema.org/Language",
+          "http://dbpedia.org/ontology/ProgrammingLanguage",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u0628\u0631\u064a\u0646 \u0641\u0627\u0643",
+          "Brainfuck",
+          "\ube0c\ub808\uc778\ud37d",
+          "Brainfuck (programlingvo)"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Brainfuck estas minimumisma komputillingvo kreita de \u0109irka\u016d 1993. \u0108ar \"fuck\" estas fivorto en la angla, la lingvo estas anka\u016d nomata Brainf*ck, Brainf***, (\u015derce) B****fuck, a\u016d simple BF. La celo de M\u00fcller estis krei simplan komputillingvon, kiu povus esti implementita per kiel eble plej malgranda tradukilo. La lingvo konsistas el nur ok instrukcioj. Versio 2 de la originala tradukilo, verkita por la komputilo Amiga, estis nur 240 bitojn granda. La unuaj ok instruckioj, \u0109iu nur unuliteraj, estas:",
+          "Brainfuck adalah yang dibuat pada tahun 1993 oleh Urban M\u00fcller, dan terkenal karena minimalitasnya yang ekstrem. Bahasa ini hanya terdiri dari delapan perintah sederhana dan sebuah . Meskipun sepenuhnya merupakan bahasa , Brainfuck tidak dimaksudkan untuk penggunaan praktis, tapi lebih untuk menantang dan menghibur pemrogram. Nama bahasa itu mengacu pada istilah slang brainfuck, yang mengacu pada hal-hal yang begitu rumit atau tidak biasa sehingga melampaui batas pemahaman seseorang.",
+          "Brainfuck is an esoteric programming language created in 1993 by Urban M\u00fcller. Notable for its extreme minimalism, the language consists of only eight simple commands, a data pointer and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers. Brainfuck requires one to break commands into microscopic steps.",
+          "Brainfuck (dt.: \u201eHirnfick\u201c) ist eine esoterische Programmiersprache, die der Aminet-Gr\u00fcnder, der Schweizer Urban M\u00fcller, im Jahre 1993 entwarf. Die Sprache wird auch als Brainf*ck, Brainf*** oder BF bezeichnet. Brainfuck ist f\u00fcr den produktiven Einsatz viel zu umst\u00e4ndlich und zu ineffizient, aber geeignet, um die Methodik von Softwareentwicklung zu schulen. Speziell zeichnet sich Brainfuck durch ein extrem einfaches Sprachkonzept und hochkompakte Realisierung des Compilers aus, gleichzeitig wurde aber die (im berechenbarkeitstheoretischen Sinne) universelle Einsetzbarkeit nicht eingeschr\u00e4nkt.",
+          "brainfuck, tamb\u00e9m conhecido como brainf*ck ou BF, \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica notada pelo seu extremo minimalismo, criada por Urban M\u00fcller, em 1993. Ela \u00e9 uma linguagem Turing completa, desenhada para desafiar e confundir os programadores, e n\u00e3o \u00e9 \u00fatil para uso pr\u00e1tico. Pela sua simplicidade, o desenvolvimento de compiladores e interpretadores para essa linguagem \u00e9 muito mais f\u00e1cil do que para outras linguagens. O nome da linguagem \u00e9 geralmente n\u00e3o-capitalizado (come\u00e7a com uma letra min\u00fascula), apesar de ser um substantivo pr\u00f3prio.",
+          "Brainfuck\uff0c\u7b80\u79f0BF\uff0c\u662f\u4e00\u79cd\u6781\u5c0f\u5316\u7684\u7a0b\u5e8f\u8bed\u8a00\uff0c\u7531\u57281993\u5e74\u521b\u9020\u3002Fuck\u5728\u82f1\u8a9e\u4e2d\u662f\u9ad2\u8a71\uff0c\u6240\u4ee5\u8fd9\u79cd\u8bed\u8a00\u6709\u65f6\u79f0\u4e3aBrainf*ck\u6216Brainf***\uff0c\u6216\u8005\u53ea\u7528\u7b80\u79f0\u3002",
+          "Brainfuck (en espa\u00f1ol 'jodecerebros') es un lenguaje de programaci\u00f3n esot\u00e9rico, dise\u00f1ado por en 1993, con el objetivo de hacer un lenguaje que fuera a la vez muy simple, Turing completo y que requiriese un compilador peque\u00f1o. M\u00fcller bas\u00f3 Brainfuck en la m\u00e1quina de Turing y le sirvi\u00f3 de inspiraci\u00f3n el compilador de 1024 bytes de tama\u00f1o del lenguaje . La distribuci\u00f3n cl\u00e1sica es la versi\u00f3n 2 escrita por el propio M\u00fcller, conteniendo un compilador para el ordenador Amiga, un int\u00e9rprete, programas de ejemplo y un documento readme.",
+          "Brainfuck (lett. \"fottere il cervello\") \u00e8 un linguaggio di programmazione esoterico per computer, creato da Urban M\u00fcller intorno al 1993. Il linguaggio viene in taluni casi denominato Brainf*ck, Brainf*** o anche soltanto BF per evitare di offendere la sensibilit\u00e0 altrui.",
+          "Brainfuck (\u0430\u043d\u0433\u043b. brain+fuck) \u2014 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f, \u0432\u0438\u0433\u0430\u0434\u0430\u043d\u0430 \u0423\u0440\u0431\u0430\u043d\u043e\u043c \u041c\u044e\u043b\u043b\u0435\u0440\u043e\u043c \u0437 \u043c\u0435\u0442\u043e\u044e \u0437\u0430\u0431\u0430\u0432\u0438. \u0421\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0437 \u0432\u043e\u0441\u044c\u043c\u0438 \u043a\u043e\u043c\u0430\u043d\u0434, \u043a\u043e\u0436\u043d\u0430 \u0437 \u044f\u043a\u0438\u0445 \u0437\u0430\u043f\u0438\u0441\u0443\u0454\u0442\u044c\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u043c. \u0412\u0438\u0445\u0456\u0434\u043d\u0438\u0439 \u043a\u043e\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u043d\u0430 Brainfuck \u0454 \u043f\u043e\u0441\u043b\u0456\u0434\u043e\u0432\u043d\u0456\u0441\u0442\u044e \u0441\u0438\u043c\u0432\u043e\u043b\u0456\u0432 \u043c\u043e\u0432\u0438 \u0431\u0435\u0437 \u0436\u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0443. \u041c\u0430\u0448\u0438\u043d\u0430, \u044f\u043a\u043e\u044e \u043a\u0435\u0440\u0443\u044e\u0442\u044c \u043a\u043e\u043c\u0430\u043d\u0434\u0438 Brainfuck, \u0441\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0437 \u0443\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u043d\u0430\u0431\u043e\u0440\u0443 \u043a\u043e\u043c\u0456\u0440\u043e\u043a \u0456 \u043f\u043e\u043a\u0430\u0436\u0447\u0438\u043a\u0430 \u043f\u043e\u0442\u043e\u0447\u043d\u043e\u0457 \u043a\u043e\u043c\u0456\u0440\u043a\u0438, \u043d\u0430\u0433\u0430\u0434\u0443\u044e\u0447\u0438 \u0441\u0442\u0440\u0456\u0447\u043a\u0443 \u0456 \u0433\u043e\u043b\u0456\u0432\u043a\u0443 \u043c\u0430\u0448\u0438\u043d\u0438 \u0422\u044e\u0440\u0438\u043d\u0433\u0430. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u0432 \u0430\u043f\u0430\u0440\u0430\u0442\u0456 \u043d\u0430\u044f\u0432\u043d\u0438\u0439 \u043c\u0435\u0445\u0430\u043d\u0456\u0437\u043c \u0432\u0437\u0430\u0454\u043c\u043e\u0434\u0456\u0457 \u0456\u0437 \u0437\u043e\u0432\u043d\u0456\u0448\u043d\u0456\u043c \u0441\u0432\u0456\u0442\u043e\u043c (\u0434\u0438\u0432. \u043a\u043e\u043c\u0430\u043d\u0434\u0438 \u00ab.\u00bb \", \").",
+          "Brainfuck \u2013 ezoteryczny j\u0119zyk programowania stworzony w 1993 roku przez Urbana M\u00fcllera, znany ze swojego skrajnego minimalizmu. J\u0119zyk ten sk\u0142ada si\u0119 z zaledwie o\u015bmiu prostych komend oraz wska\u017anika instrukcji. Pomimo tego, \u017ce jest on zupe\u0142ny w sensie maszyny Turinga, nie zosta\u0142 zaprojektowany do praktycznego u\u017cycia, a do zach\u0119cania programist\u00f3w do pisania prostych program\u00f3w. Nazwa j\u0119zyka brainfuck jest angielskim z\u0142o\u017ceniem sk\u0142adaj\u0105cym si\u0119 z wyraz\u00f3w brain (m\u00f3zg) oraz fuck (pieprzy\u0107) co na polski mo\u017cna t\u0142umaczy\u0107 jako \u201em\u00f3zgojeb\u201d.",
+          "Brainfuck \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043d (\u043d\u0435\u043c. Urban M\u00fcller) \u0432 1993 \u0433\u043e\u0434\u0443, \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0441\u0432\u043e\u0438\u043c \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u0438\u0437\u043c\u043e\u043c. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u043c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0432\u0435\u0441\u0442\u0438 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043a\u0430\u043a \u0432\u044b\u043d\u043e\u0441 \u043c\u043e\u0437\u0433\u0430, \u043e\u043d\u043e \u043d\u0430\u043f\u0440\u044f\u043c\u0443\u044e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043e \u043e\u0442 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u044f brainfuck (brain \u2014 \u043c\u043e\u0437\u0433, fuck \u2014 \u0441\u043d\u043e\u0448\u0430\u0442\u044c), \u0442. \u0435. \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f \u0435\u0440\u0443\u043d\u0434\u043e\u0439. \u042f\u0437\u044b\u043a \u0438\u043c\u0435\u0435\u0442 \u0432\u043e\u0441\u0435\u043c\u044c \u043a\u043e\u043c\u0430\u043d\u0434, \u043a\u0430\u0436\u0434\u0430\u044f \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u043c. \u0418\u0441\u0445\u043e\u0434\u043d\u044b\u0439 \u043a\u043e\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043d\u0430 Brainfuck \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u043e\u0431\u043e\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u044d\u0442\u0438\u0445 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u0431\u0435\u0437 \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0430. \u042f\u0437\u044b\u043a Brainfuck \u043c\u043e\u0436\u043d\u043e \u043e\u043f\u0438\u0441\u0430\u0442\u044c \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u043e\u0432 \u044f\u0437\u044b\u043a\u0430 \u0421\u0438:",
+          "\u0628\u0631\u064a\u0646 \u0641\u0627\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Brainfuck)\u200f \u0647\u064a \u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629 \u063a\u064a\u0631 \u0627\u0639\u062a\u064a\u0627\u062f\u064a\u0629\u060c \u0635\u064c\u0645\u0645\u062a \u0628\u0647\u062f\u0641 \u0628\u0646\u0627\u0621 \u0644\u063a\u0629 \u0643\u0627\u0645\u0644\u0629 \u062d\u0633\u0628 \u062a\u0648\u0631\u0646\u063a \u0628\u0623\u0642\u0644 \u062d\u062c\u0645 \u0645\u062a\u0631\u062c\u0645 \u0645\u0645\u0643\u0646. \u0644\u063a\u0629 \u0628\u0631\u064a\u0646 \u0641\u0627\u0643 \u0644\u064a\u0633\u062a \u0645\u0635\u0645\u0645\u0629 \u0644\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0639\u0645\u0644\u064a\u060c \u0641\u0647\u064a \u062a\u062a\u0643\u0648\u0646 \u0645\u0646 \u062b\u0645\u0627\u0646 \u0623\u0648\u0627\u0645\u0631 \u0641\u0642\u0637\u060c \u0645\u0645\u0627 \u064a\u062c\u0639\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0628\u0633\u064a\u0637\u0629 \u0639\u0645\u0644\u064a\u0629 \u0645\u0639\u0642\u062f\u0629\u060c \u0641\u062a\u0639\u062a\u0628\u0631 \u062a\u062d\u062f\u064a \u0644\u0644\u0645\u0628\u0631\u0645\u062c\u064a\u0646 \u0644\u064a\u062e\u062a\u0628\u0628\u0631\u0648\u0627 \u062d\u062f\u0648\u062f \u0642\u062f\u0631\u062a\u0647\u0645.",
+          "Brainfuck (n\u011bkdy je tak\u00e9 eufemisticky naz\u00fdv\u00e1n Brainf*ck nebo dokonce Brainf***) je extr\u00e9mn\u011b minimalistick\u00fd ezoterick\u00fd programovac\u00ed jazyk. Byl vytvo\u0159en pro pobaven\u00ed a jako v\u00fdzva program\u00e1tor\u016fm, pro praktick\u00e9 \u00fa\u010dely nen\u00ed vhodn\u00fd.",
+          "Brainfuck \u00e9s un llenguatge de programaci\u00f3 esot\u00e8ric. Es distingeix pel baix nombre d'instruccions que fa servir, nom\u00e9s en t\u00e9 8. No obstant aix\u00f2 \u00e9s Turing complet.",
+          "Brainfuck is een esoterische programmeertaal die rond 1993 door is gemaakt. De taal wordt soms brainf*ck, brainf***, of BF genoemd als men beleefd wil zijn.",
+          "Brainfuck, programazio lengoaia esoterikoa da, Urban M\u00fcller-ek diseinatuta 1993. urtean. Helburutzat lengoaia sinplea eraikitzea zen, eta konpiladore txiki behar zuena. Brainfuck Turingen makinan oinarritu zen, eta 1024 byteko konpiladoreari inspirazio gisa erabili zen, lengoaian erabiliko zena.",
+          "Brainfuck \u00e4r ett turingkomplett esoteriskt programspr\u00e5k skapat 1993 av den schweiziske fysikstudenten , med syfte att skapa ett spr\u00e5k med s\u00e5 liten kompilator som m\u00f6jligt. Maskinkoden till M\u00fcllers ursprungliga kompilator till AmigaOS 2.0 upptog 240 bytes. Att programmera i brainfuck \u00e4r sv\u00e5rt i b\u00f6rjan, och att l\u00e4sa brainfuckkod kan vara \u00e4nnu sv\u00e5rare. Namnet Brainfuck, som betyder hj\u00e4rntrassel, syftar p\u00e5 vad en programmerare kan t\u00e4nkas uppleva d\u00e5 denne sysslar med brainfuckutveckling.",
+          "\ube0c\ub808\uc778\ud37d(Brainfuck)\uc740 (Urban M\u00fcller)\uac00 1993\ub144 \uacbd\uc5d0 \ub9cc\ub4e0 \ucd5c\uc18c\uc8fc\uc758 \ucef4\ud4e8\ud130 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\uc774\ub2e4. \uc774\ub984\uc5d0 \ud3ec\ud568\ub41c fuck\uc774 \uc695\uc124\uc774\uae30 \ub54c\ubb38\uc5d0 Brainf*ck, Brainf***, \ud639\uc740 \ub2e8\uc21c\ud788 BF\ub77c\uace0 \ubd80\ub974\uae30\ub3c4 \ud55c\ub2e4.",
+          "Brainfuck est un langage de programmation exotique, invent\u00e9 par Urban M\u00fcller en 1993. Il tire son nom de l\u2019union de deux mots anglais, brain (\u00ab cerveau \u00bb) et fuck (\u00ab niquer \u00bb), et joue sur les mots, puisque ce langage est volontairement simpliste, et parce que l'expression Brain Fuck \u00e9voque, en argot, ce qui met le cerveau dans un \u00e9tat de confusion par sa complexit\u00e9 apparente. Ce vocabulaire peu flatteur lui a d'ailleurs valu d'\u00eatre \u00e9crit sous d'autres orthographes plus prudes, telles que Brainf*ck, Brainf*** ou encore BF.",
+          "Brainfuck\uff08\u30d6\u30ec\u30a4\u30f3\u30d5\u30a1\u30c3\u30af\uff09\u306f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u3072\u3068\u3064\u3002\u306a\u304a\u540d\u79f0\u306b\u542b\u307e\u308c\u308bfuck\u304c\u5351\u8a9e\u3067\u3042\u308b\u305f\u3081\u3001Brainf*ck \u307e\u305f\u306f Brainf**k\u306a\u3069\u3068\u8868\u8a18\u3055\u308c\u308b\u3053\u3068\u304c\u3042\u308b\u3002"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#differentFrom",
+        "Values": [
+          "http://dbpedia.org/resource/Mindfuck_(disambiguation)",
+          "http://dbpedia.org/resource/Brain_Fuck_Scheduler"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "Brainfuck"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "Brainfuck"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/Category:Non-English-based_programming_languages",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1993"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "4086"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1123545534"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/DNA",
+          "http://dbpedia.org/resource/Joachim_Lambek",
+          "http://dbpedia.org/resource/One-instruction_set_computer",
+          "http://dbpedia.org/resource/Turing_tarpit",
+          "http://dbpedia.org/resource/Program_Counter",
+          "http://dbpedia.org/resource/P\u2032\u2032",
+          "http://dbpedia.org/resource/The_Librarian_(Discworld)",
+          "http://dbpedia.org/resource/Newline",
+          "http://dbpedia.org/resource/Imperative_programming",
+          "http://dbpedia.org/resource/End-of-file",
+          "http://dbpedia.org/resource/Bignum",
+          "http://dbpedia.org/resource/Computer_programming",
+          "http://dbpedia.org/resource/Esoteric_programming_language",
+          "http://dbpedia.org/resource/JavaScript",
+          "http://dbpedia.org/resource/M-recursive_function",
+          "http://dbpedia.org/resource/Malbolge",
+          "http://dbpedia.org/resource/Two's_complement",
+          "http://dbpedia.org/resource/Instruction_pointer",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/Structured_programming",
+          "http://dbpedia.org/resource/ROT13",
+          "http://dbpedia.org/resource/Optimizing_compiler",
+          "http://dbpedia.org/resource/Nucleobase",
+          "http://dbpedia.org/resource/Programmers",
+          "http://dbpedia.org/resource/Pointer_(computer_programming)",
+          "http://dbpedia.org/resource/Compiler",
+          "http://dbpedia.org/resource/%3E+%3C-%5D%3E%3E+%3E%5D____Special_case:_move_remainder_back_to_divisor_and_increase_quotient",
+          "http://dbpedia.org/resource/Stephen_Cole_Kleene",
+          "http://dbpedia.org/resource/Branch_(computer_science)",
+          "http://dbpedia.org/resource/Turing_machine",
+          "http://dbpedia.org/resource/Peephole_optimizations",
+          "http://dbpedia.org/resource/Corrado_B\u00f6hm",
+          "http://dbpedia.org/resource/Data_pointer",
+          "http://dbpedia.org/resource/Arch_Linux",
+          "http://dbpedia.org/resource/Aminet",
+          "http://dbpedia.org/resource/Category:Non-English-based_programming_languages",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1993",
+          "http://dbpedia.org/resource/Pi",
+          "http://dbpedia.org/resource/Linux",
+          "http://dbpedia.org/resource/Undefined_behavior",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/Turing_completeness",
+          "http://dbpedia.org/resource/Command_(computing)",
+          "http://dbpedia.org/resource/Gesture_recognition",
+          "http://dbpedia.org/resource/Dead_code_elimination",
+          "http://dbpedia.org/resource/JSFuck",
+          "http://dbpedia.org/resource/Hello_world_program",
+          "http://dbpedia.org/resource/ASCII",
+          "http://dbpedia.org/resource/Terry_Pratchett",
+          "http://dbpedia.org/resource/STARK_(cryptography)",
+          "http://dbpedia.org/resource/State_(computer_science)",
+          "http://dbpedia.org/resource/Emoticon",
+          "http://dbpedia.org/resource/Rick_and_Morty",
+          "http://dbpedia.org/resource/Computable_function",
+          "http://dbpedia.org/resource/Constant_folding",
+          "http://dbpedia.org/resource/Amiga",
+          "http://dbpedia.org/resource/Fibonacci_number",
+          "http://dbpedia.org/resource/Integer_overflow",
+          "http://dbpedia.org/resource/Byte",
+          "http://dbpedia.org/resource/Wikt:brainfuck"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "https://tio.run/",
+          "https://github.com/zk-phi/bfbuilder",
+          "https://vanheusden.com/compilers/brainfuck/",
+          "https://gitlab.com/hilmar-ackermann/brainfuckassembler",
+          "http://www.bf.doleczek.pl/",
+          "https://github.com/pablojorge/brainfuck",
+          "https://aszepieniec.github.io/stark-brainfuck/"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://no.dbpedia.org/resource/Brainfuck",
+          "http://yago-knowledge.org/resource/Brainfuck",
+          "http://nl.dbpedia.org/resource/Brainfuck",
+          "http://ast.dbpedia.org/resource/Brainfuck",
+          "http://pt.dbpedia.org/resource/Brainfuck",
+          "http://rdf.freebase.com/ns/m.01b5k",
+          "http://ko.dbpedia.org/resource/\ube0c\ub808\uc778\ud37d",
+          "http://pl.dbpedia.org/resource/Brainfuck",
+          "http://pa.dbpedia.org/resource/\u0a2c\u0a4d\u0a30\u0a47\u0a28\u0a2b\u0a3c\u0a71\u0a15",
+          "http://sk.dbpedia.org/resource/Brainfuck",
+          "http://eu.dbpedia.org/resource/Brainfuck",
+          "http://ca.dbpedia.org/resource/Brainfuck",
+          "http://uk.dbpedia.org/resource/Brainfuck",
+          "http://vi.dbpedia.org/resource/Brainfuck",
+          "http://de.dbpedia.org/resource/Brainfuck",
+          "http://zh.dbpedia.org/resource/Brainfuck",
+          "http://id.dbpedia.org/resource/Brainfuck",
+          "http://is.dbpedia.org/resource/Brainfuck",
+          "http://tg.dbpedia.org/resource/Brainfuck",
+          "http://eo.dbpedia.org/resource/Brainfuck_(programlingvo)",
+          "http://tr.dbpedia.org/resource/Brainfuck",
+          "http://ar.dbpedia.org/resource/\u0628\u0631\u064a\u0646_\u0641\u0627\u0643",
+          "http://simple.dbpedia.org/resource/Brainfuck",
+          "http://fr.dbpedia.org/resource/Brainfuck",
+          "http://ro.dbpedia.org/resource/Brainfuck",
+          "http://he.dbpedia.org/resource/Brainfuck",
+          "http://ja.dbpedia.org/resource/Brainfuck",
+          "http://et.dbpedia.org/resource/Brainfuck",
+          "http://it.dbpedia.org/resource/Brainfuck",
+          "http://ru.dbpedia.org/resource/Brainfuck",
+          "http://fa.dbpedia.org/resource/\u0628\u0631\u06cc\u0646\u200c\u0641\u0627\u06a9",
+          "http://ta.dbpedia.org/resource/\u0baa\u0bbf\u0bb0\u0bc6\u0ba9\u0bcd\u0b83\u0baa\u0bcd\u0b83\u0b95\u0bcd",
+          "http://cs.dbpedia.org/resource/Brainfuck",
+          "http://da.dbpedia.org/resource/Brainfuck",
+          "http://es.dbpedia.org/resource/Brainfuck",
+          "http://th.dbpedia.org/resource/\u0e20\u0e32\u0e29\u0e32\u0e40\u0e1a\u0e23\u0e19\u0e1f\u0e31\u0e01",
+          "http://www.wikidata.org/entity/Q244627",
+          "https://global.dbpedia.org/id/2Jhnq",
+          "http://sr.dbpedia.org/resource/Brainfuck",
+          "http://uz.dbpedia.org/resource/Brainfuck_dasturlash_tili",
+          "http://ms.dbpedia.org/resource/Brainfuck",
+          "http://hu.dbpedia.org/resource/Brainfuck",
+          "http://lmo.dbpedia.org/resource/Brainfuck",
+          "http://sl.dbpedia.org/resource/Brainfuck",
+          "http://fi.dbpedia.org/resource/Brainfuck",
+          "http://sv.dbpedia.org/resource/Brainfuck"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:(",
+          "http://dbpedia.org/resource/Template:Anchor",
+          "http://dbpedia.org/resource/Template:Code",
+          "http://dbpedia.org/resource/Template:)",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:!",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Curlie",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:Distinguish",
+          "http://dbpedia.org/resource/Template:C-lang"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/designer",
+        "Values": [
+          "Urban M\u00fcller"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influenced",
+        "Values": [
+          "http://dbpedia.org/resource/Malbolge"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/P\u2032\u2032",
+          "http://dbpedia.org/resource/Esoteric_programming_language"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/paradigm",
+        "Values": [
+          "http://dbpedia.org/resource/Imperative_programming",
+          "http://dbpedia.org/resource/Esoteric_programming_language",
+          "http://dbpedia.org/resource/Structured_programming"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/released",
+        "Values": [
+          "September 1993"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/typing",
+        "Values": [
+          "Typeless"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "Brainfuck adalah yang dibuat pada tahun 1993 oleh Urban M\u00fcller, dan terkenal karena minimalitasnya yang ekstrem. Bahasa ini hanya terdiri dari delapan perintah sederhana dan sebuah . Meskipun sepenuhnya merupakan bahasa , Brainfuck tidak dimaksudkan untuk penggunaan praktis, tapi lebih untuk menantang dan menghibur pemrogram. Nama bahasa itu mengacu pada istilah slang brainfuck, yang mengacu pada hal-hal yang begitu rumit atau tidak biasa sehingga melampaui batas pemahaman seseorang.",
+          "Brainfuck (dt.: \u201eHirnfick\u201c) ist eine esoterische Programmiersprache, die der Aminet-Gr\u00fcnder, der Schweizer Urban M\u00fcller, im Jahre 1993 entwarf. Die Sprache wird auch als Brainf*ck, Brainf*** oder BF bezeichnet. Brainfuck ist f\u00fcr den produktiven Einsatz viel zu umst\u00e4ndlich und zu ineffizient, aber geeignet, um die Methodik von Softwareentwicklung zu schulen. Speziell zeichnet sich Brainfuck durch ein extrem einfaches Sprachkonzept und hochkompakte Realisierung des Compilers aus, gleichzeitig wurde aber die (im berechenbarkeitstheoretischen Sinne) universelle Einsetzbarkeit nicht eingeschr\u00e4nkt.",
+          "brainfuck, tamb\u00e9m conhecido como brainf*ck ou BF, \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica notada pelo seu extremo minimalismo, criada por Urban M\u00fcller, em 1993. Ela \u00e9 uma linguagem Turing completa, desenhada para desafiar e confundir os programadores, e n\u00e3o \u00e9 \u00fatil para uso pr\u00e1tico. Pela sua simplicidade, o desenvolvimento de compiladores e interpretadores para essa linguagem \u00e9 muito mais f\u00e1cil do que para outras linguagens. O nome da linguagem \u00e9 geralmente n\u00e3o-capitalizado (come\u00e7a com uma letra min\u00fascula), apesar de ser um substantivo pr\u00f3prio.",
+          "Brainfuck\uff0c\u7b80\u79f0BF\uff0c\u662f\u4e00\u79cd\u6781\u5c0f\u5316\u7684\u7a0b\u5e8f\u8bed\u8a00\uff0c\u7531\u57281993\u5e74\u521b\u9020\u3002Fuck\u5728\u82f1\u8a9e\u4e2d\u662f\u9ad2\u8a71\uff0c\u6240\u4ee5\u8fd9\u79cd\u8bed\u8a00\u6709\u65f6\u79f0\u4e3aBrainf*ck\u6216Brainf***\uff0c\u6216\u8005\u53ea\u7528\u7b80\u79f0\u3002",
+          "Brainfuck (en espa\u00f1ol 'jodecerebros') es un lenguaje de programaci\u00f3n esot\u00e9rico, dise\u00f1ado por en 1993, con el objetivo de hacer un lenguaje que fuera a la vez muy simple, Turing completo y que requiriese un compilador peque\u00f1o. M\u00fcller bas\u00f3 Brainfuck en la m\u00e1quina de Turing y le sirvi\u00f3 de inspiraci\u00f3n el compilador de 1024 bytes de tama\u00f1o del lenguaje . La distribuci\u00f3n cl\u00e1sica es la versi\u00f3n 2 escrita por el propio M\u00fcller, conteniendo un compilador para el ordenador Amiga, un int\u00e9rprete, programas de ejemplo y un documento readme.",
+          "Brainfuck (lett. \"fottere il cervello\") \u00e8 un linguaggio di programmazione esoterico per computer, creato da Urban M\u00fcller intorno al 1993. Il linguaggio viene in taluni casi denominato Brainf*ck, Brainf*** o anche soltanto BF per evitare di offendere la sensibilit\u00e0 altrui.",
+          "Brainfuck (\u0430\u043d\u0433\u043b. brain+fuck) \u2014 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f, \u0432\u0438\u0433\u0430\u0434\u0430\u043d\u0430 \u0423\u0440\u0431\u0430\u043d\u043e\u043c \u041c\u044e\u043b\u043b\u0435\u0440\u043e\u043c \u0437 \u043c\u0435\u0442\u043e\u044e \u0437\u0430\u0431\u0430\u0432\u0438. \u0421\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0437 \u0432\u043e\u0441\u044c\u043c\u0438 \u043a\u043e\u043c\u0430\u043d\u0434, \u043a\u043e\u0436\u043d\u0430 \u0437 \u044f\u043a\u0438\u0445 \u0437\u0430\u043f\u0438\u0441\u0443\u0454\u0442\u044c\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u043c. \u0412\u0438\u0445\u0456\u0434\u043d\u0438\u0439 \u043a\u043e\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u043d\u0430 Brainfuck \u0454 \u043f\u043e\u0441\u043b\u0456\u0434\u043e\u0432\u043d\u0456\u0441\u0442\u044e \u0441\u0438\u043c\u0432\u043e\u043b\u0456\u0432 \u043c\u043e\u0432\u0438 \u0431\u0435\u0437 \u0436\u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0443. \u041c\u0430\u0448\u0438\u043d\u0430, \u044f\u043a\u043e\u044e \u043a\u0435\u0440\u0443\u044e\u0442\u044c \u043a\u043e\u043c\u0430\u043d\u0434\u0438 Brainfuck, \u0441\u043a\u043b\u0430\u0434\u0430\u0454\u0442\u044c\u0441\u044f \u0437 \u0443\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u0430\u043d\u043e\u0433\u043e \u043d\u0430\u0431\u043e\u0440\u0443 \u043a\u043e\u043c\u0456\u0440\u043e\u043a \u0456 \u043f\u043e\u043a\u0430\u0436\u0447\u0438\u043a\u0430 \u043f\u043e\u0442\u043e\u0447\u043d\u043e\u0457 \u043a\u043e\u043c\u0456\u0440\u043a\u0438, \u043d\u0430\u0433\u0430\u0434\u0443\u044e\u0447\u0438 \u0441\u0442\u0440\u0456\u0447\u043a\u0443 \u0456 \u0433\u043e\u043b\u0456\u0432\u043a\u0443 \u043c\u0430\u0448\u0438\u043d\u0438 \u0422\u044e\u0440\u0438\u043d\u0433\u0430. \u041a\u0440\u0456\u043c \u0442\u043e\u0433\u043e, \u0432 \u0430\u043f\u0430\u0440\u0430\u0442\u0456 \u043d\u0430\u044f\u0432\u043d\u0438\u0439 \u043c\u0435\u0445\u0430\u043d\u0456\u0437\u043c \u0432\u0437\u0430\u0454\u043c\u043e\u0434\u0456\u0457 \u0456\u0437 \u0437\u043e\u0432\u043d\u0456\u0448\u043d\u0456\u043c \u0441\u0432\u0456\u0442\u043e\u043c (\u0434\u0438\u0432. \u043a\u043e\u043c\u0430\u043d\u0434\u0438 \u00ab.\u00bb \", \").",
+          "Brainfuck is an esoteric programming language created in 1993 by Urban M\u00fcller. Notable for its extreme minimalism, the language consists of only eight simple commands, a data pointer and an instruction pointer. While it is fully Turing complete, it is not intended for practical use, but to challenge and amuse programmers. Brainfuck requires one to break commands into microscopic steps. The language's name is a reference to the slang term brainfuck, which refers to things so complicated or unusual that they exceed the limits of one's understanding, as it was not meant or made for designing actual software but to challenge the boundaries of computer programming.",
+          "Brainfuck \u2013 ezoteryczny j\u0119zyk programowania stworzony w 1993 roku przez Urbana M\u00fcllera, znany ze swojego skrajnego minimalizmu. J\u0119zyk ten sk\u0142ada si\u0119 z zaledwie o\u015bmiu prostych komend oraz wska\u017anika instrukcji. Pomimo tego, \u017ce jest on zupe\u0142ny w sensie maszyny Turinga, nie zosta\u0142 zaprojektowany do praktycznego u\u017cycia, a do zach\u0119cania programist\u00f3w do pisania prostych program\u00f3w. Nazwa j\u0119zyka brainfuck jest angielskim z\u0142o\u017ceniem sk\u0142adaj\u0105cym si\u0119 z wyraz\u00f3w brain (m\u00f3zg) oraz fuck (pieprzy\u0107) co na polski mo\u017cna t\u0142umaczy\u0107 jako \u201em\u00f3zgojeb\u201d.",
+          "\u0628\u0631\u064a\u0646 \u0641\u0627\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Brainfuck)\u200f \u0647\u064a \u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629 \u063a\u064a\u0631 \u0627\u0639\u062a\u064a\u0627\u062f\u064a\u0629\u060c \u0635\u064c\u0645\u0645\u062a \u0628\u0647\u062f\u0641 \u0628\u0646\u0627\u0621 \u0644\u063a\u0629 \u0643\u0627\u0645\u0644\u0629 \u062d\u0633\u0628 \u062a\u0648\u0631\u0646\u063a \u0628\u0623\u0642\u0644 \u062d\u062c\u0645 \u0645\u062a\u0631\u062c\u0645 \u0645\u0645\u0643\u0646. \u0644\u063a\u0629 \u0628\u0631\u064a\u0646 \u0641\u0627\u0643 \u0644\u064a\u0633\u062a \u0645\u0635\u0645\u0645\u0629 \u0644\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0639\u0645\u0644\u064a\u060c \u0641\u0647\u064a \u062a\u062a\u0643\u0648\u0646 \u0645\u0646 \u062b\u0645\u0627\u0646 \u0623\u0648\u0627\u0645\u0631 \u0641\u0642\u0637\u060c \u0645\u0645\u0627 \u064a\u062c\u0639\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0628\u0631\u0627\u0645\u062c \u0627\u0644\u0628\u0633\u064a\u0637\u0629 \u0639\u0645\u0644\u064a\u0629 \u0645\u0639\u0642\u062f\u0629\u060c \u0641\u062a\u0639\u062a\u0628\u0631 \u062a\u062d\u062f\u064a \u0644\u0644\u0645\u0628\u0631\u0645\u062c\u064a\u0646 \u0644\u064a\u062e\u062a\u0628\u0628\u0631\u0648\u0627 \u062d\u062f\u0648\u062f \u0642\u062f\u0631\u062a\u0647\u0645.",
+          "Brainfuck \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043d (\u043d\u0435\u043c. Urban M\u00fcller) \u0432 1993 \u0433\u043e\u0434\u0443, \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u0441\u0432\u043e\u0438\u043c \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u0438\u0437\u043c\u043e\u043c. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u043c\u043e\u0436\u043d\u043e \u043f\u0435\u0440\u0435\u0432\u0435\u0441\u0442\u0438 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u043a\u0430\u043a \u0432\u044b\u043d\u043e\u0441 \u043c\u043e\u0437\u0433\u0430, \u043e\u043d\u043e \u043d\u0430\u043f\u0440\u044f\u043c\u0443\u044e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u043e \u043e\u0442 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u044f brainfuck (brain \u2014 \u043c\u043e\u0437\u0433, fuck \u2014 \u0441\u043d\u043e\u0448\u0430\u0442\u044c), \u0442. \u0435. \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f \u0435\u0440\u0443\u043d\u0434\u043e\u0439. \u042f\u0437\u044b\u043a \u0438\u043c\u0435\u0435\u0442 \u0432\u043e\u0441\u0435\u043c\u044c \u043a\u043e\u043c\u0430\u043d\u0434, \u043a\u0430\u0436\u0434\u0430\u044f \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u043c. \u0418\u0441\u0445\u043e\u0434\u043d\u044b\u0439 \u043a\u043e\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043d\u0430 Brainfuck \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u043e\u0431\u043e\u0439 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u044d\u0442\u0438\u0445 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u0431\u0435\u0437 \u043a\u0430\u043a\u043e\u0433\u043e-\u043b\u0438\u0431\u043e \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0430. \u041e\u0434\u043d\u0438\u043c \u0438\u0437 \u043c\u043e\u0442\u0438\u0432\u043e\u0432 \u0423\u0440\u0431\u0430\u043d\u0430 \u041c\u044e\u043b\u043b\u0435\u0440\u0430 \u0431\u044b\u043b\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u0441 \u043a\u0430\u043a \u043c\u043e\u0436\u043d\u043e \u043c\u0435\u043d\u044c\u0448\u0438\u043c \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u043e\u043c. \u041e\u0442\u0447\u0430\u0441\u0442\u0438 \u043e\u043d \u0431\u044b\u043b \u0432\u0434\u043e\u0445\u043d\u043e\u0432\u043b\u0451\u043d \u044f\u0437\u044b\u043a\u043e\u043c FALSE, \u0434\u043b\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043b \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440 \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u043c 1024 \u0431\u0430\u0439\u0442\u0430. \u0421\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u044b \u044f\u0437\u044b\u043a\u0430 Brainfuck \u0440\u0430\u0437\u043c\u0435\u0440\u043e\u043c \u043c\u0435\u043d\u044c\u0448\u0435 200 \u0431\u0430\u0439\u0442. \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043d\u0430 \u044f\u0437\u044b\u043a\u0435 Brainfuck \u043f\u0438\u0441\u0430\u0442\u044c \u0441\u043b\u043e\u0436\u043d\u043e, \u0437\u0430 \u0447\u0442\u043e \u0435\u0433\u043e \u0438\u043d\u043e\u0433\u0434\u0430 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u044f\u0437\u044b\u043a\u043e\u043c \u0434\u043b\u044f \u043c\u0430\u0437\u043e\u0445\u0438\u0441\u0442\u043e\u0432. \u041d\u043e \u043f\u0440\u0438 \u044d\u0442\u043e\u043c Brainfuck \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u043f\u043e\u043b\u043d\u0435 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c, \u043f\u043e\u043b\u043d\u044b\u043c \u0438 \u043f\u0440\u043e\u0441\u0442\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c \u0438 \u043c\u043e\u0436\u0435\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u0440\u0438 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0438 \u043f\u043e\u043d\u044f\u0442\u0438\u044f \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u043c\u043e\u0441\u0442\u0438. \u041c\u0430\u0448\u0438\u043d\u0430, \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442 \u043a\u043e\u043c\u0430\u043d\u0434\u044b Brainfuck, \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0438\u0437 \u0443\u043f\u043e\u0440\u044f\u0434\u043e\u0447\u0435\u043d\u043d\u043e\u0433\u043e \u043d\u0430\u0431\u043e\u0440\u0430 \u044f\u0447\u0435\u0435\u043a \u0438 \u0443\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044f \u0442\u0435\u043a\u0443\u0449\u0435\u0439 \u044f\u0447\u0435\u0439\u043a\u0438, \u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u044f \u043b\u0435\u043d\u0442\u0443 \u0438 \u0433\u043e\u043b\u043e\u0432\u043a\u0443 \u043c\u0430\u0448\u0438\u043d\u044b \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0430. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u043f\u043e\u0434\u0440\u0430\u0437\u0443\u043c\u0435\u0432\u0430\u0435\u0442\u0441\u044f \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e \u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0441 \u0432\u043d\u0435\u0448\u043d\u0438\u043c \u043c\u0438\u0440\u043e\u043c (\u0441\u043c. \u043a\u043e\u043c\u0430\u043d\u0434\u044b . \u0438 ,) \u0447\u0435\u0440\u0435\u0437 \u043f\u043e\u0442\u043e\u043a \u0432\u0432\u043e\u0434\u0430 \u0438 \u043f\u043e\u0442\u043e\u043a \u0432\u044b\u0432\u043e\u0434\u0430. \u042f\u0437\u044b\u043a Brainfuck \u043c\u043e\u0436\u043d\u043e \u043e\u043f\u0438\u0441\u0430\u0442\u044c \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u043e\u0432 \u044f\u0437\u044b\u043a\u0430 \u0421\u0438: \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0432\u043d\u0435\u0448\u043d\u044e\u044e \u043f\u0440\u0438\u043c\u0438\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c, Brainfuck \u0441 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u043c \u043d\u0430\u0431\u043e\u0440\u043e\u043c \u044f\u0447\u0435\u0435\u043a \u0438\u043c\u0435\u0435\u0442 \u0442\u044c\u044e\u0440\u0438\u043d\u0433\u043e\u0432\u0441\u043a\u0443\u044e \u043f\u043e\u043b\u043d\u043e\u0442\u0443, \u0430, \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e, \u043f\u043e \u043f\u043e\u0442\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u043c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044f\u043c \u043d\u0435 \u0443\u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u00ab\u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u043c\u00bb \u044f\u0437\u044b\u043a\u0430\u043c, \u043f\u043e\u0434\u043e\u0431\u043d\u044b\u043c \u0421\u0438, \u041f\u0430\u0441\u043a\u0430\u043b\u044e \u0438\u043b\u0438 Java. Brainfuck \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u043e\u0432 \u043f\u043e \u0433\u0435\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044e \u0438\u0437-\u0437\u0430 \u043f\u0440\u043e\u0441\u0442\u043e\u0442\u044b \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0430, \u0438, \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e, \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0438\u0441\u0445\u043e\u0434\u043d\u043e\u0433\u043e \u043a\u043e\u0434\u0430. \u0412 \u00ab\u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u00bb Brainfuck, \u043e\u043f\u0438\u0441\u0430\u043d\u043d\u043e\u043c \u041c\u044e\u043b\u043b\u0435\u0440\u043e\u043c, \u0440\u0430\u0437\u043c\u0435\u0440 \u044f\u0447\u0435\u0439\u043a\u0438 \u2014 \u043e\u0434\u0438\u043d \u0431\u0430\u0439\u0442, \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u044f\u0447\u0435\u0435\u043a 30 000. \u0412 \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0443\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u043a\u0440\u0430\u0439\u043d\u0435\u0439 \u043b\u0435\u0432\u043e\u0439 \u043f\u043e\u0437\u0438\u0446\u0438\u0438, \u0430 \u0432\u0441\u0435 \u044f\u0447\u0435\u0439\u043a\u0438 \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u044b \u043d\u0443\u043b\u044f\u043c\u0438. \u0423\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0435\u043d\u0438\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0439 \u044f\u0447\u0435\u0435\u043a \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043f\u043e \u043c\u043e\u0434\u0443\u043b\u044e 256. \u0412\u0432\u043e\u0434-\u0432\u044b\u0432\u043e\u0434 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043f\u043e\u0431\u0430\u0439\u0442\u043d\u043e, \u0441 \u0443\u0447\u0451\u0442\u043e\u043c \u043a\u043e\u0434\u0438\u0440\u043e\u0432\u043a\u0438 ASCII (\u0442\u043e \u0435\u0441\u0442\u044c \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0438 \u0432\u0432\u043e\u0434\u0430 \u0441\u0438\u043c\u0432\u043e\u043b 1 \u0431\u0443\u0434\u0435\u0442 \u0437\u0430\u043f\u0438\u0441\u0430\u043d \u0432 \u0442\u0435\u043a\u0443\u0449\u0443\u044e \u044f\u0447\u0435\u0439\u043a\u0443 \u043a\u0430\u043a \u0447\u0438\u0441\u043b\u043e 0x31 (49), \u0430 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044f \u0432\u044b\u0432\u043e\u0434\u0430 (.), \u0441\u043e\u0432\u0435\u0440\u0448\u0451\u043d\u043d\u0430\u044f \u043d\u0430\u0434 \u044f\u0447\u0435\u0439\u043a\u043e\u0439, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0435\u0439 0x41 (65), \u043d\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u0435\u0442 \u043b\u0430\u0442\u0438\u043d\u0441\u043a\u0443\u044e \u0410). \u0412 \u0434\u0440\u0443\u0433\u0438\u0445 \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0430\u0445 \u044f\u0437\u044b\u043a\u0430 \u0440\u0430\u0437\u043c\u0435\u0440 \u0438 \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u044f\u0447\u0435\u0435\u043a \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0434\u0440\u0443\u0433\u0438\u043c (\u0431\u043e\u0301\u043b\u044c\u0448\u0438\u043c). \u0415\u0441\u0442\u044c \u0432\u0435\u0440\u0441\u0438\u0438, \u0433\u0434\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u044f\u0447\u0435\u0435\u043a \u043d\u0435 \u0446\u0435\u043b\u043e\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e (\u0441 \u043f\u043b\u0430\u0432\u0430\u044e\u0449\u0435\u0439 \u0442\u043e\u0447\u043a\u043e\u0439).",
+          "Brainfuck (n\u011bkdy je tak\u00e9 eufemisticky naz\u00fdv\u00e1n Brainf*ck nebo dokonce Brainf***) je extr\u00e9mn\u011b minimalistick\u00fd ezoterick\u00fd programovac\u00ed jazyk. Byl vytvo\u0159en pro pobaven\u00ed a jako v\u00fdzva program\u00e1tor\u016fm, pro praktick\u00e9 \u00fa\u010dely nen\u00ed vhodn\u00fd.",
+          "Brainfuck estas minimumisma komputillingvo kreita de \u0109irka\u016d 1993. \u0108ar \"fuck\" estas fivorto en la angla, la lingvo estas anka\u016d nomata Brainf*ck, Brainf***, (\u015derce) B****fuck, a\u016d simple BF. La celo de M\u00fcller estis krei simplan komputillingvon, kiu povus esti implementita per kiel eble plej malgranda tradukilo. La lingvo konsistas el nur ok instrukcioj. Versio 2 de la originala tradukilo, verkita por la komputilo Amiga, estis nur 240 bitojn granda. Kiel sugestas la nomo (\"Brainfuck\" signifas \"Cerbofiko\"), programoj en Brainfuck inklinas al nekomprenebleco, kvaza\u016d tiom, ke la programisto frenezi\u011du. Tamen, la Turing-ma\u015dino, do tial anka\u016d Brainfuck, povas plenumi ajnan komputan taskon. Malgra\u016d la malfacileco programi iajn taskojn en Brainfuck, tamen certe eblas fari tiel. La lingvo estas bazita sur simpla ma\u015dinmodelo, kiu konsistas el, krom la programo, tabelo komence nula, indiko al la tabelo (komence indikas al la unua bitoko de la tabelo), kaj du vicoj da bitokoj por enigo kaj eligo. La unuaj ok instruckioj, \u0109iu nur unuliteraj, estas: (Por simetrieco, iuj diras ke ] saltas reen nur se la bitoko \u0109e la referenco estas nenula, sed fine estas tute egale.) Brainfuck-programoj povas esti transliteritaj al C per la jenaj anstata\u016doj, kie ptr estas de datumtipo char*:",
+          "Brainfuck \u00e9s un llenguatge de programaci\u00f3 esot\u00e8ric. Es distingeix pel baix nombre d'instruccions que fa servir, nom\u00e9s en t\u00e9 8. No obstant aix\u00f2 \u00e9s Turing complet.",
+          "Brainfuck is een esoterische programmeertaal die rond 1993 door is gemaakt. De taal wordt soms brainf*ck, brainf***, of BF genoemd als men beleefd wil zijn.",
+          "Brainfuck, programazio lengoaia esoterikoa da, Urban M\u00fcller-ek diseinatuta 1993. urtean. Helburutzat lengoaia sinplea eraikitzea zen, eta konpiladore txiki behar zuena. Brainfuck Turingen makinan oinarritu zen, eta 1024 byteko konpiladoreari inspirazio gisa erabili zen, lengoaian erabiliko zena.",
+          "Brainfuck \u00e4r ett turingkomplett esoteriskt programspr\u00e5k skapat 1993 av den schweiziske fysikstudenten , med syfte att skapa ett spr\u00e5k med s\u00e5 liten kompilator som m\u00f6jligt. Maskinkoden till M\u00fcllers ursprungliga kompilator till AmigaOS 2.0 upptog 240 bytes. Att programmera i brainfuck \u00e4r sv\u00e5rt i b\u00f6rjan, och att l\u00e4sa brainfuckkod kan vara \u00e4nnu sv\u00e5rare. Namnet Brainfuck, som betyder hj\u00e4rntrassel, syftar p\u00e5 vad en programmerare kan t\u00e4nkas uppleva d\u00e5 denne sysslar med brainfuckutveckling.",
+          "\ube0c\ub808\uc778\ud37d(Brainfuck)\uc740 (Urban M\u00fcller)\uac00 1993\ub144 \uacbd\uc5d0 \ub9cc\ub4e0 \ucd5c\uc18c\uc8fc\uc758 \ucef4\ud4e8\ud130 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\uc774\ub2e4. \uc774\ub984\uc5d0 \ud3ec\ud568\ub41c fuck\uc774 \uc695\uc124\uc774\uae30 \ub54c\ubb38\uc5d0 Brainf*ck, Brainf***, \ud639\uc740 \ub2e8\uc21c\ud788 BF\ub77c\uace0 \ubd80\ub974\uae30\ub3c4 \ud55c\ub2e4.",
+          "Brainfuck est un langage de programmation exotique, invent\u00e9 par Urban M\u00fcller en 1993. Il tire son nom de l\u2019union de deux mots anglais, brain (\u00ab cerveau \u00bb) et fuck (\u00ab niquer \u00bb), et joue sur les mots, puisque ce langage est volontairement simpliste, et parce que l'expression Brain Fuck \u00e9voque, en argot, ce qui met le cerveau dans un \u00e9tat de confusion par sa complexit\u00e9 apparente. Ce vocabulaire peu flatteur lui a d'ailleurs valu d'\u00eatre \u00e9crit sous d'autres orthographes plus prudes, telles que Brainf*ck, Brainf*** ou encore BF.",
+          "Brainfuck\uff08\u30d6\u30ec\u30a4\u30f3\u30d5\u30a1\u30c3\u30af\uff09\u306f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u3072\u3068\u3064\u3002\u306a\u304a\u540d\u79f0\u306b\u542b\u307e\u308c\u308bfuck\u304c\u5351\u8a9e\u3067\u3042\u308b\u305f\u3081\u3001Brainf*ck \u307e\u305f\u306f Brainf**k\u306a\u3069\u3068\u8868\u8a18\u3055\u308c\u308b\u3053\u3068\u304c\u3042\u308b\u3002"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/fileExt",
+        "Values": [
+          ".b, .bf"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Brainfuck?oldid=1123545534&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "32663"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influenced",
+        "Values": [
+          "http://dbpedia.org/resource/Malbolge"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/P\u2032\u2032",
+          "http://dbpedia.org/resource/Esoteric_programming_language"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Brainfuck"
+        ]
+      }
+    ]
+  }
+]

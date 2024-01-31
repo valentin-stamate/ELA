@@ -1,0 +1,93 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q28942389",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729785960"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T11:14:58Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "programming language",
+          "Programmiersprache",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37",
+          "\u7f16\u7a0b\u8bed\u8a00"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "PRINT"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "2"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q28942389-70BE1701-D688-4A8F-B0D1-5EEA98ECC965"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P571",
+        "Values": [
+          "1955-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P571",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q28942389-5FFADA49-2A69-499C-9338-F93D0DF8CFAD"
+        ]
+      }
+    ]
+  }
+]

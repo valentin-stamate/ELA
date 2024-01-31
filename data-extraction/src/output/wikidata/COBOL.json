@@ -1,0 +1,760 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q131140",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "COBOL",
+          "\u0d15\u0d4b\u0d2c\u0d4b\u0d7e",
+          "\u0e20\u0e32\u0e29\u0e32\u0e42\u0e04\u0e1a\u0e2d\u0e25",
+          "\u05e7\u05d0\u05d1\u05d0\u05dc",
+          "\u0c15\u0c4b\u0c2c\u0c3e\u0c32\u0c4d",
+          "\u0915\u094b\u092c\u094b\u0932",
+          "Cobol",
+          "\u041a\u043e\u0431\u043e\u043b",
+          "\u10d9\u10dd\u10d1\u10dd\u10da\u10d8",
+          "\ucf54\ubcfc",
+          "\u0995\u09cb\u09ac\u09cb\u09b2",
+          "\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0bb0\u0bb2\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bca\u0bb4\u0bbf",
+          "Kobol",
+          "\u0915\u094b\u092c\u0949\u0932",
+          "\u0643\u0648\u0628\u0648\u0644",
+          "\u06a9\u0648\u0628\u0648\u0644",
+          "\u053f\u0578\u0562\u0578\u056c"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "Common Business Oriented Language",
+          "COBOL\u8bed\u8a00",
+          "Bahasa pengaturcaraan COBOL",
+          "JIS C 6205",
+          "ANSI COBOL",
+          "JIS X 3002",
+          "Cobol 74",
+          "Cobol",
+          "\u041a\u043e\u0431\u043e\u043b",
+          "\u0d15\u0d4a\u0d2c\u0d4b\u0d7e",
+          "\u0e42\u0e04\u0e1a\u0e2d\u0e25",
+          "Linguagem de programa\u00e7\u00e3o Cobol",
+          "\u30b3\u30dc\u30eb",
+          "\u05e7\u05d5\u05d1\u05d5\u05dc",
+          "\u0938\u093e\u092e\u093e\u0928\u094d\u092f \u0935\u094d\u092f\u0935\u0938\u093e\u092f-\u0909\u0928\u094d\u092e\u0941\u0916 \u092d\u093e\u0937\u093e",
+          "Kobol",
+          "\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0bcd",
+          "COBOL",
+          "Common Business-Oriented Language",
+          "Programmeertaal Cobol",
+          "COmmon Business Oriented Language",
+          "ISO/IEC 1989",
+          "\u041a\u041e\u0411\u041e\u041b",
+          "\u0915\u094b\u092c\u094b\u0932",
+          "ISO 1989",
+          "KOBOL",
+          "COBOL \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430\u043b\u043e\u043e \u0442\u0438\u043b\u0438"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "59"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "76"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "27"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P18",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/COBOL.png"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28922885",
+          "http://www.wikidata.org/entity/Q899523",
+          "http://www.wikidata.org/entity/Q9143",
+          "http://www.wikidata.org/entity/Q21562092"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P88",
+        "Values": [
+          "http://www.wikidata.org/entity/Q11209"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P170",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1023961"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P178",
+        "Values": [
+          "http://www.wikidata.org/entity/Q15028",
+          "http://www.wikidata.org/entity/Q1023961",
+          "http://www.wikidata.org/entity/Q180003"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P227",
+        "Values": [
+          "4010323-7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P244",
+        "Values": [
+          "sh85027548"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P227",
+        "Values": [
+          "https://d-nb.info/gnd/4010323-7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "Values": [
+          "http://id.loc.gov/authorities/names/sh85027548"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P18",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-814B0327-135B-46AD-B3B4-EA4DC1537EAA"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q131140-D904D751-314A-4246-AD8F-6EBB8F6D3E5D",
+          "http://www.wikidata.org/entity/statement/Q131140-6b09c89f-4dc3-8de7-ea0c-8e6c6b782e5a",
+          "http://www.wikidata.org/entity/statement/Q131140-0eaad687-4b7c-bc02-4a7e-1799ff8735e6",
+          "http://www.wikidata.org/entity/statement/Q131140-66c0a2e4-442d-fb42-3969-a6f7bebae394"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P88",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-5fd591b2-4ad2-6b89-ee31-f58c207503cc"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P170",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-7c8ffc75-43e0-f313-7080-644687e4d559"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P178",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-09ebf5b3-4c09-d757-eea9-891377be3736",
+          "http://www.wikidata.org/entity/statement/Q131140-e3da1276-4f83-46a3-3dfa-e56cf3338b4a",
+          "http://www.wikidata.org/entity/statement/Q131140-90236e97-4f06-c6dc-a063-71f54d8d9d33"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P227",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-981ABA64-CCC5-496F-AC5C-379843C1295E"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P244",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-5C5797E8-5FF2-4708-9660-B111EAD521ED"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P268",
+        "Values": [
+          "11941315s"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P348",
+        "Values": [
+          "2019"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P373",
+        "Values": [
+          "COBOL"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P443",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Beno%C3%AEt%20Prieur-Cobol.wav"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P503",
+        "Values": [
+          "1989:2014"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P571",
+        "Values": [
+          "1959-05-28T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P646",
+        "Values": [
+          "/m/01zpg"
+        ]
+      },
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "2035337167"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-12-23T21:54:38Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "magas szint\u0171 programoz\u00e1si nyelv",
+          "programming language with English-like syntax",
+          "programmeringssprog",
+          "\u0130ngilizce dil \u00f6zelliklerine benzer programlama dili",
+          "programm\u0113\u0161anas valoda ar att\u012bst\u012btu failu un ierakstu apstr\u0101di",
+          "programovac\u00ed jazyk",
+          "1959\u5e74\u306b\u958b\u767a\u3055\u308c\u305f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e",
+          "programspr\u00e5k",
+          "Programmiersprache f\u00fcr kaufm\u00e4nnische Anwendungen",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "\u0b87\u0ba4\u0bc1 \u0b92\u0bb0\u0bc1 \u0b95\u0ba3\u0bbf\u0baf \u0ba8\u0bbf\u0bb0\u0bb2\u0bcd \u0bae\u0bca\u0bb4\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bae\u0bcd.",
+          "programmeringsspr\u00e5k",
+          "\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a",
+          "\u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+          "limbaj de programare",
+          "object-oriented programming language",
+          "\u043c\u043e\u0432\u0430 \u043f\u0440\u0430\u0433\u0440\u0430\u043c\u0430\u0432\u0430\u043d\u043d\u044f",
+          "programmeringsspr\u00e5k for kommersielle applikasjoner som har hatt stor utbredelse og stor overlevelsesevne",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "objektov\u011b orientovan\u00fd programovac\u00ed jazyk",
+          "lenguaje de programaci\u00f3n",
+          "\uac1d\uccb4 \uc9c0\ud5a5 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "programmeertaal van CODASYL",
+          "linguaxe de programaci\u00f3n",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "\u09a4\u09c3\u09a4\u09c0\u09af\u09bc \u09aa\u09cd\u09b0\u099c\u09a8\u09cd\u09ae\u09c7\u09b0 \u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09be\u09ae\u09bf\u0982 \u09ad\u09be\u09b7\u09be",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37",
+          "iaith raglennu seiliedig ar wrthrychau",
+          "ho\u00ebvlak programmeertaal",
+          "\u043c\u043e\u0432\u0430 \u043f\u0440\u0430\u0433\u0440\u0430\u043c\u0430\u0432\u0430\u043d\u044c\u043d\u044f",
+          "Programm\u00e9iersprooch",
+          "\u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P737",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1389173",
+          "http://www.wikidata.org/entity/Q5013384",
+          "http://www.wikidata.org/entity/Q7474729"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P898",
+        "Values": [
+          "\u02c8ko\u028ab\u0252l"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P910",
+        "Values": [
+          "http://www.wikidata.org/entity/Q7281696"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1051",
+        "Values": [
+          "12487"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1195",
+        "Values": [
+          "cob",
+          "cpy",
+          "cbl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1296",
+        "Values": [
+          "0018386"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/Q2657718"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1417",
+        "Values": [
+          "technology/COBOL"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1482",
+        "Values": [
+          "https://stackoverflow.com/tags/cobol"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1617",
+        "Values": [
+          "d5bb62c1-bfa1-4e6a-8c30-d6447012f57c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1814",
+        "Values": [
+          "\u30b3\u30dc\u30eb"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P2347",
+        "Values": [
+          "16252"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3219",
+        "Values": [
+          "cobol"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3417",
+        "Values": [
+          "COBOL"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3553",
+        "Values": [
+          "19622341"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3827",
+        "Values": [
+          "cobol"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q275596",
+          "http://www.wikidata.org/entity/Q79872",
+          "http://www.wikidata.org/entity/Q1418502"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3984",
+        "Values": [
+          "cobol"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P4342",
+        "Values": [
+          "Cobol"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P4644",
+        "Values": [
+          "def007fa-5fed-4a5f-91a2-b0d7e3db1be1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P4969",
+        "Values": [
+          "http://www.wikidata.org/entity/Q7095747"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P5008",
+        "Values": [
+          "http://www.wikidata.org/entity/Q6173448"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P5019",
+        "Values": [
+          "cobol-informatik"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6366",
+        "Values": [
+          "128595289"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6611",
+        "Values": [
+          "209988"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6857",
+        "Values": [
+          "X3002"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P7078",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1940914",
+          "http://www.wikidata.org/entity/Q7977969"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8189",
+        "Values": [
+          "987007284048005171"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8313",
+        "Values": [
+          "COBOL"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8408",
+        "Values": [
+          "Cobol"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P9621",
+        "Values": [
+          "cobol"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P10283",
+        "Values": [
+          "C128595289"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P268",
+        "Values": [
+          "http://data.bnf.fr/ark:/12148/cb11941315s#about"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P646",
+        "Values": [
+          "http://g.co/kg/m/01zpg"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P1617",
+        "Values": [
+          "http://www.bbc.co.uk/things/d5bb62c1-bfa1-4e6a-8c30-d6447012f57c#id"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P2347",
+        "Values": [
+          "http://www.yso.fi/onto/yso/p16252"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P6366",
+        "Values": [
+          "http://ma-graph.org/entity/128595289"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P8408",
+        "Values": [
+          "http://kbpedia.org/kko/rc/Cobol"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P268",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-ECD76502-9689-4128-A780-861B6D094F83"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P348",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-ba993601-4f16-5f76-2905-08839a13a892"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P373",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q131140-36ECE376-8D81-4EB6-8D6C-93B34385EC94"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P443",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-1598e135-33e1-41f9-80cb-d24aa8c8883b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P503",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-a43ea411-40f3-977b-86da-b8d688af86d8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P571",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-ba7ea19d-4fb7-db0b-5249-a9bc8b2d6660"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P646",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-F68612D1-1C9C-4F7F-A9EC-83943D65123B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P737",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-7e6a7ab0-46fe-d4c4-1979-712c1cc6f094",
+          "http://www.wikidata.org/entity/statement/Q131140-1cb11263-4748-7fc3-9e5f-7e9ef806c793",
+          "http://www.wikidata.org/entity/statement/Q131140-8ae13d72-40ce-232d-d2a7-2c15c1b1875b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P898",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-b81d0e22-4fc3-1d28-6a7b-7dbce5ecb57a"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P910",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-395A6ABC-1CD5-49EF-B270-9CDDB3A68028"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1051",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-3CEB10AE-B354-4E16-A076-9F9458323620"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1195",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-d757d670-48c7-4c04-10af-f081ec875335",
+          "http://www.wikidata.org/entity/statement/Q131140-009e4de7-495b-738b-7e68-dd9f357d2d28",
+          "http://www.wikidata.org/entity/statement/Q131140-b3ee6873-4aab-811d-2698-eb98775a70ca"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1296",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-3fff240c-4b8f-6807-e6bc-ad0ceedb519d"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-29A8A66E-A696-423A-9375-AC0B7F32F4B7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1417",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-29D6658E-E7AA-49AD-98DC-F6F8DA6212F1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1482",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-ad954399-43c5-4bd8-b5ad-e6b2fa19f2cb"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1617",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-CFE194AC-3474-471B-95AD-A94DFC205FEC"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1814",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-BCF0E054-059D-4E12-AE67-1ADB15B013B5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P2347",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-388748DE-5754-4DD8-8683-50EED0DE320D"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3219",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-95753173-ABCB-40FE-97C3-F7133B747638"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3417",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-25C6FA75-DCA3-48E9-9FAD-055F54095681"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3553",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-D57C424B-485E-4755-B3C8-6B8DC368451B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3827",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-B5F6ABE5-3EAC-4F5D-B648-293DAFA5B3F6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-A41268E4-11A7-491B-B3CC-99B509AC75AC",
+          "http://www.wikidata.org/entity/statement/Q131140-F825B41D-06ED-442B-8A03-39A34B9CCF77",
+          "http://www.wikidata.org/entity/statement/Q131140-C6513EAC-C007-43F7-9A8E-13077521A952"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3984",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-e0bdbfe9-42ea-a2f2-104c-b2240b957ef8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P4342",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-6ece6b2c-4f5e-c929-9521-2f415bd8d541"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P4644",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-F7F55AC6-B73F-456E-B1FC-B0B3ED92DE12"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P4969",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-FAB3369C-2C24-4C6B-86A7-AFC46513A0A7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P5008",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-D9781D10-3E4F-4D69-AAE0-9EC2B0F52D81"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P5019",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-3272CB39-0D26-4A87-AD3B-B885FA964BD5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6366",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-77A3805E-4530-4656-A315-BD37BBB391C2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6611",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-3627bc82-49b2-15e4-8562-d7af54fb8726"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6857",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-6416228f-4a11-d7b6-b4c1-032bcdbd990f",
+          "http://www.wikidata.org/entity/statement/Q131140-c87376f6-4c58-79d5-4bc1-930f5b416b85"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P7078",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-8BF3B23E-7E03-4D45-A72F-0CE2EF72CB9C",
+          "http://www.wikidata.org/entity/statement/Q131140-1bdc4291-41b9-72b6-2f24-559f05a77f64"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8189",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-46ED4A95-8E49-4DE1-AA7F-98196D8E6922"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8313",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-9294E43F-988E-4AA8-AAB3-FBD5CDC6DA27"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8408",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-E9C00F85-9418-49FF-BC46-9472F855D84C"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P9621",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-D1DFD62B-C333-4291-A017-EE9FBF661743"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P10283",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q131140-74565F73-CA99-4146-B4C7-9CAED4D30830"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q5322692",
+    "Properties": [
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322692-08cd591b-4309-a29d-a512-138c79b3b8bc"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/027bt7p"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Microsoft Academic ID",
+        "Values": [
+          "2780167783"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/027bt7p"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Microsoft Academic ID",
+        "Values": [
+          "http://ma-graph.org/entity/2780167783"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322692-1243C1B6-61FA-4196-9FB9-4A5A0E445AA5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Microsoft Academic ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322692-D7F668A7-503E-4E70-BC10-C2836BA225CB"
+        ]
+      },
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729777368"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T10:50:21Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "extensible high-level programming language and development environment",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "ECL"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "3"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "2"
+        ]
+      }
+    ]
+  },
+  {
+    "Language": "http://www.wikidata.org/entity/Q5322691",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729777356"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T10:50:18Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "Programmiersprache",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37",
+          "declarative, data centric programming language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "ECL"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "14"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q845739",
+          "http://www.wikidata.org/entity/Q9143",
+          "http://www.wikidata.org/entity/Q1144882"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/Q22908985",
+          "http://www.wikidata.org/entity/Q1075773"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-87a02afa-4203-a821-f3b6-c12557beb8ac",
+          "http://www.wikidata.org/entity/statement/q5322691-229479A2-E3D7-4007-AFF8-B9278D60032D",
+          "http://www.wikidata.org/entity/statement/Q5322691-427AEF30-191B-419C-9CB6-12FDB47C821F"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-6C058C07-5481-485C-B041-914817A2246F",
+          "http://www.wikidata.org/entity/statement/Q5322691-781675CA-D514-4196-B3BE-5D70E8ACD6DE",
+          "http://www.wikidata.org/entity/statement/Q5322691-2089c6a5-478f-a379-071f-fbf46e1b29c4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright license",
+        "Values": [
+          "http://www.wikidata.org/entity/Q3238057"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/inception",
+        "Values": [
+          "2000-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/0gh89bk"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/official website",
+        "Values": [
+          "http://hpccsystems.com/"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/described at URL",
+        "Values": [
+          "https://hpccsystems.com/training/documentation/ecl-language-reference/html"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q531152"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Rosetta Code page ID",
+        "Values": [
+          "Category:ECL"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/0gh89bk"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright license",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-5d4926be-4999-4ddb-bd5e-151653f37847"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/inception",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-B5E18DC4-FB07-40F6-9E7E-E0B9BD6869CE"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-F1DD8372-2AF8-4B0A-875A-EA2F0AA7195D"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/official website",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-81108C71-B589-42F5-BF35-C3CBEB519B16"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/described at URL",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-c80ca18a-440e-cb93-c0e6-57f42f7c9702"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-969F11CC-49E4-4224-9FFA-3E09EC09301F"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Rosetta Code page ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q5322691-50df1256-4468-3bd6-953d-ba662a87d734"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q5322691-9088417b-46e4-53d8-951b-da35513c285c"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q670180",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729767340"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T10:24:17Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "functional programming language",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "funkcion\u00e1lis programoz\u00e1si nyelv",
+          "Programmiersprache",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37",
+          "\u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a \u043a\u043e\u0458\u0438 \u0458\u0435 \u0441\u0442\u0432\u043e\u0440\u0438\u043e David Madore"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u0423\u043d\u043b\u0430\u043c\u0431\u0434\u0430",
+          "Unlambda"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "15"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "11"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q3839507",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/based on",
+        "Values": [
+          "http://www.wikidata.org/entity/Q857813",
+          "http://www.wikidata.org/entity/Q5021477"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-a42bc729-4916-a2cc-efcc-ddb153857daf",
+          "http://www.wikidata.org/entity/statement/q670180-257246AE-09BA-412D-B923-99F9A26C8ACE",
+          "http://www.wikidata.org/entity/statement/Q670180-3F1FD820-35A0-4D7D-B679-7E2B520E0271"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/based on",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-40cb04f8-4ea6-44cf-0a06-c9e2c0b43278",
+          "http://www.wikidata.org/entity/statement/Q670180-cb75a3af-44ed-71db-5d70-61c9cbd6b291"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright license",
+        "Values": [
+          "http://www.wikidata.org/entity/Q7603"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programmed in",
+        "Values": [
+          "http://www.wikidata.org/entity/Q187560"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/inception",
+        "Values": [
+          "1999-06-28T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/012ryn"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/official website",
+        "Values": [
+          "http://www.madore.org/~david/programs/unlambda/"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Debian stable package",
+        "Values": [
+          "unlambda"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28937387",
+          "http://www.wikidata.org/entity/Q193076"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/012ryn"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright license",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-6ABF6176-F44C-47E2-A729-460550EAC0F8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programmed in",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-04460C68-CD3A-4A03-9434-B847EB9D375B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/inception",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-9ee9bc8d-48c6-2909-163e-e082b23685a8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-5B5F3F74-93CC-43D1-8CD8-69B58337C5A6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/official website",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-7ee98e94-4227-64fd-7810-ee0c7564d177"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-BDCD902C-ECBA-4F02-9794-F3B25B0C7CC9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Debian stable package",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-4AFCAA47-74DF-495A-942B-CA470A47D3EA"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-EE055E94-CCE1-4D4E-84D4-C076CBA404B3",
+          "http://www.wikidata.org/entity/statement/Q670180-BF50CC4D-743B-41A9-891F-4B9C4F43DB63"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q670180-9A6859C6-9B6D-47B8-BCDB-EA8570FDD367"
+        ]
+      }
+    ]
+  }
+]

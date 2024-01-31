@@ -1,0 +1,237 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/INTERCAL",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/ProgrammingLanguage106898352",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguagesCreatedIn1972",
+          "http://dbpedia.org/ontology/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "INTERCAL",
+          "\uc778\ud130\uce7c",
+          "INTERCAL (programlingvo)"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Komputiko > Programlingvo > INTERCAL INTERCAL estas komputillingva \u015derco. \u011ciaj verkistoj diris, ke la nomo staras por la angla esprimo 'Compiler Language With No Pronounceable Acronym' (Kompilila Lingvo Kun Neniu Prononcebla Mallongigo). INTERCAL-on kreis Don Woods kaj James Lyons je 1972 kaj \u011di estas intence malsimila ol \u0109iuj aliaj komputillingvoj la\u016d \u0109iuj manieroj krom unu; \u011di estas pure skriba lingvo, \u0109ar \u011di estas tute neparolebla. Jena alineo el la INTERCAL-Gvidlibro klarigos la stilon de la lingvo: Maleviteble, INTERCAL havas TTT-ejon.",
+          "INTERCAL va ser creat l'any 1972, i probablement fou el primer llenguatge de programaci\u00f3 esot\u00e8ric (almenys conegut). Va ser dissenyat per Donald R. Woods i James M. Lyon amb la finalitat de crear un llenguatge sense semblan\u00e7a amb cap dels llenguatges de programaci\u00f3 ja existents, i ho varen aconseguir. La seva sintaxi consisteix en llistes d'instruccions peculiarment formulades, les quals sempre comen\u00e7aran per f\u00f3rmules d'educaci\u00f3 com per exemple PLEASE, PLEASE DO, DO, DO NOT, o PLEASE DO NOT.",
+          "INTERCAL es un lenguaje de programaci\u00f3n esot\u00e9rico dise\u00f1ado para ser extremadamente dif\u00edcil de entender. Es una parodia de los lenguajes de programaci\u00f3n FORTRAN y COBOL. Fue creado por Don Woods y James Lyons, estudiantes de Princeton, en 1972. La versi\u00f3n actual, C-INTERCAL, es mantenido por Eric S. Raymond. Los autores originales dicen que INTERCAL significa \"Compiled Language With No Pronounceable Acronym\" (\"Lenguaje compilado con ning\u00fan acr\u00f3nimo pronunciable\")",
+          "INTERCAL, abgek\u00fcrzt f\u00fcr Compiler Language With No Pronouncable Acronym (Compiler-Sprache ohne aussprechbares Akronym), ist eine esoterische Programmiersprache, die am 26. Mai 1972 von Donald R. Woods und James M. Lyon entwickelt wurde. Diese Implementation verwendete Lochkarten und EBCDIC. Bei der Umsetzung f\u00fcr ASCII mussten daher der Operator \u00a2 durch $ und \u22bb durch ? ersetzt werden. Erst 1990 wurde eine erste UNIX-Implementierung von Eric S. Raymond programmiert. Heute ist INTERCAL auch auf DOS verf\u00fcgbar. Aktuell stehen zwei Versionen zur Verf\u00fcgung: C-INTERCAL und CLC-INTERCAL. Daneben gibt es auch Threaded Intercal.",
+          "INTERCAL, uma linguagem de programa\u00e7\u00e3o par\u00f3dia, \u00e9 a linguagem de programa\u00e7\u00e3o esot\u00e9rica can\u00f4nica, criada por Don Woods e , dois estudantes da Universidade de Princeton, em 1972. Ela satiriza aspectos das linguagens de programa\u00e7\u00e3o FORTRAN e COBOL, assim como a prolifera\u00e7\u00e3o de construtores e nota\u00e7\u00f5es de linguagem propostos nos anos 1960. Conseq\u00fcentemente, o humor pode aparecer um pouco ultrapassado para os programadores modernos acostumados a C ou Java. A vers\u00e3o atual, C-INTERCAL, \u00e9 mantida por Eric S. Raymond.",
+          "INTERCAL \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u0445 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u0411\u044b\u043b \u0441\u043e\u0437\u0434\u0430\u043d \u0432 1972 \u0433\u043e\u0434\u0443 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u0430\u043c\u0438 \u0414\u043e\u043d\u043e\u043c \u0412\u0443\u0434\u0441\u043e\u043c \u0438 \u0414\u0436\u0435\u0439\u043c\u0441\u043e\u043c \u041b\u0430\u0439\u043e\u043d\u043e\u043c \u043a\u0430\u043a \u043f\u0430\u0440\u043e\u0434\u0438\u044f \u043d\u0430 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u044f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043a\u0430\u043a \u00ab\u0433\u0438\u043c\u043d\u0430\u0441\u0442\u0438\u043a\u0430 \u0434\u043b\u044f \u0443\u043c\u0430\u00bb; \u043a\u0430\u043a \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u044e\u0442 \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u0438, \u0435\u0433\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u00ab\u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441 \u043d\u0435\u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0441\u0438\u043c\u043e\u0439 \u0430\u0431\u0431\u0440\u0435\u0432\u0438\u0430\u0442\u0443\u0440\u043e\u0439\u00bb (\u0430\u043d\u0433\u043b. Compiler Language With No Pronounceable Acronym). \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0432\u0441\u044e \u044d\u043a\u0437\u043e\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c, INTERCAL \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u043b\u043d\u044b\u043c \u043f\u043e \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0443, \u0442\u043e \u0435\u0441\u0442\u044c \u043d\u0430 \u043d\u0451\u043c \u043c\u043e\u0436\u043d\u043e \u0432\u044b\u0440\u0430\u0437\u0438\u0442\u044c \u0432\u0441\u0451, \u0447\u0442\u043e \u0438 \u043d\u0430 \u043e\u0431\u044b\u0447\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f.",
+          "INTERCAL \u2014 \u043e\u0434\u043d\u0430 \u0437 \u043d\u0430\u0439\u0441\u0442\u0430\u0440\u0448\u0438\u0445 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0438\u0445 \u043c\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f. \u042f\u043a \u0441\u0442\u0432\u0435\u0440\u0434\u0436\u0443\u044e\u0442\u044c \u0442\u0432\u043e\u0440\u0446\u0456, \u0457\u0457 \u043d\u0430\u0437\u0432\u0430 \u043e\u0437\u043d\u0430\u0447\u0430\u0454 \u00ab\u041c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0437 \u043d\u0435\u0432\u0438\u043c\u043e\u0432\u043d\u043e\u044e \u0430\u0431\u0440\u0435\u0432\u0456\u0430\u0442\u0443\u0440\u043e\u044e\u00bb (\u0430\u043d\u0433\u043b. Compiler Language With No Pronounceable Acronym). \u041c\u043e\u0432\u0430 \u0431\u0443\u043b\u0430 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0430 \u0432 1972 \u0440\u043e\u0446\u0456 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u0430\u043c\u0438 \u0414\u043e\u043d\u043e\u043c \u0412\u0443\u0434\u0441\u043e\u043c (Don Woods) \u0456 \u0414\u0436\u0435\u0439\u043c\u0441\u043e\u043c \u041b\u0430\u0439\u043e\u043d\u0441\u043e\u043c (James Lions) \u044f\u043a \u043f\u0430\u0440\u043e\u0434\u0456\u044f \u043d\u0430 \u0456\u0441\u043d\u0443\u044e\u0447\u0456 \u043c\u043e\u0432\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0456 \u0433\u0456\u043c\u043d\u0430\u0441\u0442\u0438\u043a\u0430 \u0434\u043b\u044f \u0440\u043e\u0437\u0443\u043c\u0443. INTERCAL \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u043e\u0432\u043e \u0432\u0456\u0434\u0440\u0456\u0437\u043d\u044f\u0454\u0442\u044c\u0441\u044f \u0432\u0456\u0434 \u0456\u043d\u0448\u0438\u0445 \u043c\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f. \u0411\u0430\u0433\u0430\u0442\u043e \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u0438\u0445 \u043e\u043f\u0435\u0440\u0430\u0446\u0456\u0439 \u0443 \u043d\u0456\u0439 \u0432\u0438\u044f\u0432\u043b\u044f\u044e\u0442\u044c\u0441\u044f \u043d\u0435\u0442\u0440\u0438\u0432\u0456\u0430\u043b\u044c\u043d\u0438\u043c\u0438. \u041d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u043d\u0430\u0439\u043f\u0440\u043e\u0441\u0442\u0456\u0448\u0438\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u043c \u043f\u0440\u0438\u0432\u043b\u0430\u0441\u043d\u0438\u0442\u0438 \u0437\u043c\u0456\u043d\u043d\u0456\u0439 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f 65536 \u0454 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u044f: DO :1 <- #0$#256",
+          "INTERCAL \u2013 prawdopodobnie pierwszy ezoteryczny j\u0119zyk programowania. Jego oficjalna nazwa to CLWNPA, czyli Compiler Language With No Pronounceable Acronym (kompilowany j\u0119zyk o niewymawialnym skr\u00f3cie). Wygl\u0105dem przypomina asembler, lecz jego sk\u0142adnia jest tak skonstruowana, aby maksymalnie utrudni\u0107 pisanie program\u00f3w i uczyni\u0107 listingi jak najbardziej zagmatwanymi.",
+          "INTERCAL\u306f\u30d7\u30ed\u30b0\u30e9\u30e0\u8a00\u8a9e\u3002\u305d\u308c\u81ea\u8eab\u304c\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u30d1\u30ed\u30c7\u30a3\u306b\u3082\u306a\u3063\u3066\u304a\u308a\u3001\u5b9f\u7528\u8a00\u8a9e\u3067\u306f\u306a\u3044\u3002\u3044\u308f\u3086\u308b\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u5178\u578b\u4f8b\u3068\u3057\u3066\u77e5\u3089\u308c\u3066\u3044\u308b\u3002 INTERCAL\u306f\u3001FORTRAN\u3084COBOL\u306f\u3082\u3061\u308d\u3093\u30011960\u5e74\u4ee3\u306b\u63d0\u6848\u3055\u308c\u305f\u6570\u3005\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u69cb\u9020\u3084\u8868\u8a18\u6cd5\u3082\u76ae\u8089\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3044\u308b\u3002\u305d\u306e\u305f\u3081\u3001C\u3084Java\u306b\u6163\u308c\u89aa\u3057\u3093\u3060\u4eca\u65e5\u306e\u89b3\u70b9\u304b\u3089\u3059\u308b\u3068\u3001\u305d\u306e\u30e6\u30fc\u30e2\u30a2\u306f\u5c11\u3005\u6642\u4ee3\u9045\u308c\u306b\u611f\u3058\u3089\u308c\u308b\u90e8\u5206\u3082\u3042\u308b\u3002",
+          "INTERCAL est une parodie de langage de programmation, et la r\u00e9f\u00e9rence canonique des langages de programmation exotiques. Ce langage a \u00e9t\u00e9 cr\u00e9\u00e9 par Don Woods et (ru), deux \u00e9tudiants de l'Universit\u00e9 de Princeton, en 1972. Il tourne en d\u00e9rision certains aspects des langages de programmation de l'\u00e9poque, ainsi que la prolif\u00e9ration des propositions de construction de langage et de notation dans les ann\u00e9es 1960. En cons\u00e9quence, son humour peut para\u00eetre plut\u00f4t d\u00e9suet pour des lecteurs modernes ayant grandi avec le C ou le Java. Selon le manuel original des auteurs :",
+          "INTERCAL \u00e4r det mest popul\u00e4ra av en liten samling , som mest fungerar som skrattspeglar och mentala utmaningar f\u00f6r inbitna programmerare. Programspr\u00e5ket skapades en morgon den 26 maj 1972 av och p\u00e5 Princeton-universitetet, i syfte att skapa ett programspr\u00e5k som skilde sig fr\u00e5n alla andra programspr\u00e5k konstrukt\u00f6rerna st\u00f6tt p\u00e5. Inte desto mindre \u00e4r det ett imperativt programspr\u00e5k med subrutiner, goto-satser, variabler och arrayer, men dess syntax \u00e4r t\u00e4mligen sv\u00e5rl\u00e4st, vilket givetvis \u00e4r avsikten. Ett alldeles unikt s\u00e4rdrag i senare versioner \u00e4r COME FROM-satsen som anger att en annan sats n\u00e5gonstans skall hoppa till COME FROM-raden, vilket g\u00f6r programmen \u00e4nnu mer sv\u00e5rl\u00e4sta. Typisk \u00e4r ocks\u00e5 PLEASE-satsen, som inte utf\u00f6r n\u00e5got, men m\u00e5ste finnas med tillr\u00e4ckligt ofta i k\u00e4llkoden.",
+          "INTERCAL programazio lengoaia esoterikoa da oso zaila ulertzeko diseinatua izan dena. FORTRAN eta COBOL lengoaien parodia da. Don Woods eta James Lyons Princeton-eko ikasleak asmatu zuten, 1972. urtean. Egungo bertsioa, C-INTERCAL deritzona, Eric S. Raymond-ek mantentzen du. Jatorrizko egileen arabera, INTERCAL \u201cCompiled Language With No Pronounceable Acronym\u201d (\u201cKonpilatutako lengoaia inolako akronimo ebakigarririk\u201d) esan nahi du.",
+          "The Compiler Language With No Pronounceable Acronym (INTERCAL) is an esoteric programming language that was created as a parody by Don Woods and , two Princeton University students, in 1972. It satirizes aspects of the various programming languages at the time, as well as the proliferation of proposed language constructs and notations in the 1960s. There are two maintained implementations of INTERCAL dialects: C-INTERCAL (created in 1990), maintained by Eric S. Raymond and Alex Smith, and CLC-INTERCAL, maintained by Claudio Calvelli.",
+          "\uc778\ud130\uce7c(INTERCAL)\uc740 1972\ub144\uc5d0 \ubc1c\ud45c\ub41c \uace0\uc804\uc801\uc778 \ub09c\ud574\ud55c \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c, \ud3ec\ud2b8\ub780\uacfc \ucf54\ubcfc\uc758 \ud328\ub7ec\ub514\uc774\ub2e4."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/homepage",
+        "Values": [
+          "http://www.catb.org/~esr/intercal/"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Jimbo_Lyon.jpg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Don_Woods.jpg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/INTERCAL_Circuitous_Diagram.svg"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1972",
+          "http://dbpedia.org/resource/Category:Computer_humor",
+          "http://dbpedia.org/resource/Category:Parodies",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "15075"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1115237667"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/GitHub",
+          "http://dbpedia.org/resource/Tonsil",
+          "http://dbpedia.org/resource/File:INTERCAL_Circuitous_Diagram.svg",
+          "http://dbpedia.org/resource/Jargon_File",
+          "http://dbpedia.org/resource/Quantum_computing",
+          "http://dbpedia.org/resource/Stack_(data_structure)",
+          "http://dbpedia.org/resource/Turing-complete",
+          "http://dbpedia.org/resource/Exclusive-or",
+          "http://dbpedia.org/resource/Esoteric_programming_language",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/.NET_Framework",
+          "http://dbpedia.org/resource/.NET",
+          "http://dbpedia.org/resource/Scalar_(computing)",
+          "http://dbpedia.org/resource/Punched_card",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1972",
+          "http://dbpedia.org/resource/Universal_Turing_machine",
+          "http://dbpedia.org/resource/Radix",
+          "http://dbpedia.org/resource/Backspace",
+          "http://dbpedia.org/resource/Decimal",
+          "http://dbpedia.org/resource/Ampersand",
+          "http://dbpedia.org/resource/Nitrome",
+          "http://dbpedia.org/resource/Sun_Microsystems",
+          "http://dbpedia.org/resource/Latin-1",
+          "http://dbpedia.org/resource/Integer",
+          "http://dbpedia.org/resource/Ternary_numeral_system",
+          "http://dbpedia.org/resource/Category:Computer_humor",
+          "http://dbpedia.org/resource/COME_FROM",
+          "http://dbpedia.org/resource/File:Jimbo_Lyon.jpg",
+          "http://dbpedia.org/resource/Don_Woods_(programmer)",
+          "http://dbpedia.org/resource/Unary_operation",
+          "http://dbpedia.org/resource/Eric_S._Raymond",
+          "http://dbpedia.org/resource/Array_data_type",
+          "http://dbpedia.org/resource/Input/output",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/Sieve_of_Eratosthenes",
+          "http://dbpedia.org/resource/Roman_numerals",
+          "http://dbpedia.org/resource/Data_type",
+          "http://dbpedia.org/resource/Hello_world_program",
+          "http://dbpedia.org/resource/Bit",
+          "http://dbpedia.org/resource/Thread_(computer_science)",
+          "http://dbpedia.org/resource/ASCII",
+          "http://dbpedia.org/resource/UTF-8",
+          "http://dbpedia.org/resource/EBCDIC",
+          "http://dbpedia.org/resource/COMEFROM",
+          "http://dbpedia.org/resource/SPARCstation_1",
+          "http://dbpedia.org/resource/README",
+          "http://dbpedia.org/resource/Undocumented_feature",
+          "http://dbpedia.org/resource/Parody",
+          "http://dbpedia.org/resource/Princeton_University",
+          "http://dbpedia.org/resource/Trit_(computing)",
+          "http://dbpedia.org/resource/Most_significant_bit",
+          "http://dbpedia.org/resource/File:Don_Woods.jpg",
+          "http://dbpedia.org/resource/Category:Parodies"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "http://www.catb.org/~esr/intercal/paper.html",
+          "http://www.techworld.com.au/article/251892/-z_programming_languages_intercal",
+          "http://www.muppetlabs.com/~breadbox/intercal/",
+          "http://www.catb.org/~esr/intercal/"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://uk.dbpedia.org/resource/INTERCAL",
+          "http://sk.dbpedia.org/resource/Intercal",
+          "http://ko.dbpedia.org/resource/\uc778\ud130\uce7c",
+          "http://sv.dbpedia.org/resource/INTERCAL",
+          "http://pt.dbpedia.org/resource/INTERCAL",
+          "http://es.dbpedia.org/resource/INTERCAL",
+          "http://da.dbpedia.org/resource/INTERCAL",
+          "http://eo.dbpedia.org/resource/INTERCAL_(programlingvo)",
+          "http://eu.dbpedia.org/resource/INTERCAL",
+          "http://pl.dbpedia.org/resource/INTERCAL",
+          "http://rdf.freebase.com/ns/m.03wxr",
+          "http://ja.dbpedia.org/resource/INTERCAL",
+          "http://ca.dbpedia.org/resource/INTERCAL",
+          "http://hu.dbpedia.org/resource/INTERCAL_(programoz\u00e1si_nyelv)",
+          "http://fr.dbpedia.org/resource/INTERCAL",
+          "http://yago-knowledge.org/resource/INTERCAL",
+          "https://global.dbpedia.org/id/8QYr",
+          "http://no.dbpedia.org/resource/INTERCAL",
+          "http://ru.dbpedia.org/resource/INTERCAL",
+          "http://de.dbpedia.org/resource/INTERCAL",
+          "http://et.dbpedia.org/resource/INTERCAL",
+          "http://www.wikidata.org/entity/Q1054365",
+          "http://sr.dbpedia.org/resource/INTERCAL",
+          "http://he.dbpedia.org/resource/INTERCAL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Quote",
+          "http://dbpedia.org/resource/Template:As_of",
+          "http://dbpedia.org/resource/Template:Ill",
+          "http://dbpedia.org/resource/Template:Commons_category",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Reflist"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Don_Woods.jpg?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "INTERCAL \u2014 \u043e\u0434\u043d\u0430 \u0437 \u043d\u0430\u0439\u0441\u0442\u0430\u0440\u0448\u0438\u0445 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0438\u0445 \u043c\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f. \u042f\u043a \u0441\u0442\u0432\u0435\u0440\u0434\u0436\u0443\u044e\u0442\u044c \u0442\u0432\u043e\u0440\u0446\u0456, \u0457\u0457 \u043d\u0430\u0437\u0432\u0430 \u043e\u0437\u043d\u0430\u0447\u0430\u0454 \u00ab\u041c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0437 \u043d\u0435\u0432\u0438\u043c\u043e\u0432\u043d\u043e\u044e \u0430\u0431\u0440\u0435\u0432\u0456\u0430\u0442\u0443\u0440\u043e\u044e\u00bb (\u0430\u043d\u0433\u043b. Compiler Language With No Pronounceable Acronym). \u041c\u043e\u0432\u0430 \u0431\u0443\u043b\u0430 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0430 \u0432 1972 \u0440\u043e\u0446\u0456 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u0430\u043c\u0438 \u0414\u043e\u043d\u043e\u043c \u0412\u0443\u0434\u0441\u043e\u043c (Don Woods) \u0456 \u0414\u0436\u0435\u0439\u043c\u0441\u043e\u043c \u041b\u0430\u0439\u043e\u043d\u0441\u043e\u043c (James Lions) \u044f\u043a \u043f\u0430\u0440\u043e\u0434\u0456\u044f \u043d\u0430 \u0456\u0441\u043d\u0443\u044e\u0447\u0456 \u043c\u043e\u0432\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0456 \u0433\u0456\u043c\u043d\u0430\u0441\u0442\u0438\u043a\u0430 \u0434\u043b\u044f \u0440\u043e\u0437\u0443\u043c\u0443. INTERCAL \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u043e\u0432\u043e \u0432\u0456\u0434\u0440\u0456\u0437\u043d\u044f\u0454\u0442\u044c\u0441\u044f \u0432\u0456\u0434 \u0456\u043d\u0448\u0438\u0445 \u043c\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f. \u0411\u0430\u0433\u0430\u0442\u043e \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u0438\u0445 \u043e\u043f\u0435\u0440\u0430\u0446\u0456\u0439 \u0443 \u043d\u0456\u0439 \u0432\u0438\u044f\u0432\u043b\u044f\u044e\u0442\u044c\u0441\u044f \u043d\u0435\u0442\u0440\u0438\u0432\u0456\u0430\u043b\u044c\u043d\u0438\u043c\u0438. \u041d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u043d\u0430\u0439\u043f\u0440\u043e\u0441\u0442\u0456\u0448\u0438\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u043c \u043f\u0440\u0438\u0432\u043b\u0430\u0441\u043d\u0438\u0442\u0438 \u0437\u043c\u0456\u043d\u043d\u0456\u0439 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f 65536 \u0454 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u044f: DO :1 <- #0$#256 \u0410\u0432\u0442\u043e\u0440\u0438 \u043d\u0430\u0441\u0438\u0442\u0438\u043b\u0438 \u043c\u043e\u0432\u0443 \u043f\u0430\u0440\u0430\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u044f\u043c\u0438, \u0442\u0430\u043a\u0438\u043c\u0438 \u044f\u043a COME FROM, FORGET \u0456 \u043d\u0430\u0432\u0456\u0442\u044c PLEASE ABSTAY OF CALCULATING (\u0431\u0443\u0434\u044c \u043b\u0430\u0441\u043a\u0430, \u0443\u0442\u0440\u0438\u043c\u0430\u0439\u0441\u044f \u0432\u0456\u0434 \u043e\u0431\u0447\u0438\u0441\u043b\u0435\u043d\u044c). \u041d\u0430\u0432\u0456\u0442\u044c \u0434\u043b\u044f \u0441\u0438\u043c\u0432\u043e\u043b\u0456\u0432 \u0431\u0443\u043b\u0438 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0456 \u0441\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0456 \u0456\u043c\u0435\u043d\u0430, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u043b\u0430\u043f\u043a\u0438 \" \u0456 \u0437\u043d\u0430\u043a \u0440\u0456\u0432\u043d\u043e\u0441\u0442\u0456 = \u043d\u0430\u0437\u0438\u0432\u0430\u044e\u0442\u044c\u0441\u044f \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u043e \u00ab\u043a\u0440\u043e\u043b\u044f\u0447\u0456 \u0432\u0443\u0445\u0430\u00bb \u0456 \u00ab\u043f\u0456\u0432\u0433\u0440\u0430\u0442\u043a\u0438\u00bb (\u043c\u0430\u0454\u0442\u044c\u0441\u044f \u043d\u0430 \u0443\u0432\u0430\u0437\u0456 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0430 \u0437\u043d\u0430\u043a\u0443 #). \u041f\u043e\u043f\u0440\u0438 \u0432\u0441\u044e \u0435\u043a\u0437\u043e\u0442\u0438\u0447\u043d\u0456\u0441\u0442\u044c, INTERCAL \u0454 \u043f\u043e\u0432\u043d\u043e\u044e \u0437\u0430 \u0422\u044e\u0440\u0438\u043d\u0433\u043e\u043c, \u0442\u043e\u0431\u0442\u043e \u043d\u0435\u044e \u043c\u043e\u0436\u043d\u0430 \u043e\u0431\u0447\u0438\u0441\u043b\u0438\u0442\u0438 \u0432\u0441\u0435 \u0442\u0435, \u0449\u043e \u043c\u043e\u0436\u043d\u0430 \u043e\u0431\u0447\u0438\u0441\u043b\u0438\u0442\u0438 \u0456 \u0437\u0432\u0438\u0447\u043d\u0456\u0448\u0438\u043c\u0438 \u043c\u043e\u0432\u0430\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f.",
+          "INTERCAL va ser creat l'any 1972, i probablement fou el primer llenguatge de programaci\u00f3 esot\u00e8ric (almenys conegut). Va ser dissenyat per Donald R. Woods i James M. Lyon amb la finalitat de crear un llenguatge sense semblan\u00e7a amb cap dels llenguatges de programaci\u00f3 ja existents, i ho varen aconseguir. La seva sintaxi consisteix en llistes d'instruccions peculiarment formulades, les quals sempre comen\u00e7aran per f\u00f3rmules d'educaci\u00f3 com per exemple PLEASE, PLEASE DO, DO, DO NOT, o PLEASE DO NOT.",
+          "INTERCAL, abgek\u00fcrzt f\u00fcr Compiler Language With No Pronouncable Acronym (Compiler-Sprache ohne aussprechbares Akronym), ist eine esoterische Programmiersprache, die am 26. Mai 1972 von Donald R. Woods und James M. Lyon entwickelt wurde. Diese Implementation verwendete Lochkarten und EBCDIC. Bei der Umsetzung f\u00fcr ASCII mussten daher der Operator \u00a2 durch $ und \u22bb durch ? ersetzt werden. Erst 1990 wurde eine erste UNIX-Implementierung von Eric S. Raymond programmiert. Heute ist INTERCAL auch auf DOS verf\u00fcgbar. Aktuell stehen zwei Versionen zur Verf\u00fcgung: C-INTERCAL und CLC-INTERCAL. Daneben gibt es auch Threaded Intercal. INTERCAL wurde mit dem Ziel entwickelt, Programmiersprachen zu parodieren sowie das Programmieren schwierig zu gestalten und die entstehenden Programme effektiv unlesbar zu machen. Insofern \u00e4hnelt INTERCAL keiner der bekannten Programmiersprachen, hat sehr wenige Sprachkonstrukte und ist schwierig zu erlernen. INTERCAL wird von einer kleinen Fan-Gemeinde gepflegt und kann dem interessierten Programmierer zur Erheiterung oder R\u00e4tsell\u00f6sung dienen. Auf einer SUN SPARCStation-1 ben\u00f6tigte ein INTERCAL-Programm \u00fcber 17 Stunden, um mittels des Sieb des Eratosthenes s\u00e4mtliche Primzahlen kleiner als 65536 zu berechnen (in anderen Programmiersprachen weniger als eine Sekunde). Auf einer IBM 360/91 dauerte es 30 Sekunden, um einen 16-bit Integer (d. h. eine Zahl kleiner als 65536) zu dividieren.",
+          "INTERCAL \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u0445 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u0411\u044b\u043b \u0441\u043e\u0437\u0434\u0430\u043d \u0432 1972 \u0433\u043e\u0434\u0443 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u0430\u043c\u0438 \u0414\u043e\u043d\u043e\u043c \u0412\u0443\u0434\u0441\u043e\u043c \u0438 \u0414\u0436\u0435\u0439\u043c\u0441\u043e\u043c \u041b\u0430\u0439\u043e\u043d\u043e\u043c \u043a\u0430\u043a \u043f\u0430\u0440\u043e\u0434\u0438\u044f \u043d\u0430 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u044f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043a\u0430\u043a \u00ab\u0433\u0438\u043c\u043d\u0430\u0441\u0442\u0438\u043a\u0430 \u0434\u043b\u044f \u0443\u043c\u0430\u00bb; \u043a\u0430\u043a \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u044e\u0442 \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u0438, \u0435\u0433\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u00ab\u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441 \u043d\u0435\u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0441\u0438\u043c\u043e\u0439 \u0430\u0431\u0431\u0440\u0435\u0432\u0438\u0430\u0442\u0443\u0440\u043e\u0439\u00bb (\u0430\u043d\u0433\u043b. Compiler Language With No Pronounceable Acronym). \u041f\u0440\u0438\u043d\u0446\u0438\u043f\u0438\u0430\u043b\u044c\u043d\u043e \u043e\u0442\u043b\u0438\u0447\u0430\u0435\u0442\u0441\u044f \u043e\u0442 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043c\u043d\u043e\u0433\u0438\u0435 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0435 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0438 \u0432 \u043d\u0451\u043c \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0435\u0442\u0440\u0438\u0432\u0438\u0430\u043b\u044c\u043d\u044b\u043c\u0438, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043f\u0440\u043e\u0441\u0442\u0435\u0439\u0448\u0438\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u043c \u043f\u0440\u0438\u0441\u0432\u043e\u0438\u0442\u044c \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 65536 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f: DO :1 <- #0$#256. \u0410\u0432\u0442\u043e\u0440\u044b \u043d\u0430\u0441\u044b\u0442\u0438\u043b\u0438 \u044f\u0437\u044b\u043a \u043f\u0430\u0440\u0430\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430\u043c\u0438, \u0442\u0430\u043a\u0438\u043c\u0438 \u043a\u0430\u043a <span data-interwiki-lang=\"en\" data-interwiki-article=\"COME FROM\"><a href=\"/w/index.php?title=COME_FROM&action=edit&redlink=1\" class=\"new\" title=\"COME FROM (\u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442)\">COME FROM</a></span>, FORGET \u0438 \u0434\u0430\u0436\u0435 PLEASE ABSTAIN FROM CALCULATING (\u00ab\u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u043e\u0437\u0434\u0435\u0440\u0436\u0438\u0441\u044c \u043e\u0442 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439\u00bb). \u0414\u0430\u0436\u0435 \u0434\u043b\u044f \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u0431\u044b\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u044b \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0438\u043c\u0435\u043d\u0430, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043a\u0430\u0432\u044b\u0447\u043a\u0438 \" \u0438 \u0437\u043d\u0430\u043a \u0440\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u0430 = \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e \u00ab\u043a\u0440\u043e\u043b\u0438\u0447\u044c\u0438 \u0443\u0448\u0438\u00bb \u0438 \u00ab\u043f\u043e\u043b\u0440\u0435\u0448\u0451\u0442\u043a\u0438\u00bb (\u0438\u043c\u0435\u0435\u0442\u0441\u044f \u0432 \u0432\u0438\u0434\u0443 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0430 \u0437\u043d\u0430\u043a\u0430 #). \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0432\u0441\u044e \u044d\u043a\u0437\u043e\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u044c, INTERCAL \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u043e\u043b\u043d\u044b\u043c \u043f\u043e \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0443, \u0442\u043e \u0435\u0441\u0442\u044c \u043d\u0430 \u043d\u0451\u043c \u043c\u043e\u0436\u043d\u043e \u0432\u044b\u0440\u0430\u0437\u0438\u0442\u044c \u0432\u0441\u0451, \u0447\u0442\u043e \u0438 \u043d\u0430 \u043e\u0431\u044b\u0447\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u041f\u0430\u0440\u0430\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0430\u0434\u0443\u043c\u043a\u0438 INTERCAL \u043f\u043e\u0441\u043b\u0443\u0436\u0438\u043b\u0438 \u0438\u0434\u0435\u0439\u043d\u043e\u0439 \u043e\u0441\u043d\u043e\u0432\u043e\u0439 \u043f\u0440\u0438 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0438 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0432\u0448\u0438\u0445 \u0437\u0430 \u043d\u0438\u043c \u0435\u0449\u0451 \u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u043e\u0449\u0440\u0451\u043d\u043d\u044b\u0445 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432, \u0442\u0430\u043a\u0438\u0445 \u043a\u0430\u043a Befunge, Brainfuck, Malbolge, Unlambda.",
+          "INTERCAL, uma linguagem de programa\u00e7\u00e3o par\u00f3dia, \u00e9 a linguagem de programa\u00e7\u00e3o esot\u00e9rica can\u00f4nica, criada por Don Woods e , dois estudantes da Universidade de Princeton, em 1972. Ela satiriza aspectos das linguagens de programa\u00e7\u00e3o FORTRAN e COBOL, assim como a prolifera\u00e7\u00e3o de construtores e nota\u00e7\u00f5es de linguagem propostos nos anos 1960. Conseq\u00fcentemente, o humor pode aparecer um pouco ultrapassado para os programadores modernos acostumados a C ou Java. A vers\u00e3o atual, C-INTERCAL, \u00e9 mantida por Eric S. Raymond. Os autores originais dizem que INTERCAL significa \"Compiler Language With No Pronounceable Acronym\" (Compilador de Linguagem Sem Acr\u00f4nimo Pronunci\u00e1vel). A INTERCAL \u00e9 propositadamente diferente de todas as outras linguagens de computador. Opera\u00e7\u00f5es comuns em outras linguagens s\u00e3o realizadas com sintaxe redundade e secreta. Do manual de refer\u00eancia da INTERCAL: \u00c9 um fato conhecido e freq\u00fcentemente demonstrado o de que a pessoa cujo trabalho \u00e9 incompreens\u00edvel \u00e9 tida com grande admira\u00e7\u00e3o. Por exemplo, se algu\u00e9m estivesse para definir que a maneira mais simples para se armazenar um valor de 65536 em uma vari\u00e1vel de 32 bits da INTERCAL \u00e9:DO :1 \u2190 #0\u00a2#256Qualquer programador sensato diria que isto \u00e9 um absurdo. J\u00e1 que este certamente \u00e9 o m\u00e9todo mais simples, o programador pareceria bobo em frente ao chefe, que, claro, apareceria por acaso, como os chefes est\u00e3o acostumados a fazer. O efeito seria n\u00e3o menos devastador para o programador tendo estado certo. O manual de refer\u00eancia da INTERCAL \u00e9 um trabalho de humor, contendo v\u00e1rias instru\u00e7\u00f5es paradoxais, absurdas ou ent\u00e3o humor\u00edsticas: Cuidado! Sob nenhuma circunst\u00e2ncia confunda o operador mesh com o interleave, exceto sob circunst\u00e2ncias confusas! Ele possui uma \"am\u00edgdala\", como explicado nesta nota de rodap\u00e9: \"4) J\u00e1 que todos os outros manuais de refer\u00eancia possuem ap\u00eandices, foi decidido que o manual INTERCAL deve conter algum outro tipo de \u00f3rg\u00e3o remov\u00edvel.\" A INTERCAL possui v\u00e1rias outras caracter\u00edsticas projetadas para faz\u00ea-la ainda mais inest\u00e9ticamente desagrad\u00e1vel para o programador: ela usa instru\u00e7\u00f5es como \"READ OUT\", \"IGNORE\" (ignorar), \"FORGET\" (esquecer) e \"PLEASE\" (por favor). O manual da INTERCAL d\u00e1 nomes incomuns para todos os caracteres ASCII n\u00e3o-alfanum\u00e9ricos: aspas simples e duplas s\u00e3o \"fa\u00edscas\" e \"orelhas de coelho\" respectivamente. A exce\u00e7\u00e3o \u00e9 o ampersand (&): como o define o Jargon File, \"o que poderia ser mais est\u00fapido?\". O operador de atribui\u00e7\u00e3o, representado como \"meia malha\" ou sinal de igual em v\u00e1rias outras linguagens de programa\u00e7\u00e3o, \u00e9 na INTERCAL um \"\u2190\", referido como \"pega\" e feito por um \"\u00e2ngulo\" e um \"verme\". A implementa\u00e7\u00e3o original de Princeton utilizava cart\u00f5es perfurados e a codifica\u00e7\u00e3o de caracteres EBCDIC. A fim de se permitir que a INTERCAL fosse executada em computadores usando ASCII, substitui\u00e7\u00f5es para dois caracteres foram feitas: \u00a2 foi substitu\u00eddo por $ como operador mingle para \"representar o crescente custo do software em rela\u00e7\u00e3o ao do hardware\", e \u2200 foi substitu\u00eddo por ? como o operador un\u00e1rio ou-exclusivo para \"expressar corretamente a rea\u00e7\u00e3o comum de uma pessoa ao encontrar o ou-exclusivo pela primeira vez\". Apesar de ser intencionalmente obtusa e palavrosa, a INTERCAL \u00e9 contudo Turing completa: dada mem\u00f3ria suficiente, a INTERCAL pode resolver qualquer problema que uma m\u00e1quina de Turing universal pode. Por\u00e9m, o faz bem lentamente. Um modelo do Crivo de Erat\u00f3stenes, computando todos os n\u00fameros primos menores que 65536, foi testado em um Sun SPARCStation-1. Em C, demorou menos de 0,5 segundo. O mesmo programa em INTERCAL demorou mais de dezessete horas. (Stross, 1992) Deve-se notar que quase nenhuma linguagem de programa\u00e7\u00e3o permite horrores notacionais tanto quanto ou mais que a INTERCAL, como demonstrado em disputas como o International Obfuscated C Code Contest (Concurso Internacional de C\u00f3digo C Ofuscado). Por\u00e9m, estes geralmente s\u00e3o esfor\u00e7os intencionais para se criar c\u00f3digos ileg\u00edveis, em contraste ao projeto da INTERCAL, que for\u00e7a praticamente todo c\u00f3digo a ser ileg\u00edvel. De acordo com o manual da INTERCAL, \"o objetivo ao se projetar a INTERCAL era n\u00e3o ter precedentes\", supostamente nem em caracter\u00edsticas de controle de fluxo, nem em operadores de manipula\u00e7\u00e3o de dados. Os projetistas foram parcialmente bem-sucedidos; o \u00fanico precedente conhecido \u00e9 uma instru\u00e7\u00e3o de m\u00e1quina [1] em um computador mainframe sovi\u00e9tico , lan\u00e7ado em 1967, que \u00e9 efetivamente equivalente ao operador SELECT da INTERCAL.",
+          "INTERCAL est une parodie de langage de programmation, et la r\u00e9f\u00e9rence canonique des langages de programmation exotiques. Ce langage a \u00e9t\u00e9 cr\u00e9\u00e9 par Don Woods et (ru), deux \u00e9tudiants de l'Universit\u00e9 de Princeton, en 1972. Il tourne en d\u00e9rision certains aspects des langages de programmation de l'\u00e9poque, ainsi que la prolif\u00e9ration des propositions de construction de langage et de notation dans les ann\u00e9es 1960. En cons\u00e9quence, son humour peut para\u00eetre plut\u00f4t d\u00e9suet pour des lecteurs modernes ayant grandi avec le C ou le Java. Selon le manuel original des auteurs : \u00ab Le nom complet du compilateur est \u00ab Langage compil\u00e9 n'ayant aucun acronyme pronon\u00e7able \u00bb, ce que, pour d'\u00e9videntes raisons, nous abr\u00e9gerons en \u00ab INTERCAL \u00bb. \u00bb Il existe actuellement[Quand ?] deux versions maintenues d'INTERCAL : C-INTERCAL (maintenu par Eric S. Raymond), et CLC-INTERCAL (maintenu par Claudio Calvelli).",
+          "Komputiko > Programlingvo > INTERCAL INTERCAL estas komputillingva \u015derco. \u011ciaj verkistoj diris, ke la nomo staras por la angla esprimo 'Compiler Language With No Pronounceable Acronym' (Kompilila Lingvo Kun Neniu Prononcebla Mallongigo). INTERCAL-on kreis Don Woods kaj James Lyons je 1972 kaj \u011di estas intence malsimila ol \u0109iuj aliaj komputillingvoj la\u016d \u0109iuj manieroj krom unu; \u011di estas pure skriba lingvo, \u0109ar \u011di estas tute neparolebla. Jena alineo el la INTERCAL-Gvidlibro klarigos la stilon de la lingvo: Estas bone konata kaj ofte montrata fakto, ke persono, kies laboro estas nekomprenebla, estas altestimata. Ekzemple, se oni dirus, ke la plej simpla maniero por konservi la valoron 65536 en 32-bita INTERCAL-a variablo estas:DO :1 <- #0$#256iu malfreneza programisto dirus, ke tio estas absurda. \u0108ar \u0109i tiu vere estas la plej simpla maniero, la programisto \u015dajnus malsa\u011da anta\u016d lia estro, kiu kompreneble hazarde alvenis, la\u016d la kutimo de estroj. La efiko estus ne malpli embarasa pro la fakto, ke la programisto pravis. INTERCAL havas multajn aliajn strangajn kapablojn desegnitajn por plineparolebligi \u011din. La versio de Woods kaj Lyons estas vere uzita de multaj (nu, minimume kelkaj) personoj \u0109e Universitato Princeton. La lingvo estis lastatempe reverkata kiel C-INTERCAL kaj konsekvence \u011duas novan nivelon de malpopulareco. E\u0109 ekzistas nova\u0135grupo, alt.lang.intercal por la studado kaj ... valorado de la lingvo \u0109e Uzreto. Maleviteble, INTERCAL havas TTT-ejon.",
+          "INTERCAL es un lenguaje de programaci\u00f3n esot\u00e9rico dise\u00f1ado para ser extremadamente dif\u00edcil de entender. Es una parodia de los lenguajes de programaci\u00f3n FORTRAN y COBOL. Fue creado por Don Woods y James Lyons, estudiantes de Princeton, en 1972. La versi\u00f3n actual, C-INTERCAL, es mantenido por Eric S. Raymond. Los autores originales dicen que INTERCAL significa \"Compiled Language With No Pronounceable Acronym\" (\"Lenguaje compilado con ning\u00fan acr\u00f3nimo pronunciable\") DO ,1 SUB #5 <- #64DO ,1 SUB #6 <- #194DO ,1 SUB #7 <- #48PLEASE DO ,1 SUB #8 <- #22DO ,1 SUB #9 <- #248DO ,1 SUB #10 <- #168DO ,1 SUB #11 <- #24DO ,1 SUB #12 <- #16DO ,1 SUB #13 <- #162PLEASE READ OUT ,1PLEASE GIVE UP Una de las caracter\u00edsticas m\u00e1s peculiares de INTERCAL es que en lugar de tener la sentencia <a href=\"/wiki/GOTO\" title=\"GOTO\">GOTO</a> (desaconsejada por Edsger Dijkstra) tiene la instrucci\u00f3n COME FROM #, que indica que cuando se ha ejecutado la sentencia # se salta a la siguiente sentencia despu\u00e9s de COME FROM #.",
+          "INTERCAL\u306f\u30d7\u30ed\u30b0\u30e9\u30e0\u8a00\u8a9e\u3002\u305d\u308c\u81ea\u8eab\u304c\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u30d1\u30ed\u30c7\u30a3\u306b\u3082\u306a\u3063\u3066\u304a\u308a\u3001\u5b9f\u7528\u8a00\u8a9e\u3067\u306f\u306a\u3044\u3002\u3044\u308f\u3086\u308b\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u5178\u578b\u4f8b\u3068\u3057\u3066\u77e5\u3089\u308c\u3066\u3044\u308b\u3002 INTERCAL\u306f\u3001FORTRAN\u3084COBOL\u306f\u3082\u3061\u308d\u3093\u30011960\u5e74\u4ee3\u306b\u63d0\u6848\u3055\u308c\u305f\u6570\u3005\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u69cb\u9020\u3084\u8868\u8a18\u6cd5\u3082\u76ae\u8089\u306e\u5bfe\u8c61\u3068\u3057\u3066\u3044\u308b\u3002\u305d\u306e\u305f\u3081\u3001C\u3084Java\u306b\u6163\u308c\u89aa\u3057\u3093\u3060\u4eca\u65e5\u306e\u89b3\u70b9\u304b\u3089\u3059\u308b\u3068\u3001\u305d\u306e\u30e6\u30fc\u30e2\u30a2\u306f\u5c11\u3005\u6642\u4ee3\u9045\u308c\u306b\u611f\u3058\u3089\u308c\u308b\u90e8\u5206\u3082\u3042\u308b\u3002",
+          "INTERCAL \u2013 prawdopodobnie pierwszy ezoteryczny j\u0119zyk programowania. Jego oficjalna nazwa to CLWNPA, czyli Compiler Language With No Pronounceable Acronym (kompilowany j\u0119zyk o niewymawialnym skr\u00f3cie). Wygl\u0105dem przypomina asembler, lecz jego sk\u0142adnia jest tak skonstruowana, aby maksymalnie utrudni\u0107 pisanie program\u00f3w i uczyni\u0107 listingi jak najbardziej zagmatwanymi.",
+          "INTERCAL programazio lengoaia esoterikoa da oso zaila ulertzeko diseinatua izan dena. FORTRAN eta COBOL lengoaien parodia da. Don Woods eta James Lyons Princeton-eko ikasleak asmatu zuten, 1972. urtean. Egungo bertsioa, C-INTERCAL deritzona, Eric S. Raymond-ek mantentzen du. Jatorrizko egileen arabera, INTERCAL \u201cCompiled Language With No Pronounceable Acronym\u201d (\u201cKonpilatutako lengoaia inolako akronimo ebakigarririk\u201d) esan nahi du.",
+          "The Compiler Language With No Pronounceable Acronym (INTERCAL) is an esoteric programming language that was created as a parody by Don Woods and , two Princeton University students, in 1972. It satirizes aspects of the various programming languages at the time, as well as the proliferation of proposed language constructs and notations in the 1960s. There are two maintained implementations of INTERCAL dialects: C-INTERCAL (created in 1990), maintained by Eric S. Raymond and Alex Smith, and CLC-INTERCAL, maintained by Claudio Calvelli.",
+          "\uc778\ud130\uce7c(INTERCAL)\uc740 1972\ub144\uc5d0 \ubc1c\ud45c\ub41c \uace0\uc804\uc801\uc778 \ub09c\ud574\ud55c \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c, \ud3ec\ud2b8\ub780\uacfc \ucf54\ubcfc\uc758 \ud328\ub7ec\ub514\uc774\ub2e4.",
+          "INTERCAL \u00e4r det mest popul\u00e4ra av en liten samling , som mest fungerar som skrattspeglar och mentala utmaningar f\u00f6r inbitna programmerare. Programspr\u00e5ket skapades en morgon den 26 maj 1972 av och p\u00e5 Princeton-universitetet, i syfte att skapa ett programspr\u00e5k som skilde sig fr\u00e5n alla andra programspr\u00e5k konstrukt\u00f6rerna st\u00f6tt p\u00e5. Inte desto mindre \u00e4r det ett imperativt programspr\u00e5k med subrutiner, goto-satser, variabler och arrayer, men dess syntax \u00e4r t\u00e4mligen sv\u00e5rl\u00e4st, vilket givetvis \u00e4r avsikten. Ett alldeles unikt s\u00e4rdrag i senare versioner \u00e4r COME FROM-satsen som anger att en annan sats n\u00e5gonstans skall hoppa till COME FROM-raden, vilket g\u00f6r programmen \u00e4nnu mer sv\u00e5rl\u00e4sta. Typisk \u00e4r ocks\u00e5 PLEASE-satsen, som inte utf\u00f6r n\u00e5got, men m\u00e5ste finnas med tillr\u00e4ckligt ofta i k\u00e4llkoden. Namnet INTERCAL l\u00e4r st\u00e5 f\u00f6r Compiler Language With No Pronounceable Acronym (kompilerat spr\u00e5k utan uttalbar f\u00f6rkortning). Namnet \u00e4r en parodi p\u00e5 IT-v\u00e4rldens f\u00f6rk\u00e4rlek f\u00f6r f\u00f6rkortningar. INTERCAL har en alldeles egen upps\u00e4ttning namn p\u00e5 vanliga ASCII-tecken, till exempel kallas , tail och \" rabbit-ears."
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/INTERCAL?oldid=1115237667&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "21514"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/INTERCAL"
+        ]
+      }
+    ]
+  }
+]

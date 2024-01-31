@@ -1,0 +1,218 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q1886145",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1780404492"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-11-28T13:57:23Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "visual programming language",
+          "Programmiersprache",
+          "vizu\u00e1lis programoz\u00e1si nyelv",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u0e20\u0e32\u0e29\u0e32\u0e1e\u0e35\u0e15",
+          "Piet"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "\u0e20\u0e32\u0e29\u0e32\u0e1e\u0e35\u0e17"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "13"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "16"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/image",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Piet%20Program.gif"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q9143",
+          "http://www.wikidata.org/entity/Q683111"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/named after",
+        "Values": [
+          "http://www.wikidata.org/entity/Q151803"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/Q19869285"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/image",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-b931b41a-4d9a-6e18-1c6c-674163101175"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-c42a52be-4034-68d1-9c67-31b37b1beb25",
+          "http://www.wikidata.org/entity/statement/Q1886145-5A1BEA8B-C788-4C87-9704-BD94E2D21C44",
+          "http://www.wikidata.org/entity/statement/q1886145-A264E6F9-63C0-482C-95F6-0E5FC74B7F7E"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/named after",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q1886145-ee685fa7-4c94-3aa6-fb89-71429346cab2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-130b8ce0-4629-d1ae-291e-91ab5fde93b8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Commons category",
+        "Values": [
+          "Piet (programming language)"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/inception",
+        "Values": [
+          "1993-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/046n54"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/influenced by",
+        "Values": [
+          "http://www.wikidata.org/entity/Q151803"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/official website",
+        "Values": [
+          "http://www.dangermouse.net/esoteric/piet.html"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28937387"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/046n54"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Commons category",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q1886145-747A840E-C333-48AF-958E-5F748B309BF0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/inception",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-0C4F91BF-04C9-47E6-95AF-D94DCF7A5586"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-78613177-6520-4618-A722-894AB783C8C0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/influenced by",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-ECCC19B2-9E1C-4469-8A96-8ED71DBAC1C9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/official website",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-7bdd17aa-4e62-7527-2328-bf4c8cb67bcb"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-91099019-13D3-4162-B239-DA4107FFE6D8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1886145-50FFAA37-88E1-468D-B480-C43F1F4A84D8"
+        ]
+      }
+    ]
+  }
+]

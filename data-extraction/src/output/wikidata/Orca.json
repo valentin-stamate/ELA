@@ -1,0 +1,209 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q66944420",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729788591"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T11:23:22Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "programming language designed for live coding"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Orca"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "15"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P136",
+        "Values": [
+          "http://www.wikidata.org/entity/Q2762504"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P178",
+        "Values": [
+          "http://www.wikidata.org/entity/Q66850380"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-9dd866a7-429f-366c-6c5b-2fdd97ab1ede"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P136",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-8B724C06-E569-49A1-B110-73FBA6FFF3F3"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P178",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-916a2fce-4be3-94ab-e79f-551dd91f0ded"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P275",
+        "Values": [
+          "http://www.wikidata.org/entity/Q334661"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P348",
+        "Values": [
+          "Beta 1",
+          "Alpha 1",
+          "Release 1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P366",
+        "Values": [
+          "http://www.wikidata.org/entity/Q6657122"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P407",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1860"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P437",
+        "Values": [
+          "http://www.wikidata.org/entity/Q54820071"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P750",
+        "Values": [
+          "http://www.wikidata.org/entity/Q22905933"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P856",
+        "Values": [
+          "https://hundredrabbits.itch.io/orca"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1324",
+        "Values": [
+          "https://github.com/hundredrabbits/Orca"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6216",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P7294",
+        "Values": [
+          "https://hundredrabbits.itch.io/orca"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P275",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-33e80527-4892-c878-2f47-8927c471f34b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P348",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-1634f397-4475-49d0-3168-4f0672f3b68a",
+          "http://www.wikidata.org/entity/statement/Q66944420-a7785ec8-40e0-cf76-e380-729366d36110",
+          "http://www.wikidata.org/entity/statement/Q66944420-d60ad6d1-4753-8235-f91a-87521b3d9d69"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P366",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-e7893a15-4b6b-f4fe-4dd2-5a0cbd2bf689"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P407",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-0A55EA7E-6EAD-4945-A70E-AE270235407A"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P437",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-3909AEB2-A0BB-4780-80DD-A65AF4248C81"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P750",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-8F67E902-5846-4612-8310-513EB5C449C1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P856",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-b110fee8-06ab-4087-9a2b-fc1173e13a40"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1324",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-204ab26f-4fcd-a1c5-74ab-2185f042850b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6216",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-B50B3B6F-8776-4E3B-9F7E-89BC00C3C456"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P7294",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q66944420-30a674d9-44d1-8cd9-1d10-0f24903a1574"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,599 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Sound",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Sonido",
+          "\u0635\u0648\u062a",
+          "Suono",
+          "D\u017awi\u0119k",
+          "Schall",
+          "Sono",
+          "\u0417\u0432\u0443\u043a",
+          "Fuaim",
+          "Ljud",
+          "Soinu",
+          "Sound",
+          "Son (physique)",
+          "\u58f0\u97f3",
+          "Som",
+          "Bunyi",
+          "Geluid",
+          "\u0389\u03c7\u03bf\u03c2",
+          "\uc18c\ub9ac",
+          "So",
+          "Zvuk",
+          "\u97f3"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Ljud \u00e4r mekaniska v\u00e5gor, en varierande t\u00e4thet som \u00f6verf\u00f6rs av ett fast \u00e4mne, v\u00e4tska eller gas, vars frekvenser faller inom intervallet f\u00f6r h\u00f6rsel med en niv\u00e5 som \u00e4r tillr\u00e4ckligt stark f\u00f6r att h\u00f6ras, eller k\u00e4nslan av s\u00e5dana vibrationer som stimulerar h\u00f6rselorgan. Ett exempel p\u00e5 h\u00f6rselorgan \u00e4r \u00f6ron. Ljudets hastighet p\u00e5verkas av mediets egenskaper (bland annat dess densitet, h\u00e5rdhet, elasticitetsmodul).",
+          "Som \u00e9 a propaga\u00e7\u00e3o de uma onda mec\u00e2nica ac\u00fastica (frente de compress\u00e3o mec\u00e2nica); \u00e9 uma onda longitudinal que se propaga de forma circunc\u00eantrica apenas em meios materiais (como s\u00f3lidos, l\u00edquidos ou gasosos). Os sons naturais s\u00e3o, na sua maior parte, combina\u00e7\u00f5es de sinais, mas um som puro monot\u00f3nico, representado por uma senoide pura, possui uma velocidade de oscila\u00e7\u00e3o ou frequ\u00eancia que se mede em hertz (Hz) e uma amplitude ou energia que se mede em decib\u00e9is.",
+          "Soinua edo hotsa objektu baten bibrazioek eragindako uhinek entzumen sisteman sortzen duten kitzikadura da. Fisikaren ikuspegitik, hedatzen dituen edozein fenomenori deritzo. Gorputz baten bibrazio-higidura gehienetan fluido baten (edo beste bitarteko elastiko baten) bidez hedatuko da.",
+          "En f\u00edsica, el sonido es cualquier fen\u00f3meno que involucre la propagaci\u00f3n de ondas mec\u00e1nicas (sean audibles o no), a trav\u00e9s de un medio (fluido o s\u00f3lido) que est\u00e9 generando el movimiento vibratorio de un cuerpo. La fon\u00e9tica ac\u00fastica concentra su inter\u00e9s especialmente en los sonidos del habla: c\u00f3mo se generan, c\u00f3mo se perciben, y c\u00f3mo se pueden describir gr\u00e1fica o cuantitativamente.",
+          "\u0417\u0432\u0443\u043a \u2014 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u044f\u0432\u043b\u0435\u043d\u0438\u0435, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0435\u0435 \u0441\u043e\u0431\u043e\u0439 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0443\u043f\u0440\u0443\u0433\u0438\u0445 \u0432\u043e\u043b\u043d \u0432 \u0433\u0430\u0437\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0439, \u0436\u0438\u0434\u043a\u043e\u0439 \u0438\u043b\u0438 \u0442\u0432\u0451\u0440\u0434\u043e\u0439 \u0441\u0440\u0435\u0434\u0435. \u0412 \u0443\u0437\u043a\u043e\u043c \u0441\u043c\u044b\u0441\u043b\u0435 \u043f\u043e\u0434 \u0437\u0432\u0443\u043a\u043e\u043c \u0438\u043c\u0435\u044e\u0442 \u0432 \u0432\u0438\u0434\u0443 \u044d\u0442\u0438 \u0432\u043e\u043b\u043d\u044b, \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u043c\u044b\u0435 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0442\u0435\u043c, \u043a\u0430\u043a \u043e\u043d\u0438 \u0432\u043e\u0441\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0447\u0443\u0432\u0441\u0442\u0432. \u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u043c \u0437\u0432\u0443\u043a\u0430 \u043c\u043e\u0436\u0435\u0442 \u0432\u044b\u0441\u0442\u0443\u043f\u0430\u0442\u044c \u0442\u0435\u043b\u043e, \u0441\u043e\u0432\u0435\u0440\u0448\u0430\u044e\u0449\u0435\u0435 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u043e\u043b\u0435\u0431\u0430\u043d\u0438\u044f \u043f\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u043c\u0443 \u0437\u0430\u043a\u043e\u043d\u0443. \u0412 \u043e\u0431\u0449\u0435\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0432\u0443\u043a \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043e\u0432\u043e\u043a\u0443\u043f\u043d\u043e\u0441\u0442\u044c\u044e \u0432\u043e\u043b\u043d \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0447\u0430\u0441\u0442\u043e\u0442. \u0420\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u043f\u043e \u0447\u0430\u0441\u0442\u043e\u0442\u0430\u043c \u0431\u044b\u0432\u0430\u044e\u0442 \u043f\u043b\u0430\u0432\u043d\u044b\u043c\u0438 (\u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u044b\u043c\u0438) \u0438\u043b\u0438 \u0441 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c\u0438 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c\u0430\u043c\u0438 \u043f\u0440\u0438 (\u0434\u0438\u0441\u043a\u0440\u0435\u0442\u043d\u044b\u043c\u0438). \u0414\u043b\u044f \u0443\u043f\u0440\u043e\u0449\u0435\u043d\u0438\u044f \u043d\u0435\u0440\u0435\u0434\u043a\u043e \u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u043e\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u043e\u0434\u043d\u043e\u0439 \u0432\u043e\u043b\u043d\u0435 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u043e\u0442\u044b.",
+          "Il suono (dal latino sonus) \u00e8 la sensazione data dalla vibrazione di un corpo in oscillazione. Tale vibrazione, che si propaga nell'aria o in un altro mezzo elastico, raggiunge l'apparato uditivo dell'orecchio che, tramite un complesso meccanismo interno, crea una \"sensazione uditiva\" correlata alla natura della vibrazione; in particolar modo la membrana timpanica subendo variazioni di pressioni entra in vibrazione, il meccanismo di trasmissione del suono consiste in una successione di compressioni e di espansioni delle molecole dell'aria (o del mezzo in cui si propaga) che circondano la sorgente sonora.",
+          "\u0627\u0644\u0635\u0648\u062a \u0647\u0648 \u062a\u0631\u062f\u062f \u0622\u0644\u064a\u060c \u0623\u0648 \u0645\u0648\u062c\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0631\u0643 \u0641\u064a \u0648\u0633\u0637 \u0645\u0627\u062f\u064a \u0645\u062b\u0644 \u0627\u0644\u0647\u0648\u0627\u0621\u060c \u0648\u0627\u0644\u0623\u062c\u0633\u0627\u0645 \u0627\u0644\u0635\u0644\u0628\u0629\u060c \u0627\u0644\u0633\u0648\u0627\u0626\u0644\u060c \u0648\u0627\u0644\u063a\u0627\u0632\u0627\u062a\u060c \u0648\u0644\u0627 \u062a\u0646\u062a\u0634\u0631 \u0641\u064a \u0627\u0644\u0641\u0631\u0627\u063a (\u0625\u0630\u0627 \u0648\u0636\u0639\u0646\u0627 \u062c\u0631\u0633\u064b\u0627 \u0641\u064a \u0646\u0627\u0642\u0648\u0633 \u0632\u062c\u0627\u062c\u064a \u0648\u0641\u0631\u063a\u0646\u0627 \u0627\u0644\u0646\u0627\u0642\u0648\u0633 \u0645\u0646 \u0627\u0644\u0647\u0648\u0627\u0621\u060c \u0641\u0625\u0646\u0646\u0627 \u0644\u0627 \u0646\u0633\u0645\u0639 \u0635\u0648\u062a \u0627\u0644\u062c\u0631\u0633 \u0639\u0646\u062f\u0645\u0627 \u064a\u062f\u0642 \u0628\u0633\u0628\u0628 \u0639\u062f\u0645 \u0627\u0646\u062a\u0642\u0627\u0644 \u0647\u0632\u0627\u062a (\u0635\u0648\u062a) \u0627\u0644\u062c\u0631\u0633 \u0641\u064a \u0627\u0644\u0641\u0631\u0627\u063a). \u0648\u0628\u0627\u0633\u062a\u0637\u0627\u0639\u0629 \u0627\u0644\u0643\u0627\u0626\u0646 \u0627\u0644\u062d\u064a \u062a\u062d\u0633\u0633 \u0627\u0644\u0635\u0648\u062a \u0639\u0646 \u0637\u0631\u064a\u0642 \u0639\u0636\u0648 \u062e\u0627\u0635 \u064a\u0633\u0645\u0649 \u0627\u0644\u0623\u0630\u0646. \u0648\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u0635\u0648\u062a \u0641\u064a \u0627\u0644\u0637\u0628\u064a\u0639\u0629 \u0643\u062b\u064a\u0631\u0629\u060c \u0643\u0627\u0646\u0641\u062c\u0627\u0631\u0627\u062a \u0627\u0644\u0628\u0631\u0627\u0643\u064a\u0646 \u0648\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0631\u0639\u062f\u061b \u0648\u064a\u0635\u062f\u0631 \u0645\u0646 \u062d\u0631\u0643\u0629 \u0627\u0644\u0623\u062c\u0633\u0627\u0645\u060c \u0643\u062d\u0631\u0643\u0629 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a. \u0645\u0646 \u0645\u0646\u0638\u0648\u0631 \u0639\u0644\u0645 \u0627\u0644\u0623\u062d\u064a\u0627\u0621 \u0627\u0644\u0635\u0648\u062a \u0647\u0648 \u0625\u0634\u0627\u0631\u0629 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0646\u063a\u0645\u0629 \u0623\u0648 \u0639\u062f\u0629 \u0646\u063a\u0645\u0627\u062a \u062a\u0635\u062f\u0631 \u0645\u0646 \u0627\u0644\u0643\u0627\u0626\u0646 \u0627\u0644\u062d\u064a \u0627\u0644\u0630\u064a \u064a\u0645\u0644\u0643 \u0627\u0644\u0639\u0636\u0648 \u0627\u0644\u0628\u0627\u0639\u062b \u0644\u0644\u0635\u0648\u062a\u060c \u062a\u0633\u062a\u0639\u0645\u0644 \u0643\u0648\u0633\u064a\u0644\u0629 \u0627\u062a\u0635\u0627\u0644 \u0628\u064a\u0646\u0647 \u0648\u0628\u064a\u0646 \u0643\u0627\u0626\u0646 \u0622\u062e\u0631 \u0645\u0646 \u062c\u0646\u0633\u0647 \u0623\u0648 \u0645\u0646 \u062c\u0646\u0633 \u0622\u062e\u0631\u060c \u064a\u0639\u0628\u0631 \u0645\u0646 \u062e\u0644\u0627\u0644\u0647\u0627 \u0639\u0645\u0627 \u064a\u0631\u064a\u062f \u0642\u0648\u0644\u0647 \u0623\u0648 \u0641\u0639\u0644\u0647 \u0628\u0648\u0639\u064a \u0623\u0648 \u0628\u063a\u064a\u0631 \u0648\u0639\u064a \u0645\u0633\u0628\u0642\u060c \u0648\u064a\u0633\u0645\u0649 \u0627\u0644\u0625\u062d\u0633\u0627\u0633 \u0627\u0644\u0630\u064a \u062a\u0633\u0628\u0628\u0647 \u062a\u0644\u0643 \u0627\u0644\u0630\u0628\u0630\u0628\u0627\u062a \u0628\u062d\u0627\u0633\u0629 \u0627\u0644\u0633\u0645\u0639.",
+          "Le son est une vibration m\u00e9canique d'un fluide, qui se propage sous forme d'ondes longitudinales gr\u00e2ce \u00e0 la d\u00e9formation \u00e9lastique de ce fluide. Les \u00eatres humains, comme beaucoup d'animaux, ressentent cette vibration gr\u00e2ce au sens de l'ou\u00efe. L'acoustique est la science qui \u00e9tudie les sons ; la psychoacoustique \u00e9tudie la mani\u00e8re dont les organes du corps humain ressentent et l'\u00eatre humain per\u00e7oit et interpr\u00e8te les sons.",
+          "( \ub2e4\ub978 \ub73b\uc5d0 \ub300\ud574\uc11c\ub294 \uc18c\ub9ac (\ub3d9\uc74c\uc774\uc758) \ubb38\uc11c\ub97c \ucc38\uace0\ud558\uc2ed\uc2dc\uc624.) \uc18c\ub9ac \ub610\ub294 \uc74c(\u97f3) \ub610\ub294 '\uc74c\ud30c'\ub294 \uacf5\uae30\ub098 \ubb3c \uac19\uc740 \ub9e4\uc9c8\uc758 \uc9c4\ub3d9\uc744 \ud1b5\ud574 \uc804\ub2ec\ub418\ub294 \uc885\ud30c\uc774\ub2e4. \ub300\ud45c\uc801\uc73c\ub85c \uc0ac\ub78c\uc758 \uccad\uac01\uae30\uad00\uc744 \uc790\uadf9\ud558\uc5ec \ub1cc\uc5d0\uc11c \ud574\uc11d\ub418\ub294 \ub9e4\uc9c8\uc758 \uc6c0\uc9c1\uc784\uc774 \uadf8 \uc608\uc774\ub2e4. \uc6b0\ub9ac\ub4e4\uc758 \uadc0\uc5d0 \ub04a\uc784\uc5c6\uc774 \ub4e4\ub824\uc624\ub294 \uc18c\ub9ac\ub294 \uacf5\uae30 \uc18d\uc744 \uc804\ud574\uc624\ub294 \ud30c\ub3d9\uc774\ub2e4. \uc18c\ub9ac\ub294 \uc6b0\ub9ac\ub4e4\uc5d0\uac8c \uc5ec\ub7ec \uac00\uc9c0 \uc815\ubcf4\ub97c \uc804\ud574\uc900\ub2e4. \ub208\uc5d0\ub294 \ubcf4\uc774\uc9c0 \uc54a\ub294 \ud30c\ub3d9\uc774\uc9c0\ub9cc \ud30c\ub3d9\uc758 \uc5ec\ub7ec \uac00\uc9c0 \uc131\uc9c8\uc740 \uc74c\ud30c\uc758 \uacbd\uc6b0 \uadc0\uc5d0 \ub4e4\ub9ac\ub294 \uc18c\ub9ac\uc758 \ubcc0\ud654\ub85c \uc54c \uc218\uac00 \uc788\ub2e4. \uc0ac\ub78c\uc774 \uc18c\ub9ac\ub97c \ub4e4\uc744 \uc218 \uc788\ub294 \uac83\ub3c4 \uacf5\uae30\uac00 \uc9c4\ub3d9\ud558\uae30 \ub54c\ubb38\uc774\ub2e4. \uc989 \uc8fc\ud30c\uc218(\uc9c4\ub3d9\uc218)\ub97c \uac00\uc9c0\uae30 \ub54c\ubb38\uc774\ub2e4. \uc0ac\ub78c\uc758 \uac00\uccad\uc8fc\ud30c\uc218\ub294 \uc57d 20~20480 Hz(20.48 KHz) \uc774\ub0b4\uc774\uba70 \ub098\uc774\uac00 \ub4e6\uc5d0 \ub530\ub77c \ucd5c\ub300 \uac00\uccad\uc8fc\ud30c\uc218\ub294 \ub0ae\uc544\uc9c0\uac8c \ub41c\ub2e4. \uacf5\ud559\uc5d0\uc11c\uc758 \uac00\uccad\uc8fc\ud30c\uc218 \ub300\uc5ed\ud3ed\uc740 300~3400 Hz\uc774\ub2e4. \uc18c\ub9ac \uc989 \uc74c\ud30c\ub294 \ubb3c\ub9ac\ud559\uc5d0\uc11c \ub9e4\uc9c8(\u5a92\u8cea)\uc758 \uc9c4\ub3d9 \ubc29\ud5a5\uc774 \ud30c\ub3d9\uc758 \ubc29\ud5a5\uc5d0 \uc77c\uce58\ud558\ub294 \ud30c\ub3d9 \uc989 \uc885\ud30c(\u7e31\u6ce2)\uc758 \ud558\ub098\uc774\ub2e4. \ud55c\ud3b8 \uc74c\ud30c\ub294 \uacf5\uae30\ub97c \uc555\ucd95 \ub610\ub294 \ud655\uc7a5 \uc2dc\ud0b4\uc73c\ub85c\uc368 \ud30c\ub3d9\uc744 \uac16\uac8c \ub41c\uac83\uc774\ub2e4. \uc74c\uc18d\uc758 \uae30\uc900\uc774 \ub41c\ub2e4.",
+          "Sono estas a\u016ddebla aervibrado eligita de homoj, bestoj, objektoj ktp. En fiziko sono estas ajna fenomeno kiu implicas la disvastigon de mekanikaj ondoj (\u0109u a\u016ddeblaj a\u016d ne a\u016ddeblaj), \u011denerale tra fluo (a\u016d tra alia elasta medio) kiu estas generanta la vibran movon de korpo. La sono a\u016ddebla de homo konsistas el sonaj kaj akustikaj ondoj produktitaj kiam la osciloj de la aerpremo estas konvertitaj en mekanikaj ondoj en la homa a\u016ddorgano kaj perceptitaj de la cerbo. La disvastigo de la sono estas simila en flua\u0135oj, kie la sono havas la formon de premfluktuoj. En la solidaj korpoj la disvastigo de la sono implicas variadon de la tensia stato de la medio.",
+          "El so \u00e9s una successi\u00f3 de canvis de pressi\u00f3 (compressions i dilatacions) en un medi (s\u00f2lid, l\u00edquid o gas), provocats per una vibraci\u00f3 que s'hi transmet en forma d'ones sonores. La vibraci\u00f3 provoca alteracions mec\u00e0niques a les part\u00edcules del medi creant canvis de pressi\u00f3 que es propaguen en totes direccions a partir del punt on hi ha la vibraci\u00f3. Els humans, i tamb\u00e9 molts animals, podem percebre el so mitjan\u00e7ant el sentit de l'o\u00efda. El rang de sons audible per les persones \u00e9s t\u00edpicament entre 20 Hz i 20 kHz.",
+          "Zvuk je mechanick\u00e9 vln\u011bn\u00ed v l\u00e1tkov\u00e9m prost\u0159ed\u00ed, kter\u00e9 je schopno vyvolat sluchov\u00fd vjem. Frekvence tohoto vln\u011bn\u00ed, kter\u00e9 je \u010dlov\u011bk schopen vn\u00edmat, jsou zna\u010dn\u011b individu\u00e1ln\u00ed a le\u017e\u00ed v intervalu p\u0159ibli\u017en\u011b 16 Hz a\u017e 20 000 Hz. Mechanick\u00e9 vln\u011bn\u00ed mimo tento frekven\u010dn\u00ed rozsah sluchov\u00fd vjem nevyvol\u00e1v\u00e1, p\u0159esto se n\u011bkdy tak\u00e9 ozna\u010duje jako zvuk.",
+          "S\u00e9ard is fuaim ann n\u00e1 corra\u00ed tr\u00ed damhna. Aithn\u00edtear fuaim tr\u00ed thr\u00e9ithe a . Is iad sin minic\u00edocht, tonnfhad, , , agus . Air\u00edonn daoine fuaim tr\u00ed chreathanna san aer a air\u00edonn an chluas. Tugtar \u00e9isteacht air seo. Comhathra\u00edonn tonnta fuaime de r\u00e9ir br\u00fa fuaime (aimpliti\u00faid), tomhasta i (dB) agus minic\u00edocht (n\u00f3 airde) tomhasta i (Hz). Air\u00edonn an chluas dhaonna normalta minic\u00edochta\u00ed idir thart ar 20Hz agus 20kHz (is ionann an n\u00f3ta is airde ar an bpian\u00f3 agus 4186Hz). M\u00e1 mhaireann fuaim thar tr\u00e9imhse ama (ar n\u00f3s p\u00edosa ceoil n\u00f3 p\u00edosa cainte), athra\u00edonn a thar an tr\u00e9imhse ama sin.",
+          "\u97f3\uff08\u304a\u3068\uff09\u3068\u306f\u3001\u7269\u304c\u52d5\u304d\u3001\u3053\u3059\u308c\u3001\u307e\u305f\u3001\u3076\u3064\u304b\u3063\u3066\u51fa\u308b\u7a7a\u6c17\u306e\u9707\u3048\uff08\uff1d\u758e\u5bc6\u6ce2\uff09\u304c\u8033\u306b\u5c4a\u3044\u3066\u805e\u3053\u3048\u308b\u3082\u306e\u3002 \u672c\u9805\u3067\u306f\u3001\u305d\u306e\u97f3\u306b\u3064\u3044\u3066\u89e3\u8aac\u3059\u308b\u3002",
+          "\u8072\u97f3\u662f\u632f\u52d5\u7522\u751f\u7684\u58f0\u6ce2\uff0c\u901a\u904e\u4ecb\u8cea\uff08\u6c23\u9ad4\u3001\u56fa\u9ad4\u3001\u6db2\u9ad4\uff09\u50b3\u64ad\u5e76\u80fd\u88ab\u4eba\u6216\u52d5\u7269\u807d\u89ba\u5668\u5b98\u6240\u611f\u77e5\u7684\u6ce2\u52d5\u73fe\u8c61\u3002 \u8072\u97f3\u7684\u983b\u7387\u4e00\u822c\u6703\u4ee5\u8d6b\u5179\u8868\u793a\uff0c\u8a18\u70baHz\uff0c\u6307\u6bcf\u79d2\u9418\u5468\u671f\u6027\u9707\u52d5\u7684\u6b21\u6578\u3002\u800c\u5206\u8c9d\u662f\u7528\u6765\u8868\u793a\u8072\u97f3\u5f3a\u5ea6\u7684\u5355\u4f4d\uff0c\u8a18\u70badB\u3002 \u8072\u97f3\u662f\u4e00\u7a2e\u6ce2\u52d5\uff0c\u5f53\u6f14\u594f\u4e50\u5668\u3001\u62cd\u6253\u4e00\u6247\u95e8\u6216\u8005\u6572\u51fb\u684c\u9762\u65f6\uff0c\u58f0\u97f3\u7684\u632f\u52a8\u4f1a\u5f15\u8d77\u4ecb\u8d28\u2014\u2014\u7a7a\u6c14\u5206\u5b50\u6709\u8282\u594f\u7684\u632f\u52a8\uff0c\u4f7f\u5468\u56f4\u7684\u7a7a\u6c14\u4ea7\u751f\u758f\u5bc6\u53d8\u5316\uff0c\u5f62\u6210\u758f\u5bc6\u76f8\u95f4\u7684\u7eb5\u6ce2\uff0c\u8fd9\u5c31\u4ea7\u751f\u4e86\u58f0\u6ce2\uff0c\u8fd9\u79cd\u73b0\u8c61\u4f1a\u4e00\u76f4\u5ef6\u7eed\u5230\u632f\u52a8\u6d88\u5931\u4e3a\u6b62\u3002\u58f0\u97f3\u603b\u53ef\u4ee5\u88ab\u5206\u89e3\u4e3a\u4e0d\u540c\u9891\u7387\u4e0d\u540c\u5f3a\u5ea6\u6b63\u5f26\u6ce2\u7684\u53e0\u52a0\u3002\u9019\u7a2e\u8b8a\u63db\uff08\u6216\u5206\u89e3\uff09\u7684\u904e\u7a0b\uff0c\u7a31\u70ba\u5085\u7acb\u8449\u8b8a\u63db\u3002\u56e0\u6b64\uff0c\u4e00\u822c\u7684\u58f0\u97f3\u603b\u662f\u5305\u542b\u4e00\u5b9a\u7684\u9891\u7387\u8303\u56f4\u3002\u4eba\u8033\u53ef\u4ee5\u542c\u5230\u7684\u58f0\u97f3\u7684\u9891\u7387\u8303\u56f4\u572820\u52302\u4e07\u8d6b\u5179\uff08Hz\uff09\u4e4b\u95f4\u3002\u9ad8\u4e8e\u8fd9\u4e2a\u8303\u56f4\u7684\u6ce2\u52a8\u79f0\u4e3a\u8d85\u58f0\u6ce2\uff0c\u800c\u4f4e\u4e8e\u8fd9\u4e00\u8303\u56f4\u7684\u79f0\u4e3a\u6b21\u58f0\u6ce2\u3002 \u6587\u8a00\u6587\u4e2d\uff0c\u300c\u8072\u300d\u7279\u6307\u4eba\u8072\uff0c\u800c\u300c\u97f3\u300d\u7279\u6307\u5176\u4ed6\u8072\u97f3\uff1b\u800c\u5728\u73fe\u4ee3\u6f22\u8a9e\u4e2d\uff0c\u300c\u8072\u300d\u8207\u300c\u97f3\u300d\u610f\u601d\u5df2\u6df7\u540c\u70ba\u300c\u8072\u97f3\u300d\uff0c\u4e26\u7c21\u7a31\u70ba\u300c\u8072\u300d\u6216\u300c\u97f3\u300d\uff0c\u800c\u6587\u8a00\u6587\u4e2d\u300c\u8072\u300d\u5728\u73fe\u4ee3\u6f22\u8a9e\u4e2d\u88ab\u7a31\u70ba\u300c\u4eba\u8072\u300d\u3002\u65e5\u8a9e\u4e2d\u5247\u4ecd\u4fdd\u7559\u6587\u8a00\u6587\u4e2d\u7684\u5340\u5225\u3002",
+          "D\u017awi\u0119k \u2013 wra\u017cenie s\u0142uchowe, spowodowane fal\u0105 akustyczn\u0105 rozchodz\u0105c\u0105 si\u0119 w o\u015brodku spr\u0119\u017cystym (ciele sta\u0142ym, cieczy, gazie). Cz\u0119stotliwo\u015bci fal, kt\u00f3re s\u0105 s\u0142yszalne dla cz\u0142owieka, zawarte s\u0105 w pa\u015bmie mi\u0119dzy warto\u015bciami granicznymi od ok. 16 Hz do ok. 20 kHz.",
+          "Schall (von Althochdeutsch: scal) bezeichnet allgemein mechanische Schwingungen in einem elastischen Medium (Gas, Fl\u00fcssigkeit, Festk\u00f6rper). Diese Schwingungen rufen Druck- und Dichteschwankungen hervor, die sich in dem Medium ausbreiten und so die Schallwellen bilden.",
+          "In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid.In human physiology and psychology, sound is the reception of such waves and their perception by the brain. Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.7 centimeters (0.67 in). Sound waves above 20 kHz are known as ultrasound and are not audible to humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges.",
+          "Geluid is de hoorbare verandering van de luchtdruk. Geluid kan ook in een ander medium optreden, bijvoorbeeld door drukwisselingen in water. In ruimere zin is geluid iedere verandering van de heersende statische atmosferische druk, al dan niet hoorbaar. Heel algemeen wordt onder geluid iedere verandering van de dichtheid van een elastisch medium verstaan. Geluid beweegt zich als een longitudinale golf van dichtheidswisselingen van het medium voort.",
+          "Dalam fisika, bunyi atau suara adalah getaran yang merambat sebagai , melalui media transmisi seperti gas, cairan atau padat. Dalam fisiologi dan psikologi manusia, suara adalah penerimaan gelombang dan persepsi mereka oleh otak. Hanya gelombang akustik yang memiliki frekuensi antara 20 Hz dan 20 kHz, rentang frekuensi audio, yang menimbulkan persepsi pendengaran pada manusia. Di udara pada tekanan atmosfer, ini mewakili gelombang suara dengan panjang gelombang 17 meter (56 kaki) hingga 1,7 sentimeter (0,67 in). Gelombang suara di atas 20 dikenal sebagai ultrasonik dan tidak terdengar oleh manusia. Gelombang suara di bawah 20 Hz dikenal sebagai infrasonik. Spesies hewan yang berbeda memiliki yang bervariasi.",
+          "\u039f \u03ae\u03c7\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03af\u03b1 \u03bc\u03bf\u03c1\u03c6\u03ae \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1\u03c2. \u0395\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03bb\u03bc\u03b9\u03ba\u03ad\u03c2 \u03b4\u03bf\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03bf\u03c0\u03bf\u03b9\u03bf\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03c3\u03ce\u03bc\u03b1, \u03cc\u03c4\u03b1\u03bd \u03c4\u03b5\u03b8\u03b5\u03af \u03c3\u03b5 \u03ba\u03af\u03bd\u03b7\u03c3\u03b7, \u03c3\u03b5 \u03ba\u03c1\u03b1\u03b4\u03b1\u03c3\u03bc\u03cc. \u03a4\u03b7\u03bd \u03ba\u03af\u03bd\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03c3\u03ce\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b1\u03b4\u03c1\u03ac\u03bd\u03b5\u03b9\u03b1, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03bc\u03b9\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03b7, \u03bc\u03b9\u03b1 \u03bd\u03cd\u03be\u03b7, \u03bc\u03b9\u03b1 \u03c4\u03c1\u03b9\u03b2\u03ae. \u03a4\u03b1 \u03b7\u03c7\u03b7\u03c4\u03b9\u03ba\u03ac \u03ba\u03cd\u03bc\u03b1\u03c4\u03b1, \u03c0\u03bf\u03c5 \u03be\u03b5\u03ba\u03b9\u03bd\u03bf\u03cd\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c0\u03b1\u03bb\u03bc\u03bf\u03cd\u03c2 \u03c4\u03bf\u03c5 \u03b7\u03c7\u03bf\u03b3\u03cc\u03bd\u03bf\u03c5 \u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c6\u03b1\u03b9\u03c1\u03b9\u03ba\u03ac \u03c0\u03c1\u03bf\u03c2 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03ba\u03b1\u03c4\u03b5\u03c5\u03b8\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2, \u03c6\u03c4\u03ac\u03bd\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03ba\u03c1\u03bf\u03cd\u03bf\u03c5\u03bd \u03c3\u03c4\u03b7 \u03bc\u03b5\u03bc\u03b2\u03c1\u03ac\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03ba\u03bf\u03c5\u03c3\u03c4\u03b9\u03ba\u03bf\u03cd \u03bc\u03b1\u03c2 \u03c4\u03c5\u03bc\u03c0\u03ac\u03bd\u03bf\u03c5 \u03ba\u03c3\u03b9 \u03b8\u03ad\u03c4\u03bf\u03c5\u03bd \u03c3\u03b5 \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03c4\u03bf\u03bd \u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u03c4\u03b7\u03c2 \u03b1\u03ba\u03bf\u03ae\u03c2.",
+          "\u0417\u0432\u0443\u043a \u2014 \u043a\u043e\u043b\u0438\u0432\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0443\u0445 \u0447\u0430\u0441\u0442\u0438\u043d\u043e\u043a \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0430, \u0449\u043e \u043f\u043e\u0448\u0438\u0440\u044e\u0454\u0442\u044c\u0441\u044f \u0443 \u0432\u0438\u0433\u043b\u044f\u0434\u0456 \u0445\u0432\u0438\u043b\u044c \u0443 \u0433\u0430\u0437\u0456, \u0440\u0456\u0434\u0438\u043d\u0456 \u0447\u0438 \u0442\u0432\u0435\u0440\u0434\u043e\u043c\u0443 \u0442\u0456\u043b\u0456 \u0442\u0430 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u0454\u0442\u044c\u0441\u044f \u0441\u043b\u0443\u0445\u043e\u043c. \u0423 \u0432\u0443\u0437\u044c\u043a\u043e\u043c\u0443 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u0456 \u0442\u0435\u0440\u043c\u0456\u043d\u043e\u043c \u0437\u0432\u0443\u043a \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u044e\u0442\u044c \u043a\u043e\u043b\u0438\u0432\u0430\u043d\u043d\u044f, \u044f\u043a\u0456 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c\u0441\u044f \u0441\u0435\u043d\u0441\u043e\u0440\u043d\u043e\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u043e\u044e \u0442\u0432\u0430\u0440\u0438\u043d \u0456 \u043b\u044e\u0434\u0438\u043d\u0438. \u0412 \u0446\u044c\u043e\u043c\u0443 \u0432\u0438\u043f\u0430\u0434\u043a\u0443 \u043c\u0430\u044e\u0442\u044c\u0441\u044f \u043d\u0430 \u0443\u0432\u0430\u0437\u0456 \u0437\u0431\u0443\u0440\u0435\u043d\u043d\u044f, \u0449\u043e \u043f\u043e\u0448\u0438\u0440\u044e\u044e\u0442\u044c\u0441\u044f \u0432 \u043f\u043e\u0432\u0456\u0442\u0440\u0456. \u041e\u0440\u0433\u0430\u043d\u0438 \u0441\u043b\u0443\u0445\u0443 \u043b\u044e\u0434\u0438\u043d\u0438 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c \u0437\u0432\u0443\u043a\u0438 \u0443 \u0432\u0456\u0434\u043d\u043e\u0441\u043d\u043e \u0432\u0443\u0437\u044c\u043a\u043e\u043c\u0443 \u0447\u0430\u0441\u0442\u043e\u0442\u043d\u043e\u043c\u0443 \u0434\u0456\u0430\u043f\u0430\u0437\u043e\u043d\u0456. \u0421\u043b\u0443\u0445\u043e\u0432\u0438\u0439 \u0430\u043f\u0430\u0440\u0430\u0442 \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0442\u0432\u0430\u0440\u0438\u043d \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u0454 \u0437\u0432\u0443\u043a\u0438 \u0432 \u0437\u043d\u0430\u0447\u043d\u043e \u0448\u0438\u0440\u0448\u043e\u043c\u0443 \u0456\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u0456 \u0447\u0430\u0441\u0442\u043e\u0442. \u0412 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0432\u0438\u043f\u0430\u0434\u043a\u0443 \u0446\u0438\u043c \u0442\u0435\u0440\u043c\u0456\u043d\u043e\u043c \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0446\u0435\u0441 \u043f\u043e\u0448\u0438\u0440\u0435\u043d\u043d\u044f \u0437\u0431\u0443\u0440\u0435\u043d\u044c \u0432 \u0440\u0456\u0437\u043d\u0438\u0445 \u0437\u0430 \u0444\u0456\u0437\u0438\u0447\u043d\u0438\u043c\u0438 \u0432\u043b\u0430\u0441\u0442\u0438\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0430\u0445, \u0432 \u044f\u043a\u0438\u0445 \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0432\u0430\u043b\u044c\u043d\u043e\u044e \u0441\u0438\u043b\u043e\u044e, \u0449\u043e \u043d\u0430\u043c\u0430\u0433\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u043e\u0432\u0435\u0440\u043d\u0443\u0442\u0438 \u0437\u0431\u0443\u0440\u0435\u043d\u0443 \u0447\u0430\u0441\u0442\u0438\u043d\u043a\u0443 \u0432 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044f \u0440\u0456\u0432\u043d\u043e\u0432\u0430\u0433\u0438, \u0454 \u0441\u0438\u043b\u0430 \u043f\u0440\u0443\u0436\u043d\u043e\u0441\u0442\u0456. \u0425\u0432\u0438\u043b\u044c\u043e\u0432\u0456 \u0437\u0431\u0443\u0440\u0435\u043d\u043d\u044f, \u0449\u043e \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u044e\u0442\u044c\u0441\u044f \u044f\u043a \u0437\u0432\u0443\u043a, \u0454 \u043e\u0431'\u0454\u043a\u0442\u0438\u0432\u043d\u043e\u044e \u0440\u0435\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044e \u0456 \u0456\u0441\u043d\u0443\u044e\u0442\u044c \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e \u0432\u0456\u0434 \u0441\u043f\u0440"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "Values": [
+          "http://dbpedia.org/resource/Perception_of_infrasound",
+          "http://dbpedia.org/resource/Audio_frequency"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/The_Elements_of_Sound_jpg.jpg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/FA-18_Hornet_breaking_sound_barrier_(7_July_1999)_-_filtered.jpg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Duration_perception.png",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Loudness_perception_v5.gif",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Ultrasound_range_diagram.svg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Pitch_perception.png",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Sine_waves_different_frequencies.svg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Onde_compression_impulsion_1d_30_petit.gif",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Onde_cisaillement_impulsion_1d_30_petit.gif",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Thoth08BigasDrumEvansChalmette.jpg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Spherical_pressure_waves.gif",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Timbre_perception.png"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Acoustics",
+          "http://dbpedia.org/resource/Category:Sound",
+          "http://dbpedia.org/resource/Category:Hearing",
+          "http://dbpedia.org/resource/Category:Waves",
+          "http://dbpedia.org/resource/Category:Qualia"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "18994087"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1119061188"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Rarefaction",
+          "http://dbpedia.org/resource/File:Thoth08BigasDrumEvansChalmette.jpg",
+          "http://dbpedia.org/resource/State_of_matter",
+          "http://dbpedia.org/resource/Navigation",
+          "http://dbpedia.org/resource/File:The_Elements_of_Sound_jpg.jpg",
+          "http://dbpedia.org/resource/Particle_velocity",
+          "http://dbpedia.org/resource/Plasma_(physics)",
+          "http://dbpedia.org/resource/Underwater_acoustics",
+          "http://dbpedia.org/resource/Musical_tone",
+          "http://dbpedia.org/resource/Doppler_effect",
+          "http://dbpedia.org/resource/Viscosity",
+          "http://dbpedia.org/resource/Direction_(geometry,_geography)",
+          "http://dbpedia.org/resource/Amplitude",
+          "http://dbpedia.org/resource/Category:Acoustics",
+          "http://dbpedia.org/resource/Physiology",
+          "http://dbpedia.org/resource/Reverberation",
+          "http://dbpedia.org/resource/Shear_stress",
+          "http://dbpedia.org/resource/Wavelength",
+          "http://dbpedia.org/resource/Characteristic_impedance",
+          "http://dbpedia.org/resource/Vibration",
+          "http://dbpedia.org/resource/A-weighting",
+          "http://dbpedia.org/resource/Soundscape",
+          "http://dbpedia.org/resource/Audio_engineer",
+          "http://dbpedia.org/resource/File:Loudness_perception_v5.gif",
+          "http://dbpedia.org/resource/Sound_impedance",
+          "http://dbpedia.org/resource/Polyphony",
+          "http://dbpedia.org/resource/Acoustical_engineering",
+          "http://dbpedia.org/resource/Soundproofing",
+          "http://dbpedia.org/resource/File:FA-18_Hornet_breaking_sound_barrier_(7_July_1999)_-_filtered.jpg",
+          "http://dbpedia.org/resource/Beat_(acoustics)",
+          "http://dbpedia.org/resource/American_National_Standards_Institute",
+          "http://dbpedia.org/resource/Anharmonicity",
+          "http://dbpedia.org/resource/ANSI/ASA_S1.1-2013",
+          "http://dbpedia.org/resource/Sound_synthesis",
+          "http://dbpedia.org/resource/Particle_amplitude",
+          "http://dbpedia.org/resource/Frequencies",
+          "http://dbpedia.org/resource/Particle_acceleration",
+          "http://dbpedia.org/resource/Micropascal",
+          "http://dbpedia.org/resource/Noise_control",
+          "http://dbpedia.org/resource/White_noise",
+          "http://dbpedia.org/resource/Ultrasound",
+          "http://dbpedia.org/resource/Duration_(music)",
+          "http://dbpedia.org/resource/Transmission_medium",
+          "http://dbpedia.org/resource/Physics",
+          "http://dbpedia.org/resource/Earphones",
+          "http://dbpedia.org/resource/Ocean_surface_wave",
+          "http://dbpedia.org/resource/Pierre-Simon_Laplace",
+          "http://dbpedia.org/resource/Sonar",
+          "http://dbpedia.org/resource/Echo_(phenomenon)",
+          "http://dbpedia.org/resource/Drum_cadence",
+          "http://dbpedia.org/resource/Decibel",
+          "http://dbpedia.org/resource/File:Duration_perception.png",
+          "http://dbpedia.org/resource/Noise",
+          "http://dbpedia.org/resource/Transverse_wave",
+          "http://dbpedia.org/resource/Sound_localization",
+          "http://dbpedia.org/resource/United_States_Navy_Band",
+          "http://dbpedia.org/resource/Infrasound",
+          "http://dbpedia.org/resource/Loudness",
+          "http://dbpedia.org/resource/Frequency",
+          "http://dbpedia.org/resource/International_Electrotechnical_Commission",
+          "http://dbpedia.org/resource/ANSI_S1.1-1994",
+          "http://dbpedia.org/resource/Relativistic_Euler_equations",
+          "http://dbpedia.org/resource/Oscillation",
+          "http://dbpedia.org/resource/Sine_wave",
+          "http://dbpedia.org/resource/File:Spherical_pressure_waves.gif",
+          "http://dbpedia.org/resource/Refraction",
+          "http://dbpedia.org/resource/Timbre",
+          "http://dbpedia.org/resource/Sound_reproduction",
+          "http://dbpedia.org/resource/Root_mean_square",
+          "http://dbpedia.org/resource/Audio_signal_processing",
+          "http://dbpedia.org/resource/Acoustic_theory",
+          "http://dbpedia.org/resource/Sonic_weaponry",
+          "http://dbpedia.org/resource/Sound_power",
+          "http://dbpedia.org/resource/Responsivity",
+          "http://dbpedia.org/resource/Solids",
+          "http://dbpedia.org/resource/Predation",
+          "http://dbpedia.org/resource/Audio_frequency",
+          "http://dbpedia.org/resource/Vector_(geometric)",
+          "http://dbpedia.org/resource/Refracted",
+          "http://dbpedia.org/resource/Bulk_modulus",
+          "http://dbpedia.org/resource/Density",
+          "http://dbpedia.org/resource/Defence_mechanism_(biology)",
+          "http://dbpedia.org/resource/Homophony",
+          "http://dbpedia.org/resource/Mechanical_equilibrium",
+          "http://dbpedia.org/resource/Plane_wave",
+          "http://dbpedia.org/resource/Sound_power_level",
+          "http://dbpedia.org/resource/Pink_noise",
+          "http://dbpedia.org/resource/File:Ultrasound_range_diagram.svg",
+          "http://dbpedia.org/resource/Sound_pressure",
+          "http://dbpedia.org/resource/File:Timbre_perception.png",
+          "http://dbpedia.org/resource/Medical_ultrasound",
+          "http://dbpedia.org/resource/Longitudinal_wave",
+          "http://dbpedia.org/resource/Reflection_(physics)",
+          "http://dbpedia.org/resource/Speed_of_sound",
+          "http://dbpedia.org/resource/Hertz",
+          "http://dbpedia.org/resource/Unison",
+          "http://dbpedia.org/resource/Vacuum",
+          "http://dbpedia.org/resource/Reference_sound_pressure",
+          "http://dbpedia.org/resource/Atmosphere",
+          "http://dbpedia.org/resource/Acoustics",
+          "http://dbpedia.org/resource/Root-mean-square",
+          "http://dbpedia.org/resource/Resonance",
+          "http://dbpedia.org/resource/Wave_vector",
+          "http://dbpedia.org/resource/Special_relativity",
+          "http://dbpedia.org/resource/Psychoacoustics",
+          "http://dbpedia.org/resource/Mammal",
+          "http://dbpedia.org/resource/Wave",
+          "http://dbpedia.org/resource/KHz",
+          "http://dbpedia.org/resource/Parametric_array",
+          "http://dbpedia.org/resource/Velocity",
+          "http://dbpedia.org/resource/Sense",
+          "http://dbpedia.org/resource/Sound_energy_flux",
+          "http://dbpedia.org/resource/List_of_unexplained_sounds",
+          "http://dbpedia.org/resource/Ratio",
+          "http://dbpedia.org/resource/Acoustic_impedance",
+          "http://dbpedia.org/resource/Attenuation",
+          "http://dbpedia.org/resource/Standard_temperature_and_pressure",
+          "http://dbpedia.org/resource/Strain_(materials_science)",
+          "http://dbpedia.org/resource/Sone",
+          "http://dbpedia.org/resource/Brain",
+          "http://dbpedia.org/resource/Musical_acoustics",
+          "http://dbpedia.org/resource/Bird_vocalization",
+          "http://dbpedia.org/resource/Temporal_envelope_and_fine_structure",
+          "http://dbpedia.org/resource/Category:Qualia",
+          "http://dbpedia.org/resource/Structural_acoustics",
+          "http://dbpedia.org/resource/Phon",
+          "http://dbpedia.org/resource/Marine_mammals",
+          "http://dbpedia.org/resource/Hearing_range",
+          "http://dbpedia.org/resource/Square_root",
+          "http://dbpedia.org/resource/Pitch_(music)",
+          "http://dbpedia.org/resource/Particle_displacement",
+          "http://dbpedia.org/resource/Adiabatic_process",
+          "http://dbpedia.org/resource/Acoustic_velocity",
+          "http://dbpedia.org/resource/Pascal_(unit)",
+          "http://dbpedia.org/resource/Texture_(music)",
+          "http://dbpedia.org/resource/Aeroacoustics",
+          "http://dbpedia.org/resource/Isaac_Newton",
+          "http://dbpedia.org/resource/Acoustic_wave",
+          "http://dbpedia.org/resource/Polarization_(waves)",
+          "http://dbpedia.org/resource/Cacophony",
+          "http://dbpedia.org/resource/Sound_intensity",
+          "http://dbpedia.org/resource/Compression_(physical)",
+          "http://dbpedia.org/resource/File:Pitch_perception.png",
+          "http://dbpedia.org/resource/Diaphragm_(acoustics)",
+          "http://dbpedia.org/resource/Musical_instrument",
+          "http://dbpedia.org/resource/Speech",
+          "http://dbpedia.org/resource/Speech_communication",
+          "http://dbpedia.org/resource/If_a_tree_falls_in_a_forest",
+          "http://dbpedia.org/resource/Category:Sound",
+          "http://dbpedia.org/resource/Hydrosphere",
+          "http://dbpedia.org/resource/Category:Waves",
+          "http://dbpedia.org/resource/File:Sine_waves_different_frequencies.svg",
+          "http://dbpedia.org/resource/Sound_box",
+          "http://dbpedia.org/resource/Psychology",
+          "http://dbpedia.org/resource/Mel_scale",
+          "http://dbpedia.org/resource/Mechanical_wave",
+          "http://dbpedia.org/resource/Heat_capacity_ratio",
+          "http://dbpedia.org/resource/Organ_(anatomy)",
+          "http://dbpedia.org/resource/Sound_intensity_level",
+          "http://dbpedia.org/resource/File:23._\u0417\u0432\u0443\u0447\u043d\u0438_\u0432\u0438\u043b\u0443\u0448\u043a\u0438.ogv",
+          "http://dbpedia.org/resource/Physical_phenomenon",
+          "http://dbpedia.org/resource/Category:Hearing",
+          "http://dbpedia.org/resource/Pressure",
+          "http://dbpedia.org/resource/Architectural_acoustics",
+          "http://dbpedia.org/resource/Bioacoustics",
+          "http://dbpedia.org/resource/Environmental_noise"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "http://podcomplex.com/guide/physics.html",
+          "http://www.sengpielaudio.com/calculator-soundlevel.htm",
+          "http://salfordacoustics.co.uk/sound-waves",
+          "https://web.archive.org/web/20090123120804/http:/www.audiodesignline.com/howto/audioprocessing/193303241",
+          "http://www.acoustics.salford.ac.uk/schools/index1.htm",
+          "http://www.sengpielaudio.com/Calculations03.htm",
+          "http://hyperphysics.phy-astr.gsu.edu/hbase/sound/soucon.html",
+          "http://www.audiodesignline.com/howto/audioprocessing/193303241",
+          "http://www.audiocheck.net",
+          "https://www.cnet.com/news/stanford-scientists-created-a-sound-so-loud-it-instantly-boils-water/",
+          "http://www.phys.unsw.edu.au/~jw/hearing.html"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://eo.dbpedia.org/resource/Sono",
+          "http://sw.dbpedia.org/resource/Sauti",
+          "http://lt.dbpedia.org/resource/Garsas",
+          "http://cs.dbpedia.org/resource/Zvuk",
+          "http://pnb.dbpedia.org/resource/\u0622\u0648\u0627\u0632",
+          "http://hi.dbpedia.org/resource/\u0927\u094d\u0935\u0928\u093f",
+          "http://ckb.dbpedia.org/resource/\u062f\u06d5\u0646\u06af",
+          "http://nl.dbpedia.org/resource/Geluid",
+          "http://eu.dbpedia.org/resource/Soinu",
+          "http://als.dbpedia.org/resource/Schall",
+          "http://az.dbpedia.org/resource/S\u0259s",
+          "http://hy.dbpedia.org/resource/\u0541\u0561\u0575\u0576",
+          "http://sl.dbpedia.org/resource/Zvok",
+          "http://fy.dbpedia.org/resource/L\u00fbd",
+          "http://sv.dbpedia.org/resource/Ljud",
+          "http://ur.dbpedia.org/resource/\u0622\u0648\u0627\u0632",
+          "http://el.dbpedia.org/resource/\u0389\u03c7\u03bf\u03c2",
+          "http://ga.dbpedia.org/resource/Fuaim",
+          "http://oc.dbpedia.org/resource/Son",
+          "http://sah.dbpedia.org/resource/\u0414\u043e\u0440\u0495\u043e\u043e\u043d",
+          "http://kn.dbpedia.org/resource/\u0cb6\u0cac\u0ccd\u0ca6",
+          "http://nn.dbpedia.org/resource/Lyd",
+          "http://sh.dbpedia.org/resource/Zvuk",
+          "http://id.dbpedia.org/resource/Bunyi",
+          "http://su.dbpedia.org/resource/Sora",
+          "http://pa.dbpedia.org/resource/\u0a27\u0a41\u0a28\u0a40",
+          "http://is.dbpedia.org/resource/Hlj\u00f3\u00f0",
+          "http://mk.dbpedia.org/resource/\u0417\u0432\u0443\u043a",
+          "http://or.dbpedia.org/resource/\u0b36\u0b2c\u0b4d\u0b26_(\u0b27\u0b4d\u0b71\u0b28\u0b3f)",
+          "http://www.wikidata.org/entity/Q11461",
+          "http://rdf.freebase.com/ns/m.06qc5",
+          "http://cv.dbpedia.org/resource/\u0421\u0430\u0441\u0103",
+          "http://ml.dbpedia.org/resource/\u0d36\u0d2c\u0d4d\u0d26\u0d02",
+          "http://ku.dbpedia.org/resource/Deng",
+          "http://vec.dbpedia.org/resource/S\u00f3n",
+          "http://tl.dbpedia.org/resource/Tunog",
+          "http://bn.dbpedia.org/resource/\u09b6\u09ac\u09cd\u09a6",
+          "http://be.dbpedia.org/resource/\u0413\u0443\u043a",
+          "http://fi.dbpedia.org/resource/\u00c4\u00e4ni",
+          "http://fa.dbpedia.org/resource/\u0635\u062f\u0627",
+          "http://mg.dbpedia.org/resource/Feo",
+          "http://vi.dbpedia.org/resource/\u00c2m_thanh",
+          "http://mr.dbpedia.org/resource/\u0906\u0935\u093e\u091c_(\u0927\u094d\u0935\u0928\u0940)",
+          "http://my.dbpedia.org/resource/\u1021\u101e\u1036",
+          "http://gl.dbpedia.org/resource/Son",
+          "http://af.dbpedia.org/resource/Klank",
+          "http://ia.dbpedia.org/resource/Sono",
+          "http://an.dbpedia.org/resource/Soniu",
+          "http://he.dbpedia.org/resource/\u05e7\u05d5\u05dc",
+          "http://ne.dbpedia.org/resource/\u0927\u094d\u0935\u0928\u093f",
+          "http://ko.dbpedia.org/resource/\uc18c\ub9ac",
+          "http://mn.dbpedia.org/resource/\u0414\u0443\u0443",
+          "http://jv.dbpedia.org/resource/Uni",
+          "http://ar.dbpedia.org/resource/\u0635\u0648\u062a",
+          "http://qu.dbpedia.org/resource/Ruqyay",
+          "http://et.dbpedia.org/resource/Heli",
+          "http://ja.dbpedia.org/resource/\u97f3",
+          "http://de.dbpedia.org/resource/Schall",
+          "http://ka.dbpedia.org/resource/\u10d1\u10d2\u10d4\u10e0\u10d0",
+          "http://es.dbpedia.org/resource/Sonido",
+          "http://ast.dbpedia.org/resource/Son\u00edu",
+          "http://hr.dbpedia.org/resource/Zvuk",
+          "http://simple.dbpedia.org/resource/Sound",
+          "http://sr.dbpedia.org/resource/\u0417\u0432\u0443\u043a",
+          "http://hu.dbpedia.org/resource/Hang",
+          "http://new.dbpedia.org/resource/\u0938\u0903",
+          "http://li.dbpedia.org/resource/Geluid",
+          "http://tr.dbpedia.org/resource/Ses",
+          "http://io.dbpedia.org/resource/Sono",
+          "http://bs.dbpedia.org/resource/Zvuk",
+          "http://sq.dbpedia.org/resource/Tingulli",
+          "http://zh.dbpedia.org/resource/\u58f0\u97f3",
+          "http://sa.dbpedia.org/resource/\u0936\u092c\u094d\u0926\u0903",
+          "http://ta.dbpedia.org/resource/\u0b92\u0bb2\u0bbf",
+          "https://global.dbpedia.org/id/C4H8",
+          "http://kk.dbpedia.org/resource/\u0414\u044b\u0431\u044b\u0441",
+          "http://yi.dbpedia.org/resource/\u05e7\u05dc\u05d0\u05e0\u05d2",
+          "http://uk.dbpedia.org/resource/\u0417\u0432\u0443\u043a",
+          "http://pl.dbpedia.org/resource/D\u017awi\u0119k",
+          "http://fr.dbpedia.org/resource/Son_(physique)",
+          "http://lv.dbpedia.org/resource/Ska\u0146a",
+          "http://bar.dbpedia.org/resource/Schoi",
+          "http://th.dbpedia.org/resource/\u0e40\u0e2a\u0e35\u0e22\u0e07",
+          "http://sco.dbpedia.org/resource/Soond",
+          "http://da.dbpedia.org/resource/Lyd",
+          "http://no.dbpedia.org/resource/Lyd",
+          "http://ba.dbpedia.org/resource/\u0422\u0430\u0443\u044b\u0448",
+          "http://it.dbpedia.org/resource/Suono",
+          "http://la.dbpedia.org/resource/Sonus_(physica)",
+          "http://ru.dbpedia.org/resource/\u0417\u0432\u0443\u043a",
+          "http://sk.dbpedia.org/resource/Zvuk",
+          "http://pt.dbpedia.org/resource/Som",
+          "http://ro.dbpedia.org/resource/Sunet",
+          "http://ms.dbpedia.org/resource/Bunyi",
+          "http://cy.dbpedia.org/resource/Sain_(ffiseg)",
+          "http://ca.dbpedia.org/resource/So",
+          "http://te.dbpedia.org/resource/\u0c27\u0c4d\u0c35\u0c28\u0c3f",
+          "http://ky.dbpedia.org/resource/\u0414\u0430\u0431\u044b\u0448",
+          "http://am.dbpedia.org/resource/\u12f5\u121d\u133d",
+          "http://d-nb.info/gnd/4129541-9",
+          "http://azb.dbpedia.org/resource/\u0633\u0633",
+          "http://bg.dbpedia.org/resource/\u0417\u0432\u0443\u043a",
+          "http://si.dbpedia.org/resource/\u0dc1\u0db6\u0dca\u0daf\u0dba",
+          "http://ht.dbpedia.org/resource/Son_(fizik)",
+          "http://pms.dbpedia.org/resource/Son",
+          "http://uz.dbpedia.org/resource/Tovush",
+          "http://arz.dbpedia.org/resource/\u0635\u0648\u062a",
+          "http://war.dbpedia.org/resource/Tingog"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Pp-semi-indef",
+          "http://dbpedia.org/resource/Template:Wikisource",
+          "http://dbpedia.org/resource/Template:Div_col",
+          "http://dbpedia.org/resource/Template:Pp-move-indef",
+          "http://dbpedia.org/resource/Template:Listen",
+          "http://dbpedia.org/resource/Template:=",
+          "http://dbpedia.org/resource/Template:Authority_control",
+          "http://dbpedia.org/resource/Template:Rp",
+          "http://dbpedia.org/resource/Template:Wikibooks",
+          "http://dbpedia.org/resource/Template:Webarchive",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:About",
+          "http://dbpedia.org/resource/Template:Multiple_image",
+          "http://dbpedia.org/resource/Template:R",
+          "http://dbpedia.org/resource/Template:See_also",
+          "http://dbpedia.org/resource/Template:Commons_category",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Convert",
+          "http://dbpedia.org/resource/Template:Acoustics",
+          "http://dbpedia.org/resource/Template:Library_resources_box",
+          "http://dbpedia.org/resource/Template:Main",
+          "http://dbpedia.org/resource/Template:Sound_measurements",
+          "http://dbpedia.org/resource/Template:Cite_web",
+          "http://dbpedia.org/resource/Template:Wikiquote",
+          "http://dbpedia.org/resource/Template:Div_col_end"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Thoth08BigasDrumEvansChalmette.jpg?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/alt",
+        "Values": [
+          "Longitudinal plane pressure pulse wave",
+          "Transverse plane wave in linear polarization, i.e. oscillating only in the y-direction"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/caption",
+        "Values": [
+          "Transverse plane wave",
+          "Longitudinal plane wave"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/date",
+        "Values": [
+          "2009-01-23"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/description",
+        "Values": [
+          "Drum cadences performed by the United States Navy Band"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/filename",
+        "Values": [
+          "Drum - Cadence A.ogg"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/footer",
+        "Values": [
+          "Longitudinal and transverse plane wave"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/image",
+        "Values": [
+          "Onde cisaillement impulsion 1d 30 petit.gif",
+          "Onde compression impulsion 1d 30 petit.gif"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/label",
+        "Values": [
+          "Sound"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/title",
+        "Values": [
+          "Drum - Cadence A"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/url",
+        "Values": [
+          "https://web.archive.org/web/20090123120804/http:/www.audiodesignline.com/howto/audioprocessing/193303241"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/width",
+        "Values": [
+          "250"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/about",
+        "Values": [
+          "yes"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "Soinua edo hotsa objektu baten bibrazioek eragindako uhinek entzumen sisteman sortzen duten kitzikadura da. Fisikaren ikuspegitik, hedatzen dituen edozein fenomenori deritzo. Gorputz baten bibrazio-higidura gehienetan fluido baten (edo beste bitarteko elastiko baten) bidez hedatuko da. Soinuaren transmisioa fluido batetik hedatzean, konpresiodun uhin bat sortuko da. Horrek bere aldameneko partikulak elkarrekin konprimatzea eragingo du. Antzeko fenomenoa gertatzen da uhin akustikoekin. Horiek giza entzumen aparatuak uhin mekaniko bihurtzen dituzte. Prozesua amaitzeko, gure garunak uhin mekaniko (edo presio oszilazio) hauek soinu bihurtzen ditu.",
+          "Som \u00e9 a propaga\u00e7\u00e3o de uma onda mec\u00e2nica ac\u00fastica (frente de compress\u00e3o mec\u00e2nica); \u00e9 uma onda longitudinal que se propaga de forma circunc\u00eantrica apenas em meios materiais (como s\u00f3lidos, l\u00edquidos ou gasosos). Os sons naturais s\u00e3o, na sua maior parte, combina\u00e7\u00f5es de sinais, mas um som puro monot\u00f3nico, representado por uma senoide pura, possui uma velocidade de oscila\u00e7\u00e3o ou frequ\u00eancia que se mede em hertz (Hz) e uma amplitude ou energia que se mede em decib\u00e9is. Seres humanos e v\u00e1rios animais percebem sons com o sentido da audi\u00e7\u00e3o, via ouvidos, o que permite saber a dist\u00e2ncia e posi\u00e7\u00e3o da fonte sonora: a chamada audi\u00e7\u00e3o estereof\u00f4nica. Os sons aud\u00edveis pelo ouvido humano t\u00eam uma frequ\u00eancia entre 20 Hz e 20 000 Hz; onde abaixo e acima desta faixa est\u00e1 o infrassom e o ultrassom, respectivamente. Muitos sons de baixa frequ\u00eancia tamb\u00e9m podem ser sentidos por outras partes do corpo e pesquisas revelam que elefantes se comunicam atrav\u00e9s de infrassons. Os sons s\u00e3o usados de v\u00e1rias maneiras, muito especialmente para comunica\u00e7\u00e3o por meio da fala ou, por exemplo, m\u00fasica. A percep\u00e7\u00e3o do som tamb\u00e9m pode ser usada para adquirir informa\u00e7\u00f5es sobre o ambiente em propriedades como caracter\u00edsticas espaciais (forma, topografia) e presen\u00e7a de outros animais ou objetos. Por exemplo, morcegos, baleias e golfinhos usam a ecolocaliza\u00e7\u00e3o para voar e nadar por entre obst\u00e1culos e ca\u00e7ar suas presas. Navios e submarinos usam o sonar; seres humanos recebem e usam informa\u00e7\u00f5es espaciais percebidas em sons. Outra aplica\u00e7\u00e3o importante das ondas sonoras \u00e9 a visualiza\u00e7\u00e3o de tecidos do corpo: ultrassonografia. Atrav\u00e9s do eco produzido pelas ondas nos \u00f3rg\u00e3os, \u00e9 poss\u00edvel analisar as propriedades mec\u00e2nicas dos tecidos e reproduzi-las em imagens em escala de cinza. A sonoqu\u00edmica \u00e9 um m\u00e9todo que usa ultrassons a fim de gerar cavita\u00e7\u00e3o ac\u00fastica para iniciar ou acelerar rea\u00e7\u00f5es qu\u00edmicas.",
+          "Ljud \u00e4r mekaniska v\u00e5gor, en varierande t\u00e4thet som \u00f6verf\u00f6rs av ett fast \u00e4mne, v\u00e4tska eller gas, vars frekvenser faller inom intervallet f\u00f6r h\u00f6rsel med en niv\u00e5 som \u00e4r tillr\u00e4ckligt stark f\u00f6r att h\u00f6ras, eller k\u00e4nslan av s\u00e5dana vibrationer som stimulerar h\u00f6rselorgan. Ett exempel p\u00e5 h\u00f6rselorgan \u00e4r \u00f6ron. Ljudets hastighet p\u00e5verkas av mediets egenskaper (bland annat dess densitet, h\u00e5rdhet, elasticitetsmodul).",
+          "Geluid is de hoorbare verandering van de luchtdruk. Geluid kan ook in een ander medium optreden, bijvoorbeeld door drukwisselingen in water. In ruimere zin is geluid iedere verandering van de heersende statische atmosferische druk, al dan niet hoorbaar. Heel algemeen wordt onder geluid iedere verandering van de dichtheid van een elastisch medium verstaan. Geluid beweegt zich als een longitudinale golf van dichtheidswisselingen van het medium voort. Geluid kan door mensen of dieren met een gehoororgaan worden waargenomen wanneer het trommelvlies van het oor in trilling wordt gebracht en het gehoororgaan deze trillingen verwerkt tot signalen die door en met de hersenen worden ge\u00efnterpreteerd. Sommige diersoorten hebben andere gehoororganen, zoals het tympanaal orgaan van bepaalde ordes der insecten. Een geluidsbron veroorzaakt veranderingen in luchtdruk die zich in een golfbeweging door lucht voortbewegen. Wanneer zo'n geluidsgolf het trommelvlies bereikt, wordt dit aan het trillen gebracht in overeenstemming met de frequentie van de geluidsgolf. Veranderingen in luchtdruk moeten bepaalde karakteristieken hebben om te worden waargenomen, zoals het uitoefenen van een voldoende druk op het trommelvlies met een bepaalde frequentie. Als het geluid te zacht is, kan het niet worden waargenomen, maar wel met meetapparatuur worden gemeten.Sommige luchtdrukveranderingen worden niet als geluid waargenomen, maar wel fysiek ervaren. Geluid wordt gemeten met een microfoon. De geluidsgolf neemt ook energie met zich mee, maar die energie is relatief gering. Geluid wordt vaak afgebeeld als een sinusgolf, maar fysisch gezien is geluid in een medium als lucht of water een longitudinale golf: de golfbeweging heeft dezelfde richting als de voortplanting van de energie. De toppen van deze golf zijn de drukmaxima, de dalen van deze golf zijn de drukminima. Door een geluidsbron veroorzaakte trillingen kunnen zich ook voortplanten onder water. Mensen en dieren die zich onder het wateroppervlak bevinden, kunnen deze trillingen ook als geluid ervaren. Sommige vissen schijnen geluid te kunnen waarnemen met hun zwemblaas, maar ook met het binnenoor en het zijlijnsysteem. Geluidsgolven kunnen zich door veel stoffen voortplanten. Het natuurkundige fenomeen van geluid wordt bestudeerd in de akoestiek. Daarnaast wordt het ervaren van geluid door mensen bestudeerd in de psychoakoestiek.",
+          "Il suono (dal latino sonus) \u00e8 la sensazione data dalla vibrazione di un corpo in oscillazione. Tale vibrazione, che si propaga nell'aria o in un altro mezzo elastico, raggiunge l'apparato uditivo dell'orecchio che, tramite un complesso meccanismo interno, crea una \"sensazione uditiva\" correlata alla natura della vibrazione; in particolar modo la membrana timpanica subendo variazioni di pressioni entra in vibrazione, il meccanismo di trasmissione del suono consiste in una successione di compressioni e di espansioni delle molecole dell'aria (o del mezzo in cui si propaga) che circondano la sorgente sonora.",
+          "\u0417\u0432\u0443\u043a \u2014 \u043a\u043e\u043b\u0438\u0432\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0443\u0445 \u0447\u0430\u0441\u0442\u0438\u043d\u043e\u043a \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0430, \u0449\u043e \u043f\u043e\u0448\u0438\u0440\u044e\u0454\u0442\u044c\u0441\u044f \u0443 \u0432\u0438\u0433\u043b\u044f\u0434\u0456 \u0445\u0432\u0438\u043b\u044c \u0443 \u0433\u0430\u0437\u0456, \u0440\u0456\u0434\u0438\u043d\u0456 \u0447\u0438 \u0442\u0432\u0435\u0440\u0434\u043e\u043c\u0443 \u0442\u0456\u043b\u0456 \u0442\u0430 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u0454\u0442\u044c\u0441\u044f \u0441\u043b\u0443\u0445\u043e\u043c. \u0423 \u0432\u0443\u0437\u044c\u043a\u043e\u043c\u0443 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u0456 \u0442\u0435\u0440\u043c\u0456\u043d\u043e\u043c \u0437\u0432\u0443\u043a \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u044e\u0442\u044c \u043a\u043e\u043b\u0438\u0432\u0430\u043d\u043d\u044f, \u044f\u043a\u0456 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c\u0441\u044f \u0441\u0435\u043d\u0441\u043e\u0440\u043d\u043e\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u043e\u044e \u0442\u0432\u0430\u0440\u0438\u043d \u0456 \u043b\u044e\u0434\u0438\u043d\u0438. \u0412 \u0446\u044c\u043e\u043c\u0443 \u0432\u0438\u043f\u0430\u0434\u043a\u0443 \u043c\u0430\u044e\u0442\u044c\u0441\u044f \u043d\u0430 \u0443\u0432\u0430\u0437\u0456 \u0437\u0431\u0443\u0440\u0435\u043d\u043d\u044f, \u0449\u043e \u043f\u043e\u0448\u0438\u0440\u044e\u044e\u0442\u044c\u0441\u044f \u0432 \u043f\u043e\u0432\u0456\u0442\u0440\u0456. \u041e\u0440\u0433\u0430\u043d\u0438 \u0441\u043b\u0443\u0445\u0443 \u043b\u044e\u0434\u0438\u043d\u0438 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c \u0437\u0432\u0443\u043a\u0438 \u0443 \u0432\u0456\u0434\u043d\u043e\u0441\u043d\u043e \u0432\u0443\u0437\u044c\u043a\u043e\u043c\u0443 \u0447\u0430\u0441\u0442\u043e\u0442\u043d\u043e\u043c\u0443 \u0434\u0456\u0430\u043f\u0430\u0437\u043e\u043d\u0456. \u0421\u043b\u0443\u0445\u043e\u0432\u0438\u0439 \u0430\u043f\u0430\u0440\u0430\u0442 \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0442\u0432\u0430\u0440\u0438\u043d \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u0454 \u0437\u0432\u0443\u043a\u0438 \u0432 \u0437\u043d\u0430\u0447\u043d\u043e \u0448\u0438\u0440\u0448\u043e\u043c\u0443 \u0456\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u0456 \u0447\u0430\u0441\u0442\u043e\u0442. \u0412 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0432\u0438\u043f\u0430\u0434\u043a\u0443 \u0446\u0438\u043c \u0442\u0435\u0440\u043c\u0456\u043d\u043e\u043c \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0446\u0435\u0441 \u043f\u043e\u0448\u0438\u0440\u0435\u043d\u043d\u044f \u0437\u0431\u0443\u0440\u0435\u043d\u044c \u0432 \u0440\u0456\u0437\u043d\u0438\u0445 \u0437\u0430 \u0444\u0456\u0437\u0438\u0447\u043d\u0438\u043c\u0438 \u0432\u043b\u0430\u0441\u0442\u0438\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0430\u0445, \u0432 \u044f\u043a\u0438\u0445 \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0432\u0430\u043b\u044c\u043d\u043e\u044e \u0441\u0438\u043b\u043e\u044e, \u0449\u043e \u043d\u0430\u043c\u0430\u0433\u0430\u0454\u0442\u044c\u0441\u044f \u043f\u043e\u0432\u0435\u0440\u043d\u0443\u0442\u0438 \u0437\u0431\u0443\u0440\u0435\u043d\u0443 \u0447\u0430\u0441\u0442\u0438\u043d\u043a\u0443 \u0432 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044f \u0440\u0456\u0432\u043d\u043e\u0432\u0430\u0433\u0438, \u0454 \u0441\u0438\u043b\u0430 \u043f\u0440\u0443\u0436\u043d\u043e\u0441\u0442\u0456. \u0425\u0432\u0438\u043b\u044c\u043e\u0432\u0456 \u0437\u0431\u0443\u0440\u0435\u043d\u043d\u044f, \u0449\u043e \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u044e\u0442\u044c\u0441\u044f \u044f\u043a \u0437\u0432\u0443\u043a, \u0454 \u043e\u0431'\u0454\u043a\u0442\u0438\u0432\u043d\u043e\u044e \u0440\u0435\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044e \u0456 \u0456\u0441\u043d\u0443\u044e\u0442\u044c \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e \u0432\u0456\u0434 \u0441\u043f\u0440\u0438\u0439\u043d\u044f\u0442\u0442\u044f \u0457\u0445 \u0431\u0443\u0434\u044c-\u044f\u043a\u0438\u043c\u0438 \u0436\u0438\u0432\u0438\u043c\u0438 \u0456\u0441\u0442\u043e\u0442\u0430\u043c\u0438. \u0412\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u0437\u0430\u043a\u043e\u043d\u043e\u043c\u0456\u0440\u043d\u043e\u0441\u0442\u0435\u0439 \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0456\u0457, \u043f\u043e\u0448\u0438\u0440\u0435\u043d\u043d\u044f \u0442\u0430 \u0441\u043f\u0440\u0438\u0439\u043d\u044f\u0442\u0442\u044f \u0437\u0432\u0443\u043a\u0456\u0432 \u0432 \u0440\u0456\u0437\u043d\u0438\u0445 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0430\u0445 \u0454 \u043f\u0440\u0438\u043d\u0430\u043b\u0435\u0436\u043d\u0438\u043c \u0434\u043e \u0442\u0430\u043a\u043e\u0457 \u043d\u0430\u0443\u043a\u043e\u0432\u043e\u0457 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0456\u043d\u0438 \u044f\u043a \u0430\u043a\u0443\u0441\u0442\u0438\u043a\u0430. \u0411\u0456\u043b\u044c\u0448\u0456\u0441\u0442\u044c \u044f\u0432\u0438\u0449 \u0443 \u043f\u0440\u0438\u0440\u043e\u0434\u0456 \u0441\u0443\u043f\u0440\u043e\u0432\u043e\u0434\u0436\u0443\u044e\u0442\u044c\u0441\u044f \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u043d\u0438\u043c\u0438 \u0437\u0432\u0443\u043a\u0430\u043c\u0438, \u044f\u043a\u0456 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c\u0441\u044f \u0442\u0430 \u0440\u043e\u0437\u043f\u0456\u0437\u043d\u0430\u044e\u0442\u044c\u0441\u044f \u0432\u0443\u0445\u043e\u043c \u043b\u044e\u0434\u0438\u043d\u0438 \u0456 \u0442\u0432\u0430\u0440\u0438\u043d \u0456 \u0441\u043b\u0443\u0436\u0430\u0442\u044c \u0434\u043b\u044f \u043e\u0440\u0456\u0454\u043d\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0442\u0430 \u0441\u043f\u0456\u043b\u043a\u0443\u0432\u0430\u043d\u043d\u044f. \u0421\u043f\u0435\u0446\u0438\u0444\u0456\u043a\u0430 \u0441\u043f\u0440\u0438\u0439\u043d\u044f\u0442\u0442\u044f \u043a\u043e\u043b\u0438\u0432\u0430\u043b\u044c\u043d\u0438\u0445 \u0440\u0443\u0445\u0456\u0432 \u0447\u0430\u0441\u0442\u0438\u043d\u043e\u043a \u043f\u043e\u0432\u0456\u0442\u0440\u044f \u0441\u043b\u0443\u0445\u043e\u0432\u0438\u043c \u0430\u043f\u0430\u0440\u0430\u0442\u043e\u043c \u043b\u044e\u0434\u0438\u043d\u0438 \u0437\u0443\u043c\u043e\u0432\u043b\u044e\u0454 \u043f\u043e\u0434\u0456\u043b \u0437\u0432\u0443\u043a\u0456\u0432 \u043d\u0430 \u043f\u0440\u0438\u0454\u043c\u043d\u0456, \u0433\u0430\u0440\u043c\u043e\u043d\u0456\u0439\u043d\u0456 (\u0437\u0432\u0443\u043a\u0438 \u043c\u043e\u0432\u0438, \u043c\u0443\u0437\u0438\u0447\u043d\u0456 \u0437\u0432\u0443\u043a\u0438, \u0441\u043f\u0456\u0432 \u043f\u0442\u0430\u0448\u043e\u043a, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434) \u0442\u0430 \u0437\u0432\u0443\u043a\u0438 \u0437\u0456 \u0441\u043f\u0435\u0446\u0438\u0444\u0456\u0447\u043d\u0438\u043c \u0441\u043f\u0435\u043a\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u043c \u043d\u0430\u043f\u043e\u0432\u043d\u0435\u043d\u043d\u044f\u043c, \u0447\u0430\u0441\u0442\u043e \u043d\u0435\u0431\u0430\u0436\u0430\u043d\u0456 \u0442\u0430 \u0434\u0440\u0430\u0442\u0456\u0432\u043d\u0456, \u044f\u043a\u0456 \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u044e\u0442\u044c\u0441\u044f \u044f\u043a \u0448\u0443\u043c. \u0417\u043c\u0456\u0449\u0435\u043d\u043d\u044f \u0432 \u043f\u0440\u043e\u0441\u0442\u043e\u0440\u0456 \u0447\u0430\u0441\u0442\u0438\u043d\u043e\u043a \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0430 \u0443 \u0437\u0432\u0443\u043a\u043e\u0432\u0438\u0445 \u0437\u0431\u0443\u0440\u0435\u043d\u043d\u044f\u0445 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0437\u0443\u0454\u0442\u044c\u0441\u044f \u0442\u0430\u043a\u043e\u044e \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u043e\u044e \u044f\u043a \u0430\u043c\u043f\u043b\u0456\u0442\u0443\u0434\u0430 \u043a\u043e\u043b\u0438\u0432\u0430\u043d\u044c. \u0414\u043b\u044f \u043e\u043f\u0438\u0441\u0443 \u0437\u043c\u0456\u043d \u0441\u0442\u0430\u043d\u0443 \u0447\u0430\u0441\u0442\u0438\u043d\u043e\u043a \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0430 \u0432 \u0447\u0430\u0441\u0456 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0442\u0430\u043a\u0430 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0430 \u044f\u043a \u0447\u0430\u0441\u0442\u043e\u0442\u0430. \u0417\u0431\u0443\u0440\u0435\u043d\u043d\u044f, \u0449\u043e \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c\u0441\u044f \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0441\u043b\u0443\u0445\u0443 \u043b\u044e\u0434\u0438\u043d\u0438 \u0442\u0430 \u0440\u0456\u0437\u043d\u0438\u0445 \u0442\u0432\u0430\u0440\u0438\u043d \u0446\u0435 \u043b\u0438\u0448\u0435 \u043d\u0435\u0432\u0435\u043b\u0438\u043a\u0430 \u0447\u0430\u0441\u0442\u043a\u0430 \u0437\u0431\u0443\u0440\u0435\u043d\u044c, \u0449\u043e \u043c\u043e\u0436\u0443\u0442\u044c \u0456\u0441\u043d\u0443\u0432\u0430\u0442\u0438 \u0432 \u043d\u0430\u0432\u043a\u043e\u043b\u0438\u0448\u043d\u044c\u043e\u043c\u0443 \u0441\u0432\u0456\u0442\u0456. \u041b\u044e\u0434\u0441\u044c\u043a\u0435 \u0432\u0443\u0445\u043e \u043c\u043e\u0436\u0435 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u0442\u0438 \u043b\u0438\u0448\u0435 \u0437\u0432\u0443\u043a\u0438 \u0432 \u043f\u0435\u0432\u043d\u0438\u0445 \u043e\u0431\u043c\u0435\u0436\u0435\u043d\u0438\u0445 \u0456\u043d\u0442\u0435\u0440\u0432\u0430\u043b\u0430\u0445 \u0447\u0430\u0441\u0442\u043e\u0442 \u0442\u0430 \u0430\u043c\u043f\u043b\u0456\u0442\u0443\u0434. \u0414\u043b\u044f \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0432\u0438\u043f\u0430\u0434\u043a\u0456\u0432 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u043e\u0433\u043e \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0437\u0432\u0443\u043a\u0456\u0432 \u0432\u0435\u043b\u0438\u043a\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043c\u0430\u044e\u0442\u044c \u0437\u0432\u0443\u043a\u0438, \u0432 \u044f\u043a\u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u043d\u0430 \u0447\u0430\u0441\u0442\u0438\u043d\u0430 \u0435\u043d\u0435\u0440\u0433\u0456\u0457 \u0437\u043e\u0441\u0435\u0440\u0435\u0434\u0436\u0435\u043d\u0430 \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0456 \u0447\u0430\u0441\u0442\u043e\u0442, \u0449\u043e \u043d\u0435 \u0441\u043f\u0440\u0438\u0439\u043c\u0430\u044e\u0442\u044c\u0441\u044f \u043b\u044e\u0434\u0441\u044c\u043a\u0438\u043c \u0432\u0443\u0445\u043e\u043c. \u0412 \u0437\u0432'\u044f\u0437\u043a\u0443 \u0437 \u0446\u0438\u043c \u043e\u043a\u0440\u0435\u043c\u043e \u0432\u0438\u0434\u0456\u043b\u044f\u044e\u0442\u044c \u0442\u0430\u043a\u0456 \u043e\u0441\u043e\u0431\u043b\u0438\u0432\u0456 \u0442\u0438\u043f\u0438 \u0437\u0431\u0443\u0440\u0435\u043d\u044c, \u044f\u043a \u0443\u043b\u044c\u0442\u0440\u0430\u0437\u0432\u0443\u043a \u0442\u0430 \u0456\u043d\u0444\u0440\u0430\u0437\u0432\u0443\u043a. \u0423 \u0444\u0456\u043b\u043e\u0441\u043e\u0444\u0456\u0457, \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0456\u0457 \u0439 \u0435\u043a\u043e\u043b\u043e\u0433\u0456\u0457 \u0437\u0430\u0441\u043e\u0431\u0456\u0432 \u043a\u043e\u043c\u0443\u043d\u0456\u043a\u0430\u0446\u0456\u0457 \u0437\u0432\u0443\u043a \u0434\u043e\u0441\u043b\u0456\u0434\u0436\u0443\u0454\u0442\u044c\u0441\u044f \u0443 \u0437\u0432'\u044f\u0437\u043a\u0443 \u0437 \u0439\u043e\u0433\u043e \u0432\u043f\u043b\u0438\u0432\u043e\u043c \u043d\u0430 \u0441\u043f\u0440\u0438\u0439\u043d\u044f\u0442\u0442\u044f \u0439 \u043c\u0438\u0441\u043b\u0435\u043d\u043d\u044f (\u043c\u043e\u0432\u0430 \u0439\u0434\u0435, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434, \u043f\u0440\u043e \u0430\u043a\u0443\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u043f\u0440\u043e\u0441\u0442\u0456\u0440 \u044f\u043a \u043f\u0440\u043e\u0441\u0442\u0456\u0440, \u0441\u0442\u0432\u043e\u0440\u044e\u0432\u0430\u043d\u0438\u0439 \u0432\u043f\u043b\u0438\u0432\u043e\u043c \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0438\u0445 \u0437\u0430\u0441\u043e\u0431\u0456\u0432 \u043a\u043e\u043c\u0443\u043d\u0456\u043a\u0430\u0446\u0456\u0457).",
+          "Le son est une vibration m\u00e9canique d'un fluide, qui se propage sous forme d'ondes longitudinales gr\u00e2ce \u00e0 la d\u00e9formation \u00e9lastique de ce fluide. Les \u00eatres humains, comme beaucoup d'animaux, ressentent cette vibration gr\u00e2ce au sens de l'ou\u00efe. L'acoustique est la science qui \u00e9tudie les sons ; la psychoacoustique \u00e9tudie la mani\u00e8re dont les organes du corps humain ressentent et l'\u00eatre humain per\u00e7oit et interpr\u00e8te les sons.",
+          "( \ub2e4\ub978 \ub73b\uc5d0 \ub300\ud574\uc11c\ub294 \uc18c\ub9ac (\ub3d9\uc74c\uc774\uc758) \ubb38\uc11c\ub97c \ucc38\uace0\ud558\uc2ed\uc2dc\uc624.) \uc18c\ub9ac \ub610\ub294 \uc74c(\u97f3) \ub610\ub294 '\uc74c\ud30c'\ub294 \uacf5\uae30\ub098 \ubb3c \uac19\uc740 \ub9e4\uc9c8\uc758 \uc9c4\ub3d9\uc744 \ud1b5\ud574 \uc804\ub2ec\ub418\ub294 \uc885\ud30c\uc774\ub2e4. \ub300\ud45c\uc801\uc73c\ub85c \uc0ac\ub78c\uc758 \uccad\uac01\uae30\uad00\uc744 \uc790\uadf9\ud558\uc5ec \ub1cc\uc5d0\uc11c \ud574\uc11d\ub418\ub294 \ub9e4\uc9c8\uc758 \uc6c0\uc9c1\uc784\uc774 \uadf8 \uc608\uc774\ub2e4. \uc6b0\ub9ac\ub4e4\uc758 \uadc0\uc5d0 \ub04a\uc784\uc5c6\uc774 \ub4e4\ub824\uc624\ub294 \uc18c\ub9ac\ub294 \uacf5\uae30 \uc18d\uc744 \uc804\ud574\uc624\ub294 \ud30c\ub3d9\uc774\ub2e4. \uc18c\ub9ac\ub294 \uc6b0\ub9ac\ub4e4\uc5d0\uac8c \uc5ec\ub7ec \uac00\uc9c0 \uc815\ubcf4\ub97c \uc804\ud574\uc900\ub2e4. \ub208\uc5d0\ub294 \ubcf4\uc774\uc9c0 \uc54a\ub294 \ud30c\ub3d9\uc774\uc9c0\ub9cc \ud30c\ub3d9\uc758 \uc5ec\ub7ec \uac00\uc9c0 \uc131\uc9c8\uc740 \uc74c\ud30c\uc758 \uacbd\uc6b0 \uadc0\uc5d0 \ub4e4\ub9ac\ub294 \uc18c\ub9ac\uc758 \ubcc0\ud654\ub85c \uc54c \uc218\uac00 \uc788\ub2e4. \uc0ac\ub78c\uc774 \uc18c\ub9ac\ub97c \ub4e4\uc744 \uc218 \uc788\ub294 \uac83\ub3c4 \uacf5\uae30\uac00 \uc9c4\ub3d9\ud558\uae30 \ub54c\ubb38\uc774\ub2e4. \uc989 \uc8fc\ud30c\uc218(\uc9c4\ub3d9\uc218)\ub97c \uac00\uc9c0\uae30 \ub54c\ubb38\uc774\ub2e4. \uc0ac\ub78c\uc758 \uac00\uccad\uc8fc\ud30c\uc218\ub294 \uc57d 20~20480 Hz(20.48 KHz) \uc774\ub0b4\uc774\uba70 \ub098\uc774\uac00 \ub4e6\uc5d0 \ub530\ub77c \ucd5c\ub300 \uac00\uccad\uc8fc\ud30c\uc218\ub294 \ub0ae\uc544\uc9c0\uac8c \ub41c\ub2e4. \uacf5\ud559\uc5d0\uc11c\uc758 \uac00\uccad\uc8fc\ud30c\uc218 \ub300\uc5ed\ud3ed\uc740 300~3400 Hz\uc774\ub2e4. \uc18c\ub9ac \uc989 \uc74c\ud30c\ub294 \ubb3c\ub9ac\ud559\uc5d0\uc11c \ub9e4\uc9c8(\u5a92\u8cea)\uc758 \uc9c4\ub3d9 \ubc29\ud5a5\uc774 \ud30c\ub3d9\uc758 \ubc29\ud5a5\uc5d0 \uc77c\uce58\ud558\ub294 \ud30c\ub3d9 \uc989 \uc885\ud30c(\u7e31\u6ce2)\uc758 \ud558\ub098\uc774\ub2e4. \ud55c\ud3b8 \uc74c\ud30c\ub294 \uacf5\uae30\ub97c \uc555\ucd95 \ub610\ub294 \ud655\uc7a5 \uc2dc\ud0b4\uc73c\ub85c\uc368 \ud30c\ub3d9\uc744 \uac16\uac8c \ub41c\uac83\uc774\ub2e4. \uc74c\uc18d\uc758 \uae30\uc900\uc774 \ub41c\ub2e4.",
+          "Sono estas a\u016ddebla aervibrado eligita de homoj, bestoj, objektoj ktp. En fiziko sono estas ajna fenomeno kiu implicas la disvastigon de mekanikaj ondoj (\u0109u a\u016ddeblaj a\u016d ne a\u016ddeblaj), \u011denerale tra fluo (a\u016d tra alia elasta medio) kiu estas generanta la vibran movon de korpo. La sono a\u016ddebla de homo konsistas el sonaj kaj akustikaj ondoj produktitaj kiam la osciloj de la aerpremo estas konvertitaj en mekanikaj ondoj en la homa a\u016ddorgano kaj perceptitaj de la cerbo. La disvastigo de la sono estas simila en flua\u0135oj, kie la sono havas la formon de premfluktuoj. En la solidaj korpoj la disvastigo de la sono implicas variadon de la tensia stato de la medio.",
+          "\u0417\u0432\u0443\u043a \u2014 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u044f\u0432\u043b\u0435\u043d\u0438\u0435, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u044e\u0449\u0435\u0435 \u0441\u043e\u0431\u043e\u0439 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0443\u043f\u0440\u0443\u0433\u0438\u0445 \u0432\u043e\u043b\u043d \u0432 \u0433\u0430\u0437\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0439, \u0436\u0438\u0434\u043a\u043e\u0439 \u0438\u043b\u0438 \u0442\u0432\u0451\u0440\u0434\u043e\u0439 \u0441\u0440\u0435\u0434\u0435. \u0412 \u0443\u0437\u043a\u043e\u043c \u0441\u043c\u044b\u0441\u043b\u0435 \u043f\u043e\u0434 \u0437\u0432\u0443\u043a\u043e\u043c \u0438\u043c\u0435\u044e\u0442 \u0432 \u0432\u0438\u0434\u0443 \u044d\u0442\u0438 \u0432\u043e\u043b\u043d\u044b, \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u043c\u044b\u0435 \u0432 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0442\u0435\u043c, \u043a\u0430\u043a \u043e\u043d\u0438 \u0432\u043e\u0441\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442\u0441\u044f \u043e\u0440\u0433\u0430\u043d\u0430\u043c\u0438 \u0447\u0443\u0432\u0441\u0442\u0432. \u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u043c \u0437\u0432\u0443\u043a\u0430 \u043c\u043e\u0436\u0435\u0442 \u0432\u044b\u0441\u0442\u0443\u043f\u0430\u0442\u044c \u0442\u0435\u043b\u043e, \u0441\u043e\u0432\u0435\u0440\u0448\u0430\u044e\u0449\u0435\u0435 \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043a\u043e\u043b\u0435\u0431\u0430\u043d\u0438\u044f \u043f\u043e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u043c\u0443 \u0437\u0430\u043a\u043e\u043d\u0443. \u0412 \u043e\u0431\u0449\u0435\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0432\u0443\u043a \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0441\u043e\u0432\u043e\u043a\u0443\u043f\u043d\u043e\u0441\u0442\u044c\u044e \u0432\u043e\u043b\u043d \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0447\u0430\u0441\u0442\u043e\u0442. \u0420\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u043f\u043e \u0447\u0430\u0441\u0442\u043e\u0442\u0430\u043c \u0431\u044b\u0432\u0430\u044e\u0442 \u043f\u043b\u0430\u0432\u043d\u044b\u043c\u0438 (\u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u044b\u043c\u0438) \u0438\u043b\u0438 \u0441 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u043d\u044b\u043c\u0438 \u043c\u0430\u043a\u0441\u0438\u043c\u0443\u043c\u0430\u043c\u0438 \u043f\u0440\u0438 (\u0434\u0438\u0441\u043a\u0440\u0435\u0442\u043d\u044b\u043c\u0438). \u0414\u043b\u044f \u0443\u043f\u0440\u043e\u0449\u0435\u043d\u0438\u044f \u043d\u0435\u0440\u0435\u0434\u043a\u043e \u0441\u043e\u0441\u0440\u0435\u0434\u043e\u0442\u043e\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u043e\u0434\u043d\u043e\u0439 \u0432\u043e\u043b\u043d\u0435 \u043a\u043e\u043d\u043a\u0440\u0435\u0442\u043d\u043e\u0439 \u0447\u0430\u0441\u0442\u043e\u0442\u044b. \u041e\u0431\u044b\u0447\u043d\u044b\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a \u0441\u043f\u043e\u0441\u043e\u0431\u0435\u043d \u0441\u043b\u044b\u0448\u0430\u0442\u044c \u0437\u0432\u0443\u043a\u043e\u0432\u044b\u0435 \u043a\u043e\u043b\u0435\u0431\u0430\u043d\u0438\u044f \u0432 \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u0435 \u0447\u0430\u0441\u0442\u043e\u0442 \u043e\u0442 16\u201420 \u0413\u0446 \u0434\u043e 15\u201420 \u043a\u0413\u0446. \u0417\u0432\u0443\u043a \u043d\u0438\u0436\u0435 \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u0430 \u0441\u043b\u044b\u0448\u0438\u043c\u043e\u0441\u0442\u0438 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u0438\u043d\u0444\u0440\u0430\u0437\u0432\u0443\u043a\u043e\u043c; \u0432\u044b\u0448\u0435: \u0434\u043e 1 \u0413\u0413\u0446, \u2014 \u0443\u043b\u044c\u0442\u0440\u0430\u0437\u0432\u0443\u043a\u043e\u043c, \u043e\u0442 1 \u0413\u0413\u0446 \u2014 \u0433\u0438\u043f\u0435\u0440\u0437\u0432\u0443\u043a\u043e\u043c. \u0412 \u043f\u0435\u0440\u0432\u043e\u043c \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0435\u043d\u0438\u0438 \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c \u0437\u0432\u0443\u043a\u0430 \u0434\u0438\u043a\u0442\u0443\u0435\u0442\u0441\u044f \u0430\u043c\u043f\u043b\u0438\u0442\u0443\u0434\u043e\u0439 \u0432\u043e\u043b\u043d\u044b, \u0430 \u0442\u043e\u043d, \u0432\u044b\u0441\u043e\u0442\u0430 \u0437\u0432\u0443\u043a\u0430 \u2014 \u0447\u0430\u0441\u0442\u043e\u0442\u043e\u0439. \u0411\u043e\u043b\u0435\u0435 \u0442\u043e\u0447\u043d\u043e, \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c \u0441\u043b\u043e\u0436\u043d\u044b\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u0437\u0430\u0432\u0438\u0441\u0438\u0442 \u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0437\u0432\u0443\u043a\u043e\u0432\u043e\u0433\u043e \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f, \u0447\u0430\u0441\u0442\u043e\u0442\u044b \u0438 \u0444\u043e\u0440\u043c\u044b \u043a\u043e\u043b\u0435\u0431\u0430\u043d\u0438\u0439, \u0430 \u0432\u044b\u0441\u043e\u0442\u0430 \u0437\u0432\u0443\u043a\u0430 \u2014 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0442 \u0447\u0430\u0441\u0442\u043e\u0442\u044b, \u043d\u043e \u0438 \u043e\u0442 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b \u0437\u0432\u0443\u043a\u043e\u0432\u043e\u0433\u043e \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u044f. \u0421\u0440\u0435\u0434\u0438 \u0441\u043b\u044b\u0448\u0438\u043c\u044b\u0445 \u0437\u0432\u0443\u043a\u043e\u0432 \u0432\u044b\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u0444\u043e\u043d\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435, \u0440\u0435\u0447\u0435\u0432\u044b\u0435 \u0437\u0432\u0443\u043a\u0438 \u0438 \u0444\u043e\u043d\u0435\u043c\u044b (\u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0443\u0441\u0442\u043d\u0430\u044f \u0440\u0435\u0447\u044c) \u0438 \u043c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0432\u0443\u043a\u0438 (\u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u043c\u0443\u0437\u044b\u043a\u0430). \u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u0432\u0443\u043a\u0438 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442 \u043d\u0435 \u043e\u0434\u0438\u043d, \u0430 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0442\u043e\u043d\u043e\u0432 (\u0432\u043e\u043b\u043d \u0444\u0438\u043a\u0441\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0447\u0430\u0441\u0442\u043e\u0442 ), \u0430 \u0438\u043d\u043e\u0433\u0434\u0430 \u0438 \u0448\u0443\u043c\u043e\u0432\u044b\u0435 \u043a\u043e\u043c\u043f\u043e\u043d\u0435\u043d\u0442\u044b \u0432 \u0448\u0438\u0440\u043e\u043a\u043e\u043c \u0430\u043a\u0443\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u0435.",
+          "Zvuk je mechanick\u00e9 vln\u011bn\u00ed v l\u00e1tkov\u00e9m prost\u0159ed\u00ed, kter\u00e9 je schopno vyvolat sluchov\u00fd vjem. Frekvence tohoto vln\u011bn\u00ed, kter\u00e9 je \u010dlov\u011bk schopen vn\u00edmat, jsou zna\u010dn\u011b individu\u00e1ln\u00ed a le\u017e\u00ed v intervalu p\u0159ibli\u017en\u011b 16 Hz a\u017e 20 000 Hz. Mechanick\u00e9 vln\u011bn\u00ed mimo tento frekven\u010dn\u00ed rozsah sluchov\u00fd vjem nevyvol\u00e1v\u00e1, p\u0159esto se n\u011bkdy tak\u00e9 ozna\u010duje jako zvuk. Frekvenci ni\u017e\u0161\u00ed ne\u017e 16 Hz m\u00e1 infrazvuk, sly\u0161\u00ed jej nap\u0159. sloni. Frekvenci vy\u0161\u0161\u00ed ne\u017e 20 kHz m\u00e1 ultrazvuk, kter\u00fd mohou vn\u00edmat nap\u0159. psi, delf\u00edni \u010di netop\u00fd\u0159i. D\u011bje, kter\u00e9 jsou spojeny se vznikem zvuku, jeho \u0161\u00ed\u0159en\u00edm a vn\u00edm\u00e1n\u00edm, se naz\u00fdvaj\u00ed akustika a stejn\u00fd n\u00e1zev m\u00e1 i v\u011bda, kter\u00e1 tyto d\u011bje zkoum\u00e1.",
+          "El so \u00e9s una successi\u00f3 de canvis de pressi\u00f3 (compressions i dilatacions) en un medi (s\u00f2lid, l\u00edquid o gas), provocats per una vibraci\u00f3 que s'hi transmet en forma d'ones sonores. La vibraci\u00f3 provoca alteracions mec\u00e0niques a les part\u00edcules del medi creant canvis de pressi\u00f3 que es propaguen en totes direccions a partir del punt on hi ha la vibraci\u00f3. Els humans, i tamb\u00e9 molts animals, podem percebre el so mitjan\u00e7ant el sentit de l'o\u00efda. El rang de sons audible per les persones \u00e9s t\u00edpicament entre 20 Hz i 20 kHz. Perqu\u00e8 es generi un so cal que vibri alguna font. Les vibracions poden ser transmeses a trav\u00e9s de diversos mitjans el\u00e0stics, entre els m\u00e9s comuns es troben l'aire i l'aigua. La fon\u00e8tica ac\u00fastica concentra el seu inter\u00e8s especialment en els sons de la parla: com es generen, com es perceben, i com es poden descriure gr\u00e0fica i / o quantitativament. A difer\u00e8ncia d'altres tipus d'energia calor\u00edfica, energia lluminosa, que poden viatjar a trav\u00e9s del buit, el so necessita un medi material per a transmetre's. Aquesta transmissi\u00f3 \u00e9s longitudinal en un fluid (l\u00edquid o gas) i transversal en un s\u00f2lid. La velocitat del so (velocitat a qu\u00e8 es despla\u00e7a el so) dep\u00e8n de la densitat del medi a trav\u00e9s del qual viatja. En l'aire, aquesta velocitat \u00e9s d'uns 340 metres per segon, tot i que varia amb la temperatura i la humitat. Les principals caracter\u00edstiques de les ones sonores s\u00f3n, com en qualsevol altre tipus d'ona, la freq\u00fc\u00e8ncia i l'amplitud.",
+          "Schall (von Althochdeutsch: scal) bezeichnet allgemein mechanische Schwingungen in einem elastischen Medium (Gas, Fl\u00fcssigkeit, Festk\u00f6rper). Diese Schwingungen rufen Druck- und Dichteschwankungen hervor, die sich in dem Medium ausbreiten und so die Schallwellen bilden. Umgangssprachlich bezeichnet Schall vor allem das Ger\u00e4usch, den Klang, den Ton, den Knall (Schallarten), wie er von Menschen und Tieren mit dem Geh\u00f6r, also dem Ohr-Gehirn-System auditiv wahrgenommen werden kann. Man unterscheidet dabei den Nutzschall, wie Musik oder die Stimme beim Gespr\u00e4ch, und den St\u00f6rschall, wie Baustellen- oder Verkehrsl\u00e4rm. Schall ist ein Kollektivum und wird nur im Singular benutzt.",
+          "\u97f3\uff08\u304a\u3068\uff09\u3068\u306f\u3001\u7269\u304c\u52d5\u304d\u3001\u3053\u3059\u308c\u3001\u307e\u305f\u3001\u3076\u3064\u304b\u3063\u3066\u51fa\u308b\u7a7a\u6c17\u306e\u9707\u3048\uff08\uff1d\u758e\u5bc6\u6ce2\uff09\u304c\u8033\u306b\u5c4a\u3044\u3066\u805e\u3053\u3048\u308b\u3082\u306e\u3002 \u672c\u9805\u3067\u306f\u3001\u305d\u306e\u97f3\u306b\u3064\u3044\u3066\u89e3\u8aac\u3059\u308b\u3002",
+          "\u8072\u97f3\u662f\u632f\u52d5\u7522\u751f\u7684\u58f0\u6ce2\uff0c\u901a\u904e\u4ecb\u8cea\uff08\u6c23\u9ad4\u3001\u56fa\u9ad4\u3001\u6db2\u9ad4\uff09\u50b3\u64ad\u5e76\u80fd\u88ab\u4eba\u6216\u52d5\u7269\u807d\u89ba\u5668\u5b98\u6240\u611f\u77e5\u7684\u6ce2\u52d5\u73fe\u8c61\u3002 \u8072\u97f3\u7684\u983b\u7387\u4e00\u822c\u6703\u4ee5\u8d6b\u5179\u8868\u793a\uff0c\u8a18\u70baHz\uff0c\u6307\u6bcf\u79d2\u9418\u5468\u671f\u6027\u9707\u52d5\u7684\u6b21\u6578\u3002\u800c\u5206\u8c9d\u662f\u7528\u6765\u8868\u793a\u8072\u97f3\u5f3a\u5ea6\u7684\u5355\u4f4d\uff0c\u8a18\u70badB\u3002 \u8072\u97f3\u662f\u4e00\u7a2e\u6ce2\u52d5\uff0c\u5f53\u6f14\u594f\u4e50\u5668\u3001\u62cd\u6253\u4e00\u6247\u95e8\u6216\u8005\u6572\u51fb\u684c\u9762\u65f6\uff0c\u58f0\u97f3\u7684\u632f\u52a8\u4f1a\u5f15\u8d77\u4ecb\u8d28\u2014\u2014\u7a7a\u6c14\u5206\u5b50\u6709\u8282\u594f\u7684\u632f\u52a8\uff0c\u4f7f\u5468\u56f4\u7684\u7a7a\u6c14\u4ea7\u751f\u758f\u5bc6\u53d8\u5316\uff0c\u5f62\u6210\u758f\u5bc6\u76f8\u95f4\u7684\u7eb5\u6ce2\uff0c\u8fd9\u5c31\u4ea7\u751f\u4e86\u58f0\u6ce2\uff0c\u8fd9\u79cd\u73b0\u8c61\u4f1a\u4e00\u76f4\u5ef6\u7eed\u5230\u632f\u52a8\u6d88\u5931\u4e3a\u6b62\u3002\u58f0\u97f3\u603b\u53ef\u4ee5\u88ab\u5206\u89e3\u4e3a\u4e0d\u540c\u9891\u7387\u4e0d\u540c\u5f3a\u5ea6\u6b63\u5f26\u6ce2\u7684\u53e0\u52a0\u3002\u9019\u7a2e\u8b8a\u63db\uff08\u6216\u5206\u89e3\uff09\u7684\u904e\u7a0b\uff0c\u7a31\u70ba\u5085\u7acb\u8449\u8b8a\u63db\u3002\u56e0\u6b64\uff0c\u4e00\u822c\u7684\u58f0\u97f3\u603b\u662f\u5305\u542b\u4e00\u5b9a\u7684\u9891\u7387\u8303\u56f4\u3002\u4eba\u8033\u53ef\u4ee5\u542c\u5230\u7684\u58f0\u97f3\u7684\u9891\u7387\u8303\u56f4\u572820\u52302\u4e07\u8d6b\u5179\uff08Hz\uff09\u4e4b\u95f4\u3002\u9ad8\u4e8e\u8fd9\u4e2a\u8303\u56f4\u7684\u6ce2\u52a8\u79f0\u4e3a\u8d85\u58f0\u6ce2\uff0c\u800c\u4f4e\u4e8e\u8fd9\u4e00\u8303\u56f4\u7684\u79f0\u4e3a\u6b21\u58f0\u6ce2\u3002 \u6587\u8a00\u6587\u4e2d\uff0c\u300c\u8072\u300d\u7279\u6307\u4eba\u8072\uff0c\u800c\u300c\u97f3\u300d\u7279\u6307\u5176\u4ed6\u8072\u97f3\uff1b\u800c\u5728\u73fe\u4ee3\u6f22\u8a9e\u4e2d\uff0c\u300c\u8072\u300d\u8207\u300c\u97f3\u300d\u610f\u601d\u5df2\u6df7\u540c\u70ba\u300c\u8072\u97f3\u300d\uff0c\u4e26\u7c21\u7a31\u70ba\u300c\u8072\u300d\u6216\u300c\u97f3\u300d\uff0c\u800c\u6587\u8a00\u6587\u4e2d\u300c\u8072\u300d\u5728\u73fe\u4ee3\u6f22\u8a9e\u4e2d\u88ab\u7a31\u70ba\u300c\u4eba\u8072\u300d\u3002\u65e5\u8a9e\u4e2d\u5247\u4ecd\u4fdd\u7559\u6587\u8a00\u6587\u4e2d\u7684\u5340\u5225\u3002",
+          "En f\u00edsica, el sonido es cualquier fen\u00f3meno que involucre la propagaci\u00f3n de ondas mec\u00e1nicas (sean audibles o no), a trav\u00e9s de un medio (fluido o s\u00f3lido) que est\u00e9 generando el movimiento vibratorio de un cuerpo. El sonido humanamente audible (entre 20 y 20 000 hercios) consiste en ondas sonoras y ondas ac\u00fasticas que se producen cuando las oscilaciones de la presi\u00f3n del aire, son convertidas en ondas mec\u00e1nicas en el o\u00eddo humano y percibidas por el cerebro. La propagaci\u00f3n del sonido es similar en los fluidos, donde el sonido toma la forma de fluctuaciones de presi\u00f3n.\u200b En los cuerpos s\u00f3lidos la propagaci\u00f3n del sonido involucra variaciones del estado tensional del medio. La propagaci\u00f3n del sonido involucra transporte de energ\u00eda sin transporte de materia, en forma de ondas mec\u00e1nicas que se propagan a trav\u00e9s de un medio el\u00e1stico s\u00f3lido, l\u00edquido o gaseoso. Entre los m\u00e1s comunes se encuentran el aire y el agua. El sonido, las ondas sonoras, no se propagan en el vac\u00edo, al contrario que las ondas electromagn\u00e9ticas. Si las vibraciones se producen en la misma direcci\u00f3n en la que se propaga el sonido, se trata de una onda longitudinal y si las vibraciones son perpendiculares a la direcci\u00f3n de propagaci\u00f3n es una onda transversal. La fon\u00e9tica ac\u00fastica concentra su inter\u00e9s especialmente en los sonidos del habla: c\u00f3mo se generan, c\u00f3mo se perciben, y c\u00f3mo se pueden describir gr\u00e1fica o cuantitativamente.",
+          "D\u017awi\u0119k \u2013 wra\u017cenie s\u0142uchowe, spowodowane fal\u0105 akustyczn\u0105 rozchodz\u0105c\u0105 si\u0119 w o\u015brodku spr\u0119\u017cystym (ciele sta\u0142ym, cieczy, gazie). Cz\u0119stotliwo\u015bci fal, kt\u00f3re s\u0105 s\u0142yszalne dla cz\u0142owieka, zawarte s\u0105 w pa\u015bmie mi\u0119dzy warto\u015bciami granicznymi od ok. 16 Hz do ok. 20 kHz.",
+          "In physics, sound is a vibration that propagates as an acoustic wave, through a transmission medium such as a gas, liquid or solid.In human physiology and psychology, sound is the reception of such waves and their perception by the brain. Only acoustic waves that have frequencies lying between about 20 Hz and 20 kHz, the audio frequency range, elicit an auditory percept in humans. In air at atmospheric pressure, these represent sound waves with wavelengths of 17 meters (56 ft) to 1.7 centimeters (0.67 in). Sound waves above 20 kHz are known as ultrasound and are not audible to humans. Sound waves below 20 Hz are known as infrasound. Different animal species have varying hearing ranges.",
+          "\u0627\u0644\u0635\u0648\u062a \u0647\u0648 \u062a\u0631\u062f\u062f \u0622\u0644\u064a\u060c \u0623\u0648 \u0645\u0648\u062c\u0629 \u0642\u0627\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u062d\u0631\u0643 \u0641\u064a \u0648\u0633\u0637 \u0645\u0627\u062f\u064a \u0645\u062b\u0644 \u0627\u0644\u0647\u0648\u0627\u0621\u060c \u0648\u0627\u0644\u0623\u062c\u0633\u0627\u0645 \u0627\u0644\u0635\u0644\u0628\u0629\u060c \u0627\u0644\u0633\u0648\u0627\u0626\u0644\u060c \u0648\u0627\u0644\u063a\u0627\u0632\u0627\u062a\u060c \u0648\u0644\u0627 \u062a\u0646\u062a\u0634\u0631 \u0641\u064a \u0627\u0644\u0641\u0631\u0627\u063a (\u0625\u0630\u0627 \u0648\u0636\u0639\u0646\u0627 \u062c\u0631\u0633\u064b\u0627 \u0641\u064a \u0646\u0627\u0642\u0648\u0633 \u0632\u062c\u0627\u062c\u064a \u0648\u0641\u0631\u063a\u0646\u0627 \u0627\u0644\u0646\u0627\u0642\u0648\u0633 \u0645\u0646 \u0627\u0644\u0647\u0648\u0627\u0621\u060c \u0641\u0625\u0646\u0646\u0627 \u0644\u0627 \u0646\u0633\u0645\u0639 \u0635\u0648\u062a \u0627\u0644\u062c\u0631\u0633 \u0639\u0646\u062f\u0645\u0627 \u064a\u062f\u0642 \u0628\u0633\u0628\u0628 \u0639\u062f\u0645 \u0627\u0646\u062a\u0642\u0627\u0644 \u0647\u0632\u0627\u062a (\u0635\u0648\u062a) \u0627\u0644\u062c\u0631\u0633 \u0641\u064a \u0627\u0644\u0641\u0631\u0627\u063a). \u0648\u0628\u0627\u0633\u062a\u0637\u0627\u0639\u0629 \u0627\u0644\u0643\u0627\u0626\u0646 \u0627\u0644\u062d\u064a \u062a\u062d\u0633\u0633 \u0627\u0644\u0635\u0648\u062a \u0639\u0646 \u0637\u0631\u064a\u0642 \u0639\u0636\u0648 \u062e\u0627\u0635 \u064a\u0633\u0645\u0649 \u0627\u0644\u0623\u0630\u0646. \u0648\u0645\u0635\u0627\u062f\u0631 \u0627\u0644\u0635\u0648\u062a \u0641\u064a \u0627\u0644\u0637\u0628\u064a\u0639\u0629 \u0643\u062b\u064a\u0631\u0629\u060c \u0643\u0627\u0646\u0641\u062c\u0627\u0631\u0627\u062a \u0627\u0644\u0628\u0631\u0627\u0643\u064a\u0646 \u0648\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0631\u0639\u062f\u061b \u0648\u064a\u0635\u062f\u0631 \u0645\u0646 \u062d\u0631\u0643\u0629 \u0627\u0644\u0623\u062c\u0633\u0627\u0645\u060c \u0643\u062d\u0631\u0643\u0629 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0648\u0627\u0644\u0637\u0627\u0626\u0631\u0627\u062a. \u0645\u0646 \u0645\u0646\u0638\u0648\u0631 \u0639\u0644\u0645 \u0627\u0644\u0623\u062d\u064a\u0627\u0621 \u0627\u0644\u0635\u0648\u062a \u0647\u0648 \u0625\u0634\u0627\u0631\u0629 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0646\u063a\u0645\u0629 \u0623\u0648 \u0639\u062f\u0629 \u0646\u063a\u0645\u0627\u062a \u062a\u0635\u062f\u0631 \u0645\u0646 \u0627\u0644\u0643\u0627\u0626\u0646 \u0627\u0644\u062d\u064a \u0627\u0644\u0630\u064a \u064a\u0645\u0644\u0643 \u0627\u0644\u0639\u0636\u0648 \u0627\u0644\u0628\u0627\u0639\u062b \u0644\u0644\u0635\u0648\u062a\u060c \u062a\u0633\u062a\u0639\u0645\u0644 \u0643\u0648\u0633\u064a\u0644\u0629 \u0627\u062a\u0635\u0627\u0644 \u0628\u064a\u0646\u0647 \u0648\u0628\u064a\u0646 \u0643\u0627\u0626\u0646 \u0622\u062e\u0631 \u0645\u0646 \u062c\u0646\u0633\u0647 \u0623\u0648 \u0645\u0646 \u062c\u0646\u0633 \u0622\u062e\u0631\u060c \u064a\u0639\u0628\u0631 \u0645\u0646 \u062e\u0644\u0627\u0644\u0647\u0627 \u0639\u0645\u0627 \u064a\u0631\u064a\u062f \u0642\u0648\u0644\u0647 \u0623\u0648 \u0641\u0639\u0644\u0647 \u0628\u0648\u0639\u064a \u0623\u0648 \u0628\u063a\u064a\u0631 \u0648\u0639\u064a \u0645\u0633\u0628\u0642\u060c \u0648\u064a\u0633\u0645\u0649 \u0627\u0644\u0625\u062d\u0633\u0627\u0633 \u0627\u0644\u0630\u064a \u062a\u0633\u0628\u0628\u0647 \u062a\u0644\u0643 \u0627\u0644\u0630\u0628\u0630\u0628\u0627\u062a \u0628\u062d\u0627\u0633\u0629 \u0627\u0644\u0633\u0645\u0639. \u0648\u064a\u0639\u062f \u0627\u0644\u0635\u0648\u062a \u0623\u0633\u0627\u0633 \u0627\u0644\u0643\u062b\u064a\u0631 \u0645\u0646 \u0627\u0644\u062e\u0628\u0631\u0627\u062a \u0627\u0644\u062a\u064a \u064a\u0643\u062a\u0633\u0628\u0647\u0627 \u0627\u0644\u0625\u0646\u0633\u0627\u0646. \u0648\u0642\u062f \u0643\u0627\u0646 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0641\u064a \u0627\u0644\u0645\u0627\u0636\u064a \u0644\u0627 \u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0627\u0644\u0623\u0635\u0648\u0627\u062a \u0627\u0644\u062a\u064a \u064a\u0635\u062f\u0631\u0647\u0627 \u0645\u0646 \u062d\u0646\u062c\u0631\u062a\u0647 \u0641\u062d\u0633\u0628\u060c \u0648\u0625\u0646\u0645\u0627 \u0623\u064a\u0636\u064b\u0627 \u0639\u0644\u0649 \u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0637\u0628\u0648\u0644 \u0648\u0627\u0644\u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062a\u064a \u062a\u062d\u062f\u062b \u0627\u0644\u062c\u0644\u062c\u0644\u0629 \u0648\u0627\u0644\u062e\u0634\u062e\u0634\u0629 \u0648\u0623\u064a\u0636\u064b\u0627 \u0628\u0627\u0644\u0645\u0632\u0627\u0645\u064a\u0631. \u0648\u062a\u0642\u062f\u0631 \u0633\u0631\u0639\u0629 \u0627\u0644\u0635\u0648\u062a \u0641\u064a \u0648\u0633\u0637 \u0647\u0648\u0627\u0626\u064a \u0639\u0627\u062f\u064a \u0628 343 \u0645\u062a\u0631 \u0641\u064a \u0627\u0644\u062b\u0627\u0646\u064a\u0629 \u0623\u0648 1224 \u0643\u064a\u0644\u0648\u0645\u062a\u0631 \u0641\u064a \u0627\u0644\u0633\u0627\u0639\u0629. \u062a\u062a\u0639\u0644\u0642 \u0633\u0631\u0639\u0629 \u0627\u0644\u0635\u0648\u062a \u0628\u0635\u0644\u0627\u0628\u0629 \u0648\u0643\u062b\u0627\u0641\u0629 \u0627\u0644\u0645\u0627\u062f\u0629 \u0627\u0644\u062a\u064a \u064a\u062a\u062d\u0631\u0643 \u0641\u064a\u0647\u0627 \u0627\u0644\u0635\u0648\u062a \u0648\u0643\u0630\u0644\u0643 \u062a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u062f\u0631\u062c\u0629 \u062d\u0631\u0627\u0631\u062a\u0647. \n* \u0627\u0644\u0635\u0648\u062a \u0647\u0648 \u0627\u0647\u062a\u0632\u0627\u0632 \u0645\u064a\u0643\u0627\u0646\u064a\u0643\u064a \u0644\u0644\u0648\u0633\u0637\u060c \u0627\u0644\u0645\u0648\u062c\u0629 \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0647\u064a \u0625\u062d\u062f\u0649 \u0623\u0634\u0643\u0627\u0644 \u0627\u0644\u0635\u0648\u062a (\u0646\u0645\u0627\u0630\u062c \u0627\u0644\u0627\u0646\u062a\u0634\u0627\u0631) \u0627\u0644\u062a\u064a \u064a\u062a\u0645\u064a\u0632 \u0628\u0647\u0627 \u0627\u0644\u0635\u0648\u062a\u060c \u0648\u0643\u0645\u062b\u0627\u0644 \u0639\u0644\u0649 \u0646\u0645\u0627\u0630\u062c \u0623\u062e\u0631\u0649: \u0627\u0644\u062a\u064a\u0627\u0631\u0627\u062a \u0627\u0644\u0635\u0648\u062a\u064a\u0629 \u0648\u0627\u0644\u062a\u062f\u0641\u0642 \u0627\u0644\u0635\u0648\u062a\u064a. \n* \u0647\u0646\u0627\u0644\u0643 \u0639\u0648\u0627\u0645\u0644 \u0623\u062e\u0631\u0649 \u062a\u0624\u062b\u0631 \u0639\u0644\u0649 \u0627\u0646\u062a\u0634\u0627\u0631 \u0627\u0644\u0635\u0648\u062a \u0648\u0633\u0631\u0639\u062a\u0647 \u0643\u0637\u0628\u064a\u0639\u0629 \u0627\u0644\u0645\u0627\u062f\u0629 (\u0627\u0644\u0644\u0632\u0648\u062c\u0629\u060c \u0648\u0627\u0644\u0643\u062b\u0627\u0641\u0629\u060c \u0648\u062f\u0631\u062c\u0629 \u0627\u0644\u062d\u0631\u0627\u0631\u0629\u060c \u0648\u062a\u0623\u062b\u0631 \u0627\u0644\u0648\u0633\u0637 \u0628\u0645\u062c\u0627\u0644 \u0645\u063a\u0646\u0627\u0637\u064a\u0633\u064a). \u0641\u0627\u0644\u0635\u0648\u062a \u064a\u0646\u062a\u0642\u0644 \u0641\u064a \u0627\u0644\u0647\u0648\u0627\u0621\u060c \u0627\u0644\u0645\u0627\u0621\u060c \u0627\u0644\u063a\u0627\u0632\u0627\u062a\u060c \u0648\u0627\u0644\u0633\u0648\u0627\u0626\u0644 \u0648\u0641\u064a \u0642\u0636\u064a\u0628 \u0627\u0644\u062d\u062f\u064a\u062f \u0623\u0648 \u0627\u0644\u0646\u062d\u0627\u0633 \u0623\u0648 \u062d\u062a\u0649 \u0639\u0628\u0631 \u0627\u0644\u062d\u0648\u0627\u0626\u0637 \u0648\u0627\u0644\u062c\u062f\u0631\u0627\u0646. \n* \u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u0625\u0646\u0633\u0627\u0646 \u0633\u0645\u0627\u0639 \u0627\u0644\u0635\u0648\u062a \u0639\u0646\u062f \u062a\u0631\u062f\u062f\u0627\u062a \u0628\u064a\u0646 \u0646\u062d\u0648 20 \u0647\u064a\u0631\u062a\u0632 (\u0623\u064a 20 \u0627\u0647\u062a\u0632\u0627\u0632\u0629 \u0641\u064a \u0627\u0644\u062b\u0627\u0646\u064a\u0629) \u064820 \u0643\u064a\u0644\u0648 \u0647\u064a\u0631\u062a\u0632 (\u0623\u064a 20 \u0623\u0644\u0641 \u0627\u0647\u062a\u0632\u0627\u0632\u0629 \u0641\u064a \u0627\u0644\u062b\u0627\u0646\u064a\u0629). \u0627\u0644\u0635\u0648\u062a \u0630\u0648 \u062a\u0631\u062f\u062f \u0623\u0639\u0644\u0649 \u0645\u0646 20.000 \u0647\u064a\u0631\u062a\u0632 \u064a\u0633\u0645\u0649 \u062a\u0631\u062f\u062f \u0641\u0648\u0642 \u0635\u0648\u062a\u064a \u0648\u0623\u0645\u0627 \u0627\u0644\u0635\u0648\u062a \u0641\u064a \u062a\u0631\u062f\u062f\u0627\u062a \u0623\u0642\u0644 \u0645\u0646 20 \u0647\u064a\u0631\u062a\u0632 \u0641\u0647\u064a \u062a\u0631\u062f\u062f\u0627\u062a \u062a\u062d\u062a \u0635\u0648\u062a\u064a\u0629\u060c \u0648\u062a\u062e\u062a\u0644\u0641 \u0646\u0637\u0627\u0642\u0627\u062a \u0633\u0645\u0627\u0639 \u0627\u0644\u062d\u064a\u0648\u0627\u0646\u0627\u062a \u0639\u0646 \u0646\u0637\u0627\u0642\u0627\u062a \u0633\u0645\u0627\u0639 \u0627\u0644\u0625\u0646\u0633\u0627\u0646.",
+          "Dalam fisika, bunyi atau suara adalah getaran yang merambat sebagai , melalui media transmisi seperti gas, cairan atau padat. Dalam fisiologi dan psikologi manusia, suara adalah penerimaan gelombang dan persepsi mereka oleh otak. Hanya gelombang akustik yang memiliki frekuensi antara 20 Hz dan 20 kHz, rentang frekuensi audio, yang menimbulkan persepsi pendengaran pada manusia. Di udara pada tekanan atmosfer, ini mewakili gelombang suara dengan panjang gelombang 17 meter (56 kaki) hingga 1,7 sentimeter (0,67 in). Gelombang suara di atas 20 dikenal sebagai ultrasonik dan tidak terdengar oleh manusia. Gelombang suara di bawah 20 Hz dikenal sebagai infrasonik. Spesies hewan yang berbeda memiliki yang bervariasi.",
+          "S\u00e9ard is fuaim ann n\u00e1 corra\u00ed tr\u00ed damhna. Aithn\u00edtear fuaim tr\u00ed thr\u00e9ithe a . Is iad sin minic\u00edocht, tonnfhad, , , agus . Air\u00edonn daoine fuaim tr\u00ed chreathanna san aer a air\u00edonn an chluas. Tugtar \u00e9isteacht air seo. Comhathra\u00edonn tonnta fuaime de r\u00e9ir br\u00fa fuaime (aimpliti\u00faid), tomhasta i (dB) agus minic\u00edocht (n\u00f3 airde) tomhasta i (Hz). Air\u00edonn an chluas dhaonna normalta minic\u00edochta\u00ed idir thart ar 20Hz agus 20kHz (is ionann an n\u00f3ta is airde ar an bpian\u00f3 agus 4186Hz). M\u00e1 mhaireann fuaim thar tr\u00e9imhse ama (ar n\u00f3s p\u00edosa ceoil n\u00f3 p\u00edosa cainte), athra\u00edonn a thar an tr\u00e9imhse ama sin. B\u00edonn fuaim ar bith seachas na cinn is bun\u00fasa\u00ed (m.sh. n\u00f3ta \u00f3 ghabhl\u00f3g cheoil mhaith) comhdh\u00e9anta de bhaili\u00fach\u00e1n tonnta ag minic\u00edochta\u00ed agus aimpliti\u00faid\u00ed \u00e9ags\u00fala. Tugtar ar fhuaim nach bhfuil ag teast\u00e1il. Tugtar ar staid\u00e9ar eola\u00edochta a dh\u00e9antar ar fhuaim.",
+          "\u039f \u03ae\u03c7\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03af\u03b1 \u03bc\u03bf\u03c1\u03c6\u03ae \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1\u03c2. \u0395\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03bb\u03bc\u03b9\u03ba\u03ad\u03c2 \u03b4\u03bf\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03bf\u03c0\u03bf\u03b9\u03bf\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03c3\u03ce\u03bc\u03b1, \u03cc\u03c4\u03b1\u03bd \u03c4\u03b5\u03b8\u03b5\u03af \u03c3\u03b5 \u03ba\u03af\u03bd\u03b7\u03c3\u03b7, \u03c3\u03b5 \u03ba\u03c1\u03b1\u03b4\u03b1\u03c3\u03bc\u03cc. \u03a4\u03b7\u03bd \u03ba\u03af\u03bd\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03ad\u03bd\u03b1 \u03c3\u03ce\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b1\u03b4\u03c1\u03ac\u03bd\u03b5\u03b9\u03b1, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03bc\u03b9\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03b7, \u03bc\u03b9\u03b1 \u03bd\u03cd\u03be\u03b7, \u03bc\u03b9\u03b1 \u03c4\u03c1\u03b9\u03b2\u03ae. \u03a4\u03b1 \u03b7\u03c7\u03b7\u03c4\u03b9\u03ba\u03ac \u03ba\u03cd\u03bc\u03b1\u03c4\u03b1, \u03c0\u03bf\u03c5 \u03be\u03b5\u03ba\u03b9\u03bd\u03bf\u03cd\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c0\u03b1\u03bb\u03bc\u03bf\u03cd\u03c2 \u03c4\u03bf\u03c5 \u03b7\u03c7\u03bf\u03b3\u03cc\u03bd\u03bf\u03c5 \u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c6\u03b1\u03b9\u03c1\u03b9\u03ba\u03ac \u03c0\u03c1\u03bf\u03c2 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03ba\u03b1\u03c4\u03b5\u03c5\u03b8\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2, \u03c6\u03c4\u03ac\u03bd\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03ba\u03c1\u03bf\u03cd\u03bf\u03c5\u03bd \u03c3\u03c4\u03b7 \u03bc\u03b5\u03bc\u03b2\u03c1\u03ac\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03ba\u03bf\u03c5\u03c3\u03c4\u03b9\u03ba\u03bf\u03cd \u03bc\u03b1\u03c2 \u03c4\u03c5\u03bc\u03c0\u03ac\u03bd\u03bf\u03c5 \u03ba\u03c3\u03b9 \u03b8\u03ad\u03c4\u03bf\u03c5\u03bd \u03c3\u03b5 \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03c4\u03bf\u03bd \u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u03c4\u03b7\u03c2 \u03b1\u03ba\u03bf\u03ae\u03c2."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/by",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/onlinebooks",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/others",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Vibration"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Sound?oldid=1119061188&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "36941"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/soundRecording",
+        "Values": [
+          "http://dbpedia.org/resource/Sound__Sound__1"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Sound"
+        ]
+      }
+    ]
+  }
+]

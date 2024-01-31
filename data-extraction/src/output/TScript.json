@@ -1,0 +1,257 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/TScript",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Attribute100024264",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://dbpedia.org/class/yago/Writing106359877",
+          "http://schema.org/CreativeWork",
+          "http://dbpedia.org/class/yago/State100024720",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://www.wikidata.org/entity/Q7397",
+          "http://dbpedia.org/ontology/Software",
+          "http://dbpedia.org/class/yago/Code106355894",
+          "http://www.wikidata.org/entity/Q386724",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatPedagogicIntegratedDevelopmentEnvironments",
+          "http://dbpedia.org/class/yago/WikicatScriptingLanguages",
+          "http://dbpedia.org/class/yago/CodingSystem106353757",
+          "http://dbpedia.org/class/yago/WrittenCommunication106349220",
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/Environment113934596",
+          "http://dbpedia.org/class/yago/Software106566077",
+          "http://dbpedia.org/ontology/Work",
+          "http://dbpedia.org/class/yago/Situation113927383"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "TScript"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "TScript is an object-oriented embeddable scripting language for C++ that supports hierarchical transient typed variables (TVariable). Its main design criterion is to create a scripting language that can interface with C++, transforming data and returning the result. This enables C++ applications to change their functionality after installation."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "TScript"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/homepage",
+        "Values": [
+          "http://www.ekkysoftware.com"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "TScript"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/TScript_TradeMark.png"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Interpreters_(computing)",
+          "http://dbpedia.org/resource/Category:Scripting_languages"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "37307697"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1037633783"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/JNI",
+          "http://dbpedia.org/resource/SOAP",
+          "http://dbpedia.org/resource/JavaScript",
+          "http://dbpedia.org/resource/Windows",
+          "http://dbpedia.org/resource/Exception_handling",
+          "http://dbpedia.org/resource/.NET_Framework",
+          "http://dbpedia.org/resource/Return_value",
+          "http://dbpedia.org/resource/Category:Interpreters_(computing)",
+          "http://dbpedia.org/resource/Object-oriented_programming",
+          "http://dbpedia.org/resource/Category:Scripting_languages",
+          "http://dbpedia.org/resource/WSDL",
+          "http://dbpedia.org/resource/Output_parameter",
+          "http://dbpedia.org/resource/PHP",
+          "http://dbpedia.org/resource/Linux",
+          "http://dbpedia.org/resource/Visual_Basic",
+          "http://dbpedia.org/resource/Errno",
+          "http://dbpedia.org/resource/Scripting_language",
+          "http://dbpedia.org/resource/Function_overloading",
+          "http://dbpedia.org/resource/Strong_and_weak_typing",
+          "http://dbpedia.org/resource/C++",
+          "http://dbpedia.org/resource/XML",
+          "http://dbpedia.org/resource/Dynamic-link_library",
+          "http://dbpedia.org/resource/PERL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "http://www.ekkysoftware.com",
+          "http://www.ekkysoftware.com/TScript"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://rdf.freebase.com/ns/m.0n5ws8w",
+          "https://global.dbpedia.org/id/gFGp",
+          "http://www.wikidata.org/entity/Q17155042",
+          "http://yago-knowledge.org/resource/TScript"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Code",
+          "http://dbpedia.org/resource/Template:Mono",
+          "http://dbpedia.org/resource/Template:Release_date",
+          "http://dbpedia.org/resource/Template:Not_a_typo",
+          "http://dbpedia.org/resource/Template:Infobox_software",
+          "http://dbpedia.org/resource/Template:Reflist"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/TScript_TradeMark.png?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/developer",
+        "Values": [
+          "Ekky Software"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/genre",
+        "Values": [
+          "http://dbpedia.org/resource/Scripting_language"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseDate",
+        "Values": [
+          "2012-07-01"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseVersion",
+        "Values": [
+          "1.4"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/license",
+        "Values": [
+          "Free"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logo",
+        "Values": [
+          "TScript TradeMark.png"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logoSize",
+        "Values": [
+          "145"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/operatingSystem",
+        "Values": [
+          "Windows and Linux"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/programmingLanguage",
+        "Values": [
+          "http://dbpedia.org/resource/C++"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/website",
+        "Values": [
+          "http://www.ekkysoftware.com"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "TScript is an object-oriented embeddable scripting language for C++ that supports hierarchical transient typed variables (TVariable). Its main design criterion is to create a scripting language that can interface with C++, transforming data and returning the result. This enables C++ applications to change their functionality after installation."
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/TScript?oldid=1037633783&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "11841"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/latestReleaseDate",
+        "Values": [
+          "2012-07-01"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/latestReleaseVersion",
+        "Values": [
+          "1.4"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/genre",
+        "Values": [
+          "http://dbpedia.org/resource/Scripting_language"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/TScript"
+        ]
+      }
+    ]
+  }
+]

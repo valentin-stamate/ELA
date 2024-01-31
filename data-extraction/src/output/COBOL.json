@@ -1,0 +1,808 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/COBOL",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Measure100033615",
+          "http://dbpedia.org/class/yago/ProgrammingLanguage106898352",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguages",
+          "http://dbpedia.org/class/yago/Subject106599788",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/ComputerLanguage106899633",
+          "http://dbpedia.org/class/yago/WikicatComputerLanguages",
+          "http://dbpedia.org/class/yago/Message106598915",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguagesCreatedInThe1950s",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguagesWithAnISOStandard",
+          "http://dbpedia.org/class/yago/Standard107260623",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/SystemOfMeasurement113577171",
+          "http://schema.org/Language",
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/ontology/ProgrammingLanguage",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguageTopics",
+          "http://dbpedia.org/class/yago/WikicatISOStandards"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "COBOL",
+          "\u0643\u0648\u0628\u0648\u0644",
+          "\ucf54\ubcfc",
+          "\u041a\u043e\u0431\u043e\u043b",
+          "Cobol",
+          "Kobolo"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "COBOL (acronimo di COmmon Business-Oriented Language, ossia, letteralmente, \"linguaggio comune orientato alle applicazioni commerciali\") \u00e8 un linguaggio di programmazione, fra i primi a essere stato sviluppato e ancora presente in molte applicazioni software commerciali di tipo bancario.",
+          "COBOL\uff08\u30b3\u30dc\u30eb\uff09\u306f\u30011959\u5e74\u306b\u4e8b\u52d9\u51e6\u7406\u7528\u306b\u958b\u767a\u3055\u308c\u305f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3042\u308b\u3002\u540d\u524d\u306f\u300cCommon Business Oriented Language\u300d\uff08\u5171\u901a\u4e8b\u52d9\u51e6\u7406\u7528\u8a00\u8a9e\uff09\u306b\u7531\u6765\u3059\u308b\u3002",
+          "COBOL (COmmon Bussines-Oriented Languageren akronimoa; euskaraz: Enpresa Aplikazioetara Zuzendutako Lengoaia Orokorra) 1959tik 1961era bitartean bideraturiko programazio-lengoaia. Oinarri gisa ingelesa erabiltzen du. COBOLen ezaugarri nagusia irakurtzeko erraztasuna da. Ameriketako Estatu Batuetako Defentsa Sailak eskatzen duen lengoaia izatea, datuen egituretan egiten duen enfasia eta ingelesaren antzeko sintaxia dira lengoaia honek halako arrakasta izateko arrazoiak. COBOLen idatzitako programak lau zatitan banatu ziren: Identification, Enviroment, Data eta Procedure. Identification sailak programaren izena zehazten du, eta programaren informazio orokorra du, hala nola egilearen izena, idatzi zen data eta erabileraren deskripzio txiki bat, eta programatzaileak erantsi nahi dion beste edo",
+          "Cobol est un langage de programmation cr\u00e9\u00e9 en 1959. Son nom est l\u2019acronyme de COmmon Business Oriented Language qui r\u00e9v\u00e8le sa vocation originelle : \u00eatre un langage commun pour la programmation d'applications de gestion. Aujourd'hui, il est surtout utilis\u00e9 dans les secteurs de la banque, des assurances, des grandes administrations.",
+          "COBOL\uff08/\u02c8ko\u028ab\u0252l/\uff09\uff0c\u5176\u540d\u7a31\u4f86\u81ea\u65bc\u901a\u7528\u5546\u696d\u8a9e\u8a00\uff08\u82f1\u8a9e\uff1aCommon Business Oriented Language\uff0c\u53c8\u8b6f\u70ba\u9762\u5411\u5e38\u898f\u696d\u52d9\u578b\u8a9e\u8a00/\u5e38\u898f\u5546\u696d\u4fe1\u606f\u8655\u7406\u8a9e\u8a00\uff09\u7684\u7e2e\u5beb\uff0c\u662f\u6700\u65e9\u7684\u9ad8\u968e\u7a0b\u5f0f\u8a9e\u8a00\u3001\u4ee5\u53ca\u662f\u4e16\u754c\u4e0a\u6700\u65e9\u5be6\u65bd\u6a19\u6e96\u5316\u7684\u8a08\u7b97\u6a5f\u8a9e\u8a00\u4e4b\u4e00\u3002\u5c6c\u65bc\u7de8\u8b6f\u8a9e\u8a00\u3002",
+          "El lenguaje COBOL (acr\u00f3nimo de COmmon Business-Oriented Language, Lenguaje Com\u00fan Orientado a Negocios) fue creado en el a\u00f1o 1959 con el objetivo de crear un lenguaje de programaci\u00f3n universal que pudiera ser usado en cualquier ordenador y que estuviera orientado principalmente a los negocios, es decir, a la llamada inform\u00e1tica de gesti\u00f3n. COBOL se utiliza principalmente en sistemas comerciales, financieros y administrativos para empresas y gobiernos. COBOL todav\u00eda se usa ampliamente en aplicaciones implementadas en ordenadores centrales, como trabajos de lote y procesamiento de transacciones a gran escala. Sin embargo, debido a su popularidad decreciente y al retiro de los programadores COBOL experimentados, los programas se est\u00e1n migrando a nuevas plataformas, reescribi\u00e9ndolos en lenguaje",
+          "COBOL \u00e4r ett programspr\u00e5k som fr\u00e4mst \u00e4r avsett f\u00f6r aff\u00e4rs\u00e4ndam\u00e5l som till exempel personaladministration, finansiella tj\u00e4nster, orderhantering samt diverse produktionssystem.Namnet \u00e4r en akronym av COmmon Business Oriented Language, engelska f\u00f6r Allm\u00e4nt aff\u00e4rsorienterat spr\u00e5k. Tillsammans med Fortran och Lisp \u00e4r det ett av de \u00e4ldsta h\u00f6gniv\u00e5spr\u00e5k som fortfarande anv\u00e4nds allm\u00e4nt f\u00f6r programmering.",
+          "COBOL (sigla de COmmon Business Oriented Language) - Linguagem Comum Orientada para os Neg\u00f3cios \u00e9 uma linguagem de programa\u00e7\u00e3o orientada para o processamento de banco de dados comerciais. \u00c9 a linguagem de programa\u00e7\u00e3o inteira mais usada, produto do Departamento de Defesa norte-americano sob a dire\u00e7\u00e3o da contra-almirante Grace Murray Hopper. As especifica\u00e7\u00f5es do COBOL 2002 incluem suporte \u00e0 programa\u00e7\u00e3o orientada a objetos e outras caracter\u00edsticas das linguagens modernas.",
+          "\u041a\u041e\u0411\u041e\u041b, COBOL (/ \u02c8ko\u028ab\u0252l, -b\u0254\u02d0l /; \u0430\u0431\u0431\u0440\u0435\u0432\u0438\u0430\u0442\u0443\u0440\u0430 \u043e\u0442 \u00abcommon business-oriented language\u00bb) \u2014 \u044d\u0442\u043e \u043a\u043e\u043c\u043f\u0438\u043b\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u0431\u0438\u0437\u043d\u0435\u0441\u0435. \u041a\u043e\u0431\u043e\u043b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0430\u043d\u0433\u043b\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0435 \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u0441\u043b\u043e\u0432\u0430, \u0445\u043e\u0442\u044f \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0438 \u0435\u0433\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0441 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u043e\u043c \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u0445 \u0441\u043b\u043e\u0432 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u044f\u0437\u044b\u043a\u0438, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u2014 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439. \u042d\u0442\u043e \u0438\u043c\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439, \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u043d\u044b\u0439 \u0438, \u0441 2002 \u0433\u043e\u0434\u0430, \u043e\u0431\u044a\u0435\u043a\u0442\u043d\u043e-\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a. COBOL \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u0434\u0435\u043b\u043e\u0432\u044b\u0445, \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0445 \u0438 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0438 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432. COBOL \u043f\u043e-\u043f\u0440\u0435\u0436\u043d\u0435\u043c\u0443 \u0448\u0438\u0440\u043e\u043a\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u0445, \u0440\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044b\u0445 \u043d\u0430 \u043c\u044d\u0439\u043d\u0444\u0440\u0435\u0439\u043c\u0430\u0445, \u0442\u0430\u043a\u0438\u0445 \u043a\u0430\u043a \u043a\u0440\u0443\u043f\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u044b\u0435 \u043f\u0430\u043a\u0435\u0442\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0438 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0442\u0440\u0430\u043d\u0437\u0430\u043a\u0446\u0438\u0439. \u041e\u0434\u043d\u0430\u043a\u043e \u0438\u0437-\u0437\u0430 \u0441\u043d\u0438\u0436\u0435\u043d\u0438\u044f \u0435\u0433\u043e \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0445\u043e\u0434\u0430 \u043d\u0430 \u043f\u0435\u043d\u0441\u0438\u044e \u043e\u043f\u044b\u0442\u043d\u044b\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432 COBOL \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u044f\u0442\u0441\u044f \u043d\u0430 \u043d\u043e\u0432\u044b\u0435 \u043f\u043b",
+          "\u0643\u0648\u0628\u0648\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: COBOL \u0627\u062e\u062a\u0635\u0627\u0631 Common Business-Oriented Language \u0623\u064a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0634\u0627\u0626\u0639\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0641\u064a \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u063a\u0631\u0636\u064a\u0629 \u0627\u0644\u062a\u0648\u062c\u0647)\u200f \u0647\u064a \u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u062a\u062e\u062f\u0645 \u0627\u0644\u0646\u0648\u0627\u062d\u0649 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u0648\u062e\u0627\u0635\u0629 \u0645\u062c\u0627\u0644 \u0627\u0644\u0628\u0646\u0648\u0643 \u0648\u063a\u064a\u0631\u0647. \u0648\u0647\u064a \u0644\u063a\u0629 \u062a\u0648\u062b\u064a\u0642\u0629 \u062a\u062a\u0643\u0648\u0646 \u0645\u0646 \u0623\u0631\u0628\u0639\u0629 \u0623\u0642\u0633\u0627\u0645 \u0647\u0645: \n* \u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0628\u064a\u0626\u0649 \u0623\u0648 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 (Environment Division) \u0648\u0647\u0648 \u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0630\u064a \u064a\u062a\u0645 \u062a\u0639\u0631\u064a\u0641 \u0627\u0633\u0645 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0628\u0647 \u0648\u0627\u0633\u0645 \u0627\u0644\u0645\u0628\u0631\u0645\u062c \u0648\u0627\u0644\u063a\u0631\u0636 \u0645\u0646 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0648\u0627\u0644\u062c\u0647\u0629 \u0635\u0627\u062d\u0628\u0629 \u0647\u0630\u0627 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c. \n* \u0642\u0633\u0645 \u0627\u0644\u0625\u062f\u062e\u0627\u0644 \u0648\u0627\u0644\u0625\u062e\u0631\u0627\u062c (Input Output Division) \n* \u0642\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a (Data Division) \n* \u0642\u0633\u0645 \u0627\u0644\u0625\u062c\u0631\u0627\u0621\u0627\u062a (Procedures)",
+          "Kobolo, estas programlingvo de la tria generacio kreita en 1959. \u011cia angla nomo COBOL estas akronimo (COmmon Business Oriented Language), kiu montras \u011dian unuan celon: komuna lingvo pro programi administrajn programarojn. La standardo COBOL 2003 estas objektema kaj havas aliajn trajtojn de moderna programado.",
+          "( \ucf54\ubcfc(Kobol)\uc5d0 \ub300\ud574\uc11c\ub294 \ubc30\ud2c0\uc2a4\ud0c0 \uac08\ub77d\ud2f0\uce74 \ubb38\uc11c\ub97c \ucc38\uace0\ud558\uc2ed\uc2dc\uc624.) \ucf54\ubcfc(COBOL, COmmon Business-Oriented Language, \uc0ac\ubb34 \uc9c0\ud5a5 \ubcf4\ud1b5 \uc5b8\uc5b4)\uc740 \uc0ac\ubb34\uc6a9\uc73c\ub85c \uc124\uacc4\ub41c, \uc601\uc5b4\uc640 \uac19\uc740 \ucef4\ud4e8\ud130 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\uc774\ub2e4. \uc808\ucc28\uc801, \uba85\ub839\ud615 \uc5b8\uc5b4\uc774\uace0, 2002\ub144\ubd80\ud130\ub294 \uac1d\uccb4 \uc9c0\ud5a5 \uc5b8\uc5b4\uc774\ub2e4. \ucf54\ubcfc\uc740 \uc8fc\ub85c \ube44\uc988\ub2c8\uc2a4, \uae08\uc735, \ud68c\uc0ac/\uc815\ubd80 \uad00\ub9ac \uc2dc\uc2a4\ud15c\uc5d0 \uc8fc\ub85c \uc0ac\uc6a9\ub41c\ub2e4. 1997\ub144 \uac00\ud2b8\ub108 \uadf8\ub8f9\uc740 \ucd1d 200,000,000,000\uc904\uc758 \ucf54\ubcfc\uc774 \ud604\uc874\ud558\uba70 \ubaa8\ub4e0 \ube44\uc988\ub2c8\uc2a4 \ud504\ub85c\uadf8\ub7a8\uc758 80%\ub97c \uc2e4\ud589\ud55c \uac83\uc73c\ub85c \uc608\uce21\ud558\uc600\ub2e4. \ucf54\ubcfc\uc740 \uc9c0\uae08\ub3c4 \uba54\uc778\ud504\ub808\uc784 \ucef4\ud4e8\ud130\uc758 \ub808\uac70\uc2dc \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\ub4e4\uc5d0 \uc0ac\uc6a9\ub418\uace0 \uc788\uc73c\uba70 \ub300\uc6a9\ub7c9 \uc77c\uad04 \ucc98\ub9ac \ubc0f \ud2b8\ub79c\uc7ad\uc158 \ucc98\ub9ac\uc640 \uac19\uc740 \uc791\uc5c5\uc5d0 \uc4f0\uc778\ub2e4. \uadf8\ub7ec\ub098 \uc219\ub828\ub41c \ucf54\ubcfc \ud504\ub85c\uadf8\ub798\uba38\uac00 \uc740\ud1f4\ud558\uace0 \uc778\uae30\uac00 \uc2dc\ub4e4\uc5b4\uac00\uba74\uc11c \ud504\ub85c\uadf8\ub7a8\ub4e4\uc740 \uc0c8\ub85c\uc6b4 \ud50c\ub7ab\ud3fc\uc73c\ub85c \uc774\uad00\ub3fc \ud604\ub300\uc758 \uc5b8\uc5b4\ub85c \ub2e4\uc2dc \uc791\uc131\ub418\uac70\ub098 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud328\ud0a4\uc9c0\ub85c \ub300\uccb4\ub418\ub294 \ucd94\uc138\uc774\ub2e4. \ucf54\ubcfc \ub300\ubd80\ubd84\uc758 \ud504\ub85c\uadf8\ub798\ubc0d\uc740 \uc21c\uc218\ud558\uac8c \uae30\uc874\uc758 \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\ub4e4\uc744 \uad00\ub9ac\ud558\ub294 \ub370 \uc788\ub2e4.",
+          "COBOL ist eine Programmiersprache, die in der Fr\u00fchzeit der Computerentwicklung, Ende der 1950er-Jahre, entstand und bis heute verwendet wird. Der Stil dieser Programmiersprache ist stark an die nat\u00fcrliche Sprache angelehnt und dient vor allem der Programmierung kaufm\u00e4nnischer Anwendungen. Die Abk\u00fcrzung COBOL steht f\u00fcr \u201eCommon Business Oriented Language\u201c.",
+          "COBOL is een programmeertaal uit de jaren 60 die voornamelijk gebruikt wordt in zakelijke omgevingen. COBOL is de afkorting van COmmon Business Oriented Language (algemene zakelijk geori\u00ebnteerde taal).",
+          "COBOL (akronim od ang. common business-oriented language) \u2013 wysokopoziomowy j\u0119zyk programowania stworzony i u\u017cywany do tworzenia aplikacji biznesowych. COBOL jest j\u0119zykiem imperatywnym, proceduralnym, oraz od 2002 roku, obiektowym. J\u0119zyk ten w znacznym stopniu nadal u\u017cywany jest w aplikacjach system\u00f3w typu mainframe, wymagaj\u0105cych przetwarzania danych na wielk\u0105 skal\u0119, zar\u00f3wno w trybie wsadowym jak i online. Typowymi obszarami zastosowania s\u0105 bankowo\u015b\u0107, ubezpieczenia, s\u0142u\u017cba zdrowia, transport, jak r\u00f3wnie\u017c systemy rz\u0105dowe i militarne. y=x MOVE x TO y",
+          "COBOL (/\u02c8ko\u028ab\u0252l, -b\u0254\u02d0l/; an acronym for \"common business-oriented language\") is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language. COBOL is primarily used in business, finance, and administrative systems for companies and governments. COBOL is still widely used in applications deployed on mainframe computers, such as large-scale batch and transaction processing jobs. However, due to its declining popularity and the retirement of experienced COBOL programmers, programs are being migrated to new platforms, rewritten in modern languages or replaced with software packages. Most programming in COBOL is now purely to maintain existing applications; however, many large financial institutions w",
+          "COBOL (acr\u00f2nim de COmmon Business-Oriented Language, Llenguatge Com\u00fa Orientat a Negocis) \u00e9s un llenguatge de programaci\u00f3 que va ser creat l'any 1960 amb l'objectiu que es pogu\u00e9s usar a qualsevol ordinador, ja que durant els anys 1960 hi havia molts models d'ordinador incompatibles entre si, i que estigu\u00e9s orientat als negocis, \u00e9s a dir, a l'anomenada inform\u00e0tica de gesti\u00f3. A m\u00e9s, hi havia la intenci\u00f3 d'orientar-lo principalment al negoci i a l'\u00fas en sistemes de gesti\u00f3 empresarials; per tal d'aconseguir aquest requisit, havia de ser for\u00e7a simple, de manera que t\u00e8cnics sense grans coneixements poguessin crear aplicacions. Aquesta simplificaci\u00f3 es va aconseguir mitjan\u00e7ant una sintaxi semblant a la de l'angl\u00e8s, evitant s\u00edmbols propis de la programaci\u00f3.",
+          "Is teanga r\u00edomhchl\u00e1r\u00fach\u00e1in den tr\u00ed\u00fa gl\u00fain \u00e9 COBOL agus is ceann de na teangacha is sine at\u00e1 f\u00f3s in \u00fas\u00e1id. Is acrainm \u00e9 an t-ainm do COmmon Business-Oriented Language, agus \u00fas\u00e1idtear \u00e9 le haghaidh bogearra\u00ed a chruth\u00fa do ghn\u00f3, institi\u00faid\u00ed airgeadais agus c\u00f3rais riarach\u00e1in do chomhlachta\u00ed agus rialtais.",
+          "COBOL (COmmon Business Oriented Language) je programovac\u00ed jazyk vyvinut\u00fd v 60. letech 20. stolet\u00ed zejm\u00e9na pro obchodn\u00ed a pozd\u011bji i datab\u00e1zov\u00e9 aplikace.",
+          "\u0397 COBOL \u03b5\u03af\u03bd\u03b1\u03b9 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd, \u03c4\u03b7\u03c2 \u03bf\u03c0\u03bf\u03af\u03b1\u03c2 \u03c4\u03bf \u03cc\u03bd\u03bf\u03bc\u03b1 \u03c0\u03c1\u03bf\u03ae\u03bb\u03b8\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b1\u03c1\u03c7\u03b9\u03ba\u03ac \u03c4\u03c9\u03bd \u03bb\u03ad\u03be\u03b5\u03c9\u03bd C\u039fmmon Business Oriented Language (\u039a\u03bf\u03b9\u03bd\u03ae \u0393\u03bb\u03ce\u03c3\u03c3\u03b1 \u03a0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b3\u03b9\u03b1 \u0395\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ad\u03c2 \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2). \u0397 COBOL \u03b1\u03bd\u03b1\u03c0\u03c4\u03cd\u03c7\u03b8\u03b7\u03ba\u03b5 \u03bc\u03b5 \u03c3\u03ba\u03bf\u03c0\u03cc \u03bd\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03b4\u03c5\u03c3\u03c7\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03b6\u03b5 \u03b7 FORTRAN \u03c9\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03b3\u03b9\u03b1 \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ad\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2. \u0392\u03b1\u03c3\u03b9\u03ba\u03cc \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c4\u03b7\u03c2 COBOL \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0391\u03b3\u03b3\u03bb\u03b9\u03ba\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2 \u03bc\u03b5 \u03c0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2, \u03c0\u03b1\u03c1\u03b1\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b5\u03af\u03b1 \u03c3\u03c4\u03af\u03be\u03b7\u03c2. \u0397 COBOL \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03af\u03b1 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03bc\u03b5 \u03c0\u03bf\u03bb\u03bb\u03ac \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03bc\u03b9\u03b1\u03c2 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03ad\u03bd\u03c4\u03bf\u03bd\u03b7 \u03c4\u03b7\u03bd \u03cd\u03c0\u03b1\u03c1\u03be\u03b7 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03bd\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2. \u0394\u03b9\u03b1\u03b2\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03bc\u03af\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b3\u03c1\u03b1\u03c6\u03bf \u03c3\u03b5 COBOL, \u03b5\u03cd\u03ba\u03bf\u03bb\u03b1 \u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03b1\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03bd\u03b5\u03af\u03c2 \u03c4\u03bf \u03c4\u03b9 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03bf\u03b9 \u03b5\u03bd\u03c4\u03bf\u03bb\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b2\u03ac\u03b6\u03b5\u03b9. \u0393\u03b9\u03b1 \u03c4\u03bf \u03bb\u03cc\u03b3\u03bf \u03b1\u03c5\u03c4\u03cc \u03b7 COBOL \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c0\u03bf\u03bb\u03cd \u03b4\u03b7\u03bc\u03bf\u03c6\u03b9\u03bb\u03ae\u03c2 \u03c3\u03c4\u03bf \u03c7\u03ce\u03c1\u03bf \u03c4\u03c9\u03bd \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ce\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ce\u03bd \u03c3\u03b5 \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03bf \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1.",
+          "COBOL (singkatan dari Common Business Oriented Language) adalah sebuah bahasa pemrograman generasi ketiga. Sesuai dengan namanya, maka bahasa COBOL mempunyai fungsi menyelesaikan masalah-masalah yang berhubungan dengan perdagangan, seperti sistem pengelolaan keuangan, laporan pengeluaran sebuah perusahaan dan lain-lain. Dikembangkan tahun 1959 dan banyak digunakan pada mainframe dan komputer mini. Kemudahan COBOL: \n* Sintaksnya berbahasa Inggris \n* Penanganan file \n* Input/output program.",
+          "\u041a\u043e\u0431\u043e\u043b (COBOL, COmmon Business Oriented Language) \u2014 \u043a\u043e\u043c\u043f\u0456\u043b\u044c\u043e\u0432\u0430\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0432\u0438\u0441\u043e\u043a\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f, \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0432 \u0435\u043a\u043e\u043d\u043e\u043c\u0456\u0447\u043d\u0456\u0439 \u0433\u0430\u043b\u0443\u0437\u0456 \u0456 \u0434\u043b\u044f \u0440\u043e\u0437\u0432'\u044f\u0437\u0430\u043d\u043d\u044f \u0431\u0456\u0437\u043d\u0435\u0441-\u0437\u0430\u0434\u0430\u0447, \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0430 \u043d\u0430 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 1960-\u0445 \u0440\u043e\u043a\u0456\u0432. \u0421\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441 \u041a\u043e\u0431\u043e\u043b\u0443 \u0434\u043e\u0437\u0432\u043e\u043b\u044f\u0454 \u043f\u0438\u0441\u0430\u0442\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438, \u0442\u0435\u043a\u0441\u0442 \u044f\u043a\u0438\u0445 \u0431\u043b\u0438\u0437\u044c\u043a\u0438\u0439 \u0434\u043e \u0436\u0438\u0432\u043e\u0457 \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438, \u0442\u043e\u043c\u0443 \u0434\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c \u043d\u0430 \u041a\u043e\u0431\u043e\u043b\u0456 \u043d\u0435\u043c\u0430\u0454 \u043f\u043e\u0442\u0440\u0435\u0431\u0438 \u0434\u043e\u0434\u0430\u0432\u0430\u0442\u0438 \u043a\u043e\u043c\u0435\u043d\u0442\u0430\u0440\u0456; \u0442\u043e\u0431\u0442\u043e \u0432\u043e\u043d\u0438 \u0454 \u0441\u0430\u043c\u043e\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u0438\u043c\u0438. \u041a\u043e\u0431\u043e\u043b \u0434\u043e\u0437\u0432\u043e\u043b\u044f\u0454 \u0435\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438 \u0437 \u0432\u0435\u043b\u0438\u043a\u0438\u043c\u0438 \u043e\u0431'\u0454\u043c\u0430\u043c\u0438 \u0434\u0430\u043d\u0438\u0445, \u0432\u0456\u043d \u043d\u0430\u0441\u0438\u0447\u0435\u043d\u0438\u0439 \u0440\u0456\u0437\u043d\u043e\u043c\u0430\u043d\u0456\u0442\u043d\u0438\u043c\u0438 \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u0457\u0445\u043d\u044c\u043e\u0433\u043e \u043f\u043e\u0448\u0443\u043a\u0443, \u0440\u043e\u0437\u043f\u043e\u0434\u0456\u043b\u0435\u043d\u043d\u044f \u0442\u0430 \u0441\u043e\u0440\u0442\u0443\u0432\u0430\u043d\u043d\u044f; \u0441\u043a\u043b\u0430\u0434\u043d\u0456\u0441\u0442\u044c \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440 \u0434\u0430\u043d\u0438\u0445, \u044f\u043a\u0456 \u043c\u043e\u0436\u043b\u0438\u0432\u043e \u043e\u043f\u0438\u0441\u0430\u0442\u0438 \u0437\u0430\u0441\u043e\u0431\u0430\u043c\u0438 \u041a\u043e\u0431\u043e\u043b\u0443, \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u043e \u043d\u0435\u043e\u0431\u043c\u0435\u0436\u0435\u043d\u0430. \u041d\u0430 \u041a\u043e\u0431\u043e\u043b\u0456 \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u044f\u044e\u0442\u044c\u0441\u044f \u0432\u0435\u043b\u0438\u043a\u0456 \u0442\u0430 \u0434\u0443\u0436\u0435 \u0432\u0435\u043b\u0438\u043a\u0456 \u043f\u0440\u043e\u0454\u043a\u0442\u0438, \u0449\u043e \u0441\u043a\u043b\u0430\u0434\u0430\u044e\u0442\u044c\u0441\u044f \u0437 \u043c\u0456\u043b\u044c\u0439\u043e\u043d\u0456\u0432 \u0440\u044f\u0434\u043a\u0456\u0432 \u043f\u043e\u0447\u0430\u0442\u043a\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u0434\u0443."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "COBOL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "COBOL"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/IBM_keypunch_deck_for_Cobol_student_program_at_New_York_University_1979.jpg"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:1959_software",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1959",
+          "http://dbpedia.org/resource/Category:Cross-platform_software",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_by_women",
+          "http://dbpedia.org/resource/Category:Computer-related_introductions_in_1959",
+          "http://dbpedia.org/resource/Category:Programming_languages_with_an_ISO_standard",
+          "http://dbpedia.org/resource/Category:Statically_typed_programming_languages",
+          "http://dbpedia.org/resource/Category:Object-oriented_programming_languages",
+          "http://dbpedia.org/resource/Category:Procedural_programming_languages",
+          "http://dbpedia.org/resource/Category:Class-based_programming_languages",
+          "http://dbpedia.org/resource/Category:.NET_programming_languages",
+          "http://dbpedia.org/resource/Category:Structured_programming_languages",
+          "http://dbpedia.org/resource/Category:COBOL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "6799"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1121766357"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/US_Air_Force",
+          "http://dbpedia.org/resource/FACT_(computer_language)",
+          "http://dbpedia.org/resource/Micro_Focus_International",
+          "http://dbpedia.org/resource/Memory_segmentation",
+          "http://dbpedia.org/resource/Eiffel_(programming_language)",
+          "http://dbpedia.org/resource/Finalizer",
+          "http://dbpedia.org/resource/COVID-19_pandemic",
+          "http://dbpedia.org/resource/Single-entry_single-exit",
+          "http://dbpedia.org/resource/Compiled_language",
+          "http://dbpedia.org/resource/Data_Processing_Management_Association",
+          "http://dbpedia.org/resource/Signedness",
+          "http://dbpedia.org/resource/Gartner_Group",
+          "http://dbpedia.org/resource/Committee_on_Oversight_and_Government_Reform",
+          "http://dbpedia.org/resource/Sperry_Rand",
+          "http://dbpedia.org/resource/Mary_K._Hawes",
+          "http://dbpedia.org/resource/Category:COBOL",
+          "http://dbpedia.org/resource/Backus\u2013Naur_form",
+          "http://dbpedia.org/resource/Visual_Basic_.NET",
+          "http://dbpedia.org/resource/IBM_COBOL",
+          "http://dbpedia.org/resource/AIMACO",
+          "http://dbpedia.org/resource/INCITS",
+          "http://dbpedia.org/resource/Steering_committee",
+          "http://dbpedia.org/resource/Structured_programming",
+          "http://dbpedia.org/resource/Variable_(computer_science)",
+          "http://dbpedia.org/resource/Erratum",
+          "http://dbpedia.org/resource/Boolean_expression",
+          "http://dbpedia.org/resource/Recursion",
+          "http://dbpedia.org/resource/Lock_(database)",
+          "http://dbpedia.org/resource/Text-based_user_interface",
+          "http://dbpedia.org/resource/File:IBM_keypunch_deck_for_Cobol_student_program_at_New_York_University_1979.jpg",
+          "http://dbpedia.org/resource/Object-oriented_programming",
+          "http://dbpedia.org/resource/Modular_programming",
+          "http://dbpedia.org/resource/Metalanguage",
+          "http://dbpedia.org/resource/Assembler_language",
+          "http://dbpedia.org/resource/Self-documenting",
+          "http://dbpedia.org/resource/Subroutines",
+          "http://dbpedia.org/resource/Binary_number",
+          "http://dbpedia.org/resource/Interactivity",
+          "http://dbpedia.org/resource/NIST",
+          "http://dbpedia.org/resource/Criticism_of_COBOL",
+          "http://dbpedia.org/resource/Category:Object-oriented_programming_languages",
+          "http://dbpedia.org/resource/Character_sets",
+          "http://dbpedia.org/resource/General_Electric",
+          "http://dbpedia.org/resource/Category:Class-based_programming_languages",
+          "http://dbpedia.org/resource/Acronym",
+          "http://dbpedia.org/resource/CobolScript",
+          "http://dbpedia.org/resource/CNC_lathe",
+          "http://dbpedia.org/resource/National_Cash_Register",
+          "http://dbpedia.org/resource/UTF-8",
+          "http://dbpedia.org/resource/Letter_to_the_editor",
+          "http://dbpedia.org/resource/Keypunch_machine",
+          "http://dbpedia.org/resource/Generic_programming",
+          "http://dbpedia.org/resource/C++",
+          "http://dbpedia.org/resource/GnuCOBOL",
+          "http://dbpedia.org/resource/Jean_Sammet",
+          "http://dbpedia.org/resource/Hello,_world",
+          "http://dbpedia.org/resource/Reserved_word",
+          "http://dbpedia.org/resource/Wim_Ebbinkhuijsen",
+          "http://dbpedia.org/resource/Floating-point",
+          "http://dbpedia.org/resource/Label_(programming)",
+          "http://dbpedia.org/resource/Continue_statement",
+          "http://dbpedia.org/resource/Timeline_of_programming_languages",
+          "http://dbpedia.org/resource/Individual_Master_File",
+          "http://dbpedia.org/resource/David_Gries",
+          "http://dbpedia.org/resource/Mass_storage",
+          "http://dbpedia.org/resource/ALGOL_58",
+          "http://dbpedia.org/resource/Communications_of_the_ACM",
+          "http://dbpedia.org/resource/Record_(computer_science)",
+          "http://dbpedia.org/resource/Imperative_programming",
+          "http://dbpedia.org/resource/ALGOL",
+          "http://dbpedia.org/resource/ANSI",
+          "http://dbpedia.org/resource/Association_for_Computing_Machinery",
+          "http://dbpedia.org/resource/Micro_Focus",
+          "http://dbpedia.org/resource/Roy_Nutt",
+          "http://dbpedia.org/resource/Programming_Language_for_Business",
+          "http://dbpedia.org/resource/Transaction_processing",
+          "http://dbpedia.org/resource/Z/OS",
+          "http://dbpedia.org/resource/Concatenation",
+          "http://dbpedia.org/resource/MVS",
+          "http://dbpedia.org/resource/Method_overloading",
+          "http://dbpedia.org/resource/International_Electrotechnical_Commission",
+          "http://dbpedia.org/resource/Self-modifying_code",
+          "http://dbpedia.org/resource/RCA",
+          "http://dbpedia.org/resource/Packed_binary-coded_decimal",
+          "http://dbpedia.org/resource/The_Jargon_File",
+          "http://dbpedia.org/resource/Linked_list",
+          "http://dbpedia.org/resource/Joseph_Wegstein",
+          "http://dbpedia.org/resource/Z/VSE",
+          "http://dbpedia.org/resource/Unix",
+          "http://dbpedia.org/resource/GO_TO",
+          "http://dbpedia.org/resource/Formula",
+          "http://dbpedia.org/resource/Category:1959_software",
+          "http://dbpedia.org/resource/The_C_Programming_Language_(book)",
+          "http://dbpedia.org/resource/Substring",
+          "http://dbpedia.org/resource/Category:Cross-platform_software",
+          "http://dbpedia.org/resource/Switch_statement",
+          "http://dbpedia.org/resource/Forward_compatibility",
+          "http://dbpedia.org/resource/String_(computer_science)",
+          "http://dbpedia.org/resource/Design_by_committee",
+          "http://dbpedia.org/resource/Internal_Revenue_Service",
+          "http://dbpedia.org/resource/Static_variable",
+          "http://dbpedia.org/resource/Edsger_Dijkstra",
+          "http://dbpedia.org/resource/Break_statement",
+          "http://dbpedia.org/resource/United_States_Department_of_Defense",
+          "http://dbpedia.org/resource/Method_(computer_programming)",
+          "http://dbpedia.org/resource/Debugging",
+          "http://dbpedia.org/resource/Unstructured_programming",
+          "http://dbpedia.org/resource/Conditional_(computer_programming)",
+          "http://dbpedia.org/resource/Univac",
+          "http://dbpedia.org/resource/Chief_Information_Officer",
+          "http://dbpedia.org/resource/Honeywell",
+          "http://dbpedia.org/resource/Digital_Equipment_Corporation",
+          "http://dbpedia.org/resource/Control_Data_Corporation",
+          "http://dbpedia.org/resource/CODASYL",
+          "http://dbpedia.org/resource/Information_systems",
+          "http://dbpedia.org/resource/Computer_files",
+          "http://dbpedia.org/resource/Base-10",
+          "http://dbpedia.org/resource/The_Open_Group",
+          "http://dbpedia.org/resource/Sylvania_Electric_Products",
+          "http://dbpedia.org/resource/Saul_Gorn",
+          "http://dbpedia.org/resource/Mainframe_computer",
+          "http://dbpedia.org/resource/Software_portability",
+          "http://dbpedia.org/resource/Function_prototype",
+          "http://dbpedia.org/resource/Category:Programming_languages_with_an_ISO_standard",
+          "http://dbpedia.org/resource/ICL_VME",
+          "http://dbpedia.org/resource/VAX/VMS",
+          "http://dbpedia.org/resource/John_Wiley_&_Sons",
+          "http://dbpedia.org/resource/Standard_library",
+          "http://dbpedia.org/resource/Dynamic_memory",
+          "http://dbpedia.org/resource/International_Organization_for_Standardization",
+          "http://dbpedia.org/resource/Library_(computing)",
+          "http://dbpedia.org/resource/Exception_handling",
+          "http://dbpedia.org/resource/PL/I",
+          "http://dbpedia.org/resource/FORTRAN",
+          "http://dbpedia.org/resource/.NET_Framework",
+          "http://dbpedia.org/resource/Include_directive",
+          "http://dbpedia.org/resource/National_Bureau_of_Standards",
+          "http://dbpedia.org/resource/Lexical_items",
+          "http://dbpedia.org/resource/Boolean_data_type",
+          "http://dbpedia.org/resource/Betty_Holberton",
+          "http://dbpedia.org/resource/Pointer_(computer_programming)",
+          "http://dbpedia.org/resource/IBM",
+          "http://dbpedia.org/resource/Java_(platform)",
+          "http://dbpedia.org/resource/Database_management_systems",
+          "http://dbpedia.org/resource/Alphabetical_list_of_programming_languages",
+          "http://dbpedia.org/resource/Bendix_Corporation",
+          "http://dbpedia.org/resource/Daniel_D._McCracken",
+          "http://dbpedia.org/resource/Decision_table",
+          "http://dbpedia.org/resource/Table_(information)",
+          "http://dbpedia.org/resource/FACT_computer_language",
+          "http://dbpedia.org/resource/Unique_key",
+          "http://dbpedia.org/resource/Charles_Katz",
+          "http://dbpedia.org/resource/Operating_system",
+          "http://dbpedia.org/resource/RainCode",
+          "http://dbpedia.org/resource/Pascal_(programming_language)",
+          "http://dbpedia.org/resource/Computerworld",
+          "http://dbpedia.org/resource/Comparison_of_programming_languages",
+          "http://dbpedia.org/resource/Procedural_programming",
+          "http://dbpedia.org/resource/IEEE_754",
+          "http://dbpedia.org/resource/Placeholder_(Computer_syntax)",
+          "http://dbpedia.org/resource/COMTRAN",
+          "http://dbpedia.org/resource/FLOW-MATIC",
+          "http://dbpedia.org/resource/Undefined_behavior",
+          "http://dbpedia.org/resource/%22Hello,_World!%22_program",
+          "http://dbpedia.org/resource/Category:Structured_programming_languages",
+          "http://dbpedia.org/resource/Bit",
+          "http://dbpedia.org/resource/EGL_(programming_language)",
+          "http://dbpedia.org/resource/Parameter_(computer_programming)",
+          "http://dbpedia.org/resource/Statement_(computer_science)",
+          "http://dbpedia.org/resource/ISAM",
+          "http://dbpedia.org/resource/Random_access",
+          "http://dbpedia.org/resource/Richard_W._Conway",
+          "http://dbpedia.org/resource/ISO/IEC_JTC_1/SC_22",
+          "http://dbpedia.org/resource/Standardized",
+          "http://dbpedia.org/resource/Bob_Bemer",
+          "http://dbpedia.org/resource/CRC_Press",
+          "http://dbpedia.org/resource/Philco",
+          "http://dbpedia.org/resource/ISO",
+          "http://dbpedia.org/resource/Smalltalk",
+          "http://dbpedia.org/resource/Hercules_emulator",
+          "http://dbpedia.org/resource/Category:Procedural_programming_languages",
+          "http://dbpedia.org/resource/Property_(programming)",
+          "http://dbpedia.org/resource/Newline",
+          "http://dbpedia.org/resource/Annals_of_the_History_of_Computing",
+          "http://dbpedia.org/resource/Computer_History_Museum",
+          "http://dbpedia.org/resource/University_of_Pennsylvania",
+          "http://dbpedia.org/resource/Control_flow",
+          "http://dbpedia.org/resource/Grace_Hopper",
+          "http://dbpedia.org/resource/Sequential_access",
+          "http://dbpedia.org/resource/Microsoft_Windows",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_by_women",
+          "http://dbpedia.org/resource/Punched_card",
+          "http://dbpedia.org/resource/Category:Computer-related_introductions_in_1959",
+          "http://dbpedia.org/resource/Jean_E._Sammet",
+          "http://dbpedia.org/resource/St._Paul_Travelers",
+          "http://dbpedia.org/resource/Application_framework",
+          "http://dbpedia.org/resource/Return_statement",
+          "http://dbpedia.org/resource/Unicode",
+          "http://dbpedia.org/resource/Interface_(object-oriented_programming)",
+          "http://dbpedia.org/resource/Category:.NET_programming_languages",
+          "http://dbpedia.org/resource/Computer_programming_language",
+          "http://dbpedia.org/resource/Java_(Programming_language)",
+          "http://dbpedia.org/resource/BLIS/COBOL",
+          "http://dbpedia.org/resource/Fujitsu",
+          "http://dbpedia.org/resource/Batch_processing",
+          "http://dbpedia.org/resource/US_Department_of_Defense",
+          "http://dbpedia.org/resource/Keyword_(computer_programming)",
+          "http://dbpedia.org/resource/Polymorphism_(computer_science)",
+          "http://dbpedia.org/resource/David_Taylor_Model_Basin",
+          "http://dbpedia.org/resource/Ecma_International",
+          "http://dbpedia.org/resource/Deprecation",
+          "http://dbpedia.org/resource/Assignment_(computer_science)",
+          "http://dbpedia.org/resource/Weak_typing",
+          "http://dbpedia.org/resource/Reuters",
+          "http://dbpedia.org/resource/Call_by_reference",
+          "http://dbpedia.org/resource/OpenVMS",
+          "http://dbpedia.org/resource/Library_of_Congress",
+          "http://dbpedia.org/resource/Declarative_programming",
+          "http://dbpedia.org/resource/Job_Control_Language",
+          "http://dbpedia.org/resource/User-defined_function",
+          "http://dbpedia.org/resource/Coronavirus_Aid,_Relief,_and_Economic_Security_Act",
+          "http://dbpedia.org/resource/Automatic_variable",
+          "http://dbpedia.org/resource/Spaghetti_code",
+          "http://dbpedia.org/resource/Call_by_value",
+          "http://dbpedia.org/resource/C-ISAM",
+          "http://dbpedia.org/resource/Collection_class",
+          "http://dbpedia.org/resource/Burroughs_Corporation",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1959",
+          "http://dbpedia.org/resource/Dangling_else_problem",
+          "http://dbpedia.org/resource/Member_visibility",
+          "http://dbpedia.org/resource/VSAM",
+          "http://dbpedia.org/resource/Category:Statically_typed_programming_languages",
+          "http://dbpedia.org/resource/XML",
+          "http://dbpedia.org/resource/Year_2000_problem",
+          "http://dbpedia.org/resource/Cloud_computing",
+          "http://dbpedia.org/resource/International_Computers_and_Tabulators",
+          "http://dbpedia.org/resource/Class_(computer_programming)",
+          "http://dbpedia.org/resource/Static_typing",
+          "http://dbpedia.org/resource/Locale_(computer_software)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "https://archive.org/details/historyofprogram0000hist",
+          "https://books.google.com/books%3Fid=5Jaa1BVverIC&pg=PA104",
+          "http://www.isedj.org/1/52/ISEDJ.1(52).Carr.pdf",
+          "http://home.comcast.net/~wmklein/DOX/History.pdf",
+          "https://archive.org/details/codasylcoboljour00conf",
+          "http://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-8-pdf/k-8-u2776-Honeywell-mag-History-Cobol.pdf",
+          "https://web.archive.org/web/20160122164500/http:/archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-8-pdf/k-8-u2776-Honeywell-mag-History-Cobol.pdf",
+          "https://archive.org/details/historyofprogram0000hist/page/274",
+          "https://books.google.com/books%3Fid=BrEo9KtAQH4C&pg=RA1-PA61",
+          "http://opencobol.add1tocobol.com/guides/GNU%20COBOL%202.1%2023NOV2013%20Programmers%20Guide%20(US%20Letter).pdf",
+          "https://web.archive.org/web/20020124065139/http:/www.ncits.org/tc_home/j4htm/cobolv200112.zip",
+          "http://www.ncits.org/tc_home/j4htm/cobolv200112.zip",
+          "https://web.archive.org/web/20140107192608/http:/home.comcast.net/~wmklein/DOX/History.pdf",
+          "https://books.google.com/books%3Fid=G6a2tSuOoq8C&pg=PA47",
+          "https://books.google.com/books%3Fid=u5KKwGjulEwC&pg=PA282",
+          "https://pubs.opengroup.org/onlinepubs/009680799/toc.pdf",
+          "https://archive.org/details/simplifiedguidet0000mccr",
+          "https://archive.org/details/historyofprogram0000hist/page/263"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://simple.dbpedia.org/resource/COBOL",
+          "http://az.dbpedia.org/resource/COBOL",
+          "http://ur.dbpedia.org/resource/\u06a9\u0648\u0628\u0648\u0644",
+          "http://es.dbpedia.org/resource/COBOL",
+          "http://sw.dbpedia.org/resource/COBOL",
+          "http://bg.dbpedia.org/resource/COBOL",
+          "http://hy.dbpedia.org/resource/\u053f\u0578\u0562\u0578\u056c",
+          "http://ca.dbpedia.org/resource/COBOL",
+          "http://ja.dbpedia.org/resource/COBOL",
+          "http://ky.dbpedia.org/resource/COBOL",
+          "http://lv.dbpedia.org/resource/COBOL",
+          "http://sv.dbpedia.org/resource/COBOL",
+          "http://uk.dbpedia.org/resource/COBOL",
+          "http://af.dbpedia.org/resource/COBOL",
+          "http://eo.dbpedia.org/resource/Kobolo",
+          "http://bn.dbpedia.org/resource/\u0995\u09cb\u09ac\u09cb\u09b2",
+          "http://sr.dbpedia.org/resource/COBOL_(\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0441\u043a\u0438_\u0458\u0435\u0437\u0438\u043a)",
+          "http://te.dbpedia.org/resource/\u0c15\u0c4b\u0c2c\u0c3e\u0c32\u0c4d",
+          "http://hr.dbpedia.org/resource/COBOL",
+          "http://ast.dbpedia.org/resource/COBOL",
+          "http://fa.dbpedia.org/resource/\u06a9\u0648\u0628\u0648\u0644",
+          "http://ro.dbpedia.org/resource/COBOL",
+          "http://eu.dbpedia.org/resource/COBOL",
+          "http://ta.dbpedia.org/resource/\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0bcd_(\u0ba8\u0bbf\u0bb0\u0bb2\u0bbe\u0b95\u0bcd\u0b95_\u0bae\u0bca\u0bb4\u0bbf)",
+          "http://th.dbpedia.org/resource/\u0e20\u0e32\u0e29\u0e32\u0e42\u0e04\u0e1a\u0e2d\u0e25",
+          "http://de.dbpedia.org/resource/COBOL",
+          "http://pl.dbpedia.org/resource/COBOL",
+          "http://ko.dbpedia.org/resource/\ucf54\ubcfc",
+          "http://nl.dbpedia.org/resource/COBOL",
+          "http://ka.dbpedia.org/resource/\u10d9\u10dd\u10d1\u10dd\u10da\u10d8",
+          "http://ru.dbpedia.org/resource/\u041a\u043e\u0431\u043e\u043b",
+          "http://is.dbpedia.org/resource/COBOL",
+          "http://et.dbpedia.org/resource/COBOL",
+          "http://la.dbpedia.org/resource/COBOL",
+          "http://ar.dbpedia.org/resource/\u0643\u0648\u0628\u0648\u0644",
+          "http://it.dbpedia.org/resource/COBOL",
+          "http://tr.dbpedia.org/resource/COBOL",
+          "http://yago-knowledge.org/resource/COBOL",
+          "http://mr.dbpedia.org/resource/\u0915\u094b\u092c\u0949\u0932",
+          "http://yi.dbpedia.org/resource/\u05e7\u05d0\u05d1\u05d0\u05dc",
+          "http://fr.dbpedia.org/resource/Cobol",
+          "http://zh.dbpedia.org/resource/COBOL",
+          "http://id.dbpedia.org/resource/COBOL",
+          "https://global.dbpedia.org/id/LAgb",
+          "http://sw.cyc.com/concept/Mx4rvVjH05wpEbGdrcN5Y29ycA",
+          "http://bs.dbpedia.org/resource/COBOL",
+          "http://gl.dbpedia.org/resource/COBOL",
+          "http://tg.dbpedia.org/resource/COBOL",
+          "http://rdf.freebase.com/ns/m.01zpg",
+          "http://cs.dbpedia.org/resource/COBOL",
+          "http://uz.dbpedia.org/resource/Kobol",
+          "http://sl.dbpedia.org/resource/COBOL",
+          "http://www.wikidata.org/entity/Q131140",
+          "http://ga.dbpedia.org/resource/COBOL",
+          "http://hu.dbpedia.org/resource/COBOL",
+          "http://ml.dbpedia.org/resource/\u0d15\u0d4b\u0d2c\u0d4b\u0d7e",
+          "http://ms.dbpedia.org/resource/COBOL",
+          "http://sk.dbpedia.org/resource/COBOL",
+          "http://sco.dbpedia.org/resource/COBOL",
+          "http://d-nb.info/gnd/4010323-7",
+          "http://an.dbpedia.org/resource/COBOL",
+          "http://be.dbpedia.org/resource/COBOL",
+          "http://no.dbpedia.org/resource/COBOL",
+          "http://vi.dbpedia.org/resource/COBOL",
+          "http://sh.dbpedia.org/resource/COBOL",
+          "http://el.dbpedia.org/resource/COBOL",
+          "http://oc.dbpedia.org/resource/Cobol",
+          "http://he.dbpedia.org/resource/COBOL",
+          "http://da.dbpedia.org/resource/COBOL",
+          "http://lt.dbpedia.org/resource/COBOL",
+          "http://fi.dbpedia.org/resource/COBOL",
+          "http://ia.dbpedia.org/resource/COBOL",
+          "http://pt.dbpedia.org/resource/COBOL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikibooks",
+        "Values": [
+          "COBOL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Pipe",
+          "http://dbpedia.org/resource/Template:Efn",
+          "http://dbpedia.org/resource/Template:Cite_conference",
+          "http://dbpedia.org/resource/Template:Quotebox",
+          "http://dbpedia.org/resource/Template:Use_dmy_dates",
+          "http://dbpedia.org/resource/Template:Major_programming_languages",
+          "http://dbpedia.org/resource/Template:Use_American_English",
+          "http://dbpedia.org/resource/Template:Curlie",
+          "http://dbpedia.org/resource/Template:Harvnb",
+          "http://dbpedia.org/resource/Template:Refbegin",
+          "http://dbpedia.org/resource/Template:Authority_control",
+          "http://dbpedia.org/resource/Template:Cite_journal",
+          "http://dbpedia.org/resource/Template:ISO_standards",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Em",
+          "http://dbpedia.org/resource/Template:Good_article",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:Refend",
+          "http://dbpedia.org/resource/Template:Sfn",
+          "http://dbpedia.org/resource/Template:Slink",
+          "http://dbpedia.org/resource/Template:Nowraplinks",
+          "http://dbpedia.org/resource/Template:Code",
+          "http://dbpedia.org/resource/Template:Missing_information",
+          "http://dbpedia.org/resource/Template:Sisterlinks",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Portal",
+          "http://dbpedia.org/resource/Template:Underline",
+          "http://dbpedia.org/resource/Template:Blockquote",
+          "http://dbpedia.org/resource/Template:Dfn",
+          "http://dbpedia.org/resource/Template:Cite_book",
+          "http://dbpedia.org/resource/Template:IPAc-en",
+          "http://dbpedia.org/resource/Template:Start_date_and_age",
+          "http://dbpedia.org/resource/Template:Cite_web",
+          "http://dbpedia.org/resource/Template:Notelist"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/IBM_keypunch_deck_for_Cobol_student_program_at_New_York_University_1979.jpg?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/quoted",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/tstyle",
+        "Values": [
+          "text-align: left;"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/align",
+        "Values": [
+          "left",
+          "right"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/b",
+        "Values": [
+          "yes"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/commons",
+        "Values": [
+          "Category:COBOL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/d",
+        "Values": [
+          "Q131140"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/designers",
+        "Values": [
+          "",
+          "http://dbpedia.org/resource/Grace_Hopper",
+          "Norman Discount",
+          "William Selden",
+          ", with indirect influence from",
+          "Howard Bromberg",
+          "Vernon Reeves",
+          "Gertrude Tierney",
+          "http://dbpedia.org/resource/Jean_E._Sammet",
+          ","
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/implementations",
+        "Values": [
+          "",
+          "Micro Focus Visual COBOL",
+          ","
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influenced",
+        "Values": [
+          "http://dbpedia.org/resource/CobolScript",
+          "http://dbpedia.org/resource/PL/I",
+          "http://dbpedia.org/resource/Programming_Language_for_Business",
+          "http://dbpedia.org/resource/EGL_(programming_language)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influencedBy",
+        "Values": [
+          "COBOL 2002: C++, Eiffel, Smalltalk",
+          "Initial: AIMACO, COMTRAN, FACT, FLOW-MATIC"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseDate",
+        "Values": [
+          "2014"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseVersion",
+        "Values": [
+          "7161614.0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logo",
+        "Values": [
+          "COBOL Report Apr60.djvu"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logoCaption",
+        "Values": [
+          "The COBOL 60 report to CODASYL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/m",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/mw",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/n",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/paradigm",
+        "Values": [
+          "http://dbpedia.org/resource/Generic_programming",
+          "http://dbpedia.org/resource/Object-oriented_programming",
+          "http://dbpedia.org/resource/Procedural_programming",
+          "http://dbpedia.org/resource/Imperative_programming"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/q",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/quote",
+        "Values": [
+          "It is rather unlikely that Cobol will be around by the end of the decade.",
+          "A weak, verbose, and flabby language used by code grinders to do boring mindless things on dinosaur mainframes. [...]  Its very name is seldom uttered without ritual expressions of disgust or horror.",
+          "The academic world tends to regard COBOL as verbose, clumsy and inelegant, and tries to ignore it, although there are probably more COBOL programs and programmers in the world than there are for FORTRAN, ALGOL and PL/I combined. For the most part, only schools with an immediate vocational objective provide instruction in COBOL."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/s",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/source",
+        "Values": [
+          "Anonymous, June 1960",
+          "Richard Conway and David Gries, 1973",
+          "The Jargon File 4.4.8."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/species",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/title",
+        "Values": [
+          "COBOL: /koh\u2032bol/, n."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/typing",
+        "Values": [
+          "http://dbpedia.org/resource/Static_typing",
+          "http://dbpedia.org/resource/Weak_typing"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/voy",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/width",
+        "Values": [
+          "30.0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "COBOL (COmmon Bussines-Oriented Languageren akronimoa; euskaraz: Enpresa Aplikazioetara Zuzendutako Lengoaia Orokorra) 1959tik 1961era bitartean bideraturiko programazio-lengoaia. Oinarri gisa ingelesa erabiltzen du. COBOLen ezaugarri nagusia irakurtzeko erraztasuna da. Ameriketako Estatu Batuetako Defentsa Sailak eskatzen duen lengoaia izatea, datuen egituretan egiten duen enfasia eta ingelesaren antzeko sintaxia dira lengoaia honek halako arrakasta izateko arrazoiak. COBOLen idatzitako programak lau zatitan banatu ziren: Identification, Enviroment, Data eta Procedure. Identification sailak programaren izena zehazten du, eta programaren informazio orokorra du, hala nola egilearen izena, idatzi zen data eta erabileraren deskripzio txiki bat, eta programatzaileak erantsi nahi dion beste edozein agiri. Enviroment sailak zehazten du zein ekipo ari diren erabiltzen, eta programan sartzeko eta irteteko erabiltzen diren artxiboak. Data sailak programan erabiltzen diren datuak deskribatzen ditu. Procedure sailak, berriz, programaren ekintzak diktatzen dituen prozedura-zatia hartzen du.",
+          "COBOL (acronimo di COmmon Business-Oriented Language, ossia, letteralmente, \"linguaggio comune orientato alle applicazioni commerciali\") \u00e8 un linguaggio di programmazione, fra i primi a essere stato sviluppato e ancora presente in molte applicazioni software commerciali di tipo bancario.",
+          "COBOL\uff08\u30b3\u30dc\u30eb\uff09\u306f\u30011959\u5e74\u306b\u4e8b\u52d9\u51e6\u7406\u7528\u306b\u958b\u767a\u3055\u308c\u305f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3042\u308b\u3002\u540d\u524d\u306f\u300cCommon Business Oriented Language\u300d\uff08\u5171\u901a\u4e8b\u52d9\u51e6\u7406\u7528\u8a00\u8a9e\uff09\u306b\u7531\u6765\u3059\u308b\u3002",
+          "\u041a\u041e\u0411\u041e\u041b, COBOL (/ \u02c8ko\u028ab\u0252l, -b\u0254\u02d0l /; \u0430\u0431\u0431\u0440\u0435\u0432\u0438\u0430\u0442\u0443\u0440\u0430 \u043e\u0442 \u00abcommon business-oriented language\u00bb) \u2014 \u044d\u0442\u043e \u043a\u043e\u043c\u043f\u0438\u043b\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u0431\u0438\u0437\u043d\u0435\u0441\u0435. \u041a\u043e\u0431\u043e\u043b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0430\u043d\u0433\u043b\u043e\u044f\u0437\u044b\u0447\u043d\u044b\u0435 \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u0435 \u0441\u043b\u043e\u0432\u0430, \u0445\u043e\u0442\u044f \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0438 \u0435\u0433\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0441 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u043e\u043c \u043a\u043b\u044e\u0447\u0435\u0432\u044b\u0445 \u0441\u043b\u043e\u0432 \u043d\u0430 \u0434\u0440\u0443\u0433\u0438\u0435 \u044f\u0437\u044b\u043a\u0438, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438 \u2014 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439. \u042d\u0442\u043e \u0438\u043c\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439, \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u043d\u044b\u0439 \u0438, \u0441 2002 \u0433\u043e\u0434\u0430, \u043e\u0431\u044a\u0435\u043a\u0442\u043d\u043e-\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u044f\u0437\u044b\u043a. COBOL \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u0434\u0435\u043b\u043e\u0432\u044b\u0445, \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0445 \u0438 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u0438 \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432. COBOL \u043f\u043e-\u043f\u0440\u0435\u0436\u043d\u0435\u043c\u0443 \u0448\u0438\u0440\u043e\u043a\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u0445, \u0440\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044b\u0445 \u043d\u0430 \u043c\u044d\u0439\u043d\u0444\u0440\u0435\u0439\u043c\u0430\u0445, \u0442\u0430\u043a\u0438\u0445 \u043a\u0430\u043a \u043a\u0440\u0443\u043f\u043d\u043e\u043c\u0430\u0441\u0448\u0442\u0430\u0431\u043d\u044b\u0435 \u043f\u0430\u043a\u0435\u0442\u043d\u044b\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u0438 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0442\u0440\u0430\u043d\u0437\u0430\u043a\u0446\u0438\u0439. \u041e\u0434\u043d\u0430\u043a\u043e \u0438\u0437-\u0437\u0430 \u0441\u043d\u0438\u0436\u0435\u043d\u0438\u044f \u0435\u0433\u043e \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0445\u043e\u0434\u0430 \u043d\u0430 \u043f\u0435\u043d\u0441\u0438\u044e \u043e\u043f\u044b\u0442\u043d\u044b\u0445 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442\u043e\u0432 COBOL \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u044f\u0442\u0441\u044f \u043d\u0430 \u043d\u043e\u0432\u044b\u0435 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b, \u043f\u0435\u0440\u0435\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043d\u0430 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u044f\u0437\u044b\u043a\u0438 \u0438\u043b\u0438 \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c\u0438 \u043f\u0430\u043a\u0435\u0442\u0430\u043c\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044f. \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u0447\u0430\u0441\u0442\u044c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 COBOL \u0442\u0435\u043f\u0435\u0440\u044c \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0430 \u0438\u0441\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0434\u043b\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0438 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439; \u043e\u0434\u043d\u0430\u043a\u043e \u043c\u043d\u043e\u0433\u0438\u0435 \u043a\u0440\u0443\u043f\u043d\u044b\u0435 \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0435 \u0443\u0447\u0440\u0435\u0436\u0434\u0435\u043d\u0438\u044f \u0435\u0449\u0435 \u0432 2006 \u0433\u043e\u0434\u0443 \u0432\u0441\u0435 \u0435\u0449\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043b\u0438 \u043d\u043e\u0432\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043d\u0430 \u044f\u0437\u044b\u043a\u0435 COBOL. COBOL \u0431\u044b\u043b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0432 1959 \u0433\u043e\u0434\u0443 \u043a\u043e\u043c\u0438\u0442\u0435\u0442\u043e\u043c CODASYL. \u042f\u0437\u044b\u043a \u0447\u0430\u0441\u0442\u0438\u0447\u043d\u043e \u043e\u0441\u043d\u043e\u0432\u0430\u043d \u043d\u0430 \u044f\u0437\u044b\u043a\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f FLOW-MATIC, \u0440\u0430\u043d\u0435\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d\u043d\u043e\u043c \u043f\u043e\u0434 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e\u043c \u0413\u0440\u0435\u0439\u0441 \u0425\u043e\u043f\u043f\u0435\u0440. \u0412 \u0441\u0432\u044f\u0437\u0438 \u0441 \u0430\u043a\u0442\u0438\u0432\u043d\u044b\u043c \u0443\u0447\u0430\u0441\u0442\u0438\u0435\u043c \u0432 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u044d\u0442\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0413\u0440\u0435\u0439\u0441 \u0425\u043e\u043f\u043f\u0435\u0440 \u0447\u0430\u0441\u0442\u043e \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u00ab\u0431\u0430\u0431\u0443\u0448\u043a\u043e\u0439 \u041a\u043e\u0431\u043e\u043b\u0430\u00bb. \u041a\u043e\u0431\u043e\u043b \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043b\u0441\u044f \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u0443\u0441\u0438\u043b\u0438\u0439 \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0430 \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u0421\u0428\u0410 \u043f\u043e \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044e \u043f\u0435\u0440\u0435\u043d\u043e\u0441\u0438\u043c\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u043b\u044f \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0434\u0430\u043d\u043d\u044b\u0445. \u0412 \u0442\u043e \u0432\u0440\u0435\u043c\u044f \u044d\u0442\u043e \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u043b\u043e\u0441\u044c \u043a\u0430\u043a \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0435, \u043d\u043e \u041c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u043d\u0435\u0437\u0430\u043c\u0435\u0434\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0437\u0430\u0441\u0442\u0430\u0432\u0438\u043b\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0435\u0439 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043e\u0432 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u044b\u0432\u0430\u0442\u044c \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u044b \u041a\u043e\u0431\u043e\u043b\u0430 \u043d\u0430 \u043f\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u043c\u044b\u0445 \u043c\u0438\u043d\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0443 \u043c\u0430\u0448\u0438\u043d\u0430\u0445, \u0447\u0442\u043e \u043f\u0440\u0438\u0432\u0435\u043b\u043e \u043a \u0435\u0433\u043e \u0448\u0438\u0440\u043e\u043a\u043e\u043c\u0443 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044e. \u042f\u0437\u044b\u043a \u0431\u044b\u043b \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d \u0432 1968 \u0433\u043e\u0434\u0443 \u0438 \u0441 \u0442\u0435\u0445 \u043f\u043e\u0440 \u043f\u0435\u0440\u0435\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u043b\u0441\u044f \u0447\u0435\u0442\u044b\u0440\u0435 \u0440\u0430\u0437\u0430. \u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0442 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u043d\u043e-\u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u0422\u0435\u043a\u0443\u0449\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u2014 ISO / IEC 1989: 2014. \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u044f\u0437\u044b\u043a\u0430 \u043f\u043e-\u043f\u0440\u0435\u0436\u043d\u0435\u043c\u0443 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0435\u0442\u0441\u044f, \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u043f\u0440\u0438\u043d\u044f\u0442\u044b\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0431\u044b\u043b \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0451\u043d \u0432 2014 \u0433\u043e\u0434\u0443. \u041a\u043e\u0431\u043e\u043b \u043e\u0431\u044b\u0447\u043d\u043e \u043a\u0440\u0438\u0442\u0438\u043a\u0443\u0435\u0442\u0441\u044f \u0437\u0430 \u043c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u043e\u0441\u0442\u044c \u0438 \u0433\u0440\u043e\u043c\u043e\u0437\u0434\u043a\u043e\u0441\u0442\u044c, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u043e\u0434\u043d\u043e\u0439 \u0438\u0437 \u0446\u0435\u043b\u0435\u0439 \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u0435\u0439 \u044f\u0437\u044b\u043a\u0430 \u0431\u044b\u043b\u043e \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u043f\u0440\u0438\u0431\u043b\u0438\u0437\u0438\u0442\u044c \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438 \u043a \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c\u0443 \u044f\u0437\u044b\u043a\u0443 (\u0435\u0449\u0451 \u0432 2006 \u0433\u043e\u0434\u0443 \u041a\u043e\u0431\u043e\u043b \u0441\u0447\u0438\u0442\u0430\u043b\u0441\u044f \u044f\u0437\u044b\u043a\u043e\u043c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0431\u044b\u043b\u043e \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043e \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u0441\u0435\u0433\u043e \u0441\u0442\u0440\u043e\u043a \u043a\u043e\u0434\u0430), \u0442\u0430\u043a, \u0448\u0438\u0440\u043e\u043a\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e \u0432\u044b\u0441\u043a\u0430\u0437\u044b\u0432\u0430\u043d\u0438\u0435 \u0414\u0435\u0439\u043a\u0441\u0442\u0440\u044b \u00ab\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u041a\u043e\u0431\u043e\u043b\u0430 \u043a\u0430\u043b\u0435\u0447\u0438\u0442 \u0443\u043c. \u0415\u0433\u043e \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u043d\u0438\u0435, \u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e, \u0434\u043e\u043b\u0436\u043d\u043e \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c\u0441\u044f \u043a\u0430\u043a \u0443\u0433\u043e\u043b\u043e\u0432\u043d\u043e\u0435 \u043f\u0440\u0435\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435\u00bb. \u0412 \u0442\u043e \u0436\u0435 \u0432\u0440\u0435\u043c\u044f, \u041a\u043e\u0431\u043e\u043b \u0438\u043c\u0435\u043b \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u044b\u0435 \u0434\u043b\u044f \u0441\u0432\u043e\u0435\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441\u043e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430\u043c\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0444\u0430\u0439\u043b\u0430\u043c\u0438, \u0441\u0442\u0430\u043b \u043f\u0435\u0440\u0432\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043f\u043e\u044f\u0432\u0438\u043b\u0441\u044f \u0442\u0438\u043f \u0434\u0430\u043d\u043d\u044b\u0445 \u00ab\u0437\u0430\u043f\u0438\u0441\u044c\u00bb, \u044d\u0442\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u043b\u043e \u0435\u043c\u0443 \u0434\u043e\u043b\u0433\u0443\u044e \u0436\u0438\u0437\u043d\u044c \u0432 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u0445, \u043f\u043e \u043a\u0440\u0430\u0439\u043d\u0435\u0439 \u043c\u0435\u0440\u0435, \u0432 \u0421\u0428\u0410. \u041a 1997 \u0433\u043e\u0434\u0443 \u0430\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u043e\u0441\u044c \u043e\u043a\u043e\u043b\u043e 240 \u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434\u043e\u0432 \u0441\u0442\u0440\u043e\u043a \u043a\u043e\u0434\u0430 \u043d\u0430 \u041a\u043e\u0431\u043e\u043b\u0435, \u043a\u043e\u0434\u043e\u043c \u043d\u0430 \u041a\u043e\u0431\u043e\u043b\u0435 \u043e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u043b\u043e\u0441\u044c \u043e\u043a\u043e\u043b\u043e 90 % \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u044b\u0445 \u0442\u0440\u0430\u043d\u0437\u0430\u043a\u0446\u0438\u0439 \u0432 \u043c\u0438\u0440\u0435 \u0438 75 % \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u0438\u0445 \u0442\u0440\u0430\u043d\u0437\u0430\u043a\u0446\u0438\u0439, \u043e\u0431\u0449\u0430\u044f \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0433\u043e \u043a\u043e\u0434\u0430 \u2014 2 \u0442\u0440\u043b\u043d \u0434\u043e\u043b\u043b\u0430\u0440\u043e\u0432 \u0421\u0428\u0410. \u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b \u043d\u0430 \u041a\u043e\u0431\u043e\u043b\u0435 \u0438\u043c\u0435\u044e\u0442 \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441, \u0441\u0445\u043e\u0436\u0438\u0439 \u0441 \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u043e\u043c \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430. \u041e\u043d \u0431\u044b\u043b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0442\u0430\u043a\u0438\u043c, \u0447\u0442\u043e\u0431\u044b \u0431\u044b\u0442\u044c \u0441\u0430\u043c\u043e\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c \u0438 \u043b\u0435\u0433\u043a\u043e \u0447\u0438\u0442\u0430\u0435\u043c\u044b\u043c. \u041e\u0434\u043d\u0430\u043a\u043e \u043e\u043d \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u043c\u043d\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u043d\u044b\u0439 \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0431\u043e\u043b\u0435\u0435 300 \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0441\u043b\u043e\u0432. \u0412 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0441\u0436\u0430\u0442\u043e\u0433\u043e \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0430, \u0442\u0430\u043a\u043e\u0433\u043e \u043a\u0430\u043a <span class=\"n\">y</span><span class=\"w\"> </span><span class=\"o\">=</span><span class=\"w\"> </span><span class=\"n\">x</span><span class=\"p\">;</span><span class=\"w\"></span>, COBOL \u0438\u043c\u0435\u0435\u0442 \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441, \u0431\u043e\u043b\u0435\u0435 \u043f\u043e\u0445\u043e\u0436\u0438\u0439 \u043d\u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 (\u0432 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 <span class=\"kr\">MOVE</span><span class=\"w\"> </span><span class=\"nv\">x</span><span class=\"w\"> </span><span class=\"kp\">TO</span><span class=\"w\"> </span><span class=\"nv\">y</span>). \u041a\u043e\u0434 COBOL \u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d \u043d\u0430 \u0447\u0435\u0442\u044b\u0440\u0435 \u0447\u0430\u0441\u0442\u0438 (\u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f, \u0441\u0440\u0435\u0434\u0430, \u0434\u0430\u043d\u043d\u044b\u0435 \u0438 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u0430), \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0438\u0445 \u0436\u0435\u0441\u0442\u043a\u0443\u044e \u0438\u0435\u0440\u0430\u0440\u0445\u0438\u044e \u0440\u0430\u0437\u0434\u0435\u043b\u043e\u0432, \u0430\u0431\u0437\u0430\u0446\u0435\u0432 \u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0439. \u041d\u0435 \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0432 \u0441\u0435\u0431\u044f \u0431\u043e\u043b\u044c\u0448\u0443\u044e \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u0443\u044e \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0443, \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u044f\u0437\u044b\u043a\u0430 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442 43 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u0430, 87 \u0444\u0443\u043d\u043a\u0446\u0438\u0439 \u0438 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u0434\u0438\u043d \u043a\u043b\u0430\u0441\u0441. \u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0438 \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043d\u0430\u0443\u043a\u0438, \u0437\u0430\u043d\u0438\u043c\u0430\u0432\u0448\u0438\u0435\u0441\u044f \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u043e\u0439 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438, \u0432 \u0442\u043e \u0432\u0440\u0435\u043c\u044f \u043d\u0435 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432\u0430\u043b\u0438\u0441\u044c \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c\u0438, \u043d\u0430 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0431\u044b\u043b \u043e\u0440\u0438\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d COBOL, \u0438 \u043d\u0435 \u0443\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0438 \u0432 \u0435\u0433\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435. \u042f\u0437\u044b\u043a \u0431\u044b\u043b (\u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e) \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0441 \u043d\u0443\u043b\u044f \u043a\u0430\u043a \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u0434\u043b\u044f \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0441 \u0443\u043f\u043e\u0440\u043e\u043c \u043d\u0430 \u0432\u0432\u043e\u0434/\u0432\u044b\u0432\u043e\u0434. \u0415\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u0442\u0438\u043f\u0430\u043c\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u041a\u043e\u0431\u043e\u043b\u0430 \u0431\u044b\u043b\u0438 \u0447\u0438\u0441\u043b\u0430 \u0438 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438.",
+          "Cobol est un langage de programmation cr\u00e9\u00e9 en 1959. Son nom est l\u2019acronyme de COmmon Business Oriented Language qui r\u00e9v\u00e8le sa vocation originelle : \u00eatre un langage commun pour la programmation d'applications de gestion. Aujourd'hui, il est surtout utilis\u00e9 dans les secteurs de la banque, des assurances, des grandes administrations.",
+          "COBOL (akronim od ang. common business-oriented language) \u2013 wysokopoziomowy j\u0119zyk programowania stworzony i u\u017cywany do tworzenia aplikacji biznesowych. COBOL jest j\u0119zykiem imperatywnym, proceduralnym, oraz od 2002 roku, obiektowym. J\u0119zyk ten w znacznym stopniu nadal u\u017cywany jest w aplikacjach system\u00f3w typu mainframe, wymagaj\u0105cych przetwarzania danych na wielk\u0105 skal\u0119, zar\u00f3wno w trybie wsadowym jak i online. Typowymi obszarami zastosowania s\u0105 bankowo\u015b\u0107, ubezpieczenia, s\u0142u\u017cba zdrowia, transport, jak r\u00f3wnie\u017c systemy rz\u0105dowe i militarne. W ostatnich latach zauwa\u017calny jest stopniowy spadek znaczenia COBOLa w tworzeniu nowych aplikacji. Wi\u0119kszo\u015b\u0107 wykonywanych prac programistycznych zwi\u0105zana jest z utrzymaniem i rozwojem aplikacji istniej\u0105cych. Z uwagi na jego malej\u0105c\u0105 popularno\u015b\u0107 oraz mniejsz\u0105 poda\u017c programist\u00f3w COBOL, cz\u0119\u015b\u0107 program\u00f3w migrowana jest na nowe platformy, przepisywana na nowsze j\u0119zyki b\u0105d\u017a zast\u0119powana nowymi pakietami oprogramowania. Niemniej COBOL nadal odgrywa znacz\u0105c\u0105 rol\u0119 w obszarze aplikacji biznesowych na \u015bwiecie. COBOL zaprojektowany zosta\u0142 w 1960 roku przez CODASYL i cz\u0119\u015bciowo oparty by\u0142 na wcze\u015bniejszym j\u0119zyku programowania stworzonym przez Grace Hopper, popularnie nazywan\u0105 \u201ebabci\u0105 COBOLa\u201d. Jego powstanie by\u0142o skutkiem pr\u00f3b stworzenia przez Departament Obrony USA przeno\u015bnego j\u0119zyka programowania wykorzystywanego do przetwarzania danych. Powsta\u0142 jako rozwi\u0105zanie tymczasowe, ale Departament Obrony USA wymusi\u0142 na producentach komputer\u00f3w jego stosowanie i przez to w kr\u00f3tkim czasie j\u0119zyk zosta\u0142 rozpowszechniony. COBOL ustandaryzowano w 1968 roku i od tego czasu by\u0142 ulepszany cztery razy. Rozszerzenia dotyczy\u0142y wsparcia programowania obiektowego oraz strukturalnego. Obecnym standardem jest ISO/IEC1989:2014. Sk\u0142adnia (ang. syntax) COBOLa opiera si\u0119 na j\u0119zyku angielskim i zosta\u0142a zaprojektowana tak, aby kod by\u0142 czytelny oraz \u0142atwy w dokumentowaniu (samodokumentuj\u0105cy si\u0119). J\u0119zyk jest rozbudowany pod wzgl\u0119dem sk\u0142adniowym i u\u017cywa ponad 300 zarezerwowanych wyraz\u00f3w. Wsp\u00f3\u0142czesne j\u0119zyki programowania korzystaj\u0105 ze zwi\u0119z\u0142ej sk\u0142adni, np.: y=x , natomiast COBOL posiada sk\u0142adni\u0119 zbli\u017con\u0105 do j\u0119zyka angielskiego, w tym przypadku: MOVE x TO y Kod w COBOLu podzielony jest na cztery dzia\u0142y (ang. division) (identification, environment, data oraz procedure), posiadaj\u0105ce hierarchiczn\u0105 struktur\u0119 sekcji, paragraf\u00f3w, zda\u0144 i instrukcji. Kiedy tworzono COBOL akademicy i teoretycy informatyki nie wykazywali zainteresowania rozwojem aplikacji biznesowych, w zwi\u0105zku z czym nie uczestniczyli w jego kreacji. Zosta\u0142 on zaprojektowany jako j\u0119zyk przetwarzania danych gospodarczych, przez co p\u00f3\u017aniej by\u0142 krytykowany przez \u015brodowiska akademickie.",
+          "COBOL (/\u02c8ko\u028ab\u0252l, -b\u0254\u02d0l/; an acronym for \"common business-oriented language\") is a compiled English-like computer programming language designed for business use. It is an imperative, procedural and, since 2002, object-oriented language. COBOL is primarily used in business, finance, and administrative systems for companies and governments. COBOL is still widely used in applications deployed on mainframe computers, such as large-scale batch and transaction processing jobs. However, due to its declining popularity and the retirement of experienced COBOL programmers, programs are being migrated to new platforms, rewritten in modern languages or replaced with software packages. Most programming in COBOL is now purely to maintain existing applications; however, many large financial institutions were still developing new systems in COBOL as late as 2006. COBOL was designed in 1959 by CODASYL and was partly based on the programming language FLOW-MATIC designed by Grace Hopper. It was created as part of a US Department of Defense effort to create a portable programming language for data processing. It was originally seen as a stopgap, but the Department of Defense promptly forced computer manufacturers to provide it, resulting in its widespread adoption. It was standardized in 1968 and has since been revised four times. Expansions include support for structured and object-oriented programming. The current standard is ISO/IEC 1989:2014. COBOL statements have an English-like syntax, which was designed to be self-documenting and highly readable. However, it is verbose and uses over 300 reserved words. In contrast with modern, succinct syntax like <span class=\"n\">y</span><span class=\"w\"> </span><span class=\"o\">=</span><span class=\"w\"> </span><span class=\"n\">x</span><span class=\"p\">;</span><span class=\"w\"></span>, COBOL has a more English-like syntax (in this case, <span class=\"kr\">MOVE</span> <span class=\"nv\">x</span> <span class=\"kp\">TO</span> <span class=\"nv\">y</span>).COBOL code is split into four divisions (identification, environment, data, and procedure) containing a rigid hierarchy of sections, paragraphs and sentences. Lacking a large standard library, the standard specifies 43 statements, 87 functions and just one class. Academic computer scientists were generally uninterested in business applications when COBOL was created and were not involved in its design; it was (effectively) designed from the ground up as a computer language for business, with an emphasis on inputs and outputs, whose only data types were numbers and strings of text.COBOL has been criticized throughout its life for its verbosity, design process, and poor support for structured programming. These weaknesses result in monolithic, verbose (intended to be English-like) programs that are not easily comprehensible. For years, COBOL has been assumed as a programming language for business operations in mainframes, although in recent years an increasing interest has surged on migrating COBOL operations to cloud computing.",
+          "\u0397 COBOL \u03b5\u03af\u03bd\u03b1\u03b9 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd, \u03c4\u03b7\u03c2 \u03bf\u03c0\u03bf\u03af\u03b1\u03c2 \u03c4\u03bf \u03cc\u03bd\u03bf\u03bc\u03b1 \u03c0\u03c1\u03bf\u03ae\u03bb\u03b8\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b1\u03c1\u03c7\u03b9\u03ba\u03ac \u03c4\u03c9\u03bd \u03bb\u03ad\u03be\u03b5\u03c9\u03bd C\u039fmmon Business Oriented Language (\u039a\u03bf\u03b9\u03bd\u03ae \u0393\u03bb\u03ce\u03c3\u03c3\u03b1 \u03a0\u03c1\u03bf\u03c3\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b3\u03b9\u03b1 \u0395\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ad\u03c2 \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2). \u0397 COBOL \u03b1\u03bd\u03b1\u03c0\u03c4\u03cd\u03c7\u03b8\u03b7\u03ba\u03b5 \u03bc\u03b5 \u03c3\u03ba\u03bf\u03c0\u03cc \u03bd\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03b4\u03c5\u03c3\u03c7\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03b6\u03b5 \u03b7 FORTRAN \u03c9\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03b3\u03b9\u03b1 \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ad\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2. \u0392\u03b1\u03c3\u03b9\u03ba\u03cc \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c4\u03b7\u03c2 COBOL \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0391\u03b3\u03b3\u03bb\u03b9\u03ba\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2 \u03bc\u03b5 \u03c0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2, \u03c0\u03b1\u03c1\u03b1\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b5\u03af\u03b1 \u03c3\u03c4\u03af\u03be\u03b7\u03c2. \u0397 COBOL \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03af\u03b1 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03bc\u03b5 \u03c0\u03bf\u03bb\u03bb\u03ac \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03bc\u03b9\u03b1\u03c2 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03ad\u03bd\u03c4\u03bf\u03bd\u03b7 \u03c4\u03b7\u03bd \u03cd\u03c0\u03b1\u03c1\u03be\u03b7 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03bd\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2. \u0394\u03b9\u03b1\u03b2\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03bc\u03af\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b3\u03c1\u03b1\u03c6\u03bf \u03c3\u03b5 COBOL, \u03b5\u03cd\u03ba\u03bf\u03bb\u03b1 \u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03b1\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03bd\u03b5\u03af\u03c2 \u03c4\u03bf \u03c4\u03b9 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03bf\u03b9 \u03b5\u03bd\u03c4\u03bf\u03bb\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b9\u03b1\u03b2\u03ac\u03b6\u03b5\u03b9. \u0393\u03b9\u03b1 \u03c4\u03bf \u03bb\u03cc\u03b3\u03bf \u03b1\u03c5\u03c4\u03cc \u03b7 COBOL \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c0\u03bf\u03bb\u03cd \u03b4\u03b7\u03bc\u03bf\u03c6\u03b9\u03bb\u03ae\u03c2 \u03c3\u03c4\u03bf \u03c7\u03ce\u03c1\u03bf \u03c4\u03c9\u03bd \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ce\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ce\u03bd \u03c3\u03b5 \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03bf \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1. \u0394\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c4\u03bf 1959 \u03c3\u03c4\u03b9\u03c2 \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03b5\u03c2 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b5\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03ae\u03c2 \u03bc\u03b5 \u03c0\u03c1\u03c9\u03c4\u03bf\u03b2\u03bf\u03c5\u03bb\u03af\u03b1 \u03c4\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf\u03c5 \u03ac\u03bc\u03c5\u03bd\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03ae \u03c0\u03bf\u03bb\u03bb\u03ce\u03bd \u03b5\u03c4\u03b1\u03b9\u03c1\u03b5\u03b9\u03ce\u03bd \u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae\u03c2 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ce\u03bd, \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03bf\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03b9\u03b1\u03ba\u03ce\u03bd. \u0397\u03b3\u03ad\u03c4\u03b7\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03ae\u03c4\u03b1\u03bd \u03b7 \u0393\u03ba\u03c1\u03ad\u03b9\u03c2 \u039c\u03ac\u03c1\u03b5\u03ca \u03a7\u03cc\u03c0\u03b5\u03c1. To 1968 \u03b5\u03ba\u03b4\u03cc\u03b8\u03b7\u03ba\u03b5 \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03c0\u03c1\u03cc\u03c4\u03c5\u03c0\u03bf \u03c4\u03b7\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2 COBOL \u03b1\u03c0\u03cc \u03c4\u03bf American National Standards Institute (ANSI) . \u0388\u03ba\u03c4\u03bf\u03c4\u03b5 \u03ad\u03b3\u03b9\u03bd\u03b1\u03bd \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b5\u03ba\u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 (1974, 1985 \u03ba.\u03bb.\u03c0.) \u03bc\u03b5 \u03c3\u03c5\u03bd\u03b5\u03c7\u03b5\u03af\u03c2 \u03b2\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1. \u0397 \u03ba\u03ac\u03b8\u03b5 \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03ae\u03c4\u03b1\u03bd \u03c3\u03c5\u03bc\u03b2\u03b1\u03c4\u03ae \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7.",
+          "COBOL\uff08/\u02c8ko\u028ab\u0252l/\uff09\uff0c\u5176\u540d\u7a31\u4f86\u81ea\u65bc\u901a\u7528\u5546\u696d\u8a9e\u8a00\uff08\u82f1\u8a9e\uff1aCommon Business Oriented Language\uff0c\u53c8\u8b6f\u70ba\u9762\u5411\u5e38\u898f\u696d\u52d9\u578b\u8a9e\u8a00/\u5e38\u898f\u5546\u696d\u4fe1\u606f\u8655\u7406\u8a9e\u8a00\uff09\u7684\u7e2e\u5beb\uff0c\u662f\u6700\u65e9\u7684\u9ad8\u968e\u7a0b\u5f0f\u8a9e\u8a00\u3001\u4ee5\u53ca\u662f\u4e16\u754c\u4e0a\u6700\u65e9\u5be6\u65bd\u6a19\u6e96\u5316\u7684\u8a08\u7b97\u6a5f\u8a9e\u8a00\u4e4b\u4e00\u3002\u5c6c\u65bc\u7de8\u8b6f\u8a9e\u8a00\u3002",
+          "COBOL \u00e4r ett programspr\u00e5k som fr\u00e4mst \u00e4r avsett f\u00f6r aff\u00e4rs\u00e4ndam\u00e5l som till exempel personaladministration, finansiella tj\u00e4nster, orderhantering samt diverse produktionssystem.Namnet \u00e4r en akronym av COmmon Business Oriented Language, engelska f\u00f6r Allm\u00e4nt aff\u00e4rsorienterat spr\u00e5k. Tillsammans med Fortran och Lisp \u00e4r det ett av de \u00e4ldsta h\u00f6gniv\u00e5spr\u00e5k som fortfarande anv\u00e4nds allm\u00e4nt f\u00f6r programmering.",
+          "\u0643\u0648\u0628\u0648\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: COBOL \u0627\u062e\u062a\u0635\u0627\u0631 Common Business-Oriented Language \u0623\u064a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0634\u0627\u0626\u0639\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0641\u064a \u0627\u0644\u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u063a\u0631\u0636\u064a\u0629 \u0627\u0644\u062a\u0648\u062c\u0647)\u200f \u0647\u064a \u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u064a\u0629 \u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u062a\u062e\u062f\u0645 \u0627\u0644\u0646\u0648\u0627\u062d\u0649 \u0627\u0644\u062a\u062c\u0627\u0631\u064a\u0629 \u0648\u062e\u0627\u0635\u0629 \u0645\u062c\u0627\u0644 \u0627\u0644\u0628\u0646\u0648\u0643 \u0648\u063a\u064a\u0631\u0647. \u0648\u0647\u064a \u0644\u063a\u0629 \u062a\u0648\u062b\u064a\u0642\u0629 \u062a\u062a\u0643\u0648\u0646 \u0645\u0646 \u0623\u0631\u0628\u0639\u0629 \u0623\u0642\u0633\u0627\u0645 \u0647\u0645: \n* \u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0628\u064a\u0626\u0649 \u0623\u0648 \u0627\u0644\u062a\u0639\u0631\u064a\u0641 (Environment Division) \u0648\u0647\u0648 \u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0630\u064a \u064a\u062a\u0645 \u062a\u0639\u0631\u064a\u0641 \u0627\u0633\u0645 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0628\u0647 \u0648\u0627\u0633\u0645 \u0627\u0644\u0645\u0628\u0631\u0645\u062c \u0648\u0627\u0644\u063a\u0631\u0636 \u0645\u0646 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0648\u0627\u0644\u062c\u0647\u0629 \u0635\u0627\u062d\u0628\u0629 \u0647\u0630\u0627 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c. \n* \u0642\u0633\u0645 \u0627\u0644\u0625\u062f\u062e\u0627\u0644 \u0648\u0627\u0644\u0625\u062e\u0631\u0627\u062c (Input Output Division) \n* \u0642\u0633\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a (Data Division) \n* \u0642\u0633\u0645 \u0627\u0644\u0625\u062c\u0631\u0627\u0621\u0627\u062a (Procedures)",
+          "Kobolo, estas programlingvo de la tria generacio kreita en 1959. \u011cia angla nomo COBOL estas akronimo (COmmon Business Oriented Language), kiu montras \u011dian unuan celon: komuna lingvo pro programi administrajn programarojn. La standardo COBOL 2003 estas objektema kaj havas aliajn trajtojn de moderna programado.",
+          "COBOL ist eine Programmiersprache, die in der Fr\u00fchzeit der Computerentwicklung, Ende der 1950er-Jahre, entstand und bis heute verwendet wird. Der Stil dieser Programmiersprache ist stark an die nat\u00fcrliche Sprache angelehnt und dient vor allem der Programmierung kaufm\u00e4nnischer Anwendungen. Die Abk\u00fcrzung COBOL steht f\u00fcr \u201eCommon Business Oriented Language\u201c.",
+          "COBOL is een programmeertaal uit de jaren 60 die voornamelijk gebruikt wordt in zakelijke omgevingen. COBOL is de afkorting van COmmon Business Oriented Language (algemene zakelijk geori\u00ebnteerde taal).",
+          "COBOL (acr\u00f2nim de COmmon Business-Oriented Language, Llenguatge Com\u00fa Orientat a Negocis) \u00e9s un llenguatge de programaci\u00f3 que va ser creat l'any 1960 amb l'objectiu que es pogu\u00e9s usar a qualsevol ordinador, ja que durant els anys 1960 hi havia molts models d'ordinador incompatibles entre si, i que estigu\u00e9s orientat als negocis, \u00e9s a dir, a l'anomenada inform\u00e0tica de gesti\u00f3. A m\u00e9s, hi havia la intenci\u00f3 d'orientar-lo principalment al negoci i a l'\u00fas en sistemes de gesti\u00f3 empresarials; per tal d'aconseguir aquest requisit, havia de ser for\u00e7a simple, de manera que t\u00e8cnics sense grans coneixements poguessin crear aplicacions. Aquesta simplificaci\u00f3 es va aconseguir mitjan\u00e7ant una sintaxi semblant a la de l'angl\u00e8s, evitant s\u00edmbols propis de la programaci\u00f3.",
+          "Is teanga r\u00edomhchl\u00e1r\u00fach\u00e1in den tr\u00ed\u00fa gl\u00fain \u00e9 COBOL agus is ceann de na teangacha is sine at\u00e1 f\u00f3s in \u00fas\u00e1id. Is acrainm \u00e9 an t-ainm do COmmon Business-Oriented Language, agus \u00fas\u00e1idtear \u00e9 le haghaidh bogearra\u00ed a chruth\u00fa do ghn\u00f3, institi\u00faid\u00ed airgeadais agus c\u00f3rais riarach\u00e1in do chomhlachta\u00ed agus rialtais.",
+          "COBOL (COmmon Business Oriented Language) je programovac\u00ed jazyk vyvinut\u00fd v 60. letech 20. stolet\u00ed zejm\u00e9na pro obchodn\u00ed a pozd\u011bji i datab\u00e1zov\u00e9 aplikace.",
+          "COBOL (sigla de COmmon Business Oriented Language) - Linguagem Comum Orientada para os Neg\u00f3cios \u00e9 uma linguagem de programa\u00e7\u00e3o orientada para o processamento de banco de dados comerciais. \u00c9 a linguagem de programa\u00e7\u00e3o inteira mais usada, produto do Departamento de Defesa norte-americano sob a dire\u00e7\u00e3o da contra-almirante Grace Murray Hopper. A linguagem ainda \u00e9 amplamente utilizada em sistemas legados armazenados em mainframes. Entretanto, devido \u00e0 sua baixa popularidade e \u00e0 aposentadoria dos programadores experientes, muitos dos sistemas est\u00e3o sendo migrados para novas plataformas e reescritos em linguagens mais modernas. Atualmente, a maior parte do c\u00f3digo em COBOL existe essencialmente para manter aplica\u00e7\u00f5es existentes. As especifica\u00e7\u00f5es do COBOL 2002 incluem suporte \u00e0 programa\u00e7\u00e3o orientada a objetos e outras caracter\u00edsticas das linguagens modernas.",
+          "El lenguaje COBOL (acr\u00f3nimo de COmmon Business-Oriented Language, Lenguaje Com\u00fan Orientado a Negocios) fue creado en el a\u00f1o 1959 con el objetivo de crear un lenguaje de programaci\u00f3n universal que pudiera ser usado en cualquier ordenador y que estuviera orientado principalmente a los negocios, es decir, a la llamada inform\u00e1tica de gesti\u00f3n. COBOL se utiliza principalmente en sistemas comerciales, financieros y administrativos para empresas y gobiernos. COBOL todav\u00eda se usa ampliamente en aplicaciones implementadas en ordenadores centrales, como trabajos de lote y procesamiento de transacciones a gran escala. Sin embargo, debido a su popularidad decreciente y al retiro de los programadores COBOL experimentados, los programas se est\u00e1n migrando a nuevas plataformas, reescribi\u00e9ndolos en lenguajes modernos o reemplaz\u00e1ndolos con paquetes de software.\u200b La mayor parte de la programaci\u00f3n en COBOL ahora es puramente para mantener las aplicaciones existentes; sin embargo, muchas instituciones financieras grandes todav\u00eda estaban desarrollando nuevos sistemas en COBOL hasta 2006.\u200b",
+          "COBOL (singkatan dari Common Business Oriented Language) adalah sebuah bahasa pemrograman generasi ketiga. Sesuai dengan namanya, maka bahasa COBOL mempunyai fungsi menyelesaikan masalah-masalah yang berhubungan dengan perdagangan, seperti sistem pengelolaan keuangan, laporan pengeluaran sebuah perusahaan dan lain-lain. Dikembangkan tahun 1959 dan banyak digunakan pada mainframe dan komputer mini. Kemudahan COBOL: \n* Sintaksnya berbahasa Inggris \n* Penanganan file \n* Input/output program.",
+          "( \ucf54\ubcfc(Kobol)\uc5d0 \ub300\ud574\uc11c\ub294 \ubc30\ud2c0\uc2a4\ud0c0 \uac08\ub77d\ud2f0\uce74 \ubb38\uc11c\ub97c \ucc38\uace0\ud558\uc2ed\uc2dc\uc624.) \ucf54\ubcfc(COBOL, COmmon Business-Oriented Language, \uc0ac\ubb34 \uc9c0\ud5a5 \ubcf4\ud1b5 \uc5b8\uc5b4)\uc740 \uc0ac\ubb34\uc6a9\uc73c\ub85c \uc124\uacc4\ub41c, \uc601\uc5b4\uc640 \uac19\uc740 \ucef4\ud4e8\ud130 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\uc774\ub2e4. \uc808\ucc28\uc801, \uba85\ub839\ud615 \uc5b8\uc5b4\uc774\uace0, 2002\ub144\ubd80\ud130\ub294 \uac1d\uccb4 \uc9c0\ud5a5 \uc5b8\uc5b4\uc774\ub2e4. \ucf54\ubcfc\uc740 \uc8fc\ub85c \ube44\uc988\ub2c8\uc2a4, \uae08\uc735, \ud68c\uc0ac/\uc815\ubd80 \uad00\ub9ac \uc2dc\uc2a4\ud15c\uc5d0 \uc8fc\ub85c \uc0ac\uc6a9\ub41c\ub2e4. 1997\ub144 \uac00\ud2b8\ub108 \uadf8\ub8f9\uc740 \ucd1d 200,000,000,000\uc904\uc758 \ucf54\ubcfc\uc774 \ud604\uc874\ud558\uba70 \ubaa8\ub4e0 \ube44\uc988\ub2c8\uc2a4 \ud504\ub85c\uadf8\ub7a8\uc758 80%\ub97c \uc2e4\ud589\ud55c \uac83\uc73c\ub85c \uc608\uce21\ud558\uc600\ub2e4. \ucf54\ubcfc\uc740 \uc9c0\uae08\ub3c4 \uba54\uc778\ud504\ub808\uc784 \ucef4\ud4e8\ud130\uc758 \ub808\uac70\uc2dc \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\ub4e4\uc5d0 \uc0ac\uc6a9\ub418\uace0 \uc788\uc73c\uba70 \ub300\uc6a9\ub7c9 \uc77c\uad04 \ucc98\ub9ac \ubc0f \ud2b8\ub79c\uc7ad\uc158 \ucc98\ub9ac\uc640 \uac19\uc740 \uc791\uc5c5\uc5d0 \uc4f0\uc778\ub2e4. \uadf8\ub7ec\ub098 \uc219\ub828\ub41c \ucf54\ubcfc \ud504\ub85c\uadf8\ub798\uba38\uac00 \uc740\ud1f4\ud558\uace0 \uc778\uae30\uac00 \uc2dc\ub4e4\uc5b4\uac00\uba74\uc11c \ud504\ub85c\uadf8\ub7a8\ub4e4\uc740 \uc0c8\ub85c\uc6b4 \ud50c\ub7ab\ud3fc\uc73c\ub85c \uc774\uad00\ub3fc \ud604\ub300\uc758 \uc5b8\uc5b4\ub85c \ub2e4\uc2dc \uc791\uc131\ub418\uac70\ub098 \uc18c\ud504\ud2b8\uc6e8\uc5b4 \ud328\ud0a4\uc9c0\ub85c \ub300\uccb4\ub418\ub294 \ucd94\uc138\uc774\ub2e4. \ucf54\ubcfc \ub300\ubd80\ubd84\uc758 \ud504\ub85c\uadf8\ub798\ubc0d\uc740 \uc21c\uc218\ud558\uac8c \uae30\uc874\uc758 \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\ub4e4\uc744 \uad00\ub9ac\ud558\ub294 \ub370 \uc788\ub2e4. \ucf54\ubcfc\uc740 1959\ub144\uc5d0 CODASYL\uc774 \uc124\uacc4\ud558\uc600\uc73c\uba70 \ubd80\ubd84\uc801\uc73c\ub85c\ub294, \ucf54\ubcfc\uc758 \uc5b4\uba38\ub2c8\ub85c \ubd88\ub9ac\ub294 \uadf8\ub808\uc774\uc2a4 \ud638\ud37c\uc758 \uc774\uc804 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4 \ub514\uc790\uc778\uc744 \uae30\ubc18\uc73c\ub85c \ud55c\ub2e4. \ub370\uc774\ud130 \ucc98\ub9ac\ub97c \uc704\ud574 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub97c \ub9cc\ub4e4\ub824\ub294 \ubbf8\uad6d \uad6d\ubc29\ubd80 \ub178\uace0\uc758 \uc77c\ubd80\uc774\uae30\ub3c4 \ud558\ub2e4. \uc784\uc2dc\ubc29\ud3b8\uc73c\ub85c \uc758\ub3c4\ud588\ub358 \ubbf8\uad6d \uad6d\ubc29\ubd80\uac00 \ubc1c\ube60\ub974\uac8c \ucef4\ud4e8\ud130 \uc81c\uc870\uc5c5\uccb4\uc5d0\uac8c \uadf8\uac83\uc744 \uc81c\uacf5\ud558\ub3c4\ub85d \uac15\uc81c\ud55c \uacb0\uacfc \ub110\ub9ac \ucc44\ud0dd\ub418\uc5c8\ub2e4. 1968\ub144 \ud45c\uc900\ud654\ub418\uc5b4 \uadf8 \ub4a4\ub85c 4\ucc28\ub840 \uac1c\uc815\ub418\uc5c8\ub2e4. \ud655\uc7a5\uc5d0\ub294 \uad6c\uc870\uc801, \uac1d\uccb4 \uc9c0\ud5a5 \ud504\ub85c\uadf8\ub798\ubc0d\uc758 \uc9c0\uc6d0\uc744 \ud3ec\ud568\ud55c\ub2e4. \ud604\uc7ac \ud45c\uc900\uc740 ISO/IEC 1989:2014\uc774\ub2e4. \ucf54\ubcfc\uc740 \uc601\uc5b4\uc640 \ube44\uc2b7\ud55c \ubb38\ubc95\uc744 \uac16\uace0 \uc788\uc73c\uba70, \uc790\uccb4 \ubb38\uc11c\ud654 \ubc0f \ub192\uc740 \uac00\ub3c5\uc131\uc744 \uc5fc\ub450\uc5d0 \ub450\uace0 \uc124\uacc4\ub418\uc5c8\ub2e4. \uadf8\ub7ec\ub098 \ubb38\ubc95\uc774 \uc7a5\ud669\ud558\uace0 300\uac1c\uac00 \ub118\ub294 \uc608\uc57d\uc5b4\ub97c \uc0ac\uc6a9\ud55c\ub2e4. <span class=\"n\">y</span><span class=\"w\"> </span><span class=\"o\">=</span><span class=\"w\"> </span><span class=\"n\">x</span><span class=\"p\">;</span><span class=\"w\"></span>\ucc98\ub7fc \ud604\ub300\uc758 \uac04\uacb0\ud55c \ubb38\ubc95\uacfc \ub2ec\ub9ac, \ucf54\ubcfc\uc740 \ub354\uc6b1 \uc601\uc5b4\uc640 \uac19\uc740 \ubb38\ubc95\uc744 \uac16\uace0 \uc788\ub2e4. (\uc774 \uacbd\uc6b0 <span class=\"kr\">MOVE</span><span class=\"w\"> </span><span class=\"nv\">x</span><span class=\"w\"> </span><span class=\"kp\">TO</span><span class=\"w\"> </span><span class=\"nv\">y</span>). \ucf54\ubcfc \ucf54\ub4dc\ub294 4\uac1c\uc758 \ub514\ube44\uc804(IDENTIFICATION, ENVIRONMENT, DATA, PROCEDURE)\uc73c\ub85c \ub098\ub258\uba70 \uc774 \uc548\uc5d0 \uc5c4\uaca9\ud55c \uacc4\uce35\uc801 \uc139\uc158, \ubb38\ub2e8, \ubb38\uc7a5\ub4e4\uc744 \ud3ec\ud568\ud55c\ub2e4. \ub300\ud615 \ud45c\uc900 \ub77c\uc774\ube0c\ub7ec\ub9ac\uac00 \ubd80\uc871\ud558\uba70 \uc774 \ud45c\uc900\uc740 43\uac1c\uc758 \ubb38\ub4e4\uacfc 87\uac1c\uc758 \ud568\uc218, \uadf8\ub9ac\uace0 \ud558\ub098\uc758 \ud074\ub798\uc2a4\ub9cc\uc744 \uaddc\uc815\ud55c\ub2e4. \ud559\uacc4\uc758 \ucef4\ud4e8\ud130 \uacfc\ud559\uc790\ub4e4\uc740 \ucf54\ubcfc\uc774 \ub9cc\ub4e4\uc5b4\uc84c\uc744 \ub54c \uc77c\ubc18\uc801\uc73c\ub85c \uc0ac\ubb34\uc6a9 \uc751\uc6a9 \ud504\ub85c\uadf8\ub7a8\ub4e4\uc5d0 \uad00\uc2ec\uc774 \uc5c6\uc5c8\uc73c\uba70 \uc124\uacc4\uc5d0\ub3c4 \ucc38\uc5ec\ud558\uc9c0 \uc54a\uc558\ub2e4. \ucf54\ubcfc\uc740 \ubb38\ubc95\uc758 \uc7a5\ud669\ud568, \uc124\uacc4 \uacfc\uc815, \uad6c\uc870\ud654 \ud504\ub85c\uadf8\ub798\ubc0d \uc9c0\uc6d0 \ubd80\uc871\uc73c\ub85c \ube44\ud310\uc744 \ubc1b\uc544\uc654\uc73c\uba70 \uc774\uc74c\ub9e4\uac00 \uc5c6\uace0 \uc774\ud574\ud558\uae30 \uc5b4\ub824\uc6b4 \ud504\ub85c\uadf8\ub7a8\ub4e4\uc744 \ub9cc\ub4e4\uc5b4\ub0c8\ub2e4. \ucf54\ubcfc\ubcf4\ub2e4 \uba3c\uc800 \uac1c\ubc1c\ub41c \ud3ec\ud2b8\ub780(FORTRAN)\uc740 \uc8fc\ub85c \uacfc\ud559\uae30\uc220 \uacc4\uc0b0\uc6a9\uc778 \ubc18\uba74 \ube44\uc2b7\ud55c \uc2dc\uae30\uc5d0 \ud0c4\uc0dd\ub41c \ucf54\ubcfc\uc740 \ub300\ub7c9 \ub370\uc774\ud130 \ucc98\ub9ac\ub97c \uc704\ud55c \uc5c5\ubb34\ucc98\ub9ac \ubc0f \uad00\ub9ac \ubd84\uc57c\uc6a9\uc73c\ub85c \uc790\ub9ac\uc7a1\uac8c \ub41c\ub2e4. \ucf54\ubcfc\uacfc \ud3ec\ud2b8\ub780\uc740 \ud504\ub85c\uadf8\ub7a8\ubc0d \uc5b8\uc5b4 \uc5ed\uc0ac\uc5d0\uc11c \uace0\uae09 \uae30\uc220\uc5b8\uc5b4\uc758 \uc6d0\uc810\uc774 \ub418\uace0 \uc788\ub2e4.",
+          "\u041a\u043e\u0431\u043e\u043b (COBOL, COmmon Business Oriented Language) \u2014 \u043a\u043e\u043c\u043f\u0456\u043b\u044c\u043e\u0432\u0430\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0432\u0438\u0441\u043e\u043a\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f, \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0432 \u0435\u043a\u043e\u043d\u043e\u043c\u0456\u0447\u043d\u0456\u0439 \u0433\u0430\u043b\u0443\u0437\u0456 \u0456 \u0434\u043b\u044f \u0440\u043e\u0437\u0432'\u044f\u0437\u0430\u043d\u043d\u044f \u0431\u0456\u0437\u043d\u0435\u0441-\u0437\u0430\u0434\u0430\u0447, \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0430 \u043d\u0430 \u043f\u043e\u0447\u0430\u0442\u043a\u0443 1960-\u0445 \u0440\u043e\u043a\u0456\u0432. \u0421\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441 \u041a\u043e\u0431\u043e\u043b\u0443 \u0434\u043e\u0437\u0432\u043e\u043b\u044f\u0454 \u043f\u0438\u0441\u0430\u0442\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438, \u0442\u0435\u043a\u0441\u0442 \u044f\u043a\u0438\u0445 \u0431\u043b\u0438\u0437\u044c\u043a\u0438\u0439 \u0434\u043e \u0436\u0438\u0432\u043e\u0457 \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438, \u0442\u043e\u043c\u0443 \u0434\u043e \u043f\u0440\u043e\u0433\u0440\u0430\u043c \u043d\u0430 \u041a\u043e\u0431\u043e\u043b\u0456 \u043d\u0435\u043c\u0430\u0454 \u043f\u043e\u0442\u0440\u0435\u0431\u0438 \u0434\u043e\u0434\u0430\u0432\u0430\u0442\u0438 \u043a\u043e\u043c\u0435\u043d\u0442\u0430\u0440\u0456; \u0442\u043e\u0431\u0442\u043e \u0432\u043e\u043d\u0438 \u0454 \u0441\u0430\u043c\u043e\u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u0438\u043c\u0438. \u041a\u043e\u0431\u043e\u043b \u0434\u043e\u0437\u0432\u043e\u043b\u044f\u0454 \u0435\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438 \u0437 \u0432\u0435\u043b\u0438\u043a\u0438\u043c\u0438 \u043e\u0431'\u0454\u043c\u0430\u043c\u0438 \u0434\u0430\u043d\u0438\u0445, \u0432\u0456\u043d \u043d\u0430\u0441\u0438\u0447\u0435\u043d\u0438\u0439 \u0440\u0456\u0437\u043d\u043e\u043c\u0430\u043d\u0456\u0442\u043d\u0438\u043c\u0438 \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u044f\u043c\u0438 \u0457\u0445\u043d\u044c\u043e\u0433\u043e \u043f\u043e\u0448\u0443\u043a\u0443, \u0440\u043e\u0437\u043f\u043e\u0434\u0456\u043b\u0435\u043d\u043d\u044f \u0442\u0430 \u0441\u043e\u0440\u0442\u0443\u0432\u0430\u043d\u043d\u044f; \u0441\u043a\u043b\u0430\u0434\u043d\u0456\u0441\u0442\u044c \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440 \u0434\u0430\u043d\u0438\u0445, \u044f\u043a\u0456 \u043c\u043e\u0436\u043b\u0438\u0432\u043e \u043e\u043f\u0438\u0441\u0430\u0442\u0438 \u0437\u0430\u0441\u043e\u0431\u0430\u043c\u0438 \u041a\u043e\u0431\u043e\u043b\u0443, \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u043e \u043d\u0435\u043e\u0431\u043c\u0435\u0436\u0435\u043d\u0430. \u041d\u0430 \u041a\u043e\u0431\u043e\u043b\u0456 \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u044f\u044e\u0442\u044c\u0441\u044f \u0432\u0435\u043b\u0438\u043a\u0456 \u0442\u0430 \u0434\u0443\u0436\u0435 \u0432\u0435\u043b\u0438\u043a\u0456 \u043f\u0440\u043e\u0454\u043a\u0442\u0438, \u0449\u043e \u0441\u043a\u043b\u0430\u0434\u0430\u044e\u0442\u044c\u0441\u044f \u0437 \u043c\u0456\u043b\u044c\u0439\u043e\u043d\u0456\u0432 \u0440\u044f\u0434\u043a\u0456\u0432 \u043f\u043e\u0447\u0430\u0442\u043a\u043e\u0432\u043e\u0433\u043e \u043a\u043e\u0434\u0443."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/developers",
+        "Values": [
+          "http://dbpedia.org/resource/ANSI",
+          "http://dbpedia.org/resource/CODASYL",
+          "http://dbpedia.org/resource/International_Electrotechnical_Commission",
+          "http://dbpedia.org/resource/International_Organization_for_Standardization"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/dialects",
+        "Values": [
+          "COBOL/2, DEC COBOL-10, DEC VAX COBOL, DOSVS COBOL, Envyr ICOBOL, Fujitsu COBOL, Hitachi COBOL2002, HP3000 COBOL/II, IBM COBOL SAA, IBM COBOL/400, IBM COBOL/II, IBM Enterprise COBOL, IBM ILE COBOL, IBM OS/VS COBOL, ICL COBOL , Micro Focus ACUCOBOL-GT, Micro Focus COBOL-IT, Micro Focus RM/COBOL, Micro Focus Visual COBOL, Microsoft COBOL, Raincode COBOL, Realia COBOL, Ryan McFarland RM/COBOL, Ryan McFarland RM/COBOL-85, Tandem  COBOL85, Tandem  SCOBOL, UNIVAC COBOL, Unisys MCP COBOL74, Unisys MCP COBOL85, Unix COBOL X/Open, Veryant isCOBOL, Wang VS COBOL"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/fileExt",
+        "Values": [
+          ", ,"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wordnet_type",
+        "Values": [
+          "http://www.w3.org/2006/03/wn/wn20/instances/synset-programming_language-noun-1"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/COBOL?oldid=1121766357&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "127687"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/latestReleaseVersion",
+        "Values": [
+          "ISO/IEC 1989:2014"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influenced",
+        "Values": [
+          "http://dbpedia.org/resource/CobolScript",
+          "http://dbpedia.org/resource/PL/I",
+          "http://dbpedia.org/resource/Programming_Language_for_Business",
+          "http://dbpedia.org/resource/EGL_(programming_language)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/FACT_computer_language",
+          "http://dbpedia.org/resource/AIMACO",
+          "http://dbpedia.org/resource/Eiffel_(programming_language)",
+          "http://dbpedia.org/resource/Smalltalk",
+          "http://dbpedia.org/resource/C++",
+          "http://dbpedia.org/resource/COMTRAN",
+          "http://dbpedia.org/resource/FLOW-MATIC"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/COBOL"
+        ]
+      }
+    ]
+  }
+]

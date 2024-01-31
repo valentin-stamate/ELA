@@ -1,0 +1,156 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q17148785",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729784554"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T11:10:40Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "yezh programmi\u00f1",
+          "programming language",
+          "Programmiersprache",
+          "linguaggio di programmazione",
+          "langage de programmation"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u0645\u0627\u0648\u0633",
+          "Mouse"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "7"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P244",
+        "Values": [
+          "sh85087981"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "Values": [
+          "http://id.loc.gov/authorities/names/sh85087981"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q17148785-5edae186-4b37-c338-c260-13f92b2de64d"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P244",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q17148785-20878304-8301-415C-9525-2AB9A9107E32"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P571",
+        "Values": [
+          "1970-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P646",
+        "Values": [
+          "/m/025tvjt"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P2581",
+        "Values": [
+          "03482002n"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q52845127"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8189",
+        "Values": [
+          "987007548300105171"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P646",
+        "Values": [
+          "http://g.co/kg/m/025tvjt"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P2581",
+        "Values": [
+          "http://babelnet.org/rdf/s03482002n"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P571",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q17148785-60df9323-4670-9c93-00d6-600d7dbd141c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P646",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q17148785-B29972F3-B7EE-48CD-8117-99C9A997BE43"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P2581",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q17148785-BE972603-E5AB-4B87-ABA7-7C9D22E59A24"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q17148785-58257202-413a-60d4-4657-b6d7e3e06fb5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8189",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q17148785-A2D0F2E6-2278-4569-9402-CB37AF06C7D7"
+        ]
+      }
+    ]
+  }
+]

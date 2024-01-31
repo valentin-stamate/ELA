@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ontologies/ELA/"
+     xml:base="http://www.semanticweb.org/ontologies/ELA/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/ELA">
+        <owl:versionIRI rdf:resource="http://www.semanticweb.org/ontologies/ELA/1.0.0"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#country -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#country">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#country"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#designed_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#designed_by">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#developer"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#developer -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#developer">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#developer"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#dialect_of_computer_language -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#dialect_of_computer_language">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#computer_language"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#influenced_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#influenced_by">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#computer_language"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#instance_of -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#instance_of">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#computer_language"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#programming_paradigm -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#programming_paradigm">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#programming_paradigm"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#typing_discipline -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#typing_discipline">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#typing_discipline"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://schema.org/description -->
+
+    <owl:DatatypeProperty rdf:about="http://schema.org/description">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://schema.org/version -->
+
+    <owl:DatatypeProperty rdf:about="http://schema.org/version">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#Freebase_ID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#Freebase_ID">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#GitHub_topic -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#GitHub_topic">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#Google_Knowledge_Graph_ID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#Google_Knowledge_Graph_ID">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#MIME_type -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#MIME_type">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#Microsoft_Academic_ID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#Microsoft_Academic_ID">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#Quora_topic_ID -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#Quora_topic_ID">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#Stack_Exchange_tag -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#Stack_Exchange_tag">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#creation -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#creation">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#described_by_source -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#described_by_source">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#discoverer_or_inventor -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#discoverer_or_inventor">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#file_extension -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#file_extension">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#icon -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#icon">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#image -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#image">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#named_after -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#named_after">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#official_website -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#official_website">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#subreddit -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/ELA#subreddit">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.w3.org/2000/01/rdf-schema#label -->
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#label">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#altLabel -->
+
+    <owl:DatatypeProperty rdf:about="http://www.w3.org/2004/02/skos/core#altLabel">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#computer_language -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/ELA#computer_language"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#country -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/ELA#country"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#developer -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/ELA#developer"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#esolang -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/ELA#esolang"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#programming_paradigm -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/ELA#programming_paradigm"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/ELA#typing_discipline -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/ELA#typing_discipline"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.26.2023-07-17T20:34:13Z) https://github.com/owlcs/owlapi -->
+

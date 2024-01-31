@@ -1,0 +1,265 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q4817198",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729776652"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T10:48:15Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "Programmiersprache",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "langage de programmation informatique",
+          "ohjelmointikieli",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37",
+          "Programming language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Atom"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "18"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143",
+          "http://www.wikidata.org/entity/Q1144882"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-258BF5D6-CC41-40AA-B0E7-6DC55C9CE9EB",
+          "http://www.wikidata.org/entity/statement/q4817198-12C39303-1F47-43A4-AF11-2926A373E8B0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P275",
+        "Values": [
+          "http://www.wikidata.org/entity/Q18491847"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P277",
+        "Values": [
+          "http://www.wikidata.org/entity/Q34010"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P287",
+        "Values": [
+          "http://www.wikidata.org/entity/Q7790499"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P348",
+        "Values": [
+          "1.0.3"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P366",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1335007"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P571",
+        "Values": [
+          "2007-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P646",
+        "Values": [
+          "/m/09gb92s"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P856",
+        "Values": [
+          "http://hackage.haskell.org/package/atom"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1324",
+        "Values": [
+          "https://github.com/tomahawkins/atom"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1552",
+        "Values": [
+          "http://www.wikidata.org/entity/Q347066"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q531152",
+          "http://www.wikidata.org/entity/Q193076"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6216",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6366",
+        "Values": [
+          "94162418"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P7078",
+        "Values": [
+          "http://www.wikidata.org/entity/Q991202"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P646",
+        "Values": [
+          "http://g.co/kg/m/09gb92s"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P6366",
+        "Values": [
+          "http://ma-graph.org/entity/94162418"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P275",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-7E3CA06E-F91D-4761-8F8E-C4AB3A88AD1B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P277",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-0c4eebd2-4511-116b-d7ec-9716e9a46d53"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P287",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-FF0CF6AB-F503-47D0-9768-44AC104F4196"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P348",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-BD9E4333-EF79-4F98-9C06-47DF113C2955",
+          "http://www.wikidata.org/entity/statement/Q4817198-3408751F-614A-4EB5-9F8D-214999263E03"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P366",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-43323d26-466b-5651-8d9c-c906900aefe9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P571",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-8C203D4A-C392-424D-A3E1-6CB2C7763E8B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P646",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-AA5A96A7-B7D3-42BE-BD51-B624358C86B6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P856",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-9BA5ED0A-5EDF-4CEC-A4C0-EA5A4CEBC8EB"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1324",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-d867f472-ee61-435c-9213-2c5e4f16a8c1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1552",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-62afc70f-4a20-3735-773b-884085056529"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-48C0E9C0-9920-452D-B5EF-304816AD1A36",
+          "http://www.wikidata.org/entity/statement/Q4817198-4B45CB45-848A-4211-8AA7-7341B251AA3C"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6216",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-88E7CDD8-962F-4CEB-95C8-DC41C2AE1326"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6366",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-71DB5057-9B3D-410B-A5E0-0F53DBAAEC0B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P7078",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q4817198-2727E2EC-14DD-476F-B86C-D94311C0B018"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q43556346",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729787610"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T11:20:01Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "programming language",
+          "yezh programmi\u00f1",
+          "langage de programmation"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Emmental"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "5"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43556346-F6FB5B29-4895-4BD8-B03A-08457A258A35",
+          "http://www.wikidata.org/entity/statement/Q43556346-151A74A7-F3AC-485C-982C-849631906959"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P577",
+        "Values": [
+          "2007-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28937387"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P577",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43556346-2555263B-1B26-4BC0-A302-76AA6E28AFD7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43556346-3D0787AB-FBDC-4FDB-B5D8-ECCCDCC5FDA3"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43556346-E170CB99-289A-4383-9CEF-7E45F13CE42B"
+        ]
+      }
+    ]
+  }
+]

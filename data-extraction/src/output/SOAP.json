@@ -1,0 +1,394 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/SOAP",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/PsychologicalFeature100023100",
+          "http://dbpedia.org/class/yago/Measure100033615",
+          "http://dbpedia.org/class/yago/Protocol106665108",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143",
+          "http://dbpedia.org/ontology/MusicGenre",
+          "http://dbpedia.org/class/yago/Rule106652242",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/Activity100407535",
+          "http://dbpedia.org/class/yago/Event100029378",
+          "http://dbpedia.org/class/yago/Message106598915",
+          "http://dbpedia.org/class/yago/Service100577525",
+          "http://dbpedia.org/class/yago/Direction106786629",
+          "http://dbpedia.org/class/yago/Standard107260623",
+          "http://dbpedia.org/class/yago/WikicatWebStandards",
+          "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity",
+          "http://dbpedia.org/class/yago/WikicatInternetProtocols",
+          "http://dbpedia.org/class/yago/WikicatWorldWideWebConsortiumStandards",
+          "http://dbpedia.org/class/yago/SystemOfMeasurement113577171",
+          "http://dbpedia.org/class/yago/WikicatWebServices",
+          "http://schema.org/Language",
+          "http://dbpedia.org/class/yago/WikicatXML-basedStandards",
+          "http://dbpedia.org/class/yago/WikicatApplicationLayerProtocols",
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/Work100575741",
+          "http://dbpedia.org/ontology/ProgrammingLanguage",
+          "http://dbpedia.org/class/yago/WikicatNetworkProtocols",
+          "http://dbpedia.org/class/yago/Act100030358"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Simple Object Access Protocol",
+          "\u7b80\u5355\u5bf9\u8c61\u8bbf\u95ee\u534f\u8bae",
+          "SOAP (protocol)",
+          "\u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0644\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0628\u0633\u064a\u0637 \u0625\u0644\u0649 \u0627\u0644\u0623\u062c\u0633\u0627\u0645",
+          "SOAP",
+          "SOAP (\u30d7\u30ed\u30c8\u30b3\u30eb)"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "SOAP\uff08\u539f\u4e3aSimple Object Access Protocol\u7684\u9996\u5b57\u6bcd\u7f29\u5199\uff0c\u5373\u7b80\u5355\u5bf9\u8c61\u8bbf\u95ee\u534f\u8bae\uff09\u662f\u4ea4\u6362\u6570\u636e\u7684\u4e00\u79cd\u534f\u8bae\u89c4\u8303\uff0c\u4f7f\u7528\u5728\u8ba1\u7b97\u673a\u7f51\u7edcWeb\u670d\u52a1\uff08web service\uff09\u4e2d\uff0c\u4ea4\u6362\u5e26\u7ed3\u6784\u7684\u4fe1\u606f\u3002SOAP\u4e3a\u4e86\u7b80\u5316\u7f51\u9875\u670d\u52a1\u5668\uff08Web Server\uff09\u4eceXML\u8cc7\u6599\u5eab\u4e2d\u63d0\u53d6\u8cc7\u6599\u6642\uff0c\u8282\u7701\u53bb\u683c\u5f0f\u5316\u9801\u9762\u6642\u9593\uff0c\u4ee5\u53ca\u4e0d\u540c\u61c9\u7528\u7a0b\u5e8f\u4e4b\u9593\u6309\u7167HTTP\u901a\u4fe1\u534f\u8bae\uff0c\u9075\u4eceXML\u683c\u5f0f\u6267\u884c\u8d44\u6599\u4e92\u6362\uff0c\u4f7f\u5176\u62bd\u8c61\u4e8e\u8bed\u8a00\u5b9e\u73b0\u3001\u5e73\u53f0\u548c\u786c\u4ef6\u3002\u6b64\u6a19\u6e96\u7531IBM\u3001Microsoft\u3001\u548c\u57281998\u5e74\u5171\u540c\u63d0\u51fa\uff0c\u4e26\u5f97\u5230IBM\u3001\u84ee\u82b1\uff08Lotus\uff09\u3001\u5eb7\u67cf\uff08Compaq\uff09\u7b49\u516c\u53f8\u7684\u652f\u6301\uff0c\u65bc2000\u5e74\u63d0\u4ea4\u7d66\u5168\u7403\u8cc7\u8a0a\u7db2\u806f\u76df\uff08World Wide Web Consortium\uff0cW3C\uff09\uff0c\u76ee\u524dSOAP 1.1\u7248\u662f\u696d\u754c\u5171\u540c\u7684\u6a19\u6e96\uff0c\u5c6c\u65bc\u7b2c\u4e8c\u4ee3\u7684XML\u5354\u5b9a\uff08\u7b2c\u4e00\u4ee3\u5177\u4e3b\u8981\u4ee3\u8868\u6027\u7684\u6280\u8853\u70baXML-RPC\u4ee5\u53caWDDX\uff09\u3002 \u7528\u4e00\u4e2a\u7b80\u5355\u7684\u4f8b\u5b50\u6765\u8bf4\u660eSOAP\u4f7f\u7528\u8fc7\u7a0b\uff0c\u4e00\u4e2aSOAP\u6d88\u606f\u53ef\u4ee5\u53d1\u9001\u5230\u4e00\u4e2a\u5177\u6709Web Service\u529f\u80fd\u7684Web\u7ad9\u70b9\uff0c\u4f8b\u5982\uff0c\u4e00\u4e2a\u542b\u6709\u623f\u4ef7\u4fe1\u606f\u7684\u6570\u636e\u5e93\uff0c\u6d88\u606f\u7684\u53c2\u6570\u4e2d\u6807\u660e\u8fd9\u662f\u4e00\u4e2a\u67e5\u8be2\u6d88\u606f\uff0c\u6b64\u7ad9\u70b9\u5c06\u8fd4\u56de\u4e00\u4e2aXML\u683c\u5f0f\u7684\u4fe1\u606f\uff0c\u5176\u4e2d\u5305\u542b\u4e86\u67e5\u8be2\u7ed3\u679c\uff08\u4ef7\u683c\uff0c\u4f4d\u7f6e\uff0c\u7279\u70b9\uff0c\u6216\u8005\u5176\u4ed6\u4fe1\u606f\uff09\u3002\u7531\u4e8e\u6570\u636e\u662f\u7528\u4e00\u79cd\u6807\u51c6\u5316\u7684\u53ef\u5206\u6790\u7684\u7ed3\u6784\u6765\u4f20\u9012\u7684\uff0c\u6240\u4ee5\u53ef\u4ee5\u76f4\u63a5\u88ab\u7b2c\u4e09\u65b9\u7ad9\u70b9\u6240\u5229\u7528\u3002",
+          "SOAP (\u0430\u043d\u0433\u043b. Simple Object Access Protocol) \u2014 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043e\u0431\u043c\u0456\u043d\u0443 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043e\u0432\u0430\u043d\u0438\u043c\u0438 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f\u043c\u0438 \u0432 \u0440\u043e\u0437\u043f\u043e\u0434\u0456\u043b\u0435\u043d\u0438\u0445 \u043e\u0431\u0447\u0438\u0441\u043b\u044e\u0432\u0430\u043b\u044c\u043d\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445, \u0431\u0430\u0437\u0443\u0454\u0442\u044c\u0441\u044f \u043d\u0430 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 XML. \u0421\u043f\u043e\u0447\u0430\u0442\u043a\u0443 SOAP \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0430\u0432\u0441\u044f, \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c\u0443, \u0434\u043b\u044f \u0440\u0435\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u0457 \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e\u0433\u043e \u0432\u0438\u043a\u043b\u0438\u043a\u0443 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440 (RPC), \u0430 \u043d\u0430\u0437\u0432\u0430 \u0431\u0443\u043b\u0430 \u0430\u0431\u0440\u0435\u0432\u0456\u0430\u0442\u0443\u0440\u043e\u044e: Simple Object Access Protocol \u2014 \u043f\u0440\u043e\u0441\u0442\u0438\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0434\u043e\u0441\u0442\u0443\u043f\u0443 \u0434\u043e \u043e\u0431'\u0454\u043a\u0442\u0456\u0432. \u0417\u0430\u0440\u0430\u0437 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u043e\u0431\u043c\u0456\u043d\u0443 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f\u043c\u0438 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 XML, \u0430 \u043d\u0435 \u0442\u0456\u043b\u044c\u043a\u0438 \u0434\u043b\u044f \u0432\u0438\u043a\u043b\u0438\u043a\u0443 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440.SOAP \u0454 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043d\u044f\u043c \u043c\u043e\u0432\u0438 XML-RPC. SOAP \u0454 \u043e\u0434\u043d\u0438\u043c \u0437\u0456 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0456\u0432, \u043d\u0430 \u044f\u043a\u0438\u0445 \u0491\u0440\u0443\u043d\u0442\u0443\u0454\u0442\u044c\u0441\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u044f \u0432\u0435\u0431\u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432.",
+          "SOAP estas protokolo, konstruita sur HTTP a\u016d SMTP kiu permesas kontakti objektojn sur serviloj pere de XML. SOAP estas angla mallongigo de Simple Object Access Protocol \u2013 \"simpla protokolo por atingi objekton\". La prononco de SOAP en la angla estas [sop] (kaj \u011di signifas sapo). SOAP povas formigi la fundan nivelon de retserva protokola stako, provizante bazan mesa\u011dadan kadron por retaj servoj. La XML-bazita protokolo konsistas el tri partoj:",
+          "( \ud56d\uacf5\uae30 \uc5d4\uc9c4 \uc624\uc77c\uc758 \ubd84\uad11 \ubd84\uc11d\ubc95\uc5d0 \ub300\ud574\uc11c\ub294 \ubd84\uad11 \uc624\uc77c \ubd84\uc11d \ud504\ub85c\uadf8\ub7a8 \ubb38\uc11c\ub97c \ucc38\uace0\ud558\uc2ed\uc2dc\uc624.) SOAP(Simple Object Access Protocol)\uc740 \uc77c\ubc18\uc801\uc73c\ub85c \ub110\ub9ac \uc54c\ub824\uc9c4 HTTP, HTTPS, SMTP \ub4f1\uc744 \ud1b5\ud574 XML \uae30\ubc18\uc758 \uba54\uc2dc\uc9c0\ub97c \ucef4\ud4e8\ud130 \ub124\ud2b8\uc6cc\ud06c \uc0c1\uc5d0\uc11c \uad50\ud658\ud558\ub294 \ud504\ub85c\ud1a0\ucf5c\uc774\ub2e4. SOAP\uc740 \uc6f9 \uc11c\ube44\uc2a4\uc5d0\uc11c \uae30\ubcf8\uc801\uc778 \uba54\uc2dc\uc9c0\ub97c \uc804\ub2ec\ud558\ub294 \uae30\ubc18\uc774 \ub41c\ub2e4. SOAP\uc5d0\ub294 \uba87\uac00\uc9c0 \ud615\ud0dc\uc758 \uba54\uc2dc\uc9c0 \ud328\ud134\uc774 \uc788\uc9c0\ub9cc, \ubcf4\ud1b5\uc758 \uacbd\uc6b0 \uc6d0\uaca9 \ud504\ub85c\uc2dc\uc838 \ud638\ucd9c(Remote Procedure Call:RPC) \ud328\ud134\uc73c\ub85c, \ub124\ud2b8\uc6cc\ud06c \ub178\ub4dc(\ud074\ub77c\uc774\uc5b8\ud2b8)\uc5d0\uc11c \ub2e4\ub978 \ucabd \ub178\ub4dc(\uc11c\ubc84)\ub85c \uba54\uc2dc\uc9c0\ub97c \uc694\uccad \ud558\uace0, \uc11c\ubc84\ub294 \uba54\uc2dc\uc9c0\ub97c \uc989\uc2dc \uc751\ub2f5\ud558\uac8c \ub41c\ub2e4. SOAP\ub294 XML-RPC\uc640 WDDX\uc5d0\uc11c envelope/header/body\ub85c \uc774\ub8e8\uc5b4\uc9c4 \uad6c\uc870\uc640 \uc804\uc1a1(transport)\uacfc \uc0c1\ud638 \uc911\ub9bd\uc131(interaction neutrality)\uc758 \uac1c\ub150\uc744 \uac00\uc838\uc654\ub2e4. SOAP\uc740 XML\uc744 \uadfc\uac04\uc73c\ub85c \ud5e4\ub354\uc640 \ubc14\ub514\ub97c \uc870\ud569\ud558\ub294 \ub514\uc790\uc778 \ud328\ud134\uc73c\ub85c \uc124\uacc4\ub418\uc5b4 \uc788\ub2e4. \u300c\ud5e4\ub354\u300d\ub294 \uc120\ud0dd\uc0ac\ud56d\uc73c\ub85c \ubc18\ubcf5\uc774\ub098 \ubcf4\uc548 \ubc0f \ud2b8\ub79c\uc7ad\uc158\uc744 \uc815\ubcf4\ub85c \ud558\ub294 \uba54\ud0c0 \uc815\ubcf4\ub97c \uac00\uc9c0\uace0 \uc788\ub2e4. \u300c\ubc14\ub514\u300d\ubd80\ubd84\uc740 \uc8fc\uc694\ud55c \uc815\ubcf4\uc778 \uc815\ubcf4\ub97c \uac00\uc9c0\uace0 \uc788\ub2e4.",
+          "SOAP\uff08\u30bd\u30fc\u30d7\uff09\u306f\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u5185\u306eWeb\u30b5\u30fc\u30d3\u30b9\u306e\u5b9f\u88c5\u306b\u304a\u3044\u3066\u3001\u69cb\u9020\u5316\u3055\u308c\u305f\u60c5\u5831\u3092\u4ea4\u63db\u3059\u308b\u305f\u3081\u306e\u901a\u4fe1\u30d7\u30ed\u30c8\u30b3\u30eb\u306e\u4ed5\u69d8\u3067\u3042\u308b\u3002\u62e1\u5f35\u6027\u3001\u4e2d\u7acb\u6027\u3001\u72ec\u7acb\u6027\u3092\u5c0e\u5165\u3059\u308b\u3053\u3068\u3092\u76ee\u7684\u3068\u3059\u308b\u3002XML-RPC\u304b\u3089\u767a\u5c55\u3057\u305f\u3001XML Web\u30b5\u30fc\u30d3\u30b9\u306e\u305f\u3081\u306e\u3001XML\u30d9\u30fc\u30b9\u306eRPC\u30d7\u30ed\u30c8\u30b3\u30eb\u3067\u3042\u308b\u3002 \u30e1\u30c3\u30bb\u30fc\u30b8\u5f62\u5f0f\u3068\u3057\u3066XML\u30a4\u30f3\u30d5\u30a9\u30e1\u30fc\u30b7\u30e7\u30f3\u30bb\u30c3\u30c8\u3092\u4f7f\u7528\u3059\u308b\u3002\u307e\u305f\u3001\u30e1\u30c3\u30bb\u30fc\u30b8\u306e\u30cd\u30b4\u30b7\u30a8\u30fc\u30b7\u30e7\u30f3\u304a\u3088\u3073\u4f1d\u9001\u306f\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u5c64\u306e\u30d7\u30ed\u30c8\u30b3\u30eb\uff08\u591a\u304f\u306e\u5834\u5408HTTP\u307e\u305f\u306fSMTP\uff09\u306b\u4f9d\u5b58\u3059\u308b\u3002 SOAP\u306b\u3088\u308a\u3001\u5168\u304f\u7570\u306a\u308b\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\uff08\u4f8b\u3048\u3070Windows\u3068Linux\uff09\u4e0a\u3067\u8d70\u3063\u3066\u3044\u308b\u30d7\u30ed\u30bb\u30b9\u9593\u3067\u3082XML\u3092\u4f7f\u3063\u3066\u610f\u601d\u758e\u901a\u304c\u53ef\u80fd\u306b\u306a\u308b\u3002HTTP\u306e\u3088\u3046\u306aWeb\u30d7\u30ed\u30c8\u30b3\u30eb\u306f\u5168\u3066\u306e\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u306b\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3055\u308c\u3066\u8d70\u3063\u3066\u3044\u308b\u306e\u3067\u3001SOAP\u306e\u4ed5\u7d44\u307f\u3092\u4f7f\u3048\u3070\u3001\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u306f\u305d\u306e\u8a00\u8a9e\u3084\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u304c\u4f55\u3067\u3042\u308c\u3001\u30a6\u30a7\u30d6\u30b5\u30fc\u30d3\u30b9\u3092\u8d77\u52d5\u3057\u3066\u30ec\u30b9\u30dd\u30f3\u30b9\u3092\u53d7\u3051\u53d6\u308b\u3053\u3068\u304c\u51fa\u6765\u308b\u3002 \u5143\u306fSimple Object Access Protocol\u306e\u982d\u5b57\u8a9e\u3068\u3055\u308c\u3066\u3044\u305f\u304c\u3001\u73fe\u5728\u306f\u300c\u4f55\u304b\u306e\u982d\u5b57\u8a9e\u3067\u306f\u306a\u3044\u300d\u3068\u3055\u308c\u3066\u3044\u308b\u3002",
+          "\u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0644\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0628\u0633\u064a\u0637 \u0625\u0644\u0649 \u0627\u0644\u0623\u062c\u0633\u0627\u0645 \u064a\u0639\u062a\u0628\u0631 \u0627\u0644\u0631\u0645\u0632 (SOAP) (\u0627\u062e\u062a\u0635\u0627\u0631\u0627 \u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0628\u0633\u064a\u0637 \u0625\u0644\u0649 \u0627\u0644\u0623\u062c\u0633\u0627\u0645) \u0647\u0648 \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0645\u0648\u0627\u0635\u0641\u0627\u062a \u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0644\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0641\u064a \u062a\u0646\u0641\u064a\u0630 \u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0634\u0628\u0643\u0629 \u0641\u064a \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u064a\u0629. \u0648\u0627\u0644\u063a\u0631\u0636 \u0645\u0646\u0647 \u0647\u0648 \u062a\u0648\u0641\u064a\u0631 \u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u0645\u062f\u064a\u062f\u060c \u0648\u0627\u0644\u062d\u064a\u0627\u060c \u0648\u0627\u0644\u0644\u0637\u0641\u060c \u0648\u0627\u0644\u0627\u0633\u062a\u0642\u0644\u0627\u0644\u064a\u0629. \u0641\u0647\u0648 \u064a\u0633\u062a\u062e\u062f\u0645 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0644\u063a\u0629 \u0627\u0644\u062a\u0631\u0645\u064a\u0632 \u0627\u0644\u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u0627\u0645\u062a\u062f\u0627\u062f \u0641\u064a \u0634\u0643\u0644 \u0631\u0633\u0627\u0626\u0644\u0647\u060c \u0648\u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644\u0627\u062a \u0637\u0628\u0642\u0629 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a\u060c \u0648\u0641\u064a \u0623\u063a\u0644\u0628 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0646\u0642\u0644 \u0627\u0644\u0646\u0635 \u0627\u0644\u0641\u0627\u0626\u0642 (HTTP)\u060c \u0631\u063a\u0645 \u0623\u0646 \u0628\u0639\u0636 \u0627\u0644\u0623\u0646\u0638\u0645\u0629 \u0627\u0644\u062a\u0631\u0627\u062b\u064a\u0629 \u062a\u062a\u0648\u0627\u0635\u0644 \u0639\u0628\u0631 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0646\u0642\u0644 \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0628\u0633\u064a\u0637 (SMTP)\u060c \u0645\u0646 \u0623\u062c\u0644 \u0627\u0644\u062a\u0641\u0627\u0648\u0636 \u0639\u0644\u0649 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0648\u0646\u0642\u0644\u0647\u0627.",
+          "SOAP (originalmente las siglas de Simple Object Access Protocol) es un protocolo est\u00e1ndar que define c\u00f3mo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML. Este protocolo deriva de un protocolo creado por Dave Winer en 1998, llamado XML-RPC. SOAP fue creado por Microsoft, IBM y otros. Est\u00e1 actualmente bajo el auspicio de la W3C. Es uno de los protocolos utilizados en los servicios Web.",
+          "SOAP (Simple Object Access Protocol o Protocol Simple d'Acc\u00e9s a Objectes) \u00e9s un protocol de comunicaci\u00f3 dissenyat per intercanviar missatges en format XML en una xarxa d'ordinadors, normalment sobre el protocol HTTP. Habitualment s'utilitza per accedir a Serveis web. Est\u00e0 pensat per facilitar la comunicaci\u00f3 entre aplicacions, independentment de la plataforma on s'executin i del llenguatge de programaci\u00f3 en qu\u00e8 estiguin implementades. \u00c9s senzill i f\u00e0cilment extensible.",
+          "SOAP (ancien acronyme de Simple Object Access Protocol) est un protocole d'\u00e9change d'information structur\u00e9e dans l'impl\u00e9mentation de services web b\u00e2ti sur XML. Il permet la transmission de messages entre objets distants, ce qui veut dire qu'il autorise un objet \u00e0 invoquer des m\u00e9thodes d'objets physiquement situ\u00e9s sur un autre serveur. Le transfert se fait le plus souvent \u00e0 l'aide du protocole HTTP, mais peut \u00e9galement se faire par un autre protocole, comme SMTP. Le protocole SOAP est compos\u00e9 de deux parties : Le protocole SOAP emploie des m\u00e9tadonn\u00e9es.",
+          "SOAP (Simple Object Access Protocol) adalah standar untuk bertukar pesan-pesan berbasis XML melalui jaringan komputer atau sebuah jalan untuk program yang berjalan pada suatu sistem operasi (OS) untuk berkomunikasi dengan program pada OS yang sama maupun berbeda dengan menggunakan HTTP dan XML sebagai mekanisme untuk pertukaran data. SOAP menspesifikan secara jelas bagaimana cara untuk meng-encode header HTTP dan file XML sehingga program pada suatu komputer dapat memanggil program pada pada komputer lain dan mengirimkan informasi, dan bagaimana program yang dipanggil memberikan tanggapan.",
+          "SOAP (urspr\u00fcnglich f\u00fcr Simple Object Access Protocol) ist ein Netzwerkprotokoll, mit dessen Hilfe Daten zwischen Systemen ausgetauscht und Remote Procedure Calls durchgef\u00fchrt werden k\u00f6nnen. SOAP ist ein industrieller Standard des World Wide Web Consortiums (W3C).",
+          "SOAP \u00e4r en dataterm och avser ett protokoll f\u00f6r utbyte av information i decentraliserade och distribuerade milj\u00f6er. SOAP \u00e4r XML-baserat. Det kan anv\u00e4ndas tillsammans med flera protokoll, men vanligast \u00e4r att det anv\u00e4nds tillsammans med HTTP. Tidigare var SOAP en akronym f\u00f6r Simple Object Access Protocol, men sedan version 1.2 \u00e4r namnet inte l\u00e4ngre en akronym. Tillsammans med UDDI och WSDL \u00e4r SOAP en av de tre grundstenarna f\u00f6r web services. SOAP \u00e4r standardiserat av W3C och mycket brett anv\u00e4nt p\u00e5 alla plattformar.",
+          "In informatica SOAP (inizialmente acronimo di simple object access protocol) \u00e8 un protocollo per lo scambio di messaggi tra componenti software. La parola \"oggetto\" manifesta che l'uso del protocollo dovrebbe effettuarsi secondo il paradigma della programmazione orientata agli oggetti.",
+          "SOAP (Simple Object Access Protocol, em portugu\u00eas Protocolo Simples de Acesso a Objetos) \u00e9 um protocolo para troca de informa\u00e7\u00f5es estruturadas em uma plataforma descentralizada e distribu\u00edda. Ele se baseia na Linguagem de Marca\u00e7\u00e3o Extens\u00edvel (XML) para seu formato de mensagem, e normalmente baseia-se em outros protocolos da camada de aplica\u00e7\u00e3o, mais notavelmente em chamada de procedimento remoto (RPC) e Protocolo de transfer\u00eancia de hipertexto (HTTP), para negocia\u00e7\u00e3o e transmiss\u00e3o de mensagens. SOAP pode formar a camada base de uma pilha de protocolos de servi\u00e7os Web, fornecendo um arcabou\u00e7o b\u00e1sico de mensagens sob o qual se podem construir os servi\u00e7os Web. Este protocolo baseado em XML consiste de tr\u00eas partes: um envelope, que define o que est\u00e1 na mensagem e como process\u00e1-la, um cabe\u00e7al",
+          "SOAP (ang. Simple Object Access Protocol) \u2013 protok\u00f3\u0142 komunikacyjny wykorzystuj\u0105cy XML do kodowania wywo\u0142a\u0144 i najcz\u0119\u015bciej protok\u00f3\u0142 HTTP do ich przenoszenia, mo\u017cliwe jest jednak wykorzystanie innych protoko\u0142\u00f3w do transportu danych. SOAP jest standardem W3C, kt\u00f3rego g\u0142\u00f3wnym celem by\u0142o zast\u0105pienie bardziej specyficznych protoko\u0142\u00f3w komunikacyjnych (RPC), kt\u00f3rych wykorzystanie mo\u017ce by\u0107 ograniczone poprzez zapory sieciowe lub inne zabezpieczenia. Nazwa protoko\u0142u jest myl\u0105ca, poniewa\u017c przede wszystkim dotyczy us\u0142ug sieciowych, a nie obiekt\u00f3w definiowanych w spos\u00f3b znany z programowania obiektowego.",
+          "SOAP (formerly a backronym for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.",
+          "SOAP (aanvankelijk een afkorting voor Simple Object Access Protocol) is een computerprotocol dat wordt gebruikt voor communicatie tussen verschillende componenten. SOAP wordt ondersteund door een groot aantal bedrijven en organisaties waaronder IBM, Novell, Microsoft, Oracle, Apache Software Foundation en het vroegere BEA Systems en Sun (nu Oracle). SOAP is een protocol dat XML-berichten stuurt, meestal over HTTP, maar ook over SMTP, HTTPS, JMS of FTP.",
+          "SOAP (\u043e\u0442 \u0430\u043d\u0433\u043b. Simple Object Access Protocol \u2014 \u043f\u0440\u043e\u0441\u0442\u043e\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u043a \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c) \u2014 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043e\u0431\u043c\u0435\u043d\u0430 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c\u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f\u043c\u0438 \u0432 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u0435. \u041f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e SOAP \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0430\u043b\u0441\u044f \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0434\u043b\u044f \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u0433\u043e \u0432\u044b\u0437\u043e\u0432\u0430 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440 (RPC). \u0421\u0435\u0439\u0447\u0430\u0441 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043e\u0431\u043c\u0435\u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u044b\u043c\u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f\u043c\u0438 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 XML, \u0430 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u0432\u044b\u0437\u043e\u0432\u0430 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 1.2 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 \u043d\u0438\u043a\u0430\u043a \u043d\u0435 \u0440\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u044b\u0432\u0430\u0435\u0442 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 SOAP. SOAP \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 XML-RPC. SOAP \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043e\u0432, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0431\u0430\u0437\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432\u0435\u0431-\u0441\u043b\u0443\u0436\u0431.",
+          "SOAP (p\u016fvodn\u011b Simple Object Access Protocol) je protokolem pro v\u00fdm\u011bnu zpr\u00e1v zalo\u017een\u00fdch na XML p\u0159es s\u00ed\u0165, hlavn\u011b pomoc\u00ed HTTP. Form\u00e1t SOAP tvo\u0159\u00ed z\u00e1kladn\u00ed vrstvu komunikace mezi webov\u00fdmi slu\u017ebami a poskytuje prost\u0159ed\u00ed pro tvorbu slo\u017eit\u011bj\u0161\u00ed komunikace. Existuje n\u011bkolik r\u016fzn\u00fdch druh\u016f \u0161ablon pro komunikaci na protokolu SOAP. Nejzn\u00e1m\u011bj\u0161\u00ed z nich je RPC \u0161ablona, kde jeden z \u00fa\u010dastn\u00edk\u016f komunikace je klient a na druh\u00e9 stran\u011b je server. Server ihned odpov\u00edd\u00e1 na po\u017eadavky klienta.",
+          "SOAP edo Simple Object Access Protocol (Objektuak eskuratzeko protokolo sinplea) sare baten XML formatuan mezuak elkartrukatzeko sortutako protokoloa da, normalean HTTP protokoloaren gainean erabiltzen delarik. Batez ere eskuratzeko erabiltzen den protokoloa da."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "SOAP"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "SOAP"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/SOAP.svg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Webservice_xrpc.png"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:XML-based_standards",
+          "http://dbpedia.org/resource/Category:World_Wide_Web_Consortium_standards",
+          "http://dbpedia.org/resource/Category:Remote_procedure_call",
+          "http://dbpedia.org/resource/Category:Application_layer_protocols"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "29215"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1107766999"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Request_for_Comments",
+          "http://dbpedia.org/resource/World_Wide_Web_Consortium",
+          "http://dbpedia.org/resource/Programming_model",
+          "http://dbpedia.org/resource/Web_services_protocol_stack",
+          "http://dbpedia.org/resource/WS-Addressing",
+          "http://dbpedia.org/resource/Category:Application_layer_protocols",
+          "http://dbpedia.org/resource/Category:XML-based_standards",
+          "http://dbpedia.org/resource/WS-I",
+          "http://dbpedia.org/resource/Protocol_(computing)",
+          "http://dbpedia.org/resource/Transmission_Control_Protocol",
+          "http://dbpedia.org/resource/Syntax",
+          "http://dbpedia.org/resource/Transport_Layer_Security",
+          "http://dbpedia.org/resource/Distributed_Component_Object_Model",
+          "http://dbpedia.org/resource/Message_Exchange_Pattern",
+          "http://dbpedia.org/resource/Message_Transmission_Optimization_Mechanism",
+          "http://dbpedia.org/resource/WebSocket",
+          "http://dbpedia.org/resource/JSON-RPC",
+          "http://dbpedia.org/resource/Message_queue",
+          "http://dbpedia.org/resource/XML_Schema_(W3C)",
+          "http://dbpedia.org/resource/Category:Remote_procedure_call",
+          "http://dbpedia.org/resource/Internet_Communications_Engine",
+          "http://dbpedia.org/resource/CORBA",
+          "http://dbpedia.org/resource/Backronym",
+          "http://dbpedia.org/resource/SOAPjr",
+          "http://dbpedia.org/resource/Microsoft_Windows",
+          "http://dbpedia.org/resource/HTTP",
+          "http://dbpedia.org/resource/Microsoft",
+          "http://dbpedia.org/resource/Enterprise_Service_Bus",
+          "http://dbpedia.org/resource/Web_cache",
+          "http://dbpedia.org/resource/SOAP-over-UDP",
+          "http://dbpedia.org/resource/XML-binary_Optimized_Packaging",
+          "http://dbpedia.org/resource/Java_Message_Service",
+          "http://dbpedia.org/resource/Serialization",
+          "http://dbpedia.org/resource/Financial_Information_eXchange",
+          "http://dbpedia.org/resource/SOAP_with_Attachments_API_for_Java",
+          "http://dbpedia.org/resource/General_Inter-ORB_Protocol",
+          "http://dbpedia.org/resource/Open-source_model",
+          "http://dbpedia.org/resource/WDDX",
+          "http://dbpedia.org/resource/JSON",
+          "http://dbpedia.org/resource/XML-RPC",
+          "http://dbpedia.org/resource/Category:World_Wide_Web_Consortium_standards",
+          "http://dbpedia.org/resource/W3C_Recommendation",
+          "http://dbpedia.org/resource/Firewall_(networking)",
+          "http://dbpedia.org/resource/List_of_web_service_protocols",
+          "http://dbpedia.org/resource/Message_format",
+          "http://dbpedia.org/resource/Don_Box",
+          "http://dbpedia.org/resource/HTTPS",
+          "http://dbpedia.org/resource/OASIS_(organization)",
+          "http://dbpedia.org/resource/SOAP_with_Attachments",
+          "http://dbpedia.org/resource/Simple_Mail_Transfer_Protocol",
+          "http://dbpedia.org/resource/Internet_Draft",
+          "http://dbpedia.org/resource/Linux",
+          "http://dbpedia.org/resource/Dave_Winer",
+          "http://dbpedia.org/resource/IETF",
+          "http://dbpedia.org/resource/Application_layer",
+          "http://dbpedia.org/resource/Common_Data_Representation",
+          "http://dbpedia.org/resource/Software_development_tool",
+          "http://dbpedia.org/resource/XML_Information_Set",
+          "http://dbpedia.org/resource/Hypertext_Transfer_Protocol",
+          "http://dbpedia.org/resource/Binary_XML",
+          "http://dbpedia.org/resource/AMQP",
+          "http://dbpedia.org/resource/Node_(networking)",
+          "http://dbpedia.org/resource/Web_service",
+          "http://dbpedia.org/resource/Endianness",
+          "http://dbpedia.org/resource/MacOS",
+          "http://dbpedia.org/resource/Extensible_User_Interface_Protocol",
+          "http://dbpedia.org/resource/XML",
+          "http://dbpedia.org/resource/Computer_network",
+          "http://dbpedia.org/resource/WS-Security",
+          "http://dbpedia.org/resource/File:SOAP.svg",
+          "http://dbpedia.org/resource/Web_Services_Description_Language",
+          "http://dbpedia.org/resource/WS-I_Basic_Profile",
+          "http://dbpedia.org/resource/Representational_state_transfer",
+          "http://dbpedia.org/resource/SMTP",
+          "http://dbpedia.org/resource/Universal_Description_Discovery_and_Integration"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "http://www.w3.org/TR/soap/",
+          "http://shivasoft.in/blog/java/create-soap-message-using-java/",
+          "http://www.w3.org/2003/05/soap-envelope%22",
+          "http://www.ibm.com/developerworks/edu/x-dw-cosoap-i.html",
+          "http://www.w3.org/TR/soap12/",
+          "https://web.archive.org/web/20070819165933/http:/www.ibm.com/developerworks/xml/library/x-soapbx1.html"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://ar.dbpedia.org/resource/\u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644_\u0644\u0644\u0648\u0635\u0648\u0644_\u0627\u0644\u0628\u0633\u064a\u0637_\u0625\u0644\u0649_\u0627\u0644\u0623\u062c\u0633\u0627\u0645",
+          "http://sv.dbpedia.org/resource/SOAP",
+          "http://et.dbpedia.org/resource/SOAP",
+          "http://gl.dbpedia.org/resource/Simple_Object_Access_Protocol",
+          "http://zh.dbpedia.org/resource/\u7b80\u5355\u5bf9\u8c61\u8bbf\u95ee\u534f\u8bae",
+          "http://hu.dbpedia.org/resource/SOAP",
+          "http://de.dbpedia.org/resource/SOAP",
+          "http://ja.dbpedia.org/resource/SOAP_(\u30d7\u30ed\u30c8\u30b3\u30eb)",
+          "http://uk.dbpedia.org/resource/SOAP",
+          "http://eu.dbpedia.org/resource/Simple_Object_Access_Protocol",
+          "http://rdf.freebase.com/ns/m.077dn",
+          "http://pl.dbpedia.org/resource/SOAP",
+          "http://bg.dbpedia.org/resource/SOAP",
+          "http://eo.dbpedia.org/resource/SOAP",
+          "http://tr.dbpedia.org/resource/SOAP",
+          "http://ca.dbpedia.org/resource/SOAP",
+          "http://simple.dbpedia.org/resource/SOAP",
+          "http://ko.dbpedia.org/resource/SOAP",
+          "http://pt.dbpedia.org/resource/SOAP",
+          "http://is.dbpedia.org/resource/SOAP",
+          "http://az.dbpedia.org/resource/SOAP_protokolu",
+          "http://ur.dbpedia.org/resource/\u0633\u0645\u067e\u0644_\u0622\u0628\u062c\u06cc\u06a9\u0679_\u0627\u06cc\u06a9\u0633\u06cc\u0633_\u067e\u0631\u0648\u0679\u0648\u06a9\u0648\u0644",
+          "http://no.dbpedia.org/resource/SOAP",
+          "http://cs.dbpedia.org/resource/SOAP",
+          "http://sk.dbpedia.org/resource/Simple_Object_Access_Protocol",
+          "http://es.dbpedia.org/resource/Simple_Object_Access_Protocol",
+          "https://global.dbpedia.org/id/pPC3",
+          "http://bn.dbpedia.org/resource/\u09b8\u09bf\u09ae\u09cd\u09aa\u09cd\u200c\u09b2_\u0985\u09ac\u099c\u09c7\u0995\u09cd\u099f_\u098f\u0995\u09cd\u09b8\u09c7\u09b8_\u09aa\u09cd\u09b0\u09cb\u099f\u09cb\u0995\u09b2",
+          "http://th.dbpedia.org/resource/\u0e42\u0e0b\u0e1b",
+          "http://id.dbpedia.org/resource/Simple_Object_Access_Protocol",
+          "http://ml.dbpedia.org/resource/\u0d38\u0d4b\u0d2a\u0d4d_(\u0d38\u0d4b\u0d2b\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u200c\u0d35\u0d46\u0d2f\u0d7c)",
+          "http://ru.dbpedia.org/resource/SOAP",
+          "http://fi.dbpedia.org/resource/SOAP",
+          "http://nl.dbpedia.org/resource/SOAP_(protocol)",
+          "http://vi.dbpedia.org/resource/SOAP",
+          "http://fr.dbpedia.org/resource/SOAP",
+          "http://fa.dbpedia.org/resource/\u067e\u0631\u0648\u062a\u06a9\u0644_\u062f\u0633\u062a\u0631\u0633\u06cc_\u0622\u0633\u0627\u0646_\u0628\u0647_\u0627\u0634\u06cc\u0627\u0621",
+          "http://ta.dbpedia.org/resource/\u0b9a\u0bbf\u0bae\u0bcd\u0baa\u0bbf\u0bb3\u0bcd_\u0b86\u0baa\u0bcd\u0b9c\u0b95\u0bcd\u0b9f\u0bcd_\u0b86\u0b95\u0bcd\u0b9a\u0bb8\u0bcd_\u0baa\u0bc1\u0bb0\u0bcb\u0b9f\u0bcd\u0b9f\u0bbe\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bcd",
+          "http://it.dbpedia.org/resource/SOAP",
+          "http://linked-web-apis.fit.cvut.cz/resource/soap_envelope_format",
+          "http://he.dbpedia.org/resource/SOAP",
+          "http://yo.dbpedia.org/resource/Simple_Object_Access_Protocol",
+          "http://da.dbpedia.org/resource/SOAP",
+          "http://www.wikidata.org/entity/Q189620",
+          "http://hr.dbpedia.org/resource/SOAP"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Authority_control",
+          "http://dbpedia.org/resource/Template:Div_col",
+          "http://dbpedia.org/resource/Template:Snd",
+          "http://dbpedia.org/resource/Template:W3C_Standards",
+          "http://dbpedia.org/resource/Template:Clear",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:More_citations_needed_section",
+          "http://dbpedia.org/resource/Template:Sources",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Start_date_and_age",
+          "http://dbpedia.org/resource/Template:Citation_needed",
+          "http://dbpedia.org/resource/Template:About",
+          "http://dbpedia.org/resource/Template:Div_col_end"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Webservice_xrpc.png?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/designer",
+        "Values": [
+          "Dave Winer, Don Box, Bob Atkinson, and Mohsen Al-Ghosein"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/family",
+        "Values": [
+          "Messaging protocol"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseDate",
+        "Values": [
+          "2007-04-27"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseVersion",
+        "Values": [
+          "1.2"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logo",
+        "Values": [
+          "Webservice xrpc.png"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logoSize",
+        "Values": [
+          "150"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/released",
+        "Values": [
+          "Initially as XML-RPC in"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "SOAP (formerly a backronym for Simple Object Access Protocol) is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks. It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission. SOAP allows developers to invoke processes running on different operating systems (such as Windows, macOS, and Linux) to authenticate, authorize, and communicate using Extensible Markup Language (XML). Since Web protocols like HTTP are installed and running on practically all operating systems, SOAP allows clients to invoke web services and receive responses independent of language and platforms.",
+          "SOAP\uff08\u539f\u4e3aSimple Object Access Protocol\u7684\u9996\u5b57\u6bcd\u7f29\u5199\uff0c\u5373\u7b80\u5355\u5bf9\u8c61\u8bbf\u95ee\u534f\u8bae\uff09\u662f\u4ea4\u6362\u6570\u636e\u7684\u4e00\u79cd\u534f\u8bae\u89c4\u8303\uff0c\u4f7f\u7528\u5728\u8ba1\u7b97\u673a\u7f51\u7edcWeb\u670d\u52a1\uff08web service\uff09\u4e2d\uff0c\u4ea4\u6362\u5e26\u7ed3\u6784\u7684\u4fe1\u606f\u3002SOAP\u4e3a\u4e86\u7b80\u5316\u7f51\u9875\u670d\u52a1\u5668\uff08Web Server\uff09\u4eceXML\u8cc7\u6599\u5eab\u4e2d\u63d0\u53d6\u8cc7\u6599\u6642\uff0c\u8282\u7701\u53bb\u683c\u5f0f\u5316\u9801\u9762\u6642\u9593\uff0c\u4ee5\u53ca\u4e0d\u540c\u61c9\u7528\u7a0b\u5e8f\u4e4b\u9593\u6309\u7167HTTP\u901a\u4fe1\u534f\u8bae\uff0c\u9075\u4eceXML\u683c\u5f0f\u6267\u884c\u8d44\u6599\u4e92\u6362\uff0c\u4f7f\u5176\u62bd\u8c61\u4e8e\u8bed\u8a00\u5b9e\u73b0\u3001\u5e73\u53f0\u548c\u786c\u4ef6\u3002\u6b64\u6a19\u6e96\u7531IBM\u3001Microsoft\u3001\u548c\u57281998\u5e74\u5171\u540c\u63d0\u51fa\uff0c\u4e26\u5f97\u5230IBM\u3001\u84ee\u82b1\uff08Lotus\uff09\u3001\u5eb7\u67cf\uff08Compaq\uff09\u7b49\u516c\u53f8\u7684\u652f\u6301\uff0c\u65bc2000\u5e74\u63d0\u4ea4\u7d66\u5168\u7403\u8cc7\u8a0a\u7db2\u806f\u76df\uff08World Wide Web Consortium\uff0cW3C\uff09\uff0c\u76ee\u524dSOAP 1.1\u7248\u662f\u696d\u754c\u5171\u540c\u7684\u6a19\u6e96\uff0c\u5c6c\u65bc\u7b2c\u4e8c\u4ee3\u7684XML\u5354\u5b9a\uff08\u7b2c\u4e00\u4ee3\u5177\u4e3b\u8981\u4ee3\u8868\u6027\u7684\u6280\u8853\u70baXML-RPC\u4ee5\u53caWDDX\uff09\u3002 \u7528\u4e00\u4e2a\u7b80\u5355\u7684\u4f8b\u5b50\u6765\u8bf4\u660eSOAP\u4f7f\u7528\u8fc7\u7a0b\uff0c\u4e00\u4e2aSOAP\u6d88\u606f\u53ef\u4ee5\u53d1\u9001\u5230\u4e00\u4e2a\u5177\u6709Web Service\u529f\u80fd\u7684Web\u7ad9\u70b9\uff0c\u4f8b\u5982\uff0c\u4e00\u4e2a\u542b\u6709\u623f\u4ef7\u4fe1\u606f\u7684\u6570\u636e\u5e93\uff0c\u6d88\u606f\u7684\u53c2\u6570\u4e2d\u6807\u660e\u8fd9\u662f\u4e00\u4e2a\u67e5\u8be2\u6d88\u606f\uff0c\u6b64\u7ad9\u70b9\u5c06\u8fd4\u56de\u4e00\u4e2aXML\u683c\u5f0f\u7684\u4fe1\u606f\uff0c\u5176\u4e2d\u5305\u542b\u4e86\u67e5\u8be2\u7ed3\u679c\uff08\u4ef7\u683c\uff0c\u4f4d\u7f6e\uff0c\u7279\u70b9\uff0c\u6216\u8005\u5176\u4ed6\u4fe1\u606f\uff09\u3002\u7531\u4e8e\u6570\u636e\u662f\u7528\u4e00\u79cd\u6807\u51c6\u5316\u7684\u53ef\u5206\u6790\u7684\u7ed3\u6784\u6765\u4f20\u9012\u7684\uff0c\u6240\u4ee5\u53ef\u4ee5\u76f4\u63a5\u88ab\u7b2c\u4e09\u65b9\u7ad9\u70b9\u6240\u5229\u7528\u3002",
+          "SOAP (Simple Object Access Protocol, em portugu\u00eas Protocolo Simples de Acesso a Objetos) \u00e9 um protocolo para troca de informa\u00e7\u00f5es estruturadas em uma plataforma descentralizada e distribu\u00edda. Ele se baseia na Linguagem de Marca\u00e7\u00e3o Extens\u00edvel (XML) para seu formato de mensagem, e normalmente baseia-se em outros protocolos da camada de aplica\u00e7\u00e3o, mais notavelmente em chamada de procedimento remoto (RPC) e Protocolo de transfer\u00eancia de hipertexto (HTTP), para negocia\u00e7\u00e3o e transmiss\u00e3o de mensagens. SOAP pode formar a camada base de uma pilha de protocolos de servi\u00e7os Web, fornecendo um arcabou\u00e7o b\u00e1sico de mensagens sob o qual se podem construir os servi\u00e7os Web. Este protocolo baseado em XML consiste de tr\u00eas partes: um envelope, que define o que est\u00e1 na mensagem e como process\u00e1-la, um cabe\u00e7alho com conjunto de regras codificadas para expressar inst\u00e2ncias do tipos de dados definidos na aplica\u00e7\u00e3o, e um body com conven\u00e7\u00f5es para representar chamadas de procedimentos e respostas. Sua especifica\u00e7\u00e3o define um arcabou\u00e7o que prov\u00ea maneiras para se construir mensagens que podem trafegar atrav\u00e9s de diversos protocolos e que foi especificado de forma a ser independente de qualquer modelo de programa\u00e7\u00e3o ou outra implementa\u00e7\u00e3o espec\u00edfica. Por n\u00e3o se tratar de um protocolo de acesso a objetos, o acr\u00f4nimo n\u00e3o \u00e9 mais utilizado. Geralmente servidores SOAP s\u00e3o implementados utilizando-se servidores HTTP, embora isto n\u00e3o seja uma restri\u00e7\u00e3o para funcionamento do protocolo. As mensagens SOAP s\u00e3o documentos XML que aderem a uma especifica\u00e7\u00e3o W3C. O primeiro esfor\u00e7o do desenvolvimento do SOAP foi implementar RPCs sobre XML.",
+          "SOAP (ancien acronyme de Simple Object Access Protocol) est un protocole d'\u00e9change d'information structur\u00e9e dans l'impl\u00e9mentation de services web b\u00e2ti sur XML. Il permet la transmission de messages entre objets distants, ce qui veut dire qu'il autorise un objet \u00e0 invoquer des m\u00e9thodes d'objets physiquement situ\u00e9s sur un autre serveur. Le transfert se fait le plus souvent \u00e0 l'aide du protocole HTTP, mais peut \u00e9galement se faire par un autre protocole, comme SMTP. Le protocole SOAP est compos\u00e9 de deux parties : \n* une enveloppe, contenant des informations sur le message lui-m\u00eame afin de permettre son acheminement et son traitement ; \n* un mod\u00e8le de donn\u00e9es, d\u00e9finissant le format du message, c'est-\u00e0-dire les informations \u00e0 transmettre. SOAP a \u00e9t\u00e9 initialement d\u00e9fini par Microsoft et IBM, mais est devenu une r\u00e9f\u00e9rence depuis une recommandation du W3C, utilis\u00e9e notamment dans le cadre d'architectures de type SOA (Service Oriented Architecture) pour les Services Web WS-*. Le protocole SOAP emploie des m\u00e9tadonn\u00e9es. SOAP n'est plus un acronyme depuis la version 1.2. En effet, SOAP v1.2 a \u00e9t\u00e9 r\u00e9\u00e9crit en fonction d'infosets XML, et non plus sous forme de s\u00e9rialisations comme il l'\u00e9tait en v1.1. La notion d'objet (sp\u00e9cifi\u00e9e dans Simple Object Access Protocol) devient donc obsol\u00e8te.",
+          "SOAP (urspr\u00fcnglich f\u00fcr Simple Object Access Protocol) ist ein Netzwerkprotokoll, mit dessen Hilfe Daten zwischen Systemen ausgetauscht und Remote Procedure Calls durchgef\u00fchrt werden k\u00f6nnen. SOAP ist ein industrieller Standard des World Wide Web Consortiums (W3C). SOAP st\u00fctzt sich auf XML zur Repr\u00e4sentation der Daten und auf Internet-Protokolle der Transport- und Anwendungsschicht (vgl. TCP/IP-Referenzmodell) zur \u00dcbertragung der Nachrichten. Die g\u00e4ngigste Kombination ist SOAP \u00fcber HTTP und TCP. SOAP kann beispielsweise auch \u00fcber SMTP oder JMS verwendet werden. Die mit der Nachricht \u00fcbermittelten Nutzdaten m\u00fcssen nicht zwingend in XML gesendet werden, andere Formate wie Base64 oder CSV sind auch m\u00f6glich. Die Abk\u00fcrzung SOAP wird offiziell ab Version 1.2 nicht mehr als Akronym gebraucht, da es erstens (subjektiv) keineswegs einfach (Simple) ist und zweitens nicht nur dem Zugriff auf Objekte (Object Access) dient.",
+          "( \ud56d\uacf5\uae30 \uc5d4\uc9c4 \uc624\uc77c\uc758 \ubd84\uad11 \ubd84\uc11d\ubc95\uc5d0 \ub300\ud574\uc11c\ub294 \ubd84\uad11 \uc624\uc77c \ubd84\uc11d \ud504\ub85c\uadf8\ub7a8 \ubb38\uc11c\ub97c \ucc38\uace0\ud558\uc2ed\uc2dc\uc624.) SOAP(Simple Object Access Protocol)\uc740 \uc77c\ubc18\uc801\uc73c\ub85c \ub110\ub9ac \uc54c\ub824\uc9c4 HTTP, HTTPS, SMTP \ub4f1\uc744 \ud1b5\ud574 XML \uae30\ubc18\uc758 \uba54\uc2dc\uc9c0\ub97c \ucef4\ud4e8\ud130 \ub124\ud2b8\uc6cc\ud06c \uc0c1\uc5d0\uc11c \uad50\ud658\ud558\ub294 \ud504\ub85c\ud1a0\ucf5c\uc774\ub2e4. SOAP\uc740 \uc6f9 \uc11c\ube44\uc2a4\uc5d0\uc11c \uae30\ubcf8\uc801\uc778 \uba54\uc2dc\uc9c0\ub97c \uc804\ub2ec\ud558\ub294 \uae30\ubc18\uc774 \ub41c\ub2e4. SOAP\uc5d0\ub294 \uba87\uac00\uc9c0 \ud615\ud0dc\uc758 \uba54\uc2dc\uc9c0 \ud328\ud134\uc774 \uc788\uc9c0\ub9cc, \ubcf4\ud1b5\uc758 \uacbd\uc6b0 \uc6d0\uaca9 \ud504\ub85c\uc2dc\uc838 \ud638\ucd9c(Remote Procedure Call:RPC) \ud328\ud134\uc73c\ub85c, \ub124\ud2b8\uc6cc\ud06c \ub178\ub4dc(\ud074\ub77c\uc774\uc5b8\ud2b8)\uc5d0\uc11c \ub2e4\ub978 \ucabd \ub178\ub4dc(\uc11c\ubc84)\ub85c \uba54\uc2dc\uc9c0\ub97c \uc694\uccad \ud558\uace0, \uc11c\ubc84\ub294 \uba54\uc2dc\uc9c0\ub97c \uc989\uc2dc \uc751\ub2f5\ud558\uac8c \ub41c\ub2e4. SOAP\ub294 XML-RPC\uc640 WDDX\uc5d0\uc11c envelope/header/body\ub85c \uc774\ub8e8\uc5b4\uc9c4 \uad6c\uc870\uc640 \uc804\uc1a1(transport)\uacfc \uc0c1\ud638 \uc911\ub9bd\uc131(interaction neutrality)\uc758 \uac1c\ub150\uc744 \uac00\uc838\uc654\ub2e4. SOAP\uc740 XML\uc744 \uadfc\uac04\uc73c\ub85c \ud5e4\ub354\uc640 \ubc14\ub514\ub97c \uc870\ud569\ud558\ub294 \ub514\uc790\uc778 \ud328\ud134\uc73c\ub85c \uc124\uacc4\ub418\uc5b4 \uc788\ub2e4. \u300c\ud5e4\ub354\u300d\ub294 \uc120\ud0dd\uc0ac\ud56d\uc73c\ub85c \ubc18\ubcf5\uc774\ub098 \ubcf4\uc548 \ubc0f \ud2b8\ub79c\uc7ad\uc158\uc744 \uc815\ubcf4\ub85c \ud558\ub294 \uba54\ud0c0 \uc815\ubcf4\ub97c \uac00\uc9c0\uace0 \uc788\ub2e4. \u300c\ubc14\ub514\u300d\ubd80\ubd84\uc740 \uc8fc\uc694\ud55c \uc815\ubcf4\uc778 \uc815\ubcf4\ub97c \uac00\uc9c0\uace0 \uc788\ub2e4.",
+          "SOAP\uff08\u30bd\u30fc\u30d7\uff09\u306f\u3001\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u5185\u306eWeb\u30b5\u30fc\u30d3\u30b9\u306e\u5b9f\u88c5\u306b\u304a\u3044\u3066\u3001\u69cb\u9020\u5316\u3055\u308c\u305f\u60c5\u5831\u3092\u4ea4\u63db\u3059\u308b\u305f\u3081\u306e\u901a\u4fe1\u30d7\u30ed\u30c8\u30b3\u30eb\u306e\u4ed5\u69d8\u3067\u3042\u308b\u3002\u62e1\u5f35\u6027\u3001\u4e2d\u7acb\u6027\u3001\u72ec\u7acb\u6027\u3092\u5c0e\u5165\u3059\u308b\u3053\u3068\u3092\u76ee\u7684\u3068\u3059\u308b\u3002XML-RPC\u304b\u3089\u767a\u5c55\u3057\u305f\u3001XML Web\u30b5\u30fc\u30d3\u30b9\u306e\u305f\u3081\u306e\u3001XML\u30d9\u30fc\u30b9\u306eRPC\u30d7\u30ed\u30c8\u30b3\u30eb\u3067\u3042\u308b\u3002 \u30e1\u30c3\u30bb\u30fc\u30b8\u5f62\u5f0f\u3068\u3057\u3066XML\u30a4\u30f3\u30d5\u30a9\u30e1\u30fc\u30b7\u30e7\u30f3\u30bb\u30c3\u30c8\u3092\u4f7f\u7528\u3059\u308b\u3002\u307e\u305f\u3001\u30e1\u30c3\u30bb\u30fc\u30b8\u306e\u30cd\u30b4\u30b7\u30a8\u30fc\u30b7\u30e7\u30f3\u304a\u3088\u3073\u4f1d\u9001\u306f\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u5c64\u306e\u30d7\u30ed\u30c8\u30b3\u30eb\uff08\u591a\u304f\u306e\u5834\u5408HTTP\u307e\u305f\u306fSMTP\uff09\u306b\u4f9d\u5b58\u3059\u308b\u3002 SOAP\u306b\u3088\u308a\u3001\u5168\u304f\u7570\u306a\u308b\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\uff08\u4f8b\u3048\u3070Windows\u3068Linux\uff09\u4e0a\u3067\u8d70\u3063\u3066\u3044\u308b\u30d7\u30ed\u30bb\u30b9\u9593\u3067\u3082XML\u3092\u4f7f\u3063\u3066\u610f\u601d\u758e\u901a\u304c\u53ef\u80fd\u306b\u306a\u308b\u3002HTTP\u306e\u3088\u3046\u306aWeb\u30d7\u30ed\u30c8\u30b3\u30eb\u306f\u5168\u3066\u306e\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u306b\u30a4\u30f3\u30b9\u30c8\u30fc\u30eb\u3055\u308c\u3066\u8d70\u3063\u3066\u3044\u308b\u306e\u3067\u3001SOAP\u306e\u4ed5\u7d44\u307f\u3092\u4f7f\u3048\u3070\u3001\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u306f\u305d\u306e\u8a00\u8a9e\u3084\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u304c\u4f55\u3067\u3042\u308c\u3001\u30a6\u30a7\u30d6\u30b5\u30fc\u30d3\u30b9\u3092\u8d77\u52d5\u3057\u3066\u30ec\u30b9\u30dd\u30f3\u30b9\u3092\u53d7\u3051\u53d6\u308b\u3053\u3068\u304c\u51fa\u6765\u308b\u3002 \u5143\u306fSimple Object Access Protocol\u306e\u982d\u5b57\u8a9e\u3068\u3055\u308c\u3066\u3044\u305f\u304c\u3001\u73fe\u5728\u306f\u300c\u4f55\u304b\u306e\u982d\u5b57\u8a9e\u3067\u306f\u306a\u3044\u300d\u3068\u3055\u308c\u3066\u3044\u308b\u3002",
+          "\u0627\u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0644\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0628\u0633\u064a\u0637 \u0625\u0644\u0649 \u0627\u0644\u0623\u062c\u0633\u0627\u0645 \u064a\u0639\u062a\u0628\u0631 \u0627\u0644\u0631\u0645\u0632 (SOAP) (\u0627\u062e\u062a\u0635\u0627\u0631\u0627 \u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0648\u0635\u0648\u0644 \u0627\u0644\u0628\u0633\u064a\u0637 \u0625\u0644\u0649 \u0627\u0644\u0623\u062c\u0633\u0627\u0645) \u0647\u0648 \u0639\u0628\u0627\u0631\u0629 \u0639\u0646 \u0645\u0648\u0627\u0635\u0641\u0627\u062a \u0644\u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0644\u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0646\u0638\u0645\u0629 \u0641\u064a \u062a\u0646\u0641\u064a\u0630 \u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0634\u0628\u0643\u0629 \u0641\u064a \u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0648\u0628\u064a\u0629. \u0648\u0627\u0644\u063a\u0631\u0636 \u0645\u0646\u0647 \u0647\u0648 \u062a\u0648\u0641\u064a\u0631 \u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u0645\u062f\u064a\u062f\u060c \u0648\u0627\u0644\u062d\u064a\u0627\u060c \u0648\u0627\u0644\u0644\u0637\u0641\u060c \u0648\u0627\u0644\u0627\u0633\u062a\u0642\u0644\u0627\u0644\u064a\u0629. \u0641\u0647\u0648 \u064a\u0633\u062a\u062e\u062f\u0645 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0644\u063a\u0629 \u0627\u0644\u062a\u0631\u0645\u064a\u0632 \u0627\u0644\u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u0627\u0645\u062a\u062f\u0627\u062f \u0641\u064a \u0634\u0643\u0644 \u0631\u0633\u0627\u0626\u0644\u0647\u060c \u0648\u064a\u0639\u062a\u0645\u062f \u0639\u0644\u0649 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644\u0627\u062a \u0637\u0628\u0642\u0629 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a\u060c \u0648\u0641\u064a \u0623\u063a\u0644\u0628 \u0627\u0644\u0623\u062d\u064a\u0627\u0646 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0646\u0642\u0644 \u0627\u0644\u0646\u0635 \u0627\u0644\u0641\u0627\u0626\u0642 (HTTP)\u060c \u0631\u063a\u0645 \u0623\u0646 \u0628\u0639\u0636 \u0627\u0644\u0623\u0646\u0638\u0645\u0629 \u0627\u0644\u062a\u0631\u0627\u062b\u064a\u0629 \u062a\u062a\u0648\u0627\u0635\u0644 \u0639\u0628\u0631 \u0628\u0631\u0648\u062a\u0648\u0643\u0648\u0644 \u0646\u0642\u0644 \u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0628\u0633\u064a\u0637 (SMTP)\u060c \u0645\u0646 \u0623\u062c\u0644 \u0627\u0644\u062a\u0641\u0627\u0648\u0636 \u0639\u0644\u0649 \u0627\u0644\u0631\u0633\u0627\u0626\u0644 \u0648\u0646\u0642\u0644\u0647\u0627.",
+          "SOAP (originalmente las siglas de Simple Object Access Protocol) es un protocolo est\u00e1ndar que define c\u00f3mo dos objetos en diferentes procesos pueden comunicarse por medio de intercambio de datos XML. Este protocolo deriva de un protocolo creado por Dave Winer en 1998, llamado XML-RPC. SOAP fue creado por Microsoft, IBM y otros. Est\u00e1 actualmente bajo el auspicio de la W3C. Es uno de los protocolos utilizados en los servicios Web.",
+          "SOAP (Simple Object Access Protocol o Protocol Simple d'Acc\u00e9s a Objectes) \u00e9s un protocol de comunicaci\u00f3 dissenyat per intercanviar missatges en format XML en una xarxa d'ordinadors, normalment sobre el protocol HTTP. Habitualment s'utilitza per accedir a Serveis web. Est\u00e0 pensat per facilitar la comunicaci\u00f3 entre aplicacions, independentment de la plataforma on s'executin i del llenguatge de programaci\u00f3 en qu\u00e8 estiguin implementades. \u00c9s senzill i f\u00e0cilment extensible.",
+          "SOAP (\u043e\u0442 \u0430\u043d\u0433\u043b. Simple Object Access Protocol \u2014 \u043f\u0440\u043e\u0441\u0442\u043e\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u043a \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c) \u2014 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043e\u0431\u043c\u0435\u043d\u0430 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c\u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f\u043c\u0438 \u0432 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u0435. \u041f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e SOAP \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0430\u043b\u0441\u044f \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u0434\u043b\u044f \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u0443\u0434\u0430\u043b\u0451\u043d\u043d\u043e\u0433\u043e \u0432\u044b\u0437\u043e\u0432\u0430 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440 (RPC). \u0421\u0435\u0439\u0447\u0430\u0441 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043e\u0431\u043c\u0435\u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u044b\u043c\u0438 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f\u043c\u0438 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 XML, \u0430 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u0434\u043b\u044f \u0432\u044b\u0437\u043e\u0432\u0430 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440. \u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 1.2 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 \u043d\u0438\u043a\u0430\u043a \u043d\u0435 \u0440\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u044b\u0432\u0430\u0435\u0442 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 SOAP. SOAP \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435\u043c \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430 XML-RPC. SOAP \u043c\u043e\u0436\u0435\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0441 \u043b\u044e\u0431\u044b\u043c \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u043c \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f: SMTP, FTP, HTTP, HTTPS \u0438 \u0434\u0440. \u041e\u0434\u043d\u0430\u043a\u043e \u0435\u0433\u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0441 \u043a\u0430\u0436\u0434\u044b\u043c \u0438\u0437 \u044d\u0442\u0438\u0445 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u0432 \u0438\u043c\u0435\u0435\u0442 \u0441\u0432\u043e\u0438 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0434\u043e\u043b\u0436\u043d\u044b \u0431\u044b\u0442\u044c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u044b \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e. \u0427\u0430\u0449\u0435 \u0432\u0441\u0435\u0433\u043e SOAP \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043f\u043e\u0432\u0435\u0440\u0445 HTTP. SOAP \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043e\u0432, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0431\u0430\u0437\u0438\u0440\u0443\u044e\u0442\u0441\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0432\u0435\u0431-\u0441\u043b\u0443\u0436\u0431.",
+          "SOAP (Simple Object Access Protocol) adalah standar untuk bertukar pesan-pesan berbasis XML melalui jaringan komputer atau sebuah jalan untuk program yang berjalan pada suatu sistem operasi (OS) untuk berkomunikasi dengan program pada OS yang sama maupun berbeda dengan menggunakan HTTP dan XML sebagai mekanisme untuk pertukaran data. SOAP menspesifikan secara jelas bagaimana cara untuk meng-encode header HTTP dan file XML sehingga program pada suatu komputer dapat memanggil program pada pada komputer lain dan mengirimkan informasi, dan bagaimana program yang dipanggil memberikan tanggapan. SOAP adalah protokol ringan yang ditujukan untuk pertukaran informasi struktur pada lingkup desentralisasi, dan terdistribusi. SOAP menggunakan teknologi XML utuk mendefinisikan rangka kerja pemesanan terekstrensi di mana menyediakan konstruksi pesan yang dapat dipertukarkan pada protokol berbeda. Rangka kerja dirancang bebas dari model pemrograman dan spesifikasi implementasi semantik.",
+          "SOAP (\u0430\u043d\u0433\u043b. Simple Object Access Protocol) \u2014 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u043e\u0431\u043c\u0456\u043d\u0443 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043e\u0432\u0430\u043d\u0438\u043c\u0438 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f\u043c\u0438 \u0432 \u0440\u043e\u0437\u043f\u043e\u0434\u0456\u043b\u0435\u043d\u0438\u0445 \u043e\u0431\u0447\u0438\u0441\u043b\u044e\u0432\u0430\u043b\u044c\u043d\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445, \u0431\u0430\u0437\u0443\u0454\u0442\u044c\u0441\u044f \u043d\u0430 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 XML. \u0421\u043f\u043e\u0447\u0430\u0442\u043a\u0443 SOAP \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0430\u0432\u0441\u044f, \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c\u0443, \u0434\u043b\u044f \u0440\u0435\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u0457 \u0432\u0456\u0434\u0434\u0430\u043b\u0435\u043d\u043e\u0433\u043e \u0432\u0438\u043a\u043b\u0438\u043a\u0443 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440 (RPC), \u0430 \u043d\u0430\u0437\u0432\u0430 \u0431\u0443\u043b\u0430 \u0430\u0431\u0440\u0435\u0432\u0456\u0430\u0442\u0443\u0440\u043e\u044e: Simple Object Access Protocol \u2014 \u043f\u0440\u043e\u0441\u0442\u0438\u0439 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0434\u043e\u0441\u0442\u0443\u043f\u0443 \u0434\u043e \u043e\u0431'\u0454\u043a\u0442\u0456\u0432. \u0417\u0430\u0440\u0430\u0437 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u043e\u0431\u043c\u0456\u043d\u0443 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f\u043c\u0438 \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0456 XML, \u0430 \u043d\u0435 \u0442\u0456\u043b\u044c\u043a\u0438 \u0434\u043b\u044f \u0432\u0438\u043a\u043b\u0438\u043a\u0443 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440.SOAP \u0454 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043d\u044f\u043c \u043c\u043e\u0432\u0438 XML-RPC. SOAP \u043c\u043e\u0436\u043d\u0430 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0432\u0430\u0442\u0438 \u0437 \u0431\u0443\u0434\u044c-\u044f\u043a\u0438\u043c \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u043e\u043c \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f: SMTP, FTP, HTTP \u0442\u0430 \u0456\u043d\u0448\u0456. \u041f\u0440\u043e\u0442\u0435 \u0439\u043e\u0433\u043e \u0432\u0437\u0430\u0454\u043c\u043e\u0434\u0456\u044f \u0437 \u043a\u043e\u0436\u043d\u0438\u043c \u0456\u0437 \u0446\u0438\u0445 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0456\u0432 \u043c\u0430\u0454 \u0441\u0432\u043e\u0457 \u043e\u0441\u043e\u0431\u043b\u0438\u0432\u043e\u0441\u0442\u0456, \u044f\u043a\u0456 \u043f\u043e\u0442\u0440\u0456\u0431\u043d\u043e \u0432\u0456\u0434\u0437\u043d\u0430\u0447\u0438\u0442\u0438 \u043e\u043a\u0440\u0435\u043c\u043e. \u041d\u0430\u0439\u0447\u0430\u0441\u0442\u0456\u0448\u0435 SOAP \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0440\u0430\u0437\u043e\u043c \u0437 HTTP. SOAP \u0454 \u043e\u0434\u043d\u0438\u043c \u0437\u0456 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0456\u0432, \u043d\u0430 \u044f\u043a\u0438\u0445 \u0491\u0440\u0443\u043d\u0442\u0443\u0454\u0442\u044c\u0441\u044f \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0456\u044f \u0432\u0435\u0431\u0441\u0435\u0440\u0432\u0456\u0441\u0456\u0432.",
+          "SOAP \u00e4r en dataterm och avser ett protokoll f\u00f6r utbyte av information i decentraliserade och distribuerade milj\u00f6er. SOAP \u00e4r XML-baserat. Det kan anv\u00e4ndas tillsammans med flera protokoll, men vanligast \u00e4r att det anv\u00e4nds tillsammans med HTTP. Tidigare var SOAP en akronym f\u00f6r Simple Object Access Protocol, men sedan version 1.2 \u00e4r namnet inte l\u00e4ngre en akronym. Tillsammans med UDDI och WSDL \u00e4r SOAP en av de tre grundstenarna f\u00f6r web services. SOAP \u00e4r standardiserat av W3C och mycket brett anv\u00e4nt p\u00e5 alla plattformar.",
+          "In informatica SOAP (inizialmente acronimo di simple object access protocol) \u00e8 un protocollo per lo scambio di messaggi tra componenti software. La parola \"oggetto\" manifesta che l'uso del protocollo dovrebbe effettuarsi secondo il paradigma della programmazione orientata agli oggetti.",
+          "SOAP (ang. Simple Object Access Protocol) \u2013 protok\u00f3\u0142 komunikacyjny wykorzystuj\u0105cy XML do kodowania wywo\u0142a\u0144 i najcz\u0119\u015bciej protok\u00f3\u0142 HTTP do ich przenoszenia, mo\u017cliwe jest jednak wykorzystanie innych protoko\u0142\u00f3w do transportu danych. SOAP jest standardem W3C, kt\u00f3rego g\u0142\u00f3wnym celem by\u0142o zast\u0105pienie bardziej specyficznych protoko\u0142\u00f3w komunikacyjnych (RPC), kt\u00f3rych wykorzystanie mo\u017ce by\u0107 ograniczone poprzez zapory sieciowe lub inne zabezpieczenia. Nazwa protoko\u0142u jest myl\u0105ca, poniewa\u017c przede wszystkim dotyczy us\u0142ug sieciowych, a nie obiekt\u00f3w definiowanych w spos\u00f3b znany z programowania obiektowego.",
+          "SOAP (aanvankelijk een afkorting voor Simple Object Access Protocol) is een computerprotocol dat wordt gebruikt voor communicatie tussen verschillende componenten. SOAP wordt ondersteund door een groot aantal bedrijven en organisaties waaronder IBM, Novell, Microsoft, Oracle, Apache Software Foundation en het vroegere BEA Systems en Sun (nu Oracle). SOAP is een protocol dat XML-berichten stuurt, meestal over HTTP, maar ook over SMTP, HTTPS, JMS of FTP.",
+          "SOAP (p\u016fvodn\u011b Simple Object Access Protocol) je protokolem pro v\u00fdm\u011bnu zpr\u00e1v zalo\u017een\u00fdch na XML p\u0159es s\u00ed\u0165, hlavn\u011b pomoc\u00ed HTTP. Form\u00e1t SOAP tvo\u0159\u00ed z\u00e1kladn\u00ed vrstvu komunikace mezi webov\u00fdmi slu\u017ebami a poskytuje prost\u0159ed\u00ed pro tvorbu slo\u017eit\u011bj\u0161\u00ed komunikace. Existuje n\u011bkolik r\u016fzn\u00fdch druh\u016f \u0161ablon pro komunikaci na protokolu SOAP. Nejzn\u00e1m\u011bj\u0161\u00ed z nich je RPC \u0161ablona, kde jeden z \u00fa\u010dastn\u00edk\u016f komunikace je klient a na druh\u00e9 stran\u011b je server. Server ihned odpov\u00edd\u00e1 na po\u017eadavky klienta. SOAP je n\u00e1stupce XML-RPC, a\u010dkoliv si zap\u016fj\u010duje jeho zp\u016fsob p\u0159enosu dat a dal\u0161\u00ed vlastnosti. Ob\u00e1lka, hlavi\u010dka a t\u011blo komunikace je ale pravd\u011bpodobn\u011b z . P\u016fvodn\u011b ho navrhl , , a v roce 1998 za podpory firmy Microsoft (kde tou dobou Atkinson a Al-Ghosein pracovali). Dnes je SOAP specifikace dr\u017eena tvo\u0159\u00edc\u00ed internetov\u00e9 protokoly z W3C konsorcia.",
+          "SOAP estas protokolo, konstruita sur HTTP a\u016d SMTP kiu permesas kontakti objektojn sur serviloj pere de XML. SOAP estas angla mallongigo de Simple Object Access Protocol \u2013 \"simpla protokolo por atingi objekton\". La prononco de SOAP en la angla estas [sop] (kaj \u011di signifas sapo). \u011ci estas protokola specifa\u0135o por inter\u015dan\u011di strukturhavan informon dum la implementado de retservoj en komputilaj retoj. \u011ci dependas de la XML informaro por sia mesa\u011da formato, kaj ordinare dependas de la aliaj aplika\u0135-nivelaj protokoloj, plej notinde Hiperteksta Transporta Protokolo (HTTP) a\u016d Simpla Mesa\u011da Transporta Protkolo (SMTP) por mesa\u011da negocado kaj transsendado. SOAP povas formigi la fundan nivelon de retserva protokola stako, provizante bazan mesa\u011dadan kadron por retaj servoj. La XML-bazita protokolo konsistas el tri partoj: 1. \n* Mesa\u011dujo, kiu difinas tion, kio estas en la mesa\u011do kaj kiel procesi \u011din 2. \n* Aro de kodigaj reguloj por esprimi ekzemplojn de aplika\u0135-difinitaj datumtipoj 3. \n* Interkonsento pri kiel reprezenti procedajn alvokojn kaj respondojn SOAP havas tri \u0109efajn karakterigojn: etendeblon (sekurigo kaj WS-enkursigado estas inter la etenda\u0135oj evoluigataj), ne\u016dtralecon (SOAP povas esti uzata per ia transporta protokolo kiel HTTP, SMTP, TCP, UDP a\u016d JMS) kaj sendependecon (SOAP permesas \u0109ian programan modelon). Kiel ekzemplo el \u0109io, kion SOAPaj procedoj povas fari, aplika\u0135o povas sendi SOAPan mesa\u011don al servo, kiu ebligis retservojn kiel landmerkada premia datumbazo- kun la argumentoj por ser\u0109o. La servo redonas XML-formigitan dokumenton kun la rezultataj datumoj, ekz. premioj, lokoj, trajtoj. \u0108ar la datumo redoni\u011dis en normigata ma\u015din-legebla formato, \u011di povas poste integri\u011di rekte al la petanta aplika\u0135o.",
+          "SOAP edo Simple Object Access Protocol (Objektuak eskuratzeko protokolo sinplea) sare baten XML formatuan mezuak elkartrukatzeko sortutako protokoloa da, normalean HTTP protokoloaren gainean erabiltzen delarik. Batez ere eskuratzeko erabiltzen den protokoloa da."
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Specification"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/SOAP?oldid=1107766999&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "21962"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/latestReleaseDate",
+        "Values": [
+          "2007-04-27"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/latestReleaseVersion",
+        "Values": [
+          "1.2"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/designer",
+        "Values": [
+          "http://dbpedia.org/resource/Don_Box",
+          "http://dbpedia.org/resource/Dave_Winer"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/SOAP"
+        ]
+      }
+    ]
+  }
+]

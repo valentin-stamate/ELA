@@ -1,0 +1,157 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q2072087",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729773891"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T10:41:11Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "primitieve computer programmeertaal",
+          "limbaj de programare",
+          "Programmiersprache",
+          "\u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "primitive computer programming language",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "P\u2032\u2032"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "P prime prime",
+          "P\"",
+          "P''"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "7"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "6"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q2072087-E5FE1311-9123-411B-A93E-A2FC1EF921A3"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P287",
+        "Values": [
+          "http://www.wikidata.org/entity/Q943361"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P571",
+        "Values": [
+          "1964-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P646",
+        "Values": [
+          "/m/06ypf2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q275596",
+          "http://www.wikidata.org/entity/Q223335"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P646",
+        "Values": [
+          "http://g.co/kg/m/06ypf2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P287",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q2072087-80CD899F-CC25-4FC9-BF09-F4BCE20D7762"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P571",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q2072087-B7195E67-37D3-4E51-9E1D-1137BBEAC319"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P646",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q2072087-5D035940-2B8C-46F1-BD99-FA670834CDAC"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q2072087-099F31D0-82C5-4571-9A72-61313E199EFD"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q2072087-bf3b7946-4c49-8884-50f1-2b599aca9e53",
+          "http://www.wikidata.org/entity/statement/Q2072087-DD34766D-04FF-4589-BDC1-D3D47F1AD475"
+        ]
+      }
+    ]
+  }
+]

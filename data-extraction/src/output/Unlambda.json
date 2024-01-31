@@ -1,0 +1,264 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Unlambda",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatFunctionalLanguages",
+          "http://schema.org/Language",
+          "http://dbpedia.org/ontology/ProgrammingLanguage",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Unlambda"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Unlambda\uff08\u30a2\u30f3\u30e9\u30e0\u30c0\uff09\u306f\u30b3\u30f3\u30d3\u30cd\u30fc\u30bf\u8ad6\u7406\u3068\u30e9\u30e0\u30c0\u8a08\u7b97\u306b\u57fa\u3065\u304f\u3001\u4ed5\u69d8\u306e\u5c0f\u3055\u306a\u3001\u307b\u307c\u7d14\u7c8b\u306a\u95a2\u6570\u578b\u8a00\u8a9e\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3042\u308b\u3002\u30c7\u30d3\u30c3\u30c9\u30fb\u30de\u30c9\u30ec(David Madore)\u306b\u3088\u3063\u3066\u8a2d\u8a08\u3055\u308c\u305f\u3002",
+          "Unlambda es un lenguaje de programaci\u00f3n inventado por .Este lenguaje es producto de la intersecci\u00f3n entre dos lenguajes de programaci\u00f3n \"marginales\". \n* Lenguajes de programaci\u00f3n ofuscados o lenguaje de programaci\u00f3n esot\u00e9rico, de los cuales el representante can\u00f3nico es INTERCAL. Esto significa que este lenguaje fue dise\u00f1ado para hacer la programaci\u00f3n dif\u00edcil y sufrida. \n* Lenguajes de programaci\u00f3n funcional, de los cuales el representante can\u00f3nico es Scheme (un dialecto de Lisp). Esto significa que el \u00fanico objeto manipulado por el lenguaje es la funci\u00f3n.",
+          "Unlambda \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica inventada por David Madore, baseada em l\u00f3gica combinat\u00f3ria: uma vers\u00e3o do c\u00e1lculo lambda que omite o operador lambda. Na linguagem, h\u00e1 duas fun\u00e7\u00f5es pr\u00e9-determinadas, s e k, e um operador de \"aplica\u00e7\u00e3o\" (`, o caractere de acento grave). Essas fun\u00e7\u00f5es tornam a linguagem Turing-completa, mas tamb\u00e9m h\u00e1 operadores de entrada e sa\u00edda para possibilitar intera\u00e7\u00e3o com o usu\u00e1rio, algumas fun\u00e7\u00f5es de atalho e uma fun\u00e7\u00e3o para avalia\u00e7\u00e3o pregui\u00e7osa.",
+          "Unlambda is a minimal, \"nearly pure\" functional programming language invented by David Madore. It is based on combinatory logic, an expression system without the lambda operator or free variables. It relies mainly on two built-in functions (s and k) and an apply operator (written `, the backquote character). These alone make it Turing-complete, but there are also some input/output (I/O) functions to enable interacting with the user, some shortcut functions, and a lazy evaluation function. Variables are unsupported.",
+          "Unlambda \u2014 \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043d\u043d\u044b\u0439 \u0414\u044d\u0432\u0438\u0434\u043e\u043c \u041c\u044d\u0434\u043e\u0440\u043e\u043c (David Madore). \u041e\u043d \u043e\u0441\u043d\u043e\u0432\u0430\u043d \u043d\u0430 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442\u043e\u0440\u043d\u043e\u0439 \u043b\u043e\u0433\u0438\u043a\u0435, \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435 \u043b\u044f\u043c\u0431\u0434\u0430-\u0438\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 lambda. \u042f\u0437\u044b\u043a \u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u043d\u0430 \u0434\u0432\u0435 \u0432\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (s \u0438 k) \u0438 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u0430\u043f\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 (`). \u0423\u0436\u0435 \u044d\u0442\u043e \u0434\u0435\u043b\u0430\u0435\u0442 \u044f\u0437\u044b\u043a \u043f\u043e\u043b\u043d\u044b\u043c \u043f\u043e \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0443, \u043d\u043e \u0432 \u043d\u0451\u043c \u0442\u0430\u043a\u0436\u0435 \u0435\u0441\u0442\u044c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u0439 \u0432\u0432\u043e\u0434\u0430-\u0432\u044b\u0432\u043e\u0434\u0430 \u0434\u043b\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u043c, \u0444\u0443\u043d\u043a\u0446\u0438\u044f \u0434\u043b\u044f \u043b\u0435\u043d\u0438\u0432\u044b\u0445 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0435 \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u044b \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439.",
+          "Unlambda est un langage minimal de programmation fonctionnelle invent\u00e9 par David Madore. Il est fond\u00e9 sur le principe de la logique combinatoire, une version du lambda-calcul qui omet l'op\u00e9rateur lambda. Il repose principalement sur deux fonctions int\u00e9gr\u00e9es (s et k) et sur un op\u00e9rateur apply (\u00e9crit `, le guillemet invers\u00e9). Il constitue de ce fait un langage Turing-complet et comporte en outre quelques fonctions d'E/S permettant une interaction avec l'utilisateur, diverses fonctions de raccourcis et une fonction d'\u00e9valuation paresseuse.",
+          "Unlambda - minimalistyczny j\u0119zyk funkcyjny, w kt\u00f3rym funkcje wbudowane, oznaczane jedn\u0105 liter\u0105, s\u0105 jedynymi poprawnymi i pe\u0142noprawnymi obiektami. Jest zaliczany do tzw. j\u0119zyk\u00f3w ezoterycznych i jest kompletny w sensie Turinga (niekt\u00f3rzy uwa\u017caj\u0105, \u017ce jest to funkcyjna wersja j\u0119zyka Brainfuck).",
+          "Unlambda David Madore-k asmatutako programazio lengoaia da. Lengoaia hau bi programazio lengoaia baztertuen arteko elkargunea da. \n* Programazio lengoaia esoterikoak, horietatik ordezkari kanonikoa INTERCAL dena. Honek esan nahi du programazioa zaila eta jasankorra izango dela. \n* , horietatik ordezkari kanonikoa delarik (Lisp-en dialektoa). Honek esan nahi du lengoaiak maneiatzen duen objektu bakarra funtzioa dela."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "Unlambda"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/homepage",
+        "Values": [
+          "http://www.madore.org/~david/programs/unlambda"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "Unlambda"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Functional_languages",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "146927"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1079115843"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/SKI_combinator_calculus",
+          "http://dbpedia.org/resource/Functional_programming_language",
+          "http://dbpedia.org/resource/Eager_evaluation",
+          "http://dbpedia.org/resource/Purely_functional_language",
+          "http://dbpedia.org/resource/Currying",
+          "http://dbpedia.org/resource/First-class_object",
+          "http://dbpedia.org/resource/Purely_functional_programming",
+          "http://dbpedia.org/resource/Turing-complete",
+          "http://dbpedia.org/resource/Esoteric_programming_language",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/Fixed_point_combinator",
+          "http://dbpedia.org/resource/Free_and_open-source_software",
+          "http://dbpedia.org/resource/Abstraction_elimination",
+          "http://dbpedia.org/resource/Java_(programming_language)",
+          "http://dbpedia.org/resource/Lambda_calculus",
+          "http://dbpedia.org/resource/GNU_General_Public_License",
+          "http://dbpedia.org/resource/Call_with_current_continuation",
+          "http://dbpedia.org/resource/Lazy_evaluation",
+          "http://dbpedia.org/resource/Combinatory_logic",
+          "http://dbpedia.org/resource/Category:Functional_languages",
+          "http://dbpedia.org/resource/Syntactic_sugar",
+          "http://dbpedia.org/resource/Input/output",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/Hello_world_program",
+          "http://dbpedia.org/resource/Backquote",
+          "http://dbpedia.org/resource/Functional_programming",
+          "http://dbpedia.org/resource/Type_system",
+          "http://dbpedia.org/resource/Iota_and_Jot",
+          "http://dbpedia.org/resource/Scheme_(programming_language)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "https://books.google.com/books%3Fid=LlR6__OpAxoC&dq=%22Unlambda%22&pg=PA205",
+          "http://www.cs.unc.edu/~stotts/144/lectures/lect28apr.pdf",
+          "http://repl.it/%23:languages"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://eu.dbpedia.org/resource/Unlambda",
+          "http://rdf.freebase.com/ns/m.012ryn",
+          "http://yago-knowledge.org/resource/Unlambda",
+          "http://www.wikidata.org/entity/Q670180",
+          "http://hu.dbpedia.org/resource/Unlambda",
+          "http://ja.dbpedia.org/resource/Unlambda",
+          "http://et.dbpedia.org/resource/Unlambda",
+          "http://ru.dbpedia.org/resource/Unlambda",
+          "http://sr.dbpedia.org/resource/\u0423\u043d\u043b\u0430\u043c\u0431\u0434\u0430",
+          "http://pt.dbpedia.org/resource/Unlambda",
+          "http://pl.dbpedia.org/resource/Unlambda",
+          "https://global.dbpedia.org/id/4r4Ep",
+          "http://fr.dbpedia.org/resource/Unlambda",
+          "http://es.dbpedia.org/resource/Unlambda"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Clarify",
+          "http://dbpedia.org/resource/Template:Refimprove",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Cite_book",
+          "http://dbpedia.org/resource/Template:URL",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Start_date_and_age",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:Official_website"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/designer",
+        "Values": [
+          "David Madore"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/developer",
+        "Values": [
+          "David Madore"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseDate",
+        "Values": [
+          "1999-12-20"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseVersion",
+        "Values": [
+          "2"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/license",
+        "Values": [
+          "GPL 2.0 or later"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/paradigm",
+        "Values": [
+          "Nearly pure functional"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/programmingLanguage",
+        "Values": [
+          "http://dbpedia.org/resource/Scheme_(programming_language)",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/Java_(programming_language)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/released",
+        "Values": [
+          "1999-06-28"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/typing",
+        "Values": [
+          "http://dbpedia.org/resource/Type_system"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "Unlambda\uff08\u30a2\u30f3\u30e9\u30e0\u30c0\uff09\u306f\u30b3\u30f3\u30d3\u30cd\u30fc\u30bf\u8ad6\u7406\u3068\u30e9\u30e0\u30c0\u8a08\u7b97\u306b\u57fa\u3065\u304f\u3001\u4ed5\u69d8\u306e\u5c0f\u3055\u306a\u3001\u307b\u307c\u7d14\u7c8b\u306a\u95a2\u6570\u578b\u8a00\u8a9e\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3042\u308b\u3002\u30c7\u30d3\u30c3\u30c9\u30fb\u30de\u30c9\u30ec(David Madore)\u306b\u3088\u3063\u3066\u8a2d\u8a08\u3055\u308c\u305f\u3002",
+          "Unlambda es un lenguaje de programaci\u00f3n inventado por .Este lenguaje es producto de la intersecci\u00f3n entre dos lenguajes de programaci\u00f3n \"marginales\". \n* Lenguajes de programaci\u00f3n ofuscados o lenguaje de programaci\u00f3n esot\u00e9rico, de los cuales el representante can\u00f3nico es INTERCAL. Esto significa que este lenguaje fue dise\u00f1ado para hacer la programaci\u00f3n dif\u00edcil y sufrida. \n* Lenguajes de programaci\u00f3n funcional, de los cuales el representante can\u00f3nico es Scheme (un dialecto de Lisp). Esto significa que el \u00fanico objeto manipulado por el lenguaje es la funci\u00f3n.",
+          "Unlambda \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica inventada por David Madore, baseada em l\u00f3gica combinat\u00f3ria: uma vers\u00e3o do c\u00e1lculo lambda que omite o operador lambda. Na linguagem, h\u00e1 duas fun\u00e7\u00f5es pr\u00e9-determinadas, s e k, e um operador de \"aplica\u00e7\u00e3o\" (`, o caractere de acento grave). Essas fun\u00e7\u00f5es tornam a linguagem Turing-completa, mas tamb\u00e9m h\u00e1 operadores de entrada e sa\u00edda para possibilitar intera\u00e7\u00e3o com o usu\u00e1rio, algumas fun\u00e7\u00f5es de atalho e uma fun\u00e7\u00e3o para avalia\u00e7\u00e3o pregui\u00e7osa.",
+          "Unlambda \u2014 \u043c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043d\u043d\u044b\u0439 \u0414\u044d\u0432\u0438\u0434\u043e\u043c \u041c\u044d\u0434\u043e\u0440\u043e\u043c (David Madore). \u041e\u043d \u043e\u0441\u043d\u043e\u0432\u0430\u043d \u043d\u0430 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442\u043e\u0440\u043d\u043e\u0439 \u043b\u043e\u0433\u0438\u043a\u0435, \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u0435 \u043b\u044f\u043c\u0431\u0434\u0430-\u0438\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u043f\u0443\u0441\u043a\u0430\u0435\u0442 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 lambda. \u042f\u0437\u044b\u043a \u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u043d\u0430 \u0434\u0432\u0435 \u0432\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 (s \u0438 k) \u0438 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u0430\u043f\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u0438 (`). \u0423\u0436\u0435 \u044d\u0442\u043e \u0434\u0435\u043b\u0430\u0435\u0442 \u044f\u0437\u044b\u043a \u043f\u043e\u043b\u043d\u044b\u043c \u043f\u043e \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0443, \u043d\u043e \u0432 \u043d\u0451\u043c \u0442\u0430\u043a\u0436\u0435 \u0435\u0441\u0442\u044c \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u0439 \u0432\u0432\u043e\u0434\u0430-\u0432\u044b\u0432\u043e\u0434\u0430 \u0434\u043b\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u043c, \u0444\u0443\u043d\u043a\u0446\u0438\u044f \u0434\u043b\u044f \u043b\u0435\u043d\u0438\u0432\u044b\u0445 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 \u0438 \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0435 \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u044b \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439. \u0411\u0443\u0434\u0443\u0447\u0438 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u044f\u0437\u044b\u043a\u043e\u043c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, Unlambda \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0430 \u0434\u043b\u044f \u0434\u0435\u043c\u043e\u043d\u0441\u0442\u0440\u0430\u0446\u0438\u0438 \u043e\u0447\u0435\u043d\u044c \u0447\u0438\u0441\u0442\u043e\u0433\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0430 \u043d\u0435 \u0434\u043b\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f. \u0413\u043b\u0430\u0432\u043d\u0430\u044f \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u2014 \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 \u043e\u0431\u044b\u0447\u043d\u044b\u0445 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \u0438 \u0442\u0438\u043f\u043e\u0432 \u0434\u0430\u043d\u043d\u044b\u0445 \u2014 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u043e\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u0430 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u0442\u0438\u043f\u043e\u043c \u0434\u0430\u043d\u043d\u044b\u0445. \u041d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u044d\u0442\u043e, \u0434\u0430\u043d\u043d\u044b\u0435 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0432\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0434\u0435\u043d\u044b \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439, \u043a\u0430\u043a \u0432 \u043b\u044f\u043c\u0431\u0434\u0430-\u0438\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0438. \u0424\u0443\u043d\u043a\u0446\u0438\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0430\u0440\u0433\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 \u043a\u0430\u0440\u0440\u0438\u043d\u0433\u0430. Unlambda \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u043d\u0430 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0435 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0430\u0431\u0441\u0442\u0440\u0430\u043a\u0446\u0438\u0439 (abstraction elimination) \u0438\u043b\u0438 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0432\u0441\u0435\u0445 \u0441\u043e\u0445\u0440\u0430\u043d\u0451\u043d\u043d\u044b\u0445 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0444\u0443\u043d\u043a\u0446\u0438\u0438. \u041a\u0430\u043a \u0432 \u0447\u0438\u0441\u0442\u043e \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435, \u0432 Unlambda \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043a\u043b\u0430\u0441\u0441\u0430, \u043d\u043e \u0438 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0440\u043e\u0434\u0430.",
+          "Unlambda est un langage minimal de programmation fonctionnelle invent\u00e9 par David Madore. Il est fond\u00e9 sur le principe de la logique combinatoire, une version du lambda-calcul qui omet l'op\u00e9rateur lambda. Il repose principalement sur deux fonctions int\u00e9gr\u00e9es (s et k) et sur un op\u00e9rateur apply (\u00e9crit `, le guillemet invers\u00e9). Il constitue de ce fait un langage Turing-complet et comporte en outre quelques fonctions d'E/S permettant une interaction avec l'utilisateur, diverses fonctions de raccourcis et une fonction d'\u00e9valuation paresseuse.",
+          "Unlambda is a minimal, \"nearly pure\" functional programming language invented by David Madore. It is based on combinatory logic, an expression system without the lambda operator or free variables. It relies mainly on two built-in functions (s and k) and an apply operator (written `, the backquote character). These alone make it Turing-complete, but there are also some input/output (I/O) functions to enable interacting with the user, some shortcut functions, and a lazy evaluation function. Variables are unsupported. Unlambda is free and open-source software distributed under a GNU General Public License (GPL) 2.0 or later.",
+          "Unlambda - minimalistyczny j\u0119zyk funkcyjny, w kt\u00f3rym funkcje wbudowane, oznaczane jedn\u0105 liter\u0105, s\u0105 jedynymi poprawnymi i pe\u0142noprawnymi obiektami. Jest zaliczany do tzw. j\u0119zyk\u00f3w ezoterycznych i jest kompletny w sensie Turinga (niekt\u00f3rzy uwa\u017caj\u0105, \u017ce jest to funkcyjna wersja j\u0119zyka Brainfuck).",
+          "Unlambda David Madore-k asmatutako programazio lengoaia da. Lengoaia hau bi programazio lengoaia baztertuen arteko elkargunea da. \n* Programazio lengoaia esoterikoak, horietatik ordezkari kanonikoa INTERCAL dena. Honek esan nahi du programazioa zaila eta jasankorra izango dela. \n* , horietatik ordezkari kanonikoa delarik (Lisp-en dialektoa). Honek esan nahi du lengoaiak maneiatzen duen objektu bakarra funtzioa dela."
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Unlambda?oldid=1079115843&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "8647"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/latestReleaseDate",
+        "Values": [
+          "1999-12-20"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/latestReleaseVersion",
+        "Values": [
+          "2.0.0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/releaseDate",
+        "Values": [
+          "1999-06-28"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/license",
+        "Values": [
+          "http://dbpedia.org/resource/GNU_General_Public_License"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Unlambda"
+        ]
+      }
+    ]
+  }
+]

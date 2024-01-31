@@ -1,0 +1,250 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q1054365",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1928410753"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-07-03T16:07:59Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "esoterische Programmiersprache",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "esoteric programming language",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\uc778\ud130\uce7c",
+          "INTERCAL",
+          "INTERCAL programoz\u00e1si nyelv",
+          "Intercal"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "INTERCAL Komputillingvo",
+          "INTERCAL",
+          "Compiler Language With No Pronouncable Acronym",
+          "CLWNPA"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "14"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "23"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P18",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Hello%20World%20INTERCAL.png"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P18",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-9d8cb275-4138-836d-dd48-355b2ca9f24f"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-12b48c46-4169-d034-9368-67f9a2d4f89b",
+          "http://www.wikidata.org/entity/statement/Q1054365-8D9DB193-7AFD-436C-A24B-3A977C180D5F"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P348",
+        "Values": [
+          "0.30"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P373",
+        "Values": [
+          "INTERCAL"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P571",
+        "Values": [
+          "1972-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P646",
+        "Values": [
+          "/m/03wxr"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P856",
+        "Values": [
+          "http://www.catb.org/~esr/intercal/"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3381",
+        "Values": [
+          "INTERCAL"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3417",
+        "Values": [
+          "Intercal"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3442",
+        "Values": [
+          "intercal"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28937387"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6366",
+        "Values": [
+          "119881552"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P646",
+        "Values": [
+          "http://g.co/kg/m/03wxr"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P6366",
+        "Values": [
+          "http://ma-graph.org/entity/119881552"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P348",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-d8554426-4c2d-f0bd-70e0-e7f387c01930"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P373",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-1568D12B-3242-4BAD-920F-0EEF0B87E643"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P571",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-A321A45D-DCBD-4B44-BBD0-61EFA333659F"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P646",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-100B0560-5AAC-4B35-A18A-ADFD5C4A4BB0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P856",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-386FA6DC-F7F9-4957-B7B3-72E58F3E4F90"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-CC566C02-3443-468A-89F9-DDBD220F15BB"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3381",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-103A7422-564B-4E82-8178-DCFF3712282F"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3417",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-C16699F9-680F-4806-8240-57BBB29420A6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3442",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-501B1DA7-6F2F-4AAB-A88D-876B3465BA15"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-9E0257DF-E805-4015-9E98-7ECB9C220EB1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6366",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1054365-308583DB-5D73-4FED-8D0B-A4F874FF60E6"
+        ]
+      }
+    ]
+  }
+]

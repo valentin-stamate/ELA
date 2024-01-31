@@ -1,0 +1,99 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Arbol",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatFunctionalLanguages",
+          "http://dbpedia.org/ontology/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u00c1rbol (desambiguaci\u00f3n)",
+          "Arbol"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "65758116"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1112815919"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Arbor_(disambiguation)",
+          "http://dbpedia.org/resource/Vilalba",
+          "http://dbpedia.org/resource/Abrol",
+          "http://dbpedia.org/resource/Antas_de_Ulla",
+          "http://dbpedia.org/resource/Field_of_Arbol",
+          "http://dbpedia.org/resource/Arboll",
+          "http://dbpedia.org/resource/Chile_de_\u00e1rbol",
+          "http://dbpedia.org/resource/Albor"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageDisambiguates",
+        "Values": [
+          "http://dbpedia.org/resource/Field_of_Arbol",
+          "http://dbpedia.org/resource/Arboll"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "https://global.dbpedia.org/id/GdK9",
+          "http://rdf.freebase.com/ns/m.02pnlwd",
+          "http://es.dbpedia.org/resource/\u00c1rbol_(desambiguaci\u00f3n)",
+          "http://gl.dbpedia.org/resource/\u00c1rbol",
+          "http://www.wikidata.org/entity/Q12403097"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Ill",
+          "http://dbpedia.org/resource/Template:Intitle",
+          "http://dbpedia.org/resource/Template:Dab",
+          "http://dbpedia.org/resource/Template:Wikt"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Arbol?oldid=1112815919&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "564"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Arbol"
+        ]
+      }
+    ]
+  }
+]

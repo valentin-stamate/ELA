@@ -1,0 +1,281 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q797302",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "\u09ac\u09bf (\u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09be\u09ae\u09bf\u0982 \u09ad\u09be\u09b7\u09be)",
+          "Lenguaje de programacion B",
+          "Langage B",
+          "B (\u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f)",
+          "\u30d3\u30fc\u3052\u3093\u3054",
+          "\u05e9\u05e4\u05ea B",
+          "Programmeertaal B",
+          "\u57fa\u672c\u8a9e\u8a00",
+          "B (linguaggio di programmazione)",
+          "(B (programming language",
+          "Linguagem de programa\u00e7\u00e3o b",
+          "Linguagem b",
+          "B programm\u0113\u0161anas valoda",
+          "Programmeringsspr\u00e5ket B",
+          "B \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4",
+          "Linguagem de programa\u00e7\u00e3o B",
+          "B (Langage)",
+          "B Facility",
+          "Linguagem B",
+          "Llenguatge de programaci\u00f3 B",
+          "B\u8bed\u8a00",
+          "\u4e59\u8a9e\u8a00",
+          "Linguaggio B",
+          "B (programming language)",
+          "Bahasa pemrograman B",
+          "B programlama dili",
+          "Lenguaje de programaci\u00f3n B"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "14"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "34"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28922885",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/followed by",
+        "Values": [
+          "http://www.wikidata.org/entity/Q15777"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/Q217365",
+          "http://www.wikidata.org/entity/Q1107006"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-44f1c744-42ae-947f-96f1-58151db44127",
+          "http://www.wikidata.org/entity/statement/q797302-DD8052BE-163D-4C05-820D-24459B05C973"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/followed by",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q797302-47bbd6f1-4a27-9f12-860f-59ab52597458"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q797302-A33929FD-C2DB-492A-B5A6-1FD46D400284",
+          "http://www.wikidata.org/entity/statement/Q797302-da1f5f7d-2e0f-4741-91b5-fbd6882aa54c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/designed by",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1107006"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/pronunciation audio",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Beno%C3%AEt%20Prieur-B.wav"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/inception",
+        "Values": [
+          "1969-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/01fk4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/influenced by",
+        "Values": [
+          "http://www.wikidata.org/entity/Q810009"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/name in kana",
+        "Values": [
+          "\u30d3\u30fc\u3052\u3093\u3054"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/different from",
+        "Values": [
+          "http://www.wikidata.org/entity/Q27297"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/File Format Wiki page ID",
+        "Values": [
+          "B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1418502"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/01fk4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/designed by",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-48CA01FF-3630-4C53-B0E7-42C329D93411"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/pronunciation audio",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-cc718863-7b0a-42c1-9414-c7b659d7438e"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/inception",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-6E3DC8A0-6A5A-4F4A-A5EA-FF766FD01307"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-CF7E150F-FFF7-4D16-BEE5-8F560476AA7E"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/influenced by",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-49FECB37-A3F6-4B97-B110-2AAB807E5B59"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/name in kana",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-68B595EE-6232-4C95-B5AB-2F37D1980B93"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/different from",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-1a32244f-4ea4-4bab-c091-4d311d057ebb"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/File Format Wiki page ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-684B9363-470D-4840-A319-BCA12393B267"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q797302-54557529-2A73-4567-B342-411B7F7A4A52"
+        ]
+      },
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "2012866488"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-11-17T10:10:48Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "\u043c\u043e\u0432\u0430 \u043f\u0440\u0430\u0433\u0440\u0430\u043c\u0430\u0432\u0430\u043d\u044c\u043d\u044f, \u044f\u043a\u0430\u044f \u043f\u0430\u043f\u044f\u0440\u044d\u0434\u043d\u0456\u0447\u0430\u043b\u0430 C",
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "linguaggiu di prugrammazzioni",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "AT&T \ubca8 \uc5f0\uad6c\uc18c\uc758 \ucf04 \ud1b0\uc2a8\uc774 \uac1c\ubc1c\ud55c \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "\u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+          "limbaj de programare",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "\u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629",
+          "Programmiersprache, entwickelt von Bell Labs und Vorg\u00e4nger von C",
+          "langage de programmation",
+          "linguaxe de programaci\u00f3n",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "\u7a0b\u5e8f\u7de8\u7a0b\u8a9e\u8a00",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37",
+          "proced\u016brorient\u0113ta programm\u0113\u0161anas valoda",
+          "procedural programming language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u0411\u0438",
+          "B (programifo-linguo)",
+          "B\u8a00\u8a9e",
+          "\u0baa\u0bbf",
+          "B (programlama dili)",
+          "B (\u056e\u0580\u0561\u0563\u0580\u0561\u057e\u0578\u0580\u0574\u0561\u0576 \u056c\u0565\u0566\u0578\u0582)",
+          "Llenguatge B",
+          "Programski jezik B",
+          "B (bahasa pemrograman)",
+          "Linguaxe de programaci\u00f3n B",
+          "\u0628\u064a",
+          "\u0d2c\u0d3f",
+          "Bahasa pengaturcaraan B",
+          "B",
+          "\u0628\u06cc (\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u0646\u0648\u06cc\u0633\u06cc)",
+          "B\u8bed\u8a00",
+          "\u09ac\u09bf",
+          "B (ng\u00f4n ng\u1eef l\u1eadp tr\u00ecnh)",
+          "B (programoz\u00e1si nyelv)",
+          "B\u8a9e\u8a00"
+        ]
+      }
+    ]
+  }
+]

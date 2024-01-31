@@ -1,0 +1,112 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q43267126",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1839331931"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-02-22T16:33:39Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "yezh programmi\u00f1",
+          "langage de programmation"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Deadfish"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "6"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43267126-C7BA1DA4-C7AD-4619-9573-2744A33B5769",
+          "http://www.wikidata.org/entity/statement/Q43267126-4D49CA94-41BA-4924-A5C2-0E5702ACDA24"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P577",
+        "Values": [
+          "2014-02-23T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1324",
+        "Values": [
+          "https://github.com/craigmbooth/deadfish"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28937387"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P577",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43267126-d1b0cfc1-4ab1-060f-41d9-a761531eeada"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1324",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43267126-04BC4AE3-F228-4E7D-8180-DAF05969B923"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43267126-46C8F5CB-CD1D-4FF3-AED9-95D638AEE32B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43267126-CC81E6BB-1677-4927-B6B3-1C73146A3512"
+        ]
+      }
+    ]
+  }
+]

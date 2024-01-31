@@ -1,0 +1,65 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q28457672",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729786518"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T11:16:40Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "imperative programming language",
+          "Programmiersprache",
+          "programmation imp\u00e9rative"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Toi"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "2"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143",
+          "http://www.wikidata.org/entity/Q21562092"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q28457672-655158db-4fb9-57b0-27e0-bea7cff5278e",
+          "http://www.wikidata.org/entity/statement/Q28457672-adce3c2f-46f8-478d-0133-35af35d2ffbe"
+        ]
+      }
+    ]
+  }
+]

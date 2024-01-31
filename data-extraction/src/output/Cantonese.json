@@ -1,0 +1,951 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Cantonese",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfHongKong",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfNewZealand",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfThePhilippines",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfCanada",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfMacau",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfTheUnitedStates",
+          "http://umbel.org/umbel/rc/Language",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfChina",
+          "http://schema.org/Language",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfMalaysia",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfAustralia"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Chino yue",
+          "\u7ca4\u8a9e",
+          "Canton\u00e9s est\u00e1ndar",
+          "Lingua cantonese",
+          "Standaardkantonees",
+          "\u0635\u064a\u0646\u064a\u0629 \u064a\u0624",
+          "Cantonais standard",
+          "Canton\u00e8s",
+          "\uc6e8\uc5b4 (\uc5b8\uc5b4)",
+          "J\u0119zyk yue",
+          "Rumpun bahasa Yue",
+          "\u5e7f\u5dde\u8bdd",
+          "Cantonais",
+          "\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0434\u0438\u0430\u043b\u0435\u043a\u0442",
+          "L\u00edngua cantonesa",
+          "Bahasa Kanton",
+          "\u042e\u044d (\u044f\u0437\u044b\u043a)",
+          "Kantonesische Sprache",
+          "Cantonese",
+          "Kantona lingvo",
+          "Kantonees",
+          "\u039a\u03b1\u03bd\u03c4\u03bf\u03bd\u03b5\u03b6\u03b9\u03ba\u03ae \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1",
+          "J\u00fce (jazyk)",
+          "\u042e\u0435 (\u043c\u043e\u0432\u0430)",
+          "\u0635\u064a\u0646\u064a\u0629 \u064a\u0648\u064a",
+          "\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430",
+          "\u7ca4\u8bed",
+          "Yue txinera",
+          "Kanton\u0161tina",
+          "L\u00edngua yue",
+          "Standardowy j\u0119zyk kanto\u0144ski",
+          "Kantonesiska",
+          "\uad11\ub465\uc5b4",
+          "Xin\u00e8s Yue"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Cantonese (traditional Chinese: \u5ee3\u6771\u8a71; simplified Chinese: \u5e7f\u4e1c\u8bdd; Cantonese Yale: Gw\u00f3ngd\u016bng w\u00e1) is a language within the Chinese (Sinitic) branch of the Sino-Tibetan languages originating from the city of Guangzhou (historically known as Canton) and its surrounding area in Southeastern China. It is the traditional prestige variety of the Yue Chinese dialect group, which has over 80 million native speakers. While the term Cantonese specifically refers to the prestige variety, it is often used to refer to the entire Yue subgroup of Chinese, including related but largely mutually unintelligible languages and dialects such as Taishanese.",
+          "\u7cb5\u8a9e\uff0c\u4fd7\u79f0\u5ee3\u6771\u8a71\uff0c\u5728\u7cb5\u8a9e\u4f7f\u7528\u5340\u4e2d\u53c8\u7a31\u767d\u8a71\uff0c\u662f\u6f22\u85cf\u8a9e\u7cfb\u6f22\u8a9e\u65cf\u7684\u4e00\u7a2e\u8072\u8abf\u8a9e\u8a00\uff0c\u5c6c\u65bc\u6771\u5357\u4e9e\u5927\u9678\u8a9e\u8a00\u5340\u57df\uff0c\u5e38\u7528\u8a5e\u4e2d\u6309\u4e0d\u540c\u65b9\u5f0f\u8a08\u6578\u6709\u5169\u6210 \u3001\u4e00\u767e\u81f3\u5169\u767e\u500b\u4f97\u53f0\u8a9e\u5e95\u5c64\u8a5e\uff0c\u5176\u9084\u4fdd\u7559\u8f03\u591a\u7684\u53e4\u6f22\u8a9e\u7279\u5fb5\uff0c\u8a9e\u97f3\u4e0a\u7ca4\u8a9e\u4ee3\u8868\u5ee3\u5dde\u8a71\u8f03\u5b8c\u6574\u5730\u4fdd\u7559\u5510\u5b8b\u4e2d\u53e4\u8a9e\u97f3\u7cfb\u7d71\uff0c\u5e73\u4ec4\u7528\u97fb\u5951\u5408\u5510\u5b8b\u8a69\u8a5e\uff1b\u8a5e\u5f59\u4e0a\u4fdd\u7559\u8af8\u591a\u534a\u6587\u534a\u767d\u7684\u53e4\u6f22\u8a9e\u8a5e\u6216\u8a9e\u7d20\uff0c\u7528\u8a9e\u6709\u6587\u767d\u593e\u96dc\u7279\u5fb5\u3002\u82e5\u8996\u6f22\u8a9e\u70ba\u4e00\u7a2e\u8a9e\u8a00\uff0c\u5247\u7cb5\u8a9e\u662f\u6f22\u8a9e\u5728\u5e7f\u4e1c\u548c\u5e7f\u897f\u5730\u533a\u5f62\u6210\u7684\u4e00\u7ea7\u65b9\u8a00\uff0c\u4e0b\u5206\u6578\u652f\u4e8c\u7d1a\u65b9\u8a00\uff1b\u82e5\u8996\u6f22\u8a9e\u70ba\u6f22\u8a9e\u65cf\uff0c\u5247\u7cb5\u8a9e\u70ba\u5176\u4e2d\u4e00\u79cd\u8a9e\u8a00\uff0c\u4e0b\u6709\u6578\u652f\u7cb5\u8a9e\u7684\u65b9\u8a00\u3002 \u5168\u7403\u4ee5\u7cb5\u8a9e\u70ba\u6bcd\u8a9e\u8005\u67098490\u842c\u4eba\uff0c\u4e3b\u8981\u5206\u4f48\u65bc\u4e2d\u570b\u5927\u9678\uff08\u5ee3\u6771\u3001\u5ee3\u897f\uff09\u3001\u9999\u6e2f\u548c\u6fb3\u9580\u7b49\u5730\uff0c\u5728\u5ee3\u6771\u7701\u4e00\u5104\u4eba\u53e3\u4e2d\uff0c\u4f7f\u7528\u4eba\u6578\u8d85\u904e6700\u842c\uff0c\u662f\u5ee3\u6771\u6700\u4e3b\u8981\u7684\u8bed\u8a00\u3002\u5728\u4e2d\u570b\u5883\u5167\uff0c\u4ee5\u7cb5\u8a9e\u70ba\u6bcd\u8a9e\u7684\u7fa4\u9ad4\u662f\u7e7c\u5b98\u8a71\u548c\u5433\u8a9e\u4e4b\u5f8c\u7684\u7b2c\u4e09\u540d\u3002\u968f\u7740\u8fd1\u4ee3\u4e24\u5e7f\u5730\u533a\u4eba\u53e3\u5411\u6d77\u5916\u8fc1\u5f99\uff0c\u7ca4\u8bed\u5728\u52a0\u62ff\u5927\u53ca\u6fb3\u6d32\u7b49\u5730\u4e4b\u83ef\u4eba\u793e\u5340\u4e2d\u4e3a\u4f7f\u7528\u4eba\u6578\u6700\u591a\u7684\u6f22\u8a9e\u3002\u7cb5\u8a9e\u4e5f\u662f\u9664\u4e86\u5b98\u8a71\u5916\uff0c\u552f\u4e00\u5728\u4e2d\u56fd\u4e4b\u5916\u7684\u5927\u5b78\u6709\u7368\u7acb\u7814\u7a76\u7684\u6f22\u8a9e\u65cf\u8a9e\u8a00\u3002\u6b64\u5916\uff0c\u7cb5\u8a9e\u5728\u6771\u5357\u4e9e\u7684\u65b0\u52a0\u5761\u3001\u99ac\u4f86\u897f\u4e9e\u3001\u8d8a\u5357\u3001\u5370\u5c3c\u7b49\u4ee5\u53ca\u5317\u7f8e\u6d32\u3001\u6b50\u6d32\u548c\u6fb3\u6d32\u3001\u65b0\u897f\u862d\u3001\u8056\u8a95\u5cf6\u7b49\u5730\u7684\u83ef\u4eba\u793e\u5340\u90fd\u6709\u5ee3\u6cdb\u5206\u4f48\u3002",
+          "Standaardkantonees of Guangzhouhua is het bekendste dialect uit de Kantonese taal. Het Standaardkantonees wordt samen met het Standaardmandarijn gebruikt op scholen, radiozenders en televisiezenders in Hongkong en Macau. Het is ook de omgangstaal in het en Macause parlement. \n* Sino-Tibetaanse talen \n* Chinese talen \n* Kantonees \n* \n* Standaardkantonees",
+          "\u0635\u064a\u0646\u064a\u0629 \u064a\u0648\u064a \u0647\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0644\u063a\u0627\u062a \u0627\u0644\u0635\u064a\u0646\u064a\u0629 \u0627\u0644\u0645\u0646\u062a\u0634\u0631\u0629 \u0641\u064a \u062c\u0646\u0648\u0628 \u0627\u0644\u0635\u064a\u0646\u061b \u0648\u064a\u0628\u0644\u063a \u0639\u062f\u062f \u0627\u0644\u0645\u062a\u062d\u062f\u062b\u064a\u0646 \u0628\u0647\u0627 62 \u0645\u0644\u064a\u0648\u0646 \u0646\u0633\u0645\u0629. \u063a\u0627\u0644\u0628\u064b\u0627 \u0645\u0627 \u064a\u064f\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a \u0644\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u0623\u0643\u0645\u0644\u0647\u0627\u060c \u0644\u0643\u0646 \u0627\u0644\u0644\u063a\u0648\u064a\u064a\u0646 \u064a\u0641\u0636\u0644\u0648\u0646 \u062d\u062c\u0632 \u0647\u0630\u0627 \u0627\u0644\u0627\u0633\u0645 \u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062a\u0646\u0648\u0639\u0629 \u0645\u0646 \u0642\u0648\u0627\u0646\u063a\u062a\u0634\u0648 (\u0643\u0627\u0646\u062a\u0648\u0646) \u0648 \u0647\u0648\u0646\u062c \u0643\u0648\u0646\u062c \u0648 \u0645\u0627\u0643\u0627\u0648\u060c \u0648\u0647\u064a \u0644\u0647\u062c\u0629 \u0647\u064a\u0628\u0629. \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u062a\u0627\u064a\u0634\u0627\u0646\u064a\u0629\u060c \u0645\u0646 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0633\u0627\u062d\u0644\u064a\u0629 \u0641\u064a \u062c\u064a\u0627\u0646\u063a\u0645\u0646 \u0627\u0644\u0648\u0627\u0642\u0639\u0629 \u062c\u0646\u0648\u0628 \u063a\u0631\u0628 \u0642\u0648\u0627\u0646\u063a\u062a\u0634\u0648\u060c \u0643\u0627\u0646\u062a \u0644\u063a\u0629 \u0645\u0639\u0638\u0645 \u0627\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646 \u0645\u0646 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062a\u0627\u0633\u0639 \u0639\u0634\u0631 \u0645\u0646 \u0642\u0648\u0627\u0646\u063a\u062f\u0648\u0646\u063a \u0625\u0644\u0649 \u062c\u0646\u0648\u0628 \u0634\u0631\u0642 \u0622\u0633\u064a\u0627 \u0648 \u0623\u0645\u0631\u064a\u0643\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629. \u0648\u0643\u0627\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646 \u0627\u0644\u0644\u0627\u062d\u0642\u064a\u0646 \u064a\u062a\u062d\u062f\u062b\u0648\u0646 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629.",
+          "J\u00fce je \u010d\u00ednsk\u00fd jazyk, kter\u00fdm se mluv\u00ed v ji\u017en\u00ed \u010c\u00edn\u011b, a to p\u0159edev\u0161\u00edm v provinci\u00edch Kuang-tung a Kuang-si. \u010casto je naz\u00fdv\u00e1n tak\u00e9 jako kanton\u0161tina, ale lingvist\u00e9 pojem kanton\u0161tina pou\u017e\u00edvaj\u00ed v u\u017e\u0161\u00edm smyslu, a to pro ten dialekt j\u00fce, kter\u00fdm se mluv\u00ed ve m\u011bst\u011b Kanton, v Hongkongu a Macau (roz\u0161\u00ed\u0159en\u00ed v t\u011bchto d\u016fle\u017eit\u00fdch m\u011bstech mu p\u0159ineslo velk\u00e9 roz\u0161\u00ed\u0159en\u00ed v m\u00e9di\u00edch a pozici ). J\u00fce pat\u0159\u00ed k nejkonzervativn\u011bj\u0161\u00edm \u010d\u00ednsk\u00fdm jazyk\u016fm co se t\u00fd\u010de zachov\u00e1n\u00ed fin\u00e1l a t\u00f3n\u016f ze star\u00e9 \u010d\u00edn\u0161tiny, naopak zm\u011bnou pro\u0161ly inici\u00e1ly a medi\u00e1ly, kter\u00e9 v ostatn\u00edch \u010d\u00ednsk\u00fdch jazyc\u00edch z\u016fstaly zachov\u00e1ny.",
+          "La lingua cantonese (\u7cb5\u8a9e / \u7ca4\u8bed (romanizzato: Yu\u00e8y\u01d4), o lingua Yue, \u00e8 una delle principali lingue della famiglia delle lingue cinesi. Raggruppa una serie di dialetti, tra cui spicca quello di Hong Kong, che \u00e8 il pi\u00f9 prestigioso e forma il cantonese standard (che \u00e8 una particolare variet\u00e0: la famiglia di lingue e le variet\u00e0 prestigiose non vanno confuse, come spesso pu\u00f2 accadere). Al 2022, \u00e8 parlata da 85,6 milioni di parlanti totali.",
+          "\uad11\ub465\uc5b4(\uc911\uad6d\uc5b4 \uc815\uccb4\uc790: \u5ee3\u6771\u8a71, \uac04\uccb4\uc790: \u5e7f\u4e1c\u8bdd, \uc6d4\ubcd1: gwong2 dung1 waa2 \uad9d\ub3d9\uc640[*], \ud55c\uc5b4 \ubcd1\uc74c: Gu\u01cengd\u014dnghu\u00e0 \uad11\ub3d9\ud654[*], \uc601\uc5b4: Cantonese \uce94\ud130\ub2c8\uc988[*])\ub294 \uc911\uad6d\uc5b4 \ubc29\uc5b8\uc758 \ud558\ub098\ub85c, \uc6d4\uc5b4\uc758 \ubc29\uc5b8\uc758 \uc77c\uc885\uc774\ub2e4. \ud55c\uad6d\uc5d0\uc11c\ub294 \ud55c\uad6d\uc5b4\ub85c \uad11\ub3d9\uc5b4\ub77c\uace0 \ud55c\ub2e4. \uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ub0a8\ubd80\uc758 \uc5b8\uc5b4\uc774\uba70, \uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \uc77c\ubd80 \uc9c0\uc5ed 8\ucc9c\ub9cc \uba85\uacfc \ub3d9\ub0a8\uc544\uc2dc\uc544(\ud2b9\ud788 \uc2f1\uac00\ud3ec\ub974, \ub9d0\ub808\uc774\uc2dc\uc544), \ubbf8\uad6d, \uce90\ub098\ub2e4 \ub4f1 \ud574\uc678 \ud654\uad50 1\ucc9c\ub9cc \uba85, \ud604\uc7ac \uc57d 1\uc5b5 \uba85\uc774 \uc0ac\uc6a9\ud558\ub294 \uac83\uc73c\ub85c \ucd94\uc815\ub41c\ub2e4. \uad11\ub465\uc131(\u5ee3\u6771\u7701), \ud64d\ucf69(\u9999\u6e2f), \ub9c8\uce74\uc624(\u6fb3\u9580), \uc4f0\ucd28\uc131(\u56db\u5ddd\u7701), \uad11\uc2dc\uc8a1\uc871\uc790\uce58\uad6c(\u5ee3\u897f\u58ef\u65cf\u81ea\u6cbb\u5340), \ud478\uc820\uc131(\u798f\u5efa\u7701), \uc7a5\uc2dc\uc131(\u6c5f\u897f\u7701), \ud6c4\ub09c\uc131(\u6e56\u5357\u7701) \ub4f1\uc758 \uc9c0\uc5ed\uc5d0\uc11c \uc0ac\uc6a9\ub41c\ub2e4. \ud2b9\ud788 \ud64d\ucf69\uacfc \ub9c8\uce74\uc624\uc5d0\uc11c\ub294 \uc624\ub79c \uae30\uac04\uc758 \uc11c\uc591 \ud1b5\uce58 \ub4f1\uc73c\ub85c \uc778\ud574 \uc601\uc5b4 \ud639\uc740 \ud3ec\ub974\ud22c\uac08\uc5b4\uc640 \ud568\uaed8 \uacf5\uc6a9\uc5b4\ub85c \uc0ac\uc6a9\ub418\uba70, \ud604\uc7ac\ub3c4 \ud64d\ucf69 \uc601\ud654, \ub178\ub798, \uc6d4\uadf9(\u7cb5\u5287) \ub4f1\uc758 \uc608\uc220 \uc791\ud488\uc744 \ud3ec\ud568\ud55c \uc5ec\ub7ec \ubd84\uc57c\uc5d0\uc11c \uad11\ub465\uc5b4\uac00 \ub110\ub9ac \uc0ac\uc6a9\ub418\uace0 \uc788\ub2e4. \ud45c\uc900 \uc911\uad6d\uc5b4\uc640 \ub2ec\ub9ac 9\uac1c\uc758 \uc131\uc870\uac00 \uc874\uc7ac\ud558\ub294 \uac83\uc774 \ud2b9\uc9d5\uc774\ub2e4.",
+          "\u5ee3\u5dde\u8a71\uff0c\u53c8\u7a31\u70ba\u5ee3\u6771\u8a71\u3001\u5ee3\u5e9c\u8a71\u3001\u7cb5\u8a9e\u3001\u5ee3\u6771\u7701\u57ce\u8a71\u3001\u767d\u8a71\uff0c\u76f8\u50b3\u8d77\u6e90\u65bc\u5ee3\u4fe1\uff08\u5373\u68a7\u5dde\u53ca\u5c01\u958b\u4e00\u9685\uff09\u3002\u5b78\u754c\u6240\u6307\u5ee3\u5dde\u8a71\uff0c\u4e43\u73fe\u6642\u5e7f\u5dde\u53ca\u9999\u6e2f\u6240\u8b1b\u4e4b\u7cb5\u8a9e\uff0c\u4e3b\u8981\u901a\u884c\u65bc\u73e0\u6c5f\u4e09\u89d2\u6d32\u5730\u533a\u3001\u9999\u6e2f\u3001\u6fb3\u9580\u3001\u7ca4\u4e1c\u3001\u7ca4\u897f\u3001\u5e7f\u897f\uff08\u5982\u68a7\u5dde\u5e02\u533a\u3001\u5357\u5b81\u5e02\u533a\u90e8\u5206\u5730\u533a\uff09\u3001\u9a6c\u6765\u897f\u4e9a\u3001\u4e1c\u5357\u4e9a\u4ee5\u53ca\u5916\u6d0b\u5510\u4eba\u8857\u3002",
+          "Yue txinera (tradizionalean \u7cb5\u8a9e, txinera sinplifikatuan \u7ca4\u8bed, Hanyu Pinyin sisteman yu\u00e8y\u01d4) edo kantonera hegoaldeko Txinan hitz egiten diren txineraren aldaeren artean adar nagusi bati esaten zaio, Guangdong eta Guangxi probintzietako aldaerei batez ere. Yue txineraren dialektoa edo berezko hizkuntza den eztabaida ez dago itxita. Txineraren beste adarren moduan, yue arrazoi etniko, politiko eta kulturalak direla eta dialektoa jotzen dute, baina, hizkuntzalarien ustetan, yueak ez du txineraren beste aldaerekiko ahozko elkarrekiko ulergarritasuna, nahiz eta idatzian ulergarria izan.",
+          "\u0397 \u039a\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03b7 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03b9\u03ba\u03b9\u03bb\u03af\u03b1 \u03c4\u03c9\u03bd \u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ce\u03bd \u03c0\u03bf\u03c5 \u03bf\u03bc\u03b9\u03bb\u03b5\u03af\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u039a\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03c4\u03c3\u03cc\u03bf\u03c5 (\u03b9\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03ac \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03c9\u03c2 \u039a\u03b1\u03bd\u03c4\u03ce\u03bd\u03b1) \u03ba\u03b1\u03b9 \u03c4\u03b7 \u03b3\u03cd\u03c1\u03c9 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c3\u03c4\u03b7 \u03bd\u03bf\u03c4\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u039a\u03af\u03bd\u03b1. \u0395\u03af\u03bd\u03b1\u03b9 \u03b7 \u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03ae \u03c0\u03bf\u03b9\u03ba\u03b9\u03bb\u03af\u03b1 \u03ba\u03cd\u03c1\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03c4\u03c5\u03c0\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03bf \u03c0\u03c1\u03cc\u03c4\u03c5\u03c0\u03bf \u03c4\u03c9\u03bd \u03ba\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ce\u03bd \u0393\u03b9\u03bf\u03cd\u03b5, \u03bc\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03ba\u03cd\u03c1\u03b9\u03b5\u03c2 \u03c5\u03c0\u03bf\u03bf\u03bc\u03ac\u03b4\u03b5\u03c2 \u03c4\u03c9\u03bd \u03ba\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ce\u03bd.",
+          "Yue ou Yueh \u00e9 um grupo de l\u00ednguas sin\u00edticas semelhantes faladas no sul da China, particularmente nas prov\u00edncias de Guangdong e Guangxi, conhecidas coletivamente como Liangguang. O nome canton\u00eas \u00e9 frequentemente usado para todo o grupo, mas os linguistas preferem reservar esse nome para a variedade de Guangzhou (Cant\u00e3o), Hong Kong e Macau, que \u00e9 o dialeto de prest\u00edgio . Taishanese, da \u00e1rea costeira de Jiangmen, localizada a sudoeste de Guangzhou, era o idioma da maioria dos emigrantes do s\u00e9culo XIX, de Guangdong ao Sudeste Asi\u00e1tico e Am\u00e9rica do Norte. A maioria dos migrantes posteriores tem sido falantes de canton\u00eas .",
+          "La kantona lingvo (\u0109ine: \u7ca4\u8bed; pinyin yu\u00e8y\u01d4 a\u016d \u5ee3\u6771\u8a71; gu\u01cengd\u014dnghu\u00e0, jyutping gwong2dung1waa2) estas grava \u0109ina lingvo parolata en Honkongo, Makao kaj la provinco de Guangdong. Estas 52.000.000 homoj en \u0108inio, kiuj \u011din parolas, kaj 71.000.000 en la tuta mondo. Parolanto de Kantono devas lerni la paroladon de Pekino simile disiga lingvo por \u011din kompreni. Oni a\u016ddas pli la kantonan ol la norm\u0109inan en Nordameriko, \u0109ar la plimulto de \u0109inaj enmigrintoj venis el pli ri\u0109aj regionoj kiel Honkongo. La kantona havas 6 tonojn.",
+          "El yue o canton\u00e9s (en chino tradicional, \u7cb5\u8a9e; en chino simplificado, \u7ca4\u8bed; pinyin, yu\u00e8y\u01d4; jyutping, jyut6jyu5; Yale canton\u00e9s, yuhty\u00fah) es un idioma dentro de las lenguas sin\u00edticas, formado por una agrupaci\u00f3n de dialectos, entre ellos el guangdong y el .",
+          "Kanton\u0161tina \u010di standardn\u00ed kanton\u0161tina (\u010d\u00ednsky znaky zjednodu\u0161en\u00e9 \u5e7f\u5dde\u8bdd, tradi\u010dn\u00ed \u5ee3\u5dde\u8a71) je dialekt \u010d\u00ednsk\u00e9ho jazyka j\u00fce, j\u00edm\u017e se hovo\u0159\u00ed v okol\u00ed jiho\u010d\u00ednsk\u00fdch velkom\u011bst Kanton a \u0160en-\u010den a tak\u00e9 ve zvl\u00e1\u0161tn\u00edch spr\u00e1vn\u00edch oblastech Hongkong a Macao. Je to nejroz\u0161\u00ed\u0159en\u011bj\u0161\u00ed a nejpresti\u017en\u011bj\u0161\u00ed dialekt jazyka j\u00fce. V neposledn\u00ed \u0159ad\u011b d\u00edky ekonomick\u00e9mu a kulturn\u00edmu rozkv\u011btu Hongkongu pod britskou spr\u00e1vou, kter\u00e1 trvala do 30. \u010dervna 1997, z\u00edskala kanton\u0161tina velk\u00fd kulturn\u00ed v\u00fdznam nejen v r\u00e1mci \u010c\u00edny, ale i v dal\u0161\u00edch asijsk\u00fdch zem\u00edch. V t\u00e9to \u0159e\u010di se to\u010d\u00ed mnoho film\u016f a jsou v n\u00ed tak\u00e9 ps\u00e1ny texty pro zp\u00edvanou popovou hudbu, tzv. Cantopop (zkr\u00e1cen\u011b pro Cantonese popular music).",
+          "J\u0119zyk yue (chi\u0144. trad.: \u7cb5\u8a9e, chi\u0144. upr.: \u7ca4\u8bed, kanto\u0144ski (jyutping): Jyut6jyu5; pinyin: Yu\u00e8y\u01d4) \u2013 j\u0119zyk lub makroj\u0119zyk (zale\u017cnie od klasyfikacji) u\u017cywany w po\u0142udniowej cz\u0119\u015bci Chin, zw\u0142aszcza w prowincji Guangdong. Niekt\u00f3re z dialekt\u00f3w s\u0105 wzajemnie niezrozumia\u0142e. Za lingua franca s\u0142u\u017cy odmiana z miasta Guangzhou (dawniej Kanton \u2013 st\u0105d nazwa j\u0119zyk kanto\u0144ski). Dialekty yue s\u0105 bardziej archaiczne ni\u017c r\u00f3\u017cne odmiany j\u0119zyka mandary\u0144skiego, mi\u0119dzy innymi zachowa\u0142y wyg\u0142osowe sp\u00f3\u0142g\u0142oski zwarte.",
+          "O canton\u00eas ou cantonense (chin\u00eas simplificado: \u5e7f\u4e1c\u8bdd; chin\u00eas tradicional: \u5ee3\u6771\u8a71; : Gw\u00f3ngd\u016bng w\u00e1) \u00e9 uma das principais l\u00ednguas do grupo yu\u00e8 da fam\u00edlia lingu\u00edstica chinesa (sin\u00edtica), fazendo parte do tronco lingu\u00edstico Sino-Tibetano. O canton\u00eas \u00e9 o 16\u00b0 idioma mais falado do mundo como l\u00edngua materna e o 3\u00b0 mais falado entre os dialetos chineses, com mais de 80 milh\u00f5es de falantes nativos que usam ativamente a l\u00edngua em seu cotidiano, principalmente localizados na prov\u00edncia do Cant\u00e3o (Guangdong), nas regi\u00f5es administrativas de Hong Kong e Macau, assim como em comunidades internacionais, mais notavelmente no Vietn\u00e3, Mal\u00e1sia, Camboja e Singapura.",
+          "\uc6e8\uc5b4(\uc911\uad6d\uc5b4 \uc815\uccb4\uc790: \u7cb5\u8a9e, \uac04\uccb4\uc790: \u7ca4\u8bed, \uc6d4\ubcd1: Jyut6jyu5, : Yuet6yue5 \uc717\uc704[*], \ud55c\uc5b4 \ubcd1\uc74c: Yu\u00e8y\u01d4 \uc6e8\uc704[*], \uc601\uc5b4: Yue \uc720\uc5d0\uc774/\uc720\uc6e8\uc774[*]) \ub610\ub294 \uc6d4\uc5b4\ub294 \uc911\uad6d\ud2f0\ubca0\ud2b8\uc5b4\uc871 \uc911\uad6d\uc5b4\ud30c\uc5d0 \uc18d\ud558\ub294 \uc5b8\uc5b4\ub85c, \uad11\ub465\uc131\uc758 \uc911\ubd80 \ubc0f \ub0a8\uc11c\ubd80, \uad11\uc2dc\uc8a1\uc871\uc790\uce58\uad6c \ub3d9\ub0a8\ubd80\ub97c \uc911\uc2ec\uc73c\ub85c \uac01\uc9c0\uc5d0\uc11c \uc0ac\uc6a9\ub41c\ub2e4. \uc6d4\uc5b4\ub97c \ub300\ud45c\ud558\ub294 \ubc29\uc5b8\uc73c\ub85c\ub294 \uad11\uc800\uc6b0 \ubc29\uc5b8\uc744 \uae30\ubc18\uc73c\ub85c \ud55c \uad11\ub3d9\uc5b4\uac00 \uc788\ub2e4. '\uad11\ub465\uc5b4'\uac00 \uc6d4\uc5b4\uc758 \ubc29\uc5b8 \uc804\uccb4\ub97c \uac00\ub9ac\ud0a4\ub294 \ub2e8\uc5b4\ub85c\uc368 \uc0ac\uc6a9\ub418\uae30\ub3c4 \ud55c\ub2e4. \uad11\uc11c\ud3c9\ud654(\u5ee3\u897f\u5e73\u8a71)\ub294 \uc6d4\uc5b4\uc758 \ubc29\uc5b8\uc758 \uc77c\uc885\uc73c\ub85c \ud3ec\ud568\ub418\uae30\ub3c4 \ud558\uace0, \ubcc4\uac1c\uc758 \ub300\ub4f1\ud55c \ubc29\uc5b8\uc73c\ub85c \ubcf4\uc544\uc9c0\uae30\ub3c4 \ud55c\ub2e4. \uc774\ubbfc\uc871\uc5d0 \uc758\ud574 \ud55c\uc871\ub4e4\uc774 \uc9c0\uc18d\uc801\uc73c\ub85c \ud654\ub0a8\uc9c0\uc5ed\uc73c\ub85c \uc774\ub3d9\ud558\uc5ec \uc815\ucc29\ud558\uc600\uae30 \ub54c\ubb38\uc5d0 \uc6d4\uc5b4\uc5d0\ub294 \uace0\ub300, \uc911\uc138 \ud55c\uc5b4(\u6f22\u8a9e) \ubc1c\uc74c\uc774 \ub9ce\uc774 \ub0a8\uc544\uc788\uc73c\uba70 \ubc18\ub300\ub85c \ud654\ubd81 \uc9c0\uc5ed\uc758 \ubc1c\uc74c\uc740 \uae09\uaca9\ud788 \ubcc0\ud654\ud558\uc600\ub2e4.",
+          "\u7ca4\u8a9e\uff08\u3048\u3064\u3054\uff09\u306f\u3001\u4e2d\u56fd\u8a9e\u306e\u4e03\u5927\u65b9\u8a00\u306e\u4e00\u3064\u3067\u3042\u308a\u3001\u30b7\u30ca\u30fb\u30c1\u30d9\u30c3\u30c8\u8a9e\u65cf\u3001\u30b7\u30ca\u8a9e\u6d3e\u306e\u8a00\u8a9e\u306e\u4e00\u3064\u3067\u3042\u308b\u3002\u5e83\u6771\u7701\u306e\u4e2d\u90e8\u304a\u3088\u3073\u897f\u5357\u90e8\u3001\u5e83\u897f\u30c1\u30ef\u30f3\u65cf\u81ea\u6cbb\u533a\u6771\u5357\u90e8\u3092\u4e2d\u5fc3\u3068\u3059\u308b\u5404\u5730\u3067\u8a71\u3055\u308c\u308b\u3002 \u7ca4\u8a9e\u3092\u4ee3\u8868\u3059\u308b\u65b9\u8a00\u306b\u5e83\u5dde\u65b9\u8a00\u3092\u57fa\u76e4\u306b\u6210\u7acb\u3057\u305f\u5e83\u6771\u8a9e\u304c\u3042\u308a\u3001\u4e00\u7a2e\u306e\u5171\u901a\u8a9e\u3068\u3057\u3066\u5e83\u5dde\u3060\u3051\u3067\u306a\u304f\u5e83\u304f\u7ca4\u8a9e\u5730\u57df\u3084\u6d77\u5916\u83ef\u50d1\u793e\u4f1a\u306b\u304a\u3044\u3066\u3082\u7528\u3044\u3089\u308c\u308b\u3002\u65e5\u5e38\u7684\u306b\u306f\u5e83\u6771\u8a9e\u306e\u3053\u3068\u3092\u300c\u7ca4\u8a9e\u300d\u3068\u79f0\u3059\u308b\u3053\u3068\u3082\u3042\u308b\u304c\u3001\u3053\u308c\u306f\u4e0a\u6d77\u8a9e\u3092\u300c\u5449\u8a9e\u300d\u3068\u547c\u3076\u306e\u3068\u540c\u69d8\u306b\u3001\u5b66\u554f\u7684\u306b\u306f\u6b63\u78ba\u3067\u306a\u3044\u3002",
+          "El yue \u00e9s un conjunt de lleng\u00fces sin\u00edtiques parlades al , particularment en (les prov\u00edncies de Guangdong i Guangxi). Amb 80 milions de parlants, es tracta de la quarta llengua sin\u00edtica m\u00e9s parlada, i un dels set principals grups de dialectes. Sovint s'utitlitza el terme Canton\u00e9s per a referir-se al conjunt, si b\u00e9 els ling\u00fcistes prefereixen reservar la denominaci\u00f3 per a la varietat parlada a l'\u00e0rea de Guangzhou, , Hong Kong i Macau, sent alhora el , i la variant estandarditzada, aix\u00ed com la varietat de xin\u00e9s m\u00e9s coneguda i identificable despr\u00e9s del Mandar\u00ed.",
+          "Standardowy j\u0119zyk kanto\u0144ski, yue \u2013 jeden z j\u0119zyk\u00f3w chi\u0144skich u\u017cywany na po\u0142udniu Chin, w Hongkongu i Makau, a tak\u017ce przez potomk\u00f3w chi\u0144skich emigrant\u00f3w w Azji Po\u0142udniowo-Wschodniej i innych rejonach \u015bwiata. Jego nazwa wywodzi si\u0119 od prowincji Guangdong. Liczb\u0119 u\u017cytkownik\u00f3w kanto\u0144skiego szacuje si\u0119 og\u00f3\u0142em na 55 mln (z uwzgl\u0119dnieniem wszystkich pokrewnych dialekt\u00f3w z grupy yue).",
+          "Kantonesiska (traditionell kinesiska: \u5ee3\u6771\u8a71?, f\u00f6renklad kinesiska: \u5e7f\u4e1c\u8bdd?, pinyin: Gu\u01cengd\u014dng Hu\u00e0; kantonesiska: \u7ca4\u8bed, Yuht Y\u00fah) \u00e4r ett tonalt spr\u00e5k. I tonala spr\u00e5k \u00e4r tonernas stigning avg\u00f6rande. S\u00e5lunda h\u00f6r tonen fast till ordet. Bra h\u00f6rsel \u00e4r f\u00f6rm\u00e5gan att kunna identifiera h\u00f6rda toner exakt.Kantonesiska och mandarin \u00e4r tv\u00e5 olika spr\u00e5k snarare \u00e4n dialekter trots att de delar samma skriftliga form. Tanken var att kantoneserna skulle f\u00e5 ett l\u00e4ttbegriplig information och f\u00f6rst\u00e5else om Mandarin (spr\u00e5k).Kantonesiska tillh\u00f6r den sinotibetanska spr\u00e5ken, medan mandarin tillh\u00f6r ett monosyllabiskt spr\u00e5k som utvecklades fr\u00e5n medeltidskinesiska.",
+          "\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0434\u0438\u0430\u043b\u0435\u043a\u0442, \u0433\u0443\u0430\u043d\u0447\u0436\u043e\u0443\u0441\u043a\u0438\u0439 \u0434\u0438\u0430\u043b\u0435\u043a\u0442 \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0445 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u043e\u0432; \u043e\u0434\u0438\u043d \u0438\u0437 \u044e\u044d\u0441\u043a\u0438\u0445 \u0433\u043e\u0432\u043e\u0440\u043e\u0432, \u043f\u043e\u044f\u0432\u0438\u0432\u0448\u0438\u0439\u0441\u044f \u0432 \u041a\u0430\u043d\u0442\u043e\u043d\u0435 (\u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443). \u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u0440\u0435\u0441\u0442\u0438\u0436\u043d\u044b\u043c \u043d\u0430\u0440\u0435\u0447\u0438\u0435\u043c \u044e\u044d\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430. \u0412 \u043c\u0430\u0442\u0435\u0440\u0438\u043a\u043e\u0432\u043e\u043c \u041a\u0438\u0442\u0430\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0440\u043e\u043b\u044c \u044f\u0437\u044b\u043a\u0430 \u043c\u0435\u0436\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0432 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u0413\u0443\u0430\u043d\u0434\u0443\u043d \u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u0438\u043b\u0435\u0433\u0430\u044e\u0449\u0438\u0445 \u043a \u043d\u0435\u0439 \u0440\u0430\u0439\u043e\u043d\u0430\u0445, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043d\u0430 \u0432\u043e\u0441\u0442\u043e\u043a\u0435 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u0413\u0443\u0430\u043d\u0441\u0438. \u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0442\u0430\u043a\u0436\u0435 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u0436\u0438\u0442\u0435\u043b\u044f\u043c\u0438 \u0413\u043e\u043d\u043a\u043e\u043d\u0433\u0430 \u0438 \u041c\u0430\u043a\u0430\u043e \u0432 \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438. \u0412 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u0441 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u0447\u0438\u0441\u043b\u043e\u043c \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f (\u041a\u0430\u043d\u0430\u0434\u0430, \u041f\u0435\u0440\u0443, \u041f\u0430\u043d\u0430\u043c\u0430, \u0421\u0428\u0410, \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f) \u043c\u0435\u0441\u0442\u043d\u044b\u0435 \u043a\u0438\u0442\u0430\u0439\u0446\u044b \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044e\u0442 \u0433\u043e\u0432\u043e\u0440\u044b \u0440\u043e\u0434\u0438\u043d\u044b \u0441\u0432\u043e\u0438\u0445 \u043f\u0440\u0435\u0434\u043a\u043e\u0432: \u044d\u043c\u0438\u0433\u0440\u0430\u043d\u0442\u044b \u0438\u0437 \u043e\u043a\u0440\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u0435\u0439 \u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u043d\u0430 \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u043e\u043c.",
+          "Yue atau Yueh adalah sebuah sub-rumpun utama dari bahasa Tionghoa di selatan Tiongkok, terutama di provinsi Guangdong dan Guangxi. Bahasa Kanton dan Taishan dipakai oleh penduduk yang merantau di Asia Tenggara, Kanada, Australia, dan Amerika Serikat.",
+          "Die kantonesische Sprache (chinesisch \u5ee3\u6771\u8a71 / \u5e7f\u4e1c\u8bdd, Jyutping Gwong2dung1waa2, Yale Gw\u00f3ngd\u00f9ngw\u00e1) oder Yue (\u7cb5\u8a9e / \u7ca4\u8bed, Yu\u00e8y\u01d4, Jyutping Jyut6jyu5, Yale Yuhty\u00fah) ist eine chinesische Sprache, die vor allem in S\u00fcdchina (Huanan) gesprochen wird.",
+          "\u0635\u064a\u0646\u064a\u0629 \u064a\u064f\u0624 (\u0628\u0627\u0644\u0634\u064a\u0648\u0626\u0631\u062a\u0634\u0646\u063a\u060c \u0648\u0647\u0648 \u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0631\u0633\u0645\u064a) \u0623\u0648 \u0627\u0644\u0643\u064e\u0646\u0652\u062a\u064f\u0648\u0646\u064a\u0629 \u0623\u0648 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629 \u0647\u064a \u0625\u062d\u062f\u0649 \u0627\u0644\u0641\u0631\u0648\u0639 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0644\u0644\u063a\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629. \u0647\u0646\u0627\u0643 \u062e\u0644\u0627\u0641 \u0643\u0628\u064a\u0631 \u062d\u0648\u0644 \u0627\u0639\u062a\u0628\u0627\u0631 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629 \u0644\u0647\u062c\u0629 \u0645\u0646 \u0627\u0644\u0644\u0647\u062c\u0627\u062a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629 \u0623\u0648 \u0627\u0639\u062a\u0628\u0627\u0631\u0647\u0627 \u0634\u0628\u0647 \u0644\u063a\u0629 \u0645\u0633\u062a\u0642\u0644\u0629. \u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u062a\u0639\u062a\u0628\u0631 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629 \u0644\u0647\u062c\u0629 \u0645\u0646 \u0644\u0647\u062c\u0627\u062a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629 \u0627\u0644\u0639\u062f\u064a\u062f\u0629 \u0644\u0623\u0633\u0628\u0627\u0628 \u0639\u0631\u0642\u064a\u0629 \u0648\u062b\u0642\u0627\u0641\u064a\u0629\u060c \u0625\u0644\u0627 \u0623\u0646\u0647\u0627 \u0645\u0646 \u0646\u0627\u062d\u064a\u0629 \u0623\u062e\u0631\u0649 \u062a\u0639\u062a\u0628\u0631 \u0644\u063a\u0629 \u0634\u0628\u0647 \u0645\u0633\u062a\u0642\u0644\u0629 \u0628\u062d\u062f \u0630\u0627\u062a\u0647\u0627 \u0628\u0633\u0628\u0628 \u0648\u062c\u0648\u062f \u0646\u0633\u0628\u0629 \u062a\u0641\u0627\u0647\u0645 \u00ab\u0636\u0626\u064a\u0644\u0629\u00bb \u0628\u064a\u0646\u0647\u0627 \u0648\u0628\u064a\u0646 \u0627\u0644\u0644\u0647\u062c\u0627\u062a \u0627\u0644\u0623\u062e\u0631\u0649 \u0644\u0644\u063a\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629.",
+          "Het Kantonees of Yue is een van de Chinese talen. De taal heeft honderden varianten, dialecten die per dorp of subdistrict verschillen. Het Kantonees dat men meestal bedoelt, is het Hongkong-Kantonees of het Standaardkantonees (ook wel Guangzhouhua). Dat laatste is het bekendste en ook meest gebruikte Kantonese dialect. Het Kantonees wordt vooral gesproken in het zuiden en westen van Guangdong, in het zuiden en oosten van Guangxi, in Macau, Hongkong en Christmaseiland. Verder wordt het ook door veel overzeese Chinezen gesproken die niet hun jiaxiang in een Kantoneestalig gebied hebben.",
+          "\u042e\u044d (\u0433\u0443\u0430\u043d\u0434\u0443\u043d\u0441\u043a\u0438\u0439, \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439, \u044e\u0442\u0441\u043a\u0438\u0439, \u044e\u044d\u0441\u043a\u0438\u0439, \u043f\u0430\u043a\u0432\u0430; \u0438\u0435\u0440. \u0442\u0440\u0430\u0434. \u7cb5\u8a9e, \u0443\u043f\u0440. \u7ca4\u8bed, \u044e\u0442\u043f\u0445\u0438\u043d: jyut6jyu5, \u043a\u0430\u043d\u0442.-\u0440\u0443\u0441.: \u044e\u0442\u044a\u044e, \u0431\u0443\u043a\u0432. \u00ab\u044e\u044d\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a\u00bb; \u0438\u0435\u0440. \u0442\u0440\u0430\u0434. \u5ee3\u6771\u8a71, \u0443\u043f\u0440. \u5e7f\u4e1c\u8bdd, \u044e\u0442\u043f\u0445\u0438\u043d: gwong\u00b2dung\u00b9waa6, \u043a\u0430\u043d\u0442.-\u0440\u0443\u0441.: \u043a\u0443\u043e\u043d\u0442\u0443\u043d\u0432\u0430, \u0431\u0443\u043a\u0432. \u00ab\u0433\u0443\u0430\u043d\u0434\u0443\u043d\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a\u00bb) \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u044f\u0437\u044b\u043a\u043e\u0432 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0439 \u044f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b, \u043b\u0438\u0431\u043e \u043e\u0434\u043d\u0430 \u0438\u0437 \u0433\u043b\u0430\u0432\u043d\u044b\u0445 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u043d\u044b\u0445 \u0433\u0440\u0443\u043f\u043f \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f. \u042e\u044d, \u043a\u0430\u043a \u0438 \u043f\u0443\u0442\u0443\u043d\u0445\u0443\u0430 (\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439), \u2014 \u0438\u0437\u043e\u043b\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u044f\u0437\u044b\u043a.",
+          "\u041a\u0430\u043d\u0442\u043e\u0301\u043d\u0441\u044c\u043a\u0438\u0439 \u0434\u0456\u0430\u043b\u0435\u043a\u0442 (\u5ee3\u6771\u8a71, Gw\u00f3ngd\u016bng Wa) \u2014 \u043e\u0434\u043d\u0430 \u0437 \u044e\u0435\u0441\u044c\u043a\u0438\u0445 \u0433\u043e\u0432\u0456\u0440\u043e\u043a, \u0449\u043e \u0437'\u044f\u0432\u0438\u043b\u0430\u0441\u044f \u0432 \u041a\u0430\u043d\u0442\u043e\u043d\u0456 (\u0444\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0430 \u043d\u0430\u0437\u0432\u0430 \u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443). \u0404 \u043f\u0440\u0435\u0441\u0442\u0438\u0436\u043d\u0438\u043c \u043d\u0430\u0440\u0456\u0447\u0447\u044f\u043c \u044e\u0435\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438. \u0406\u043d\u043a\u043e\u043b\u0438 \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u0454\u0442\u044c\u0441\u044f \u044f\u043a \u043e\u043a\u0440\u0435\u043c\u0430 \u043c\u043e\u0432\u0430 \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u043d\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 \u0441\u0438\u043d\u043e-\u0442\u0438\u0431\u0435\u0442\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u043d\u043e\u0457 \u0441\u0456\u043c'\u0457. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454 \u0442\u0440\u0430\u0434\u0438\u0446\u0456\u0439\u043d\u0443 \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u0443 \u043f\u0438\u0441\u0435\u043c\u043d\u0456\u0441\u0442\u044c. \u041d\u0430 \u0432\u0456\u0434\u043c\u0456\u043d\u0443 \u0432\u0456\u0434 \u043c\u0430\u043d\u0434\u0430\u0440\u0438\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438, \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0438\u0437\u0430\u0446\u0456\u044f \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u043e\u0457 \u043d\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430, \u0449\u043e \u0443\u0441\u043a\u043b\u0430\u0434\u043d\u044e\u0454 \u0457\u0457 \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f.[\u0434\u0436\u0435\u0440\u0435\u043b\u043e?] \u0406\u0441\u043d\u0443\u0432\u0430\u043d\u043d\u044f \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0434\u0456\u0430\u043b\u0435\u043a\u0442\u0456\u0432 \u0440\u043e\u0431\u0438\u0442\u044c \u043d\u0435\u043c\u043e\u0436\u043b\u0438\u0432\u0438\u043c \u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0441\u0442\u0430\u0431\u0456\u043b\u044c\u043d\u043e\u0457 \u043b\u0435\u043a\u0441\u0438\u043a\u0438, \u0442\u043e\u043c\u0443 \u0431\u0456\u043b\u044c\u0448-\u043c\u0435\u043d\u0448 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u0454 \u0441\u043b\u043e\u0432\u0430 \u0434\u043b\u044f \u043f\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043f\u043e\u0445\u043e\u0434\u0436\u0435\u043d\u043d\u044f, \u0447\u0430\u0441\u0442\u043e \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0445 \u0432\u0438\u043d\u0430\u0445\u043e\u0434\u0456\u0432, \u0442\u0430\u043a\u0438\u0445 \u044f\u043a \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440 \u0442\u043e\u0449\u043e.",
+          "Le cantonais (chinois simplifi\u00e9 : \u7ca4\u8bed ; chinois traditionnel : \u7cb5\u8a9e ; pinyin : yu\u00e8 y\u01d4 ; cantonais Jyutping : jyut6 jyu5 ; cantonais Yale : yuht y\u00fah, aussi connu sous le nom \u5e7f\u4e1c\u8bdd / \u5ee3\u6771\u8a71, Gu\u01cengd\u014dng Hu\u00e0, cantonais Jyutping : Gwong2 dung1 waa6, \u00ab la langue du Guangdong \u00bb) ou yue est une langue chinoise parl\u00e9e particuli\u00e8rement dans le sud de la Chine, dans les provinces du Guangdong et du Guangxi, \u00e0 Hong Kong et \u00e0 Macao.",
+          "El canton\u00e9s est\u00e1ndar o guangdong (en chino tradicional, \u5ee3\u6771\u8a71; en chino simplificado, \u5e7f\u4e1c\u8bdd; pinyin, Gu\u01cengzh\u014du hu\u00e0; jyutping, Gwong2dong1 wa2) es una variante est\u00e1ndar del idioma canton\u00e9s, considerada generalmente el dialecto de prestigio alrededor de las ciudades de Cant\u00f3n, Hong Kong y Macao y en China meridional. El canton\u00e9s est\u00e1ndar es el dialecto de facto oficial de Hong Kong y Macao, y la lingua franca de la provincia de Cant\u00f3n y de algunas de sus \u00e1reas vecinales. Tambi\u00e9n, es hablado por muchos descendientes de chinos de Cant\u00f3n, Hong Kong o Macau en Singapur, Malasia, Canad\u00e1, Estados Unidos, Australia, M\u00e9xico, Europa y otros lugares. La mayor\u00eda de la gente de la ciudad malaya de Ipoh habla canton\u00e9s. Hist\u00f3ricamente, el canton\u00e9s fue la forma m\u00e1s com\u00fan del chino hablada por las comunidades d",
+          "\u042e\u0435 (\u0433\u0443\u0430\u043d\u0434\u0443\u043d\u0441\u044c\u043a\u0430, \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0430, \u044e\u0435\u0441\u044c\u043a\u0430, \u043f\u0430\u043a\u0432\u0430; \u0442\u0440\u0430\u0434. \u7cb5\u8a9e, \u0441\u043f\u0440. \u7ca4\u8bed , \u044e\u0442\u043f\u0445\u0456\u043d: jyut6jyu5, : \u044e\u0442'\u044e, \u0431\u0443\u043a\u0432. \u00ab\u044e\u0435\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430\u00bb; \u0442\u0440\u0430\u0434. \u5ee3\u6771\u8a71, \u0441\u043f\u0440. \u5e7f\u4e1c\u8bdd , \u044e\u0442\u043f\u0445\u0456\u043d: gwong\u00b2dung\u00b9waa6, : \u043a\u0443\u043e\u043d\u0442\u0443\u043d\u0432\u0430, \u0431\u0443\u043a\u0432. \u00ab\u0433\u0443\u0430\u043d\u0434\u0443\u043d\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430\u00bb) \u2014 \u043e\u0434\u043d\u0430 \u0437 \u043c\u043e\u0432 \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u043d\u043e\u0457 \u0433\u0440\u0443\u043f\u0438, \u0430\u0431\u043e \u043e\u0434\u043d\u0430 \u0437 \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0445 \u0434\u0456\u0430\u043b\u0435\u043a\u0442\u043d\u0438\u0445 \u0433\u0440\u0443\u043f \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438, \u0437\u0430\u043b\u0435\u0436\u043d\u043e \u0432\u0456\u0434 \u0442\u043e\u0447\u043a\u0438 \u0437\u043e\u0440\u0443. \u042e\u0435, \u044f\u043a \u0456 \u043f\u0443\u0442\u0443\u043d\u0445\u0443\u0430 (\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u0430 \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u0430), \u2014 \u0456\u0437\u043e\u043b\u044e\u044e\u0447\u0430, \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u0430 \u043c\u043e\u0432\u0430.",
+          "El canton\u00e8s o canton\u00e9s \u00e9s la variant estandarditzada i de prestigi de la llengua yue, una de les lleng\u00fces xineses, que es parla a la ciutat de Canton (actualment Guangzhou) i al seu voltant, al sud de la Xina. Tamb\u00e9 el parla la majoria dels habitants de Hong Kong i Macau, i com a lingua franca a la prov\u00edncia de Guangdong, est de la prov\u00edncia de Guangxi i zones properes. A les \"regions especials\" de Hong Kong i Macau \u00e9s l'idioma oficial del govern i l'ensenyament conjuntament amb l'angl\u00e8s i el portugu\u00e8s, respectivament. Tamb\u00e9 el parlen els emigrants cantonesos a tot arreu del m\u00f3n especialment al Canad\u00e0, al Per\u00fa, a Panam\u00e0, als Estats Units, a Austr\u00e0lia i a \u00c0sia meridional.",
+          "Bahasa Kanton (\u5e7f\u4e1c\u8bdd/\u5ee3\u6771\u8a71, secara harafiah: bahasa Guangdong; di Indonesia sering disebut bahasa Konghu) adalah salah satu dari dialek bahasa Tionghoa Yue yang dituturkan di Guangdong dan sekitarnya di Republik Rakyat Tiongkok/Cina selatan, Hong Kong, Makau, masyarakat keturunan Tionghoa di Asia Tenggara dan juga masyarakat Tionghoa di belahan dunia lain. Bahasa Kanton merupakan dialek prestise tradisional dari Yue. Bahasa Kanton ini juga punya pembicara di kalangan Tionghoa di Indonesia dan Malaysia. Di Indonesia, bahasa Kanton biasa dikenal dengan sebutan bahasa Konghu."
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "Values": [
+          "http://dbpedia.org/resource/Hong_Kong_Cantonese",
+          "http://dbpedia.org/resource/Cantonese_culture",
+          "http://dbpedia.org/resource/Yue_Chinese",
+          "http://dbpedia.org/resource/Hoa_people",
+          "http://dbpedia.org/resource/Chinese_Singaporeans",
+          "http://dbpedia.org/resource/Indonesian_Chinese",
+          "http://dbpedia.org/resource/Malaysian_Chinese"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "Cantonese"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "short-a",
+          "Cantonese"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Ping_and_Yue_dialect_map.svg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Guangdonghua-vector.svg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/San_Francisco_China_Town_MC.jpg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Tangyun_-_Chinese_Dictionary_Museum.jpg"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Languages_of_Macau",
+          "http://dbpedia.org/resource/Category:Languages_of_Vietnam",
+          "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+          "http://dbpedia.org/resource/Category:Cantonese_culture",
+          "http://dbpedia.org/resource/Category:Cantonese_language",
+          "http://dbpedia.org/resource/Category:Languages_of_Hong_Kong",
+          "http://dbpedia.org/resource/Category:Languages_of_Malaysia",
+          "http://dbpedia.org/resource/Category:Languages_of_Singapore",
+          "http://dbpedia.org/resource/Category:Languages_of_China",
+          "http://dbpedia.org/resource/Category:Cantonese"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "1092292"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1123814546"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Languages_of_Vietnam",
+          "http://dbpedia.org/resource/Written_vernacular_Chinese",
+          "http://dbpedia.org/resource/Medium_of_instruction",
+          "http://dbpedia.org/resource/American-born_Chinese",
+          "http://dbpedia.org/resource/Cantonese_phonology",
+          "http://dbpedia.org/resource/Cantonese_Braille",
+          "http://dbpedia.org/resource/Protestant",
+          "http://dbpedia.org/resource/People's_Republic_of_China",
+          "http://dbpedia.org/resource/Labial\u2013velar_consonant",
+          "http://dbpedia.org/resource/Linguistic_discrimination",
+          "http://dbpedia.org/resource/Petaling_Jaya",
+          "http://dbpedia.org/resource/Chinatown,_Los_Angeles",
+          "http://dbpedia.org/resource/Simplified_Chinese_characters",
+          "http://dbpedia.org/resource/Yale_romanization_of_Cantonese",
+          "http://dbpedia.org/resource/Prestige_(sociolinguistics)",
+          "http://dbpedia.org/resource/James_Dyer_Ball",
+          "http://dbpedia.org/resource/S._L._Wong_(romanisation)",
+          "http://dbpedia.org/resource/Velar_consonant",
+          "http://dbpedia.org/resource/Meyer\u2013Wempe",
+          "http://dbpedia.org/resource/Lee_Kuan_Yew",
+          "http://dbpedia.org/resource/Ipoh",
+          "http://dbpedia.org/resource/Sandakan",
+          "http://dbpedia.org/resource/Category:Cantonese_culture",
+          "http://dbpedia.org/resource/Kinta_Valley",
+          "http://dbpedia.org/resource/Tonal_language",
+          "http://dbpedia.org/resource/Portuguese_Macau",
+          "http://dbpedia.org/resource/Teochew_dialect",
+          "http://dbpedia.org/resource/Sarikei",
+          "http://dbpedia.org/resource/Shanghainese",
+          "http://dbpedia.org/resource/Southeast_Asia",
+          "http://dbpedia.org/resource/Qing_dynasty",
+          "http://dbpedia.org/resource/Xiguan_dialect",
+          "http://dbpedia.org/resource/South_Central_China",
+          "http://dbpedia.org/resource/Tapah",
+          "http://dbpedia.org/resource/Malaysian_Chinese",
+          "http://dbpedia.org/resource/Hong_Kong_Basic_Law",
+          "http://dbpedia.org/resource/Middle_Chinese",
+          "http://dbpedia.org/resource/1989_Tiananmen_Square_Protests",
+          "http://dbpedia.org/resource/Song_Dynasty",
+          "http://dbpedia.org/resource/SIL_International",
+          "http://dbpedia.org/resource/Metro_Vancouver",
+          "http://dbpedia.org/resource/Alveolar_consonant",
+          "http://dbpedia.org/resource/Hoa_people",
+          "http://dbpedia.org/resource/Taishanese",
+          "http://dbpedia.org/resource/Sabah",
+          "http://dbpedia.org/resource/Guangdong_Romanization",
+          "http://dbpedia.org/resource/Mandarin_Chinese",
+          "http://dbpedia.org/resource/Hong_Kong_cinema",
+          "http://dbpedia.org/resource/San_Gabriel,_California",
+          "http://dbpedia.org/resource/Kajang",
+          "http://dbpedia.org/resource/Historical_linguistics",
+          "http://dbpedia.org/resource/Literary_and_colloquial_readings_of_Chinese_characters",
+          "http://dbpedia.org/resource/Bangi,_Malaysia",
+          "http://dbpedia.org/resource/Category:Languages_of_Macau",
+          "http://dbpedia.org/resource/Languages_of_China",
+          "http://dbpedia.org/resource/Pearl_River_Delta",
+          "http://dbpedia.org/resource/Mersing",
+          "http://dbpedia.org/resource/Category:Cantonese_language",
+          "http://dbpedia.org/resource/Stop_consonant",
+          "http://dbpedia.org/resource/Sungai_Buloh",
+          "http://dbpedia.org/resource/San_Francisco_Bay_Area",
+          "http://dbpedia.org/resource/Sidney_Lau_romanisation",
+          "http://dbpedia.org/resource/Checked_tone",
+          "http://dbpedia.org/resource/Hong_Kong_television_drama",
+          "http://dbpedia.org/resource/Thai_Chinese",
+          "http://dbpedia.org/resource/Chinese_language",
+          "http://dbpedia.org/resource/Category:Languages_of_Hong_Kong",
+          "http://dbpedia.org/resource/S._L._Wong_(phonetic_symbols)",
+          "http://dbpedia.org/resource/Chinese_Indonesian",
+          "http://dbpedia.org/resource/Johor",
+          "http://dbpedia.org/resource/Standard_Chinese",
+          "http://dbpedia.org/resource/John_Chalmers_(missionary)",
+          "http://dbpedia.org/resource/Rosemead,_California",
+          "http://dbpedia.org/resource/Sabak_Bernam",
+          "http://dbpedia.org/resource/Sibilant",
+          "http://dbpedia.org/resource/Hokkien",
+          "http://dbpedia.org/resource/Category:Languages_of_China",
+          "http://dbpedia.org/resource/Chinese_community_in_France",
+          "http://dbpedia.org/resource/Gao-Yang_Yue",
+          "http://dbpedia.org/resource/Chinatown,_Flushing",
+          "http://dbpedia.org/resource/Bensonhurst,_Brooklyn",
+          "http://dbpedia.org/resource/Varieties_of_Chinese",
+          "http://dbpedia.org/resource/Jyutping",
+          "http://dbpedia.org/resource/Code-switching",
+          "http://dbpedia.org/resource/Hong_Kong_Cantonese",
+          "http://dbpedia.org/resource/William_Jones_(philologist)",
+          "http://dbpedia.org/resource/Sekinchan",
+          "http://dbpedia.org/resource/Northern_California",
+          "http://dbpedia.org/resource/Sunset_Park,_Brooklyn",
+          "http://dbpedia.org/resource/Written_Cantonese",
+          "http://dbpedia.org/resource/Cantonese_Pinyin",
+          "http://dbpedia.org/resource/Tone_number",
+          "http://dbpedia.org/resource/China",
+          "http://dbpedia.org/resource/Hong_Kong_Education_and_Manpower_Bureau",
+          "http://dbpedia.org/resource/Barnett\u2013Chao",
+          "http://dbpedia.org/resource/Canada_2016_Census",
+          "http://dbpedia.org/resource/Malaysia",
+          "http://dbpedia.org/resource/Boroughs_of_New_York_City",
+          "http://dbpedia.org/resource/Macau",
+          "http://dbpedia.org/resource/Selangor",
+          "http://dbpedia.org/resource/Perak",
+          "http://dbpedia.org/resource/Tone_name",
+          "http://dbpedia.org/resource/Subang_Jaya",
+          "http://dbpedia.org/resource/Radio_Guangdong",
+          "http://dbpedia.org/resource/Hawaii",
+          "http://dbpedia.org/resource/Barnett-Chao",
+          "http://dbpedia.org/resource/Cinema_of_Hong_Kong",
+          "http://dbpedia.org/resource/Treaty_of_Nanking",
+          "http://dbpedia.org/resource/File:San_Francisco_China_Town_MC.jpg",
+          "http://dbpedia.org/resource/British_Chinese",
+          "http://dbpedia.org/resource/Kuantan",
+          "http://dbpedia.org/resource/Princeton_University_Press",
+          "http://dbpedia.org/resource/Fuzhounese",
+          "http://dbpedia.org/resource/Category:Languages_of_Malaysia",
+          "http://dbpedia.org/resource/Prestige_variety",
+          "http://dbpedia.org/resource/Protection_of_the_Varieties_of_Chinese",
+          "http://dbpedia.org/resource/Yue_Chinese",
+          "http://dbpedia.org/resource/Faye_Wong",
+          "http://dbpedia.org/resource/Sinitic_languages",
+          "http://dbpedia.org/resource/List_of_English_words_of_Cantonese_origin",
+          "http://dbpedia.org/resource/Cantonese_slang",
+          "http://dbpedia.org/resource/Guangdong",
+          "http://dbpedia.org/resource/New_York_City",
+          "http://dbpedia.org/resource/Yuen_Ren_Chao",
+          "http://dbpedia.org/resource/Nanjing_decade",
+          "http://dbpedia.org/resource/Cambodia",
+          "http://dbpedia.org/resource/Linguistic_Society_of_Hong_Kong",
+          "http://dbpedia.org/resource/Chinatown,_Oakland",
+          "http://dbpedia.org/resource/Category:Languages_of_Singapore",
+          "http://dbpedia.org/resource/Sacramento_River",
+          "http://dbpedia.org/resource/Eric_Moo",
+          "http://dbpedia.org/resource/Raub,_Pahang",
+          "http://dbpedia.org/resource/Desinicization",
+          "http://dbpedia.org/resource/Cantopop",
+          "http://dbpedia.org/resource/Yale_Romanization_of_Cantonese",
+          "http://dbpedia.org/resource/Silicon_Valley",
+          "http://dbpedia.org/resource/Overseas_Chinese",
+          "http://dbpedia.org/resource/Teochew_language",
+          "http://dbpedia.org/resource/Robert_Morrison_(missionary)",
+          "http://dbpedia.org/resource/Cantonese_grammar",
+          "http://dbpedia.org/resource/Gopeng",
+          "http://dbpedia.org/resource/Hong_Kong",
+          "http://dbpedia.org/resource/Phnom_Penh",
+          "http://dbpedia.org/resource/United_Kingdom",
+          "http://dbpedia.org/resource/Malay_language",
+          "http://dbpedia.org/resource/Guangzhou_Television_Cantonese_controversy",
+          "http://dbpedia.org/resource/Chinese_people_in_Portugal",
+          "http://dbpedia.org/resource/Klang_Valley",
+          "http://dbpedia.org/resource/Labial_consonant",
+          "http://dbpedia.org/resource/Hanyu_Pinyin",
+          "http://dbpedia.org/resource/Locke,_California",
+          "http://dbpedia.org/resource/Written_Chinese",
+          "http://dbpedia.org/resource/Chinese_American",
+          "http://dbpedia.org/resource/Official_language",
+          "http://dbpedia.org/resource/Glottal_consonant",
+          "http://dbpedia.org/resource/Hakka_Chinese",
+          "http://dbpedia.org/resource/Chinatown,_Brooklyn",
+          "http://dbpedia.org/resource/Approximant",
+          "http://dbpedia.org/resource/Category:Articles_containing_video_clips",
+          "http://dbpedia.org/resource/Shah_Alam",
+          "http://dbpedia.org/resource/Ng_(surname)",
+          "http://dbpedia.org/resource/File:\u5b57\u8a00\u5b57\u8a9e_\u624b\u904a%22\u8ab2\u91d1%22_\u66fe\u923a\u6210_am730.webm",
+          "http://dbpedia.org/resource/Hong_Kong_Examinations_and_Assessment_Authority",
+          "http://dbpedia.org/resource/Guangxi",
+          "http://dbpedia.org/resource/Immanuel_Gottlieb_Gen\u00e4hr",
+          "http://dbpedia.org/resource/Bentong",
+          "http://dbpedia.org/resource/Portuguese_Empire",
+          "http://dbpedia.org/resource/Sidney_Lau",
+          "http://dbpedia.org/resource/Selayang",
+          "http://dbpedia.org/resource/Handover_of_Hong_Kong",
+          "http://dbpedia.org/resource/Puchong",
+          "http://dbpedia.org/resource/Temple_City,_California",
+          "http://dbpedia.org/resource/Ampang,_Selangor",
+          "http://dbpedia.org/resource/Mott_Street",
+          "http://dbpedia.org/resource/Jakarta",
+          "http://dbpedia.org/resource/Bidor",
+          "http://dbpedia.org/resource/Chinese_Cambodian",
+          "http://dbpedia.org/resource/Chinese_as_a_foreign_language",
+          "http://dbpedia.org/resource/Manhattan",
+          "http://dbpedia.org/resource/Guangzhou_Television",
+          "http://dbpedia.org/resource/Guangzhou",
+          "http://dbpedia.org/resource/Cantonese_opera",
+          "http://dbpedia.org/resource/Mentakab",
+          "http://dbpedia.org/resource/Homecrest,_Brooklyn",
+          "http://dbpedia.org/resource/Surabaya",
+          "http://dbpedia.org/resource/Allophone",
+          "http://dbpedia.org/resource/Kampar,_Perak",
+          "http://dbpedia.org/resource/International_Phonetic_Alphabet",
+          "http://dbpedia.org/resource/Wong_Shik_Ling",
+          "http://dbpedia.org/resource/Cantonese_profanity",
+          "http://dbpedia.org/resource/Southern_Song",
+          "http://dbpedia.org/resource/File:Tangyun_-_Chinese_Dictionary_Museum.JPG",
+          "http://dbpedia.org/resource/Cantonese_people",
+          "http://dbpedia.org/resource/Tiananmen_Square_protests_of_1989",
+          "http://dbpedia.org/resource/Syllabic_consonant",
+          "http://dbpedia.org/resource/Macanese_people",
+          "http://dbpedia.org/resource/Singapore",
+          "http://dbpedia.org/resource/Little_Fuzhou",
+          "http://dbpedia.org/resource/Lingua_franca",
+          "http://dbpedia.org/resource/Chinese_Australian",
+          "http://dbpedia.org/resource/Spanish_language",
+          "http://dbpedia.org/resource/GitHub",
+          "http://dbpedia.org/resource/Taiwanese_Hokkien",
+          "http://dbpedia.org/resource/Mutually_unintelligible",
+          "http://dbpedia.org/resource/Princeton,_New_Jersey",
+          "http://dbpedia.org/resource/Tianyi_Film_Company",
+          "http://dbpedia.org/resource/File:Ping_and_Yue_dialect_map.svg",
+          "http://dbpedia.org/resource/Samuel_Wells_Williams",
+          "http://dbpedia.org/resource/Sarawak",
+          "http://dbpedia.org/resource/Chinatown,_Manhattan",
+          "http://dbpedia.org/resource/Southern_Television_Guangdong",
+          "http://dbpedia.org/resource/Mainland_China",
+          "http://dbpedia.org/resource/Elijah_Coleman_Bridgman",
+          "http://dbpedia.org/resource/Chinese_Canadians",
+          "http://dbpedia.org/resource/Tone_letter",
+          "http://dbpedia.org/resource/A_Chinese_Syllabary_Pronounced_According_to_the_Dialect_of_Canton",
+          "http://dbpedia.org/resource/Malaysian_Cantonese",
+          "http://dbpedia.org/resource/Portuguese_language",
+          "http://dbpedia.org/resource/San_Francisco",
+          "http://dbpedia.org/resource/Hong_Kong_popular_culture",
+          "http://dbpedia.org/resource/Hainanese",
+          "http://dbpedia.org/resource/Liangguang",
+          "http://dbpedia.org/resource/Gwoyeu_Romatzyh",
+          "http://dbpedia.org/resource/Hong_Kong_Government_Cantonese_Romanisation",
+          "http://dbpedia.org/resource/Speak_Mandarin_Campaign",
+          "http://dbpedia.org/resource/Vietnam",
+          "http://dbpedia.org/resource/Chinese_enclaves_in_the_San_Gabriel_Valley",
+          "http://dbpedia.org/resource/Batu_Gajah",
+          "http://dbpedia.org/resource/Vietnamese_language",
+          "http://dbpedia.org/resource/Taishan,_Guangdong",
+          "http://dbpedia.org/resource/Cheras,_Selangor",
+          "http://dbpedia.org/resource/English_language",
+          "http://dbpedia.org/resource/Traditional_Chinese_characters",
+          "http://dbpedia.org/resource/Chinatowns_in_Brooklyn",
+          "http://dbpedia.org/resource/Category:Cantonese",
+          "http://dbpedia.org/resource/Fairchild_TV",
+          "http://dbpedia.org/resource/List_of_varieties_of_Chinese",
+          "http://dbpedia.org/resource/Hong_Kong_people_in_the_United_Kingdom",
+          "http://dbpedia.org/resource/Hakka_language",
+          "http://dbpedia.org/resource/Thailand",
+          "http://dbpedia.org/resource/Kuala_Lumpur",
+          "http://dbpedia.org/resource/Batam",
+          "http://dbpedia.org/resource/Greater_Toronto_Area",
+          "http://dbpedia.org/resource/Sino-Tibetan_languages",
+          "http://dbpedia.org/resource/Indonesia",
+          "http://dbpedia.org/resource/Macau_Government_Cantonese_Romanization",
+          "http://dbpedia.org/resource/Dim_sum",
+          "http://dbpedia.org/resource/French_Indochina",
+          "http://dbpedia.org/resource/Pinyin",
+          "http://dbpedia.org/resource/Yuehai_Yue",
+          "http://dbpedia.org/resource/Chinatown,_San_Francisco",
+          "http://dbpedia.org/resource/Elmhurst,_Queens",
+          "http://dbpedia.org/resource/Democratic_development_in_Hong_Kong",
+          "http://dbpedia.org/resource/Government_of_Hong_Kong",
+          "http://dbpedia.org/resource/Dental_consonant",
+          "http://dbpedia.org/resource/Ernst_Johann_Eitel",
+          "http://dbpedia.org/resource/British_Empire",
+          "http://dbpedia.org/resource/Cantonese_culture",
+          "http://dbpedia.org/resource/Nicholas_Belfeld_Dennys",
+          "http://dbpedia.org/resource/Phonemic",
+          "http://dbpedia.org/resource/Mutually_intelligible",
+          "http://dbpedia.org/resource/Western_world",
+          "http://dbpedia.org/resource/Pahang",
+          "http://dbpedia.org/resource/Southern_California",
+          "http://dbpedia.org/resource/Chinese-language_schools"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "https://archive.org/details/chineseenglishph00lancrich",
+          "https://www.cantonesetools.org",
+          "https://archive.org/details/b22012941",
+          "http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/%7Cpublisher=The",
+          "https://books.google.com/books%3Fid=E6brAwAAQBAJ&pg=PA31",
+          "http://www.ethnologue.com/show_country.asp%3Fname=ID",
+          "https://books.google.com/books%3Fid=czbGJLu59S0C",
+          "https://web.archive.org/web/20110522221859/http:/www.ogcio.gov.hk/ccli/eng/hkscs/introduction.html",
+          "https://wordshk.github.io/yue_references",
+          "https://archive.org/details/bookofthousandwo00mattrich",
+          "https://archive.org/details/cyingcwcfanwan00williala"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://jv.dbpedia.org/resource/Basa_Y\u00fct_(basa_Yit)",
+          "http://sw.dbpedia.org/resource/Kiyue",
+          "http://fi.dbpedia.org/resource/Kantoninkiina",
+          "http://tr.dbpedia.org/resource/Kantonca",
+          "http://mr.dbpedia.org/resource/\u0915\u0901\u091f\u094b\u0928\u0940\u091c_\u092d\u093e\u0937\u093e",
+          "http://ms.dbpedia.org/resource/Bahasa_Kantonis",
+          "http://pt.dbpedia.org/resource/L\u00edngua_yue",
+          "http://cs.dbpedia.org/resource/Kanton\u0161tina",
+          "http://pl.dbpedia.org/resource/J\u0119zyk_yue",
+          "http://cs.dbpedia.org/resource/J\u00fce_(jazyk)",
+          "http://ta.dbpedia.org/resource/\u0b95\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0ba8\u0bc0\u0b9a\u0bbf\u0baf_\u0bae\u0bca\u0bb4\u0bbf",
+          "http://af.dbpedia.org/resource/Kantonees",
+          "http://hu.dbpedia.org/resource/Kantoni_nyelv",
+          "http://it.dbpedia.org/resource/Lingua_cantonese",
+          "http://als.dbpedia.org/resource/Kantonesische_Sprache",
+          "http://li.dbpedia.org/resource/Kantonees",
+          "http://fr.dbpedia.org/resource/Cantonais_standard",
+          "http://cy.dbpedia.org/resource/Cantoneg",
+          "http://bg.dbpedia.org/resource/\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438_\u0435\u0437\u0438\u043a",
+          "http://da.dbpedia.org/resource/Kantonesisk_(sprog)",
+          "http://el.dbpedia.org/resource/\u039a\u03b1\u03bd\u03c4\u03bf\u03bd\u03b5\u03b6\u03b9\u03ba\u03ae_\u03b3\u03bb\u03ce\u03c3\u03c3\u03b1",
+          "http://pms.dbpedia.org/resource/Lenga_Cin\u00e8isa,_Yue",
+          "http://he.dbpedia.org/resource/\u05e7\u05e0\u05d8\u05d5\u05e0\u05d6\u05d9\u05ea_\u05ea\u05e7\u05e0\u05d9\u05ea",
+          "http://sr.dbpedia.org/resource/Jue_kineski",
+          "http://is.dbpedia.org/resource/Kant\u00f3nska",
+          "http://yago-knowledge.org/resource/Cantonese",
+          "http://fa.dbpedia.org/resource/\u0686\u06cc\u0646\u06cc_\u06cc\u0648\u0626\u06cc",
+          "http://pl.dbpedia.org/resource/Standardowy_j\u0119zyk_kanto\u0144ski",
+          "http://vi.dbpedia.org/resource/Ti\u1ebfng_Qu\u1ea3ng_\u0110\u00f4ng",
+          "http://ro.dbpedia.org/resource/Limba_cantonez\u0103",
+          "http://tr.dbpedia.org/resource/Yue_\u00c7incesi",
+          "http://rdf.freebase.com/ns/m.012w70",
+          "http://es.dbpedia.org/resource/Chino_yue",
+          "http://id.dbpedia.org/resource/Rumpun_bahasa_Yue",
+          "http://pnb.dbpedia.org/resource/\u06a9\u06cc\u0646\u0679\u0648\u0646\u06cc",
+          "http://ru.dbpedia.org/resource/\u042e\u044d_(\u044f\u0437\u044b\u043a)",
+          "http://zh.dbpedia.org/resource/\u5e7f\u5dde\u8bdd",
+          "http://ja.dbpedia.org/resource/\u7ca4\u8a9e",
+          "http://ur.dbpedia.org/resource/\u06cc\u0648\u0626\u06cc_\u0686\u06cc\u0646\u06cc",
+          "http://www.wikidata.org/entity/Q9186",
+          "http://de.dbpedia.org/resource/Kantonesische_Sprache",
+          "http://vi.dbpedia.org/resource/Ti\u1ebfng_Qu\u1ea3ng_Ch\u00e2u",
+          "http://hy.dbpedia.org/resource/\u0545\u0578\u0582\u0565_\u0579\u056b\u0576\u0561\u0580\u0565\u0576",
+          "http://ca.dbpedia.org/resource/Xin\u00e8s_Yue",
+          "http://ml.dbpedia.org/resource/\u0d15\u0d3e\u0d28\u0d4d\u0d31\u0d4b\u0d28\u0d40\u0d38\u0d4d_\u0d2d\u0d3e\u0d37",
+          "http://new.dbpedia.org/resource/\u0915\u094d\u092f\u093e\u0928\u094d\u091f\u094b\u0928\u093f\u091c_\u092d\u093e\u0937\u093e",
+          "http://sco.dbpedia.org/resource/Cantonese",
+          "http://lt.dbpedia.org/resource/Kantono_kin\u0173_kalba",
+          "http://am.dbpedia.org/resource/\u1313\u1295\u130d\u12f6\u1295\u130d\u129b",
+          "http://tl.dbpedia.org/resource/Wikang_Kantones",
+          "http://sr.dbpedia.org/resource/\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438_\u0458\u0435\u0437\u0438\u043a",
+          "http://la.dbpedia.org/resource/Lingua_Yue",
+          "http://war.dbpedia.org/resource/Pinulongan_Cantones",
+          "http://az.dbpedia.org/resource/Yue_\u00c7in_dili",
+          "http://bn.dbpedia.org/resource/\u0995\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09a8\u09c0\u09af\u09bc_\u0989\u09aa\u09ad\u09be\u09b7\u09be",
+          "http://nl.dbpedia.org/resource/Kantonees",
+          "http://ar.dbpedia.org/resource/\u0635\u064a\u0646\u064a\u0629_\u064a\u0624",
+          "http://es.dbpedia.org/resource/Canton\u00e9s_est\u00e1ndar",
+          "http://br.dbpedia.org/resource/Kantoneg",
+          "http://ca.dbpedia.org/resource/Canton\u00e8s",
+          "http://ar.dbpedia.org/resource/\u0635\u064a\u0646\u064a\u0629_\u064a\u0648\u064a",
+          "http://bn.dbpedia.org/resource/\u0987\u0989\u09af\u09bc\u09c7_\u09ad\u09be\u09b7\u09be",
+          "http://fr.dbpedia.org/resource/Cantonais",
+          "http://arz.dbpedia.org/resource/\u0635\u064a\u0646\u064a\u0647_\u064a\u0648\u0649",
+          "http://et.dbpedia.org/resource/Kantoni_keel",
+          "http://sk.dbpedia.org/resource/Kanton\u010dina_(Kanton)",
+          "http://th.dbpedia.org/resource/\u0e20\u0e32\u0e29\u0e32\u0e08\u0e35\u0e19\u0e01\u0e27\u0e32\u0e07\u0e15\u0e38\u0e49\u0e07",
+          "http://ur.dbpedia.org/resource/\u06a9\u06cc\u0646\u0679\u0646\u06cc",
+          "http://tt.dbpedia.org/resource/\u041a\u0430\u043d\u0442\u043e\u043d_\u0442\u0435\u043b\u0435",
+          "http://tl.dbpedia.org/resource/Wikang_Yue",
+          "http://mk.dbpedia.org/resource/\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438_\u0458\u0430\u0437\u0438\u043a",
+          "http://ko.dbpedia.org/resource/\uc6e8\uc5b4_(\uc5b8\uc5b4)",
+          "http://nl.dbpedia.org/resource/Standaardkantonees",
+          "http://id.dbpedia.org/resource/Bahasa_Kanton",
+          "http://hr.dbpedia.org/resource/Yue_kineski_(jezik)",
+          "https://global.dbpedia.org/id/4satT",
+          "http://simple.dbpedia.org/resource/Cantonese_language",
+          "http://ko.dbpedia.org/resource/\uad11\ub465\uc5b4",
+          "http://pnb.dbpedia.org/resource/\u06cc\u0648_\u0686\u06cc\u0646\u06cc",
+          "http://eo.dbpedia.org/resource/Kantona_lingvo",
+          "http://uk.dbpedia.org/resource/\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0430_\u043c\u043e\u0432\u0430",
+          "http://ru.dbpedia.org/resource/\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439_\u0434\u0438\u0430\u043b\u0435\u043a\u0442",
+          "http://th.dbpedia.org/resource/\u0e20\u0e32\u0e29\u0e32\u0e01\u0e27\u0e32\u0e07\u0e15\u0e38\u0e49\u0e07\u0e21\u0e32\u0e15\u0e23\u0e10\u0e32\u0e19",
+          "http://www.wikidata.org/entity/Q7033959",
+          "http://ta.dbpedia.org/resource/\u0b95\u0ba3\u0bcd\u0b9f\u0bcb\u0ba9\u0bc0\u0baf\u0bae\u0bcd",
+          "http://pt.dbpedia.org/resource/L\u00edngua_cantonesa",
+          "http://jv.dbpedia.org/resource/Basa_Kwangtung",
+          "http://eu.dbpedia.org/resource/Yue_txinera",
+          "http://tt.dbpedia.org/resource/\u042e\u0435",
+          "http://no.dbpedia.org/resource/Standard_kantonesisk",
+          "http://ast.dbpedia.org/resource/Chinu_canton\u00e9s",
+          "http://ckb.dbpedia.org/resource/\u06a9\u0627\u0646\u062a\u06c6\u0646\u06cc",
+          "http://be.dbpedia.org/resource/\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0456_\u0434\u044b\u044f\u043b\u0435\u043a\u0442",
+          "http://gl.dbpedia.org/resource/Lingua_cantonesa",
+          "http://mg.dbpedia.org/resource/Fiteny_kant\u00f4ney",
+          "http://oc.dbpedia.org/resource/Canton\u00e9s",
+          "http://sh.dbpedia.org/resource/Standardni_kantonski_jezik",
+          "http://sa.dbpedia.org/resource/\u0915\u0948\u0902\u091f\u094b\u0928\u0940_\u092d\u093e\u0937\u093e",
+          "http://hi.dbpedia.org/resource/\u0915\u0948\u0923\u094d\u091f\u094b\u0928\u0940_\u092d\u093e\u0937\u093e",
+          "http://ja.dbpedia.org/resource/\u5e83\u6771\u8a9e",
+          "http://uk.dbpedia.org/resource/\u042e\u0435_(\u043c\u043e\u0432\u0430)",
+          "http://nds.dbpedia.org/resource/Kantoneesch",
+          "http://sv.dbpedia.org/resource/Kantonesiska",
+          "http://fa.dbpedia.org/resource/\u06a9\u0627\u0646\u062a\u0648\u0646\u06cc",
+          "http://hi.dbpedia.org/resource/\u092f\u0942_\u091a\u0940\u0928\u0940",
+          "http://rdf.freebase.com/ns/m.0459q4",
+          "http://zh.dbpedia.org/resource/\u7ca4\u8bed",
+          "http://no.dbpedia.org/resource/Kantonesisk",
+          "http://lv.dbpedia.org/resource/Kantonie\u0161u_dialekts",
+          "http://d-nb.info/gnd/4197216-8",
+          "http://nn.dbpedia.org/resource/Kantonesisk",
+          "http://az.dbpedia.org/resource/Kanton_dili"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/showflag",
+        "Values": [
+          "y"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:IPAslink",
+          "http://dbpedia.org/resource/Template:NoteFoot",
+          "http://dbpedia.org/resource/Template:Split_section",
+          "http://dbpedia.org/resource/Template:Infobox_language",
+          "http://dbpedia.org/resource/Template:Specify",
+          "http://dbpedia.org/resource/Template:IPA",
+          "http://dbpedia.org/resource/Template:CN",
+          "http://dbpedia.org/resource/Template:Linktext",
+          "http://dbpedia.org/resource/Template:Refbegin",
+          "http://dbpedia.org/resource/Template:Authority_control",
+          "http://dbpedia.org/resource/Template:Cite_journal",
+          "http://dbpedia.org/resource/Template:Guangxi_topics",
+          "http://dbpedia.org/resource/Template:Chinese_language",
+          "http://dbpedia.org/resource/Template:Sister_bar",
+          "http://dbpedia.org/resource/Template:Guangzhou",
+          "http://dbpedia.org/resource/Template:Navboxes",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Cite_JIPA",
+          "http://dbpedia.org/resource/Template:Refend",
+          "http://dbpedia.org/resource/Template:Angbr",
+          "http://dbpedia.org/resource/Template:About",
+          "http://dbpedia.org/resource/Template:NoteTag",
+          "http://dbpedia.org/resource/Template:Transl",
+          "http://dbpedia.org/resource/Template:Sfnp",
+          "http://dbpedia.org/resource/Template:See_also",
+          "http://dbpedia.org/resource/Template:TOC_limit",
+          "http://dbpedia.org/resource/Template:Pn",
+          "http://dbpedia.org/resource/Template:Font_color",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Languages_of_China",
+          "http://dbpedia.org/resource/Template:TALKPAGENAME",
+          "http://dbpedia.org/resource/Template:Zh",
+          "http://dbpedia.org/resource/Template:Guangdong_topics",
+          "http://dbpedia.org/resource/Template:Portal",
+          "http://dbpedia.org/resource/Template:Citation_needed",
+          "http://dbpedia.org/resource/Template:Sino-Tibetan_languages",
+          "http://dbpedia.org/resource/Template:Main",
+          "http://dbpedia.org/resource/Template:Flag",
+          "http://dbpedia.org/resource/Template:Cite_book",
+          "http://dbpedia.org/resource/Template:Cantonese_language",
+          "http://dbpedia.org/resource/Template:Citation",
+          "http://dbpedia.org/resource/Template:More_citations_needed",
+          "http://dbpedia.org/resource/Template:Infobox_Chinese",
+          "http://dbpedia.org/resource/Template:Ubl",
+          "http://dbpedia.org/resource/Template:Cite_web",
+          "http://dbpedia.org/resource/Template:Clarify",
+          "http://dbpedia.org/resource/Template:Languages_of_Macau"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Guangdonghua-vector.svg?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/altname",
+        "Values": [
+          "'Canton speech' or 'Guangzhou speech'"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/auto",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/bg",
+        "Values": [
+          "LightYellow"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/c",
+        "Values": [
+          "\u4e2d\u6587"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/d",
+        "Values": [
+          "Q9186"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/ethnicity",
+        "Values": [
+          "http://dbpedia.org/resource/Cantonese_people"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/fam",
+        "Values": [
+          "http://dbpedia.org/resource/Yuehai_Yue",
+          "http://dbpedia.org/resource/Chinese_language",
+          "http://dbpedia.org/resource/Yue_Chinese",
+          "http://dbpedia.org/resource/Sinitic_languages"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/first",
+        "Values": [
+          "t"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/group",
+        "Values": [
+          "finals"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/imageSize",
+        "Values": [
+          "150"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/imagecaption",
+        "Values": [
+          "written in traditional Chinese  and simplified Chinese  characters"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/j",
+        "Values": [
+          "Gwong2dung1 waa2",
+          "Gwong2zau1 waa2"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/labels",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/p",
+        "Values": [
+          "Gu\u01cengzh\u014duhu\u00e0",
+          "Gu\u01cengd\u014dnghu\u00e0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/region",
+        "Values": [
+          "Guangdong, eastern Guangxi"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/s",
+        "Values": [
+          "\u5e7f\u4e1c\u8bdd",
+          "\u7701\u57ce\u8bdd",
+          "\u7ca4\u8bed",
+          "\u5e7f\u5dde\u8bdd",
+          "\u5e7f\u5e9c\u8bdd",
+          "\u767d\u8bdd"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/state",
+        "Values": [
+          "autocollapse"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/states",
+        "Values": [
+          "China, Hong Kong, Macau, and overseas communities"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/t",
+        "Values": [
+          "\u5ee3\u6771\u8a71",
+          "\u5ee3\u5dde\u8a71",
+          "\u7701\u57ce\u8a71",
+          "\u7cb5\u8a9e",
+          "\u767d\u8a71",
+          "\u5ee3\u5e9c\u8a71"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/text",
+        "Values": [
+          "highlighted in bold"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/title",
+        "Values": [
+          "Articles related to Cantonese",
+          "Cantonese"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/voy",
+        "Values": [
+          "Cantonese phrasebook"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/y",
+        "Values": [
+          "Gw\u00f3ngj\u0101u w\u00e1",
+          "Gw\u00f3ngd\u016bng w\u00e1"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "\u7cb5\u8a9e\uff0c\u4fd7\u79f0\u5ee3\u6771\u8a71\uff0c\u5728\u7cb5\u8a9e\u4f7f\u7528\u5340\u4e2d\u53c8\u7a31\u767d\u8a71\uff0c\u662f\u6f22\u85cf\u8a9e\u7cfb\u6f22\u8a9e\u65cf\u7684\u4e00\u7a2e\u8072\u8abf\u8a9e\u8a00\uff0c\u5c6c\u65bc\u6771\u5357\u4e9e\u5927\u9678\u8a9e\u8a00\u5340\u57df\uff0c\u5e38\u7528\u8a5e\u4e2d\u6309\u4e0d\u540c\u65b9\u5f0f\u8a08\u6578\u6709\u5169\u6210 \u3001\u4e00\u767e\u81f3\u5169\u767e\u500b\u4f97\u53f0\u8a9e\u5e95\u5c64\u8a5e\uff0c\u5176\u9084\u4fdd\u7559\u8f03\u591a\u7684\u53e4\u6f22\u8a9e\u7279\u5fb5\uff0c\u8a9e\u97f3\u4e0a\u7ca4\u8a9e\u4ee3\u8868\u5ee3\u5dde\u8a71\u8f03\u5b8c\u6574\u5730\u4fdd\u7559\u5510\u5b8b\u4e2d\u53e4\u8a9e\u97f3\u7cfb\u7d71\uff0c\u5e73\u4ec4\u7528\u97fb\u5951\u5408\u5510\u5b8b\u8a69\u8a5e\uff1b\u8a5e\u5f59\u4e0a\u4fdd\u7559\u8af8\u591a\u534a\u6587\u534a\u767d\u7684\u53e4\u6f22\u8a9e\u8a5e\u6216\u8a9e\u7d20\uff0c\u7528\u8a9e\u6709\u6587\u767d\u593e\u96dc\u7279\u5fb5\u3002\u82e5\u8996\u6f22\u8a9e\u70ba\u4e00\u7a2e\u8a9e\u8a00\uff0c\u5247\u7cb5\u8a9e\u662f\u6f22\u8a9e\u5728\u5e7f\u4e1c\u548c\u5e7f\u897f\u5730\u533a\u5f62\u6210\u7684\u4e00\u7ea7\u65b9\u8a00\uff0c\u4e0b\u5206\u6578\u652f\u4e8c\u7d1a\u65b9\u8a00\uff1b\u82e5\u8996\u6f22\u8a9e\u70ba\u6f22\u8a9e\u65cf\uff0c\u5247\u7cb5\u8a9e\u70ba\u5176\u4e2d\u4e00\u79cd\u8a9e\u8a00\uff0c\u4e0b\u6709\u6578\u652f\u7cb5\u8a9e\u7684\u65b9\u8a00\u3002 \u5168\u7403\u4ee5\u7cb5\u8a9e\u70ba\u6bcd\u8a9e\u8005\u67098490\u842c\u4eba\uff0c\u4e3b\u8981\u5206\u4f48\u65bc\u4e2d\u570b\u5927\u9678\uff08\u5ee3\u6771\u3001\u5ee3\u897f\uff09\u3001\u9999\u6e2f\u548c\u6fb3\u9580\u7b49\u5730\uff0c\u5728\u5ee3\u6771\u7701\u4e00\u5104\u4eba\u53e3\u4e2d\uff0c\u4f7f\u7528\u4eba\u6578\u8d85\u904e6700\u842c\uff0c\u662f\u5ee3\u6771\u6700\u4e3b\u8981\u7684\u8bed\u8a00\u3002\u5728\u4e2d\u570b\u5883\u5167\uff0c\u4ee5\u7cb5\u8a9e\u70ba\u6bcd\u8a9e\u7684\u7fa4\u9ad4\u662f\u7e7c\u5b98\u8a71\u548c\u5433\u8a9e\u4e4b\u5f8c\u7684\u7b2c\u4e09\u540d\u3002\u968f\u7740\u8fd1\u4ee3\u4e24\u5e7f\u5730\u533a\u4eba\u53e3\u5411\u6d77\u5916\u8fc1\u5f99\uff0c\u7ca4\u8bed\u5728\u52a0\u62ff\u5927\u53ca\u6fb3\u6d32\u7b49\u5730\u4e4b\u83ef\u4eba\u793e\u5340\u4e2d\u4e3a\u4f7f\u7528\u4eba\u6578\u6700\u591a\u7684\u6f22\u8a9e\u3002\u7cb5\u8a9e\u4e5f\u662f\u9664\u4e86\u5b98\u8a71\u5916\uff0c\u552f\u4e00\u5728\u4e2d\u56fd\u4e4b\u5916\u7684\u5927\u5b78\u6709\u7368\u7acb\u7814\u7a76\u7684\u6f22\u8a9e\u65cf\u8a9e\u8a00\u3002\u6b64\u5916\uff0c\u7cb5\u8a9e\u5728\u6771\u5357\u4e9e\u7684\u65b0\u52a0\u5761\u3001\u99ac\u4f86\u897f\u4e9e\u3001\u8d8a\u5357\u3001\u5370\u5c3c\u7b49\u4ee5\u53ca\u5317\u7f8e\u6d32\u3001\u6b50\u6d32\u548c\u6fb3\u6d32\u3001\u65b0\u897f\u862d\u3001\u8056\u8a95\u5cf6\u7b49\u5730\u7684\u83ef\u4eba\u793e\u5340\u90fd\u6709\u5ee3\u6cdb\u5206\u4f48\u3002",
+          "Standaardkantonees of Guangzhouhua is het bekendste dialect uit de Kantonese taal. Het Standaardkantonees wordt samen met het Standaardmandarijn gebruikt op scholen, radiozenders en televisiezenders in Hongkong en Macau. Het is ook de omgangstaal in het en Macause parlement. \n* Sino-Tibetaanse talen \n* Chinese talen \n* Kantonees \n* \n* Standaardkantonees",
+          "\u0635\u064a\u0646\u064a\u0629 \u064a\u064f\u0624 (\u0628\u0627\u0644\u0634\u064a\u0648\u0626\u0631\u062a\u0634\u0646\u063a\u060c \u0648\u0647\u0648 \u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0631\u0633\u0645\u064a) \u0623\u0648 \u0627\u0644\u0643\u064e\u0646\u0652\u062a\u064f\u0648\u0646\u064a\u0629 \u0623\u0648 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629 \u0647\u064a \u0625\u062d\u062f\u0649 \u0627\u0644\u0641\u0631\u0648\u0639 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 \u0644\u0644\u063a\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629. \u0647\u0646\u0627\u0643 \u062e\u0644\u0627\u0641 \u0643\u0628\u064a\u0631 \u062d\u0648\u0644 \u0627\u0639\u062a\u0628\u0627\u0631 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629 \u0644\u0647\u062c\u0629 \u0645\u0646 \u0627\u0644\u0644\u0647\u062c\u0627\u062a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629 \u0623\u0648 \u0627\u0639\u062a\u0628\u0627\u0631\u0647\u0627 \u0634\u0628\u0647 \u0644\u063a\u0629 \u0645\u0633\u062a\u0642\u0644\u0629. \u0628\u0634\u0643\u0644 \u0639\u0627\u0645 \u062a\u0639\u062a\u0628\u0631 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629 \u0644\u0647\u062c\u0629 \u0645\u0646 \u0644\u0647\u062c\u0627\u062a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629 \u0627\u0644\u0639\u062f\u064a\u062f\u0629 \u0644\u0623\u0633\u0628\u0627\u0628 \u0639\u0631\u0642\u064a\u0629 \u0648\u062b\u0642\u0627\u0641\u064a\u0629\u060c \u0625\u0644\u0627 \u0623\u0646\u0647\u0627 \u0645\u0646 \u0646\u0627\u062d\u064a\u0629 \u0623\u062e\u0631\u0649 \u062a\u0639\u062a\u0628\u0631 \u0644\u063a\u0629 \u0634\u0628\u0647 \u0645\u0633\u062a\u0642\u0644\u0629 \u0628\u062d\u062f \u0630\u0627\u062a\u0647\u0627 \u0628\u0633\u0628\u0628 \u0648\u062c\u0648\u062f \u0646\u0633\u0628\u0629 \u062a\u0641\u0627\u0647\u0645 \u00ab\u0636\u0626\u064a\u0644\u0629\u00bb \u0628\u064a\u0646\u0647\u0627 \u0648\u0628\u064a\u0646 \u0627\u0644\u0644\u0647\u062c\u0627\u062a \u0627\u0644\u0623\u062e\u0631\u0649 \u0644\u0644\u063a\u0629 \u0627\u0644\u0635\u064a\u0646\u064a\u0629. \u064a\u0642\u062f\u0631 \u0639\u062f\u062f \u0645\u062a\u062d\u062f\u062b\u064a \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629 \u0628\u062d\u0648\u0627\u0644\u064a 71 \u0645\u0644\u064a\u0648\u0646 \u0646\u0633\u0645\u0629 \u062a\u0642\u0631\u064a\u0628\u0627\u060c \u0648\u062a\u062d\u062a\u0644 \u0627\u0644\u0645\u0631\u062a\u0628\u0629 21 \u0645\u0646 \u062d\u064a\u062b \u0639\u062f\u062f \u0627\u0644\u0645\u062a\u062d\u062f\u062b\u064a\u0646 \u0644\u0644\u063a\u0627\u062a \u0641\u064a \u0627\u0644\u0639\u0627\u0644\u0645. \u064a\u0646\u062a\u0634\u0631 \u0645\u062a\u062d\u062f\u062b\u0648\u0627 \u0647\u0630\u0647 \u0627\u0644\u0644\u063a\u0629 \u0628\u0634\u0643\u0644 \u0631\u0626\u064a\u0633\u064a \u0641\u064a \u0645\u0642\u0627\u0637\u0639\u0627\u062a \u0642\u0648\u0627\u0646\u063a\u062f\u0648\u0646\u063a\u060c \u0648 \u0642\u0648\u0627\u0646\u063a\u0634\u064a \u0641\u064a \u062c\u0646\u0648\u0628 \u0628\u0631 \u0627\u0644\u0635\u064a\u0646 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u060c \u0648\u0641\u064a \u0647\u0648\u0646\u063a \u0643\u0648\u0646\u063a\u060c \u0648 \u0645\u0627\u0643\u0627\u0648 \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0623\u0642\u0644\u064a\u0627\u062a \u0641\u064a \u062c\u0646\u0648\u0628 \u0634\u0631\u0642 \u0622\u0633\u064a\u0627\u060c \u0643\u0646\u062f\u0627\u060c \u0648\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629.",
+          "\uad11\ub465\uc5b4(\uc911\uad6d\uc5b4 \uc815\uccb4\uc790: \u5ee3\u6771\u8a71, \uac04\uccb4\uc790: \u5e7f\u4e1c\u8bdd, \uc6d4\ubcd1: gwong2 dung1 waa2 \uad9d\ub3d9\uc640[*], \ud55c\uc5b4 \ubcd1\uc74c: Gu\u01cengd\u014dnghu\u00e0 \uad11\ub3d9\ud654[*], \uc601\uc5b4: Cantonese \uce94\ud130\ub2c8\uc988[*])\ub294 \uc911\uad6d\uc5b4 \ubc29\uc5b8\uc758 \ud558\ub098\ub85c, \uc6d4\uc5b4\uc758 \ubc29\uc5b8\uc758 \uc77c\uc885\uc774\ub2e4. \ud55c\uad6d\uc5d0\uc11c\ub294 \ud55c\uad6d\uc5b4\ub85c \uad11\ub3d9\uc5b4\ub77c\uace0 \ud55c\ub2e4. \uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ub0a8\ubd80\uc758 \uc5b8\uc5b4\uc774\uba70, \uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \uc77c\ubd80 \uc9c0\uc5ed 8\ucc9c\ub9cc \uba85\uacfc \ub3d9\ub0a8\uc544\uc2dc\uc544(\ud2b9\ud788 \uc2f1\uac00\ud3ec\ub974, \ub9d0\ub808\uc774\uc2dc\uc544), \ubbf8\uad6d, \uce90\ub098\ub2e4 \ub4f1 \ud574\uc678 \ud654\uad50 1\ucc9c\ub9cc \uba85, \ud604\uc7ac \uc57d 1\uc5b5 \uba85\uc774 \uc0ac\uc6a9\ud558\ub294 \uac83\uc73c\ub85c \ucd94\uc815\ub41c\ub2e4. \uad11\ub465\uc131(\u5ee3\u6771\u7701), \ud64d\ucf69(\u9999\u6e2f), \ub9c8\uce74\uc624(\u6fb3\u9580), \uc4f0\ucd28\uc131(\u56db\u5ddd\u7701), \uad11\uc2dc\uc8a1\uc871\uc790\uce58\uad6c(\u5ee3\u897f\u58ef\u65cf\u81ea\u6cbb\u5340), \ud478\uc820\uc131(\u798f\u5efa\u7701), \uc7a5\uc2dc\uc131(\u6c5f\u897f\u7701), \ud6c4\ub09c\uc131(\u6e56\u5357\u7701) \ub4f1\uc758 \uc9c0\uc5ed\uc5d0\uc11c \uc0ac\uc6a9\ub41c\ub2e4. \ud2b9\ud788 \ud64d\ucf69\uacfc \ub9c8\uce74\uc624\uc5d0\uc11c\ub294 \uc624\ub79c \uae30\uac04\uc758 \uc11c\uc591 \ud1b5\uce58 \ub4f1\uc73c\ub85c \uc778\ud574 \uc601\uc5b4 \ud639\uc740 \ud3ec\ub974\ud22c\uac08\uc5b4\uc640 \ud568\uaed8 \uacf5\uc6a9\uc5b4\ub85c \uc0ac\uc6a9\ub418\uba70, \ud604\uc7ac\ub3c4 \ud64d\ucf69 \uc601\ud654, \ub178\ub798, \uc6d4\uadf9(\u7cb5\u5287) \ub4f1\uc758 \uc608\uc220 \uc791\ud488\uc744 \ud3ec\ud568\ud55c \uc5ec\ub7ec \ubd84\uc57c\uc5d0\uc11c \uad11\ub465\uc5b4\uac00 \ub110\ub9ac \uc0ac\uc6a9\ub418\uace0 \uc788\ub2e4. \ud45c\uc900 \uc911\uad6d\uc5b4\uc640 \ub2ec\ub9ac 9\uac1c\uc758 \uc131\uc870\uac00 \uc874\uc7ac\ud558\ub294 \uac83\uc774 \ud2b9\uc9d5\uc774\ub2e4.",
+          "\u5ee3\u5dde\u8a71\uff0c\u53c8\u7a31\u70ba\u5ee3\u6771\u8a71\u3001\u5ee3\u5e9c\u8a71\u3001\u7cb5\u8a9e\u3001\u5ee3\u6771\u7701\u57ce\u8a71\u3001\u767d\u8a71\uff0c\u76f8\u50b3\u8d77\u6e90\u65bc\u5ee3\u4fe1\uff08\u5373\u68a7\u5dde\u53ca\u5c01\u958b\u4e00\u9685\uff09\u3002\u5b78\u754c\u6240\u6307\u5ee3\u5dde\u8a71\uff0c\u4e43\u73fe\u6642\u5e7f\u5dde\u53ca\u9999\u6e2f\u6240\u8b1b\u4e4b\u7cb5\u8a9e\uff0c\u4e3b\u8981\u901a\u884c\u65bc\u73e0\u6c5f\u4e09\u89d2\u6d32\u5730\u533a\u3001\u9999\u6e2f\u3001\u6fb3\u9580\u3001\u7ca4\u4e1c\u3001\u7ca4\u897f\u3001\u5e7f\u897f\uff08\u5982\u68a7\u5dde\u5e02\u533a\u3001\u5357\u5b81\u5e02\u533a\u90e8\u5206\u5730\u533a\uff09\u3001\u9a6c\u6765\u897f\u4e9a\u3001\u4e1c\u5357\u4e9a\u4ee5\u53ca\u5916\u6d0b\u5510\u4eba\u8857\u3002",
+          "Cantonese (traditional Chinese: \u5ee3\u6771\u8a71; simplified Chinese: \u5e7f\u4e1c\u8bdd; Cantonese Yale: Gw\u00f3ngd\u016bng w\u00e1) is a language within the Chinese (Sinitic) branch of the Sino-Tibetan languages originating from the city of Guangzhou (historically known as Canton) and its surrounding area in Southeastern China. It is the traditional prestige variety of the Yue Chinese dialect group, which has over 80 million native speakers. While the term Cantonese specifically refers to the prestige variety, it is often used to refer to the entire Yue subgroup of Chinese, including related but largely mutually unintelligible languages and dialects such as Taishanese. Cantonese is viewed as a vital and inseparable part of the cultural identity for its native speakers across large swaths of Southeastern China, Hong Kong and Macau, as well as in overseas communities. In mainland China, it is the lingua franca of the province of Guangdong (being the majority language of the Pearl River Delta) and neighbouring areas such as Guangxi. It is also the dominant and co-official language of Hong Kong and Macau. Cantonese is also widely spoken amongst Overseas Chinese in Southeast Asia (most notably in Vietnam and Malaysia, as well as in Singapore and Cambodia to a lesser extent) and throughout the Western world. Although Cantonese shares much vocabulary with Mandarin, the two Sinitic languages are mutually unintelligible, largely because of phonological differences, but also due to differences in grammar and vocabulary. Sentence structure, in particular the placement of verbs, sometimes differs between the two varieties. A notable difference between Cantonese and Mandarin is how the spoken word is written; both can be recorded verbatim, but very few Cantonese speakers are knowledgeable in the full Cantonese written vocabulary, so a non-verbatim formalized written form is adopted, which is more akin to the Mandarin written form or Standard Chinese. However, it is only non-verbatim with respect to vernacular Cantonese as it is possible to read Standard Chinese text verbatim with formal Cantonese. This results in the situation in which a Cantonese and a Mandarin text may look similar but are pronounced differently. Conversely, written (vernacular) Cantonese is mostly used in informal settings such as on social media and comic books.",
+          "El yue \u00e9s un conjunt de lleng\u00fces sin\u00edtiques parlades al , particularment en (les prov\u00edncies de Guangdong i Guangxi). Amb 80 milions de parlants, es tracta de la quarta llengua sin\u00edtica m\u00e9s parlada, i un dels set principals grups de dialectes. Sovint s'utitlitza el terme Canton\u00e9s per a referir-se al conjunt, si b\u00e9 els ling\u00fcistes prefereixen reservar la denominaci\u00f3 per a la varietat parlada a l'\u00e0rea de Guangzhou, , Hong Kong i Macau, sent alhora el , i la variant estandarditzada, aix\u00ed com la varietat de xin\u00e9s m\u00e9s coneguda i identificable despr\u00e9s del Mandar\u00ed. Les variants del xin\u00e9s yue s\u00f3n prou conservadores i retenen un bon nombre de les caracter\u00edstiques del xin\u00e9s antic. Es considera que el canton\u00e9s \u00e9s m\u00e9s pr\u00f2xim a formes antigues que la majoria de les altres variants, com ara el xin\u00e8s mandar\u00ed est\u00e0ndard. Alhora, les distintes varietats del Yue no s\u00f3n m\u00fatuament intel\u00b7ligibles amb altres .",
+          "El yue o canton\u00e9s (en chino tradicional, \u7cb5\u8a9e; en chino simplificado, \u7ca4\u8bed; pinyin, yu\u00e8y\u01d4; jyutping, jyut6jyu5; Yale canton\u00e9s, yuhty\u00fah) es un idioma dentro de las lenguas sin\u00edticas, formado por una agrupaci\u00f3n de dialectos, entre ellos el guangdong y el . A veces se utiliza la denominaci\u00f3n canton\u00e9s para todo el grupo pero los ling\u00fcistas prefieren reservar este nombre para la variedad de Cant\u00f3n, Hong Kong y Macao, donde es el dialecto de prestigio. El nombre yue corresponde al nombre de un reino antiguo situado en la actual provincia de Guangdong. Por ello, el car\u00e1cter \u7cb5 se utiliza hoy en d\u00eda como abreviatura del nombre de esta provincia (en las matr\u00edculas de los coches, por ejemplo).",
+          "La kantona lingvo (\u0109ine: \u7ca4\u8bed; pinyin yu\u00e8y\u01d4 a\u016d \u5ee3\u6771\u8a71; gu\u01cengd\u014dnghu\u00e0, jyutping gwong2dung1waa2) estas grava \u0109ina lingvo parolata en Honkongo, Makao kaj la provinco de Guangdong. Estas 52.000.000 homoj en \u0108inio, kiuj \u011din parolas, kaj 71.000.000 en la tuta mondo. Parolanto de Kantono devas lerni la paroladon de Pekino simile disiga lingvo por \u011din kompreni. Oni a\u016ddas pli la kantonan ol la norm\u0109inan en Nordameriko, \u0109ar la plimulto de \u0109inaj enmigrintoj venis el pli ri\u0109aj regionoj kiel Honkongo. La temo de \u0109u Yue estas lingvo en \u011dia propra rajto a\u016d dialekto de ununura \u0109ina lingvaro dependas de konceptoj de kia lingvo estas. Kiel la aliaj bran\u0109oj de la \u0109ina, kiun Yue estas konsiderita dialekto por etnaj, politikaj, kaj kulturaj kialoj, sed \u011di anka\u016d estas konsideritaj klara lingvo pro lingvaj kialoj. Parolita la Kantona estas reciproke nekomprenebla kun aliaj diversecoj de la \u0109ina, kvankam komprenebla certagrade en \u011dia skriba formo. La areoj de \u0108inio kun la plej alta koncentri\u011do de parolantoj estas la regionoj de G\u016dangdongo kaj (orienta) Guan\u011di kaj la regionoj de Honkongo kaj Makao. Ekzistas anka\u016d grandaj Kantona- kaj Taishanese-parolantaj malplimultoj eksterlande en Sudorienta Azio, Kanado, A\u016dstralio, kaj Usono. La kantona havas 6 tonojn.",
+          "Le cantonais (chinois simplifi\u00e9 : \u7ca4\u8bed ; chinois traditionnel : \u7cb5\u8a9e ; pinyin : yu\u00e8 y\u01d4 ; cantonais Jyutping : jyut6 jyu5 ; cantonais Yale : yuht y\u00fah, aussi connu sous le nom \u5e7f\u4e1c\u8bdd / \u5ee3\u6771\u8a71, Gu\u01cengd\u014dng Hu\u00e0, cantonais Jyutping : Gwong2 dung1 waa6, \u00ab la langue du Guangdong \u00bb) ou yue est une langue chinoise parl\u00e9e particuli\u00e8rement dans le sud de la Chine, dans les provinces du Guangdong et du Guangxi, \u00e0 Hong Kong et \u00e0 Macao. D'un point de vue linguistique, il y a plus de diff\u00e9rences entre le cantonais et le mandarin qu'entre l'espagnol et le fran\u00e7ais, cependant la compr\u00e9hension \u00e0 l'\u00e9crit entre les diff\u00e9rentes langues chinoises est assez bonne gr\u00e2ce aux sinogrammes dont la plupart sont les m\u00eames. \u00c0 la diff\u00e9rence du mandarin qui n\u2032emploie que quatre tons, la prononciation du cantonais en conna\u00eet neuf, c'est-\u00e0-dire que certaines syllabes peuvent se prononcer de neuf fa\u00e7ons diff\u00e9rentes, en fonction de l'intonation et de l'inflexion donn\u00e9es \u00e0 la voix. De plus, les syllabes cantonaises se terminent souvent avec une consonne (-p / -b, -m, -n, -ng, -g / -k, -d / -t), alors qu'en mandarin, on ne trouve que les voyelles et deux consonnes nasales (-n, -ng) \u00e0 la fin d'une syllabe. Il s'\u00e9crit au moyen des sinogrammes, dont un certain nombre lui sont propres et/ou ne se retrouvent plus en mandarin (qui peut cependant les prononcer ou les utiliser de mani\u00e8re bien moins fr\u00e9quente et dans des emplois tr\u00e8s limit\u00e9s). Par exemple (transcriptions jyutping) : \n* \u4f62 keoi5, \u00ab il, lui \u00bb (se prononce q\u00fa en mandarin mais n'a pas de sens ; on utilisera \u4ed6 t\u0101) ; \n* \u5187 mou5, \u00ab ne pas avoir \u00bb (mandarin m\u01ceo, pas de sens, \u00e9quivalent de \u6c92\u6709 m\u00e9iy\u01d2u) ; \n* \u5514 m4, [n\u00e9gation] (mandarin w\u00fa, o\u00f9 il sert d'onomatop\u00e9e rare ; \u00e9quivalent de \u4e0d b\u00f9) ; \n* \u4fc2 hai6, \u00ab \u00eatre \u00bb (mandarin x\u00ec, o\u00f9 il signifie \u00ab lier \u00bb ; \u00e9quivalent de \u662f sh\u00ec); \n* \u4e5c mat1, \u00ab quoi \u00bb (mandarin mie, pas de sens, \u00e9quivalent de \u751a\u9ebc/\u4ec0\u4e48 sh\u00e9nme).",
+          "J\u0119zyk yue (chi\u0144. trad.: \u7cb5\u8a9e, chi\u0144. upr.: \u7ca4\u8bed, kanto\u0144ski (jyutping): Jyut6jyu5; pinyin: Yu\u00e8y\u01d4) \u2013 j\u0119zyk lub makroj\u0119zyk (zale\u017cnie od klasyfikacji) u\u017cywany w po\u0142udniowej cz\u0119\u015bci Chin, zw\u0142aszcza w prowincji Guangdong. Niekt\u00f3re z dialekt\u00f3w s\u0105 wzajemnie niezrozumia\u0142e. Za lingua franca s\u0142u\u017cy odmiana z miasta Guangzhou (dawniej Kanton \u2013 st\u0105d nazwa j\u0119zyk kanto\u0144ski). Dialekty yue s\u0105 bardziej archaiczne ni\u017c r\u00f3\u017cne odmiany j\u0119zyka mandary\u0144skiego, mi\u0119dzy innymi zachowa\u0142y wyg\u0142osowe sp\u00f3\u0142g\u0142oski zwarte.",
+          "\u0635\u064a\u0646\u064a\u0629 \u064a\u0648\u064a \u0647\u064a \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0644\u063a\u0627\u062a \u0627\u0644\u0635\u064a\u0646\u064a\u0629 \u0627\u0644\u0645\u0646\u062a\u0634\u0631\u0629 \u0641\u064a \u062c\u0646\u0648\u0628 \u0627\u0644\u0635\u064a\u0646\u061b \u0648\u064a\u0628\u0644\u063a \u0639\u062f\u062f \u0627\u0644\u0645\u062a\u062d\u062f\u062b\u064a\u0646 \u0628\u0647\u0627 62 \u0645\u0644\u064a\u0648\u0646 \u0646\u0633\u0645\u0629. \u063a\u0627\u0644\u0628\u064b\u0627 \u0645\u0627 \u064a\u064f\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u0627\u0633\u0645 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a \u0644\u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0628\u0623\u0643\u0645\u0644\u0647\u0627\u060c \u0644\u0643\u0646 \u0627\u0644\u0644\u063a\u0648\u064a\u064a\u0646 \u064a\u0641\u0636\u0644\u0648\u0646 \u062d\u062c\u0632 \u0647\u0630\u0627 \u0627\u0644\u0627\u0633\u0645 \u0644\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062a\u0646\u0648\u0639\u0629 \u0645\u0646 \u0642\u0648\u0627\u0646\u063a\u062a\u0634\u0648 (\u0643\u0627\u0646\u062a\u0648\u0646) \u0648 \u0647\u0648\u0646\u062c \u0643\u0648\u0646\u062c \u0648 \u0645\u0627\u0643\u0627\u0648\u060c \u0648\u0647\u064a \u0644\u0647\u062c\u0629 \u0647\u064a\u0628\u0629. \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u062a\u0627\u064a\u0634\u0627\u0646\u064a\u0629\u060c \u0645\u0646 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0633\u0627\u062d\u0644\u064a\u0629 \u0641\u064a \u062c\u064a\u0627\u0646\u063a\u0645\u0646 \u0627\u0644\u0648\u0627\u0642\u0639\u0629 \u062c\u0646\u0648\u0628 \u063a\u0631\u0628 \u0642\u0648\u0627\u0646\u063a\u062a\u0634\u0648\u060c \u0643\u0627\u0646\u062a \u0644\u063a\u0629 \u0645\u0639\u0638\u0645 \u0627\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646 \u0645\u0646 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062a\u0627\u0633\u0639 \u0639\u0634\u0631 \u0645\u0646 \u0642\u0648\u0627\u0646\u063a\u062f\u0648\u0646\u063a \u0625\u0644\u0649 \u062c\u0646\u0648\u0628 \u0634\u0631\u0642 \u0622\u0633\u064a\u0627 \u0648 \u0623\u0645\u0631\u064a\u0643\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629. \u0648\u0643\u0627\u0646 \u0645\u0639\u0638\u0645 \u0627\u0644\u0645\u0647\u0627\u062c\u0631\u064a\u0646 \u0627\u0644\u0644\u0627\u062d\u0642\u064a\u0646 \u064a\u062a\u062d\u062f\u062b\u0648\u0646 \u0627\u0644\u0643\u0627\u0646\u062a\u0648\u0646\u064a\u0629. \u0623\u0635\u0646\u0627\u0641 \u064a\u0648 \u0644\u064a\u0633\u062a \u0645\u0641\u0647\u0648\u0645\u0629 \u0628\u0634\u0643\u0644 \u0645\u062a\u0628\u0627\u062f\u0644 \u0645\u0639 \u0623\u0635\u0646\u0627\u0641 \u0623\u062e\u0631\u0649 \u0645\u0646 \u0627\u0644\u0635\u064a\u0646\u064a\u064a\u0646. \u0647\u0645 \u0645\u0646 \u0628\u064a\u0646 \u0627\u0644\u0623\u0635\u0646\u0627\u0641 \u0627\u0644\u0623\u0643\u062b\u0631 \u062a\u062d\u0641\u0638\u064b\u0627 \u0641\u064a\u0645\u0627 \u064a\u062a\u0639\u0644\u0642 \u0628\u0627\u0644\u0623\u062d\u0631\u0641 \u0627\u0644\u0633\u0627\u0643\u0646\u0629 \u0627\u0644\u0646\u0647\u0627\u0626\u064a\u0629 \u0648\u0627\u0644\u062f\u0631\u062c\u0627\u062a \u0627\u0644\u0644\u0648\u0646\u064a\u0629 \u0644\u0644\u0635\u064a\u0646\u064a\u064a\u0646 \u0627\u0644\u0623\u0648\u0633\u0637\u064a\u0646\u060c \u0644\u0643\u0646\u0647\u0645 \u0641\u0642\u062f\u0648\u0627 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0641\u0631\u0648\u0642 \u0641\u064a \u0627\u0644\u062d\u0631\u0648\u0641 \u0627\u0644\u0633\u0627\u0643\u0646\u0629 \u0627\u0644\u0623\u0648\u0644\u064a\u0629 \u0648\u0627\u0644\u0648\u0633\u0637\u064a\u0629 \u0627\u0644\u062a\u064a \u0627\u062d\u062a\u0641\u0638\u062a \u0628\u0647\u0627 \u0623\u0635\u0646\u0627\u0641 \u0635\u064a\u0646\u064a\u0629 \u0623\u062e\u0631\u0649.",
+          "\uc6e8\uc5b4(\uc911\uad6d\uc5b4 \uc815\uccb4\uc790: \u7cb5\u8a9e, \uac04\uccb4\uc790: \u7ca4\u8bed, \uc6d4\ubcd1: Jyut6jyu5, : Yuet6yue5 \uc717\uc704[*], \ud55c\uc5b4 \ubcd1\uc74c: Yu\u00e8y\u01d4 \uc6e8\uc704[*], \uc601\uc5b4: Yue \uc720\uc5d0\uc774/\uc720\uc6e8\uc774[*]) \ub610\ub294 \uc6d4\uc5b4\ub294 \uc911\uad6d\ud2f0\ubca0\ud2b8\uc5b4\uc871 \uc911\uad6d\uc5b4\ud30c\uc5d0 \uc18d\ud558\ub294 \uc5b8\uc5b4\ub85c, \uad11\ub465\uc131\uc758 \uc911\ubd80 \ubc0f \ub0a8\uc11c\ubd80, \uad11\uc2dc\uc8a1\uc871\uc790\uce58\uad6c \ub3d9\ub0a8\ubd80\ub97c \uc911\uc2ec\uc73c\ub85c \uac01\uc9c0\uc5d0\uc11c \uc0ac\uc6a9\ub41c\ub2e4. \uc6d4\uc5b4\ub97c \ub300\ud45c\ud558\ub294 \ubc29\uc5b8\uc73c\ub85c\ub294 \uad11\uc800\uc6b0 \ubc29\uc5b8\uc744 \uae30\ubc18\uc73c\ub85c \ud55c \uad11\ub3d9\uc5b4\uac00 \uc788\ub2e4. '\uad11\ub465\uc5b4'\uac00 \uc6d4\uc5b4\uc758 \ubc29\uc5b8 \uc804\uccb4\ub97c \uac00\ub9ac\ud0a4\ub294 \ub2e8\uc5b4\ub85c\uc368 \uc0ac\uc6a9\ub418\uae30\ub3c4 \ud55c\ub2e4. \uad11\uc11c\ud3c9\ud654(\u5ee3\u897f\u5e73\u8a71)\ub294 \uc6d4\uc5b4\uc758 \ubc29\uc5b8\uc758 \uc77c\uc885\uc73c\ub85c \ud3ec\ud568\ub418\uae30\ub3c4 \ud558\uace0, \ubcc4\uac1c\uc758 \ub300\ub4f1\ud55c \ubc29\uc5b8\uc73c\ub85c \ubcf4\uc544\uc9c0\uae30\ub3c4 \ud55c\ub2e4. \uc774\ubbfc\uc871\uc5d0 \uc758\ud574 \ud55c\uc871\ub4e4\uc774 \uc9c0\uc18d\uc801\uc73c\ub85c \ud654\ub0a8\uc9c0\uc5ed\uc73c\ub85c \uc774\ub3d9\ud558\uc5ec \uc815\ucc29\ud558\uc600\uae30 \ub54c\ubb38\uc5d0 \uc6d4\uc5b4\uc5d0\ub294 \uace0\ub300, \uc911\uc138 \ud55c\uc5b4(\u6f22\u8a9e) \ubc1c\uc74c\uc774 \ub9ce\uc774 \ub0a8\uc544\uc788\uc73c\uba70 \ubc18\ub300\ub85c \ud654\ubd81 \uc9c0\uc5ed\uc758 \ubc1c\uc74c\uc740 \uae09\uaca9\ud788 \ubcc0\ud654\ud558\uc600\ub2e4.",
+          "\u7ca4\u8a9e\uff08\u3048\u3064\u3054\uff09\u306f\u3001\u4e2d\u56fd\u8a9e\u306e\u4e03\u5927\u65b9\u8a00\u306e\u4e00\u3064\u3067\u3042\u308a\u3001\u30b7\u30ca\u30fb\u30c1\u30d9\u30c3\u30c8\u8a9e\u65cf\u3001\u30b7\u30ca\u8a9e\u6d3e\u306e\u8a00\u8a9e\u306e\u4e00\u3064\u3067\u3042\u308b\u3002\u5e83\u6771\u7701\u306e\u4e2d\u90e8\u304a\u3088\u3073\u897f\u5357\u90e8\u3001\u5e83\u897f\u30c1\u30ef\u30f3\u65cf\u81ea\u6cbb\u533a\u6771\u5357\u90e8\u3092\u4e2d\u5fc3\u3068\u3059\u308b\u5404\u5730\u3067\u8a71\u3055\u308c\u308b\u3002 \u7ca4\u8a9e\u3092\u4ee3\u8868\u3059\u308b\u65b9\u8a00\u306b\u5e83\u5dde\u65b9\u8a00\u3092\u57fa\u76e4\u306b\u6210\u7acb\u3057\u305f\u5e83\u6771\u8a9e\u304c\u3042\u308a\u3001\u4e00\u7a2e\u306e\u5171\u901a\u8a9e\u3068\u3057\u3066\u5e83\u5dde\u3060\u3051\u3067\u306a\u304f\u5e83\u304f\u7ca4\u8a9e\u5730\u57df\u3084\u6d77\u5916\u83ef\u50d1\u793e\u4f1a\u306b\u304a\u3044\u3066\u3082\u7528\u3044\u3089\u308c\u308b\u3002\u65e5\u5e38\u7684\u306b\u306f\u5e83\u6771\u8a9e\u306e\u3053\u3068\u3092\u300c\u7ca4\u8a9e\u300d\u3068\u79f0\u3059\u308b\u3053\u3068\u3082\u3042\u308b\u304c\u3001\u3053\u308c\u306f\u4e0a\u6d77\u8a9e\u3092\u300c\u5449\u8a9e\u300d\u3068\u547c\u3076\u306e\u3068\u540c\u69d8\u306b\u3001\u5b66\u554f\u7684\u306b\u306f\u6b63\u78ba\u3067\u306a\u3044\u3002",
+          "Standardowy j\u0119zyk kanto\u0144ski, yue \u2013 jeden z j\u0119zyk\u00f3w chi\u0144skich u\u017cywany na po\u0142udniu Chin, w Hongkongu i Makau, a tak\u017ce przez potomk\u00f3w chi\u0144skich emigrant\u00f3w w Azji Po\u0142udniowo-Wschodniej i innych rejonach \u015bwiata. Jego nazwa wywodzi si\u0119 od prowincji Guangdong. Liczb\u0119 u\u017cytkownik\u00f3w kanto\u0144skiego szacuje si\u0119 og\u00f3\u0142em na 55 mln (z uwzgl\u0119dnieniem wszystkich pokrewnych dialekt\u00f3w z grupy yue).",
+          "El canton\u00e8s o canton\u00e9s \u00e9s la variant estandarditzada i de prestigi de la llengua yue, una de les lleng\u00fces xineses, que es parla a la ciutat de Canton (actualment Guangzhou) i al seu voltant, al sud de la Xina. Tamb\u00e9 el parla la majoria dels habitants de Hong Kong i Macau, i com a lingua franca a la prov\u00edncia de Guangdong, est de la prov\u00edncia de Guangxi i zones properes. A les \"regions especials\" de Hong Kong i Macau \u00e9s l'idioma oficial del govern i l'ensenyament conjuntament amb l'angl\u00e8s i el portugu\u00e8s, respectivament. Tamb\u00e9 el parlen els emigrants cantonesos a tot arreu del m\u00f3n especialment al Canad\u00e0, al Per\u00fa, a Panam\u00e0, als Estats Units, a Austr\u00e0lia i a \u00c0sia meridional. El canton\u00e8s comparteix molt de vocabulari i estructures gramaticals amb el xin\u00e8s mandar\u00ed per\u00f2 no s\u00f3n m\u00fatuament intel\u00b7ligibles. Pel seu estatus de dialecte de prestigi sovint se l'anomena \"canton\u00e8s est\u00e0ndard\" (en xin\u00e8s:\u6a19\u6e96\u7cb5\u8a9e \u6807\u51c6\u7ca4\u8bed biu\u00b9zeon\u00b2 jyut\u2076jyu\u2075 romanitzat en Guandong com\uff1aBiu1 z\u00ean2 yud6 yu5).",
+          "La lingua cantonese (\u7cb5\u8a9e / \u7ca4\u8bed (romanizzato: Yu\u00e8y\u01d4), o lingua Yue, \u00e8 una delle principali lingue della famiglia delle lingue cinesi. Raggruppa una serie di dialetti, tra cui spicca quello di Hong Kong, che \u00e8 il pi\u00f9 prestigioso e forma il cantonese standard (che \u00e8 una particolare variet\u00e0: la famiglia di lingue e le variet\u00e0 prestigiose non vanno confuse, come spesso pu\u00f2 accadere). Viene principalmente parlata nella parte sud-orientale della Cina continentale, Hong Kong, Macao, dalle minoranze cinesi nel Sud-Est asiatico e da molti cinesi di origine cantonese sparsi nel mondo. Il cantonese standard \u00e8 la lingua ufficiale di Hong Kong e Macao. Il suo nome deriva da Canton, translitterazione francese del nome coloniale portoghese per Guangzhou (\u5e7f\u5dde), nome cinese della capitale della provincia del Guangdong (\u5e7f\u4e1c). \u00c8 una lingua tonale. Chi parla questo dialetto, comunica con i cinesi di tutto il resto della Cina tramite il cinese moderno standard. Al 2022, \u00e8 parlata da 85,6 milioni di parlanti totali.",
+          "Het Kantonees of Yue is een van de Chinese talen. De taal heeft honderden varianten, dialecten die per dorp of subdistrict verschillen. Het Kantonees dat men meestal bedoelt, is het Hongkong-Kantonees of het Standaardkantonees (ook wel Guangzhouhua). Dat laatste is het bekendste en ook meest gebruikte Kantonese dialect. Het Kantonees wordt vooral gesproken in het zuiden en westen van Guangdong, in het zuiden en oosten van Guangxi, in Macau, Hongkong en Christmaseiland. Verder wordt het ook door veel overzeese Chinezen gesproken die niet hun jiaxiang in een Kantoneestalig gebied hebben. Van het Kantonees is er in elk dorp/streek een andere variant. Het Kantonees is een verzamelnaam van honderden dialecten en duizenden dorpsdialecten. Er zijn in de Kantonese dialecten grote verschillen in de klemtonen in woorden, en zijn er verschillen in uitspraak van Chinese karakters, waardoor men elkaar in Kantonese dialecten die niet dicht bij elkaar staan, moeilijk kan verstaan. De taal is evenals het Mandarijn een toontaal, maar het kent veel meer tonen dan het Mandarijn: namelijk 6 of 9, afhankelijk van hoe je telt. Ook in andere opzichten verschilt het van het Mandarijn: hoewel beide Chinese talen zijn, verstaan de sprekers elkaar niet.",
+          "J\u00fce je \u010d\u00ednsk\u00fd jazyk, kter\u00fdm se mluv\u00ed v ji\u017en\u00ed \u010c\u00edn\u011b, a to p\u0159edev\u0161\u00edm v provinci\u00edch Kuang-tung a Kuang-si. \u010casto je naz\u00fdv\u00e1n tak\u00e9 jako kanton\u0161tina, ale lingvist\u00e9 pojem kanton\u0161tina pou\u017e\u00edvaj\u00ed v u\u017e\u0161\u00edm smyslu, a to pro ten dialekt j\u00fce, kter\u00fdm se mluv\u00ed ve m\u011bst\u011b Kanton, v Hongkongu a Macau (roz\u0161\u00ed\u0159en\u00ed v t\u011bchto d\u016fle\u017eit\u00fdch m\u011bstech mu p\u0159ineslo velk\u00e9 roz\u0161\u00ed\u0159en\u00ed v m\u00e9di\u00edch a pozici ). N\u011bkter\u00e9 dialekty j\u00fce jsou velmi roz\u0161\u00ed\u0159eny mezi \u010d\u00ednsk\u00fdmi emigranty v zahrani\u010d\u00ed. Jedn\u00e1 se p\u0159edev\u0161\u00edm o kanton\u0161tinu a tchaj\u0161an\u0161tinu. Tchaj\u0161an\u0161tina je dialektem z okol\u00ed m\u011bsta Tchaj-\u0161an, odkud ve 2. polovin\u011b 19. stolet\u00ed mnoho obyvatel emigrovalo do severn\u00ed Ameriky. Proto byla tchaj\u0161an\u0161tina a\u017e do 70. let 20. stolet\u00ed nejpou\u017e\u00edvan\u011bj\u0161\u00edm jazykem v americk\u00fdch chinatownech. J\u00fce pat\u0159\u00ed k nejkonzervativn\u011bj\u0161\u00edm \u010d\u00ednsk\u00fdm jazyk\u016fm co se t\u00fd\u010de zachov\u00e1n\u00ed fin\u00e1l a t\u00f3n\u016f ze star\u00e9 \u010d\u00edn\u0161tiny, naopak zm\u011bnou pro\u0161ly inici\u00e1ly a medi\u00e1ly, kter\u00e9 v ostatn\u00edch \u010d\u00ednsk\u00fdch jazyc\u00edch z\u016fstaly zachov\u00e1ny.",
+          "\u0397 \u039a\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03b7 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bf\u03b9\u03ba\u03b9\u03bb\u03af\u03b1 \u03c4\u03c9\u03bd \u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ce\u03bd \u03c0\u03bf\u03c5 \u03bf\u03bc\u03b9\u03bb\u03b5\u03af\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u039a\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03c4\u03c3\u03cc\u03bf\u03c5 (\u03b9\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03ac \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03c9\u03c2 \u039a\u03b1\u03bd\u03c4\u03ce\u03bd\u03b1) \u03ba\u03b1\u03b9 \u03c4\u03b7 \u03b3\u03cd\u03c1\u03c9 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c3\u03c4\u03b7 \u03bd\u03bf\u03c4\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u039a\u03af\u03bd\u03b1. \u0395\u03af\u03bd\u03b1\u03b9 \u03b7 \u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03ae \u03c0\u03bf\u03b9\u03ba\u03b9\u03bb\u03af\u03b1 \u03ba\u03cd\u03c1\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03c4\u03c5\u03c0\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03bf \u03c0\u03c1\u03cc\u03c4\u03c5\u03c0\u03bf \u03c4\u03c9\u03bd \u03ba\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ce\u03bd \u0393\u03b9\u03bf\u03cd\u03b5, \u03bc\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03ba\u03cd\u03c1\u03b9\u03b5\u03c2 \u03c5\u03c0\u03bf\u03bf\u03bc\u03ac\u03b4\u03b5\u03c2 \u03c4\u03c9\u03bd \u03ba\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ce\u03bd. \u03a3\u03c4\u03b7\u03bd \u03b7\u03c0\u03b5\u03b9\u03c1\u03c9\u03c4\u03b9\u03ba\u03ae \u039a\u03af\u03bd\u03b1, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 lingua franca \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b1\u03c1\u03c7\u03af\u03b1\u03c2 \u039a\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba (\u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03cd\u03c1\u03b9\u03b1 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c4\u03bf\u03c5 \u0394\u03ad\u03bb\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03cd \u03a0\u03b5\u03c1\u03bb) \u03ba\u03b1\u03b9 \u03b3\u03b5\u03b9\u03c4\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ce\u03bd \u03cc\u03c0\u03c9\u03c2 \u03c4\u03b7\u03bd \u039a\u03bf\u03c5\u03b1\u03bd\u03b3\u03ba\u03c3\u03af. \u0395\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03c5\u03c1\u03af\u03b1\u03c1\u03c7\u03b7 \u03ba\u03b1\u03b9 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c4\u03bf\u03c5 \u03a7\u03bf\u03bd\u03b3\u03ba \u039a\u03bf\u03bd\u03b3\u03ba \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u039c\u03b1\u03ba\u03ac\u03bf. \u03a4\u03b1 \u03ba\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03b5\u03c5\u03c1\u03ad\u03c9\u03c2 \u03b4\u03b9\u03b1\u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03a5\u03c0\u03b5\u03c1\u03c0\u03cc\u03bd\u03c4\u03b9\u03c9\u03bd \u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u039d\u03bf\u03c4\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae \u0391\u03c3\u03af\u03b1 (\u03ba\u03c5\u03c1\u03af\u03c9\u03c2 \u03c3\u03c4\u03bf \u0392\u03b9\u03b5\u03c4\u03bd\u03ac\u03bc \u03ba\u03b1\u03b9 \u03c4\u03b7 \u039c\u03b1\u03bb\u03b1\u03b9\u03c3\u03af\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7 \u03a3\u03b9\u03b3\u03ba\u03b1\u03c0\u03bf\u03cd\u03c1\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7 \u039a\u03b1\u03bc\u03c0\u03cc\u03c4\u03b6\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf \u03b2\u03b1\u03b8\u03bc\u03cc) \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03cc\u03bb\u03bf \u03c4\u03bf \u0394\u03c5\u03c4\u03b9\u03ba\u03cc \u03ba\u03cc\u03c3\u03bc\u03bf. \u0395\u03bd\u03ce \u03bf \u03cc\u03c1\u03bf\u03c2 \u039a\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1 \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b5\u03bd\u03ac \u03c3\u03c4\u03b7 \u03c0\u03bf\u03b9\u03ba\u03b9\u03bb\u03af\u03b1 \u03ba\u03cd\u03c1\u03bf\u03c5\u03c2, \u03c3\u03c5\u03c7\u03bd\u03ac \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c5\u03c1\u03cd\u03c4\u03b5\u03c1\u03b7 \u03ad\u03bd\u03bd\u03bf\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03bf\u03bc\u03ac\u03b4\u03b1\u03c2 \u0393\u03b9\u03bf\u03cd\u03b5 \u03c4\u03c9\u03bd \u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ce\u03bd, \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c4\u03c9\u03bd \u03c3\u03c7\u03b5\u03c4\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03c9\u03bd \u03b1\u03bb\u03bb\u03ac \u03c3\u03b5 \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf \u03b2\u03b1\u03b8\u03bc\u03cc \u03b1\u03bc\u03bf\u03b9\u03b2\u03b1\u03af\u03b1 \u03b1\u03ba\u03b1\u03c4\u03b1\u03bd\u03cc\u03b7\u03c4\u03c9\u03bd \u03b3\u03bb\u03c9\u03c3\u03c3\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03bb\u03ad\u03ba\u03c4\u03bf\u03c5\u03c2, \u03cc\u03c0\u03c9\u03c2 \u03c4\u03b1 \u03a4\u03b1\u03ca\u03c3\u03b1\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1. \u038c\u03c4\u03b1\u03bd \u03c4\u03b1 \u03ba\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1 \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03c3\u03c4\u03b5\u03bd\u03ac \u03c3\u03c7\u03b5\u03c4\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03b4\u03b9\u03ac\u03bb\u03b5\u03ba\u03c4\u03bf\u03b9 \u0393\u03b9\u03bf\u03c5\u03b5\u03c7\u03ac\u03b9 \u03c4\u03b1\u03be\u03b9\u03bd\u03bf\u03bc\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bc\u03b1\u03b6\u03af, \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03c0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5 80 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bf\u03bc\u03b9\u03bb\u03b7\u03c4\u03ad\u03c2. \u03a4\u03b1 \u03ba\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1 \u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c9\u03c2 \u03b6\u03c9\u03c4\u03b9\u03ba\u03cc \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b1\u03c0\u03cc\u03c3\u03c0\u03b1\u03c3\u03c4\u03bf \u03bc\u03ad\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03c6\u03c5\u03c3\u03b9\u03ba\u03ce\u03bd \u03bf\u03bc\u03b9\u03bb\u03b7\u03c4\u03ce\u03bd \u03c3\u03b5 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03bd\u03bf\u03c4\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u039a\u03af\u03bd\u03b1\u03c2, \u03c4\u03bf \u03a7\u03bf\u03bd\u03b3\u03ba \u039a\u03bf\u03bd\u03b3\u03ba \u03ba\u03b1\u03b9 \u03c4\u03bf \u039c\u03b1\u03ba\u03ac\u03bf. \u0391\u03bd \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1 \u03bc\u03bf\u03b9\u03c1\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03b5\u03c1\u03b9\u03ba\u03cc \u03bb\u03b5\u03be\u03b9\u03bb\u03cc\u03b3\u03b9\u03bf \u03bc\u03b5 \u03c4\u03b1 \u039c\u03b1\u03bd\u03b4\u03b1\u03c1\u03b9\u03bd\u03b9\u03ba\u03ac, \u03bf\u03b9 \u03b4\u03cd\u03bf \u03c0\u03bf\u03b9\u03ba\u03b9\u03bb\u03af\u03b5\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bc\u03bf\u03b9\u03b2\u03b1\u03af\u03b1 \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03b7\u03c4\u03ad\u03c2 \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03c9\u03bd \u03c4\u03b5\u03c1\u03ac\u03c3\u03c4\u03b9\u03c9\u03bd \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c6\u03bf\u03c1\u03ac, \u03c4\u03b7 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u03c4\u03bf \u03bb\u03b5\u03be\u03b9\u03bb\u03cc\u03b3\u03b9\u03bf. \u0397 \u03b4\u03bf\u03bc\u03ae \u03c4\u03b7\u03c2 \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7\u03c2, \u03b9\u03b4\u03af\u03c9\u03c2 \u03b7 \u03c4\u03bf\u03c0\u03bf\u03b8\u03ad\u03c4\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03c1\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5\u03c1\u03b9\u03ba\u03ad\u03c2 \u03c6\u03bf\u03c1\u03ad\u03c2 \u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b4\u03cd\u03bf \u03c0\u03bf\u03b9\u03ba\u03b9\u03bb\u03b9\u03ce\u03bd. \u039c\u03b9\u03b1 \u03b1\u03be\u03b9\u03bf\u03c3\u03b7\u03bc\u03b5\u03af\u03c9\u03c4\u03b7 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03ac \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03ba\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u03ba\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03c0\u03ce\u03c2 \u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03bb\u03ad\u03be\u03b7: \"\u03ba\u03b1\u03b9 \u03bf\u03b9 \u03b4\u03cd\u03bf \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af \u03b1\u03c5\u03c4\u03bf\u03bb\u03b5\u03be\u03b5\u03af, \u03b1\u03bb\u03bb\u03ac \u03c0\u03bf\u03bb\u03cd \u03bb\u03af\u03b3\u03bf\u03b9 \u03bf\u03bc\u03b9\u03bb\u03b7\u03c4\u03ad\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b3\u03bd\u03ce\u03c3\u03c4\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03bb\u03ae\u03c1\u03bf\u03c5\u03c2 \u039a\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03bf\u03c5 \u03b3\u03c1\u03b1\u03c0\u03c4\u03bf\u03cd \u03bb\u03b5\u03be\u03b9\u03bb\u03bf\u03b3\u03af\u03bf\u03c5. \u0388\u03c4\u03c3\u03b9 \u03c5\u03b9\u03bf\u03b8\u03b5\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03bc\u03b7-\u03c0\u03bb\u03ae\u03c1\u03b7 \u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03b7 \u03b3\u03c1\u03b1\u03c0\u03c4\u03ae \u03bc\u03bf\u03c1\u03c6\u03ae, \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03bc\u03bf\u03b9\u03ac\u03b6\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf \u03bc\u03b5 \u03c4\u03b7 \u03b3\u03c1\u03b1\u03c0\u03c4\u03ae \u03bc\u03bf\u03c1\u03c6\u03ae \u03c4\u03c9\u03bd \u039c\u03b1\u03bd\u03b4\u03b1\u03c1\u03b9\u03bd\u03b9\u03ba\u03ce\u03bd. \u0391\u03c5\u03c4\u03cc \u03ad\u03c7\u03b5\u03b9 \u03c9\u03c2 \u03b1\u03c0\u03bf\u03c4\u03ad\u03bb\u03b5\u03c3\u03bc\u03b1 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03ad\u03bd\u03b1 \u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bd\u03c4\u03bf\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03b9\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b1\u03c1\u03cc\u03bc\u03bf\u03b9\u03bf, \u03b1\u03bb\u03bb\u03ac \u03c0\u03c1\u03bf\u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ac. \u0395\u03c0\u03b9\u03c0\u03bb\u03ad\u03bf\u03bd, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b7 \u03c0\u03bb\u03ae\u03c1\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b2\u03bf\u03b7\u03b8\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03bb\u03ad\u03be\u03b5\u03c9\u03bd, \u03b3\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03b3\u03bc\u03b1, \u03c3\u03b5 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03c5\u03b1\u03ba\u03ad\u03c2 \u03c3\u03c5\u03bd\u03bf\u03bc\u03b9\u03bb\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ad\u03c2 \u03c3\u03c5\u03bb\u03bb\u03ae\u03c8\u03b5\u03c9\u03bd, \u03bf\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03bd\u03b5\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03af\u03b4\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c6\u03bf\u03c1\u03ac, \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03c5\u03c0\u03b1\u03ba\u03bf\u03cd\u03b5\u03b9 \u03c3\u03c4\u03bf \u03ba\u03b1\u03bd\u03cc\u03bd\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2.",
+          "Kantonesiska (traditionell kinesiska: \u5ee3\u6771\u8a71?, f\u00f6renklad kinesiska: \u5e7f\u4e1c\u8bdd?, pinyin: Gu\u01cengd\u014dng Hu\u00e0; kantonesiska: \u7ca4\u8bed, Yuht Y\u00fah) \u00e4r ett tonalt spr\u00e5k. I tonala spr\u00e5k \u00e4r tonernas stigning avg\u00f6rande. S\u00e5lunda h\u00f6r tonen fast till ordet. Bra h\u00f6rsel \u00e4r f\u00f6rm\u00e5gan att kunna identifiera h\u00f6rda toner exakt.Kantonesiska och mandarin \u00e4r tv\u00e5 olika spr\u00e5k snarare \u00e4n dialekter trots att de delar samma skriftliga form. Tanken var att kantoneserna skulle f\u00e5 ett l\u00e4ttbegriplig information och f\u00f6rst\u00e5else om Mandarin (spr\u00e5k).Kantonesiska tillh\u00f6r den sinotibetanska spr\u00e5ken, medan mandarin tillh\u00f6r ett monosyllabiskt spr\u00e5k som utvecklades fr\u00e5n medeltidskinesiska.",
+          "Yue atau Yueh adalah sebuah sub-rumpun utama dari bahasa Tionghoa di selatan Tiongkok, terutama di provinsi Guangdong dan Guangxi. Bahasa Kanton dan Taishan dipakai oleh penduduk yang merantau di Asia Tenggara, Kanada, Australia, dan Amerika Serikat.",
+          "Die kantonesische Sprache (chinesisch \u5ee3\u6771\u8a71 / \u5e7f\u4e1c\u8bdd, Jyutping Gwong2dung1waa2, Yale Gw\u00f3ngd\u00f9ngw\u00e1) oder Yue (\u7cb5\u8a9e / \u7ca4\u8bed, Yu\u00e8y\u01d4, Jyutping Jyut6jyu5, Yale Yuhty\u00fah) ist eine chinesische Sprache, die vor allem in S\u00fcdchina (Huanan) gesprochen wird.",
+          "Yue txinera (tradizionalean \u7cb5\u8a9e, txinera sinplifikatuan \u7ca4\u8bed, Hanyu Pinyin sisteman yu\u00e8y\u01d4) edo kantonera hegoaldeko Txinan hitz egiten diren txineraren aldaeren artean adar nagusi bati esaten zaio, Guangdong eta Guangxi probintzietako aldaerei batez ere. Yue txineraren dialektoa edo berezko hizkuntza den eztabaida ez dago itxita. Txineraren beste adarren moduan, yue arrazoi etniko, politiko eta kulturalak direla eta dialektoa jotzen dute, baina, hizkuntzalarien ustetan, yueak ez du txineraren beste aldaerekiko ahozko elkarrekiko ulergarritasuna, nahiz eta idatzian ulergarria izan. Haren hiztunak Guangdongen (lehen, Kanton-en), ekialdeko Guangxin, Hong Kongen eta Macaun bizi dira.",
+          "El canton\u00e9s est\u00e1ndar o guangdong (en chino tradicional, \u5ee3\u6771\u8a71; en chino simplificado, \u5e7f\u4e1c\u8bdd; pinyin, Gu\u01cengzh\u014du hu\u00e0; jyutping, Gwong2dong1 wa2) es una variante est\u00e1ndar del idioma canton\u00e9s, considerada generalmente el dialecto de prestigio alrededor de las ciudades de Cant\u00f3n, Hong Kong y Macao y en China meridional. El canton\u00e9s est\u00e1ndar es el dialecto de facto oficial de Hong Kong y Macao, y la lingua franca de la provincia de Cant\u00f3n y de algunas de sus \u00e1reas vecinales. Tambi\u00e9n, es hablado por muchos descendientes de chinos de Cant\u00f3n, Hong Kong o Macau en Singapur, Malasia, Canad\u00e1, Estados Unidos, Australia, M\u00e9xico, Europa y otros lugares. La mayor\u00eda de la gente de la ciudad malaya de Ipoh habla canton\u00e9s. Hist\u00f3ricamente, el canton\u00e9s fue la forma m\u00e1s com\u00fan del chino hablada por las comunidades de descendientes de chinos en occidente, aunque la situaci\u00f3n cambi\u00f3 con la creciente importancia del mandar\u00edn en el mundo de habla china, adem\u00e1s de la inmigraci\u00f3n a otros pa\u00edses u otras partes de China. A diferencia del mandar\u00edn, que solo emplea cuatro tonos, el canton\u00e9s usa seis. En el lenguaje popular, el canton\u00e9s est\u00e1ndar es conocido, a menudo, simplemente como \u00abcanton\u00e9s\u00bb, aunque en la ling\u00fc\u00edstica acad\u00e9mica, la palabra puede referirse a la categor\u00eda m\u00e1s amplia a la cual pertenece, el chino canton\u00e9s. El canton\u00e9s est\u00e1ndar tambi\u00e9n es conocido popularmente como guangdong o como la prefectura del canton\u00e9s (en chino tradicional, \u5ee3\u5dde\u8a71\u3001\u5ee3\u5e9c\u8a71; en chino simplificado, \u5e7f\u5dde\u8bdd\u3001\u5e7f\u5e9c\u8bdd; pinyin, Gu\u01cengzh\u014du hu\u00e0, Gu\u00e1ngf\u01d4 hu\u00e0; jyutping, Gwong2zau1 Wa2 \u00b7 Gwong2fu2 Wa2).",
+          "Yue ou Yueh \u00e9 um grupo de l\u00ednguas sin\u00edticas semelhantes faladas no sul da China, particularmente nas prov\u00edncias de Guangdong e Guangxi, conhecidas coletivamente como Liangguang. O nome canton\u00eas \u00e9 frequentemente usado para todo o grupo, mas os linguistas preferem reservar esse nome para a variedade de Guangzhou (Cant\u00e3o), Hong Kong e Macau, que \u00e9 o dialeto de prest\u00edgio . Taishanese, da \u00e1rea costeira de Jiangmen, localizada a sudoeste de Guangzhou, era o idioma da maioria dos emigrantes do s\u00e9culo XIX, de Guangdong ao Sudeste Asi\u00e1tico e Am\u00e9rica do Norte. A maioria dos migrantes posteriores tem sido falantes de canton\u00eas . As variedades de Yue n\u00e3o s\u00e3o mutuamente intelig\u00edveis com outras variedades de chin\u00eas. Eles est\u00e3o entre as variedades mais conservadoras em rela\u00e7\u00e3o \u00e0s consoantes finais e categorias tonais do , mas perderam v\u00e1rias distin\u00e7\u00f5es nas consoantes inicial e medial que outras variedades chinesas mantiveram.",
+          "\u041a\u0430\u043d\u0442\u043e\u0301\u043d\u0441\u044c\u043a\u0438\u0439 \u0434\u0456\u0430\u043b\u0435\u043a\u0442 (\u5ee3\u6771\u8a71, Gw\u00f3ngd\u016bng Wa) \u2014 \u043e\u0434\u043d\u0430 \u0437 \u044e\u0435\u0441\u044c\u043a\u0438\u0445 \u0433\u043e\u0432\u0456\u0440\u043e\u043a, \u0449\u043e \u0437'\u044f\u0432\u0438\u043b\u0430\u0441\u044f \u0432 \u041a\u0430\u043d\u0442\u043e\u043d\u0456 (\u0444\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0430 \u043d\u0430\u0437\u0432\u0430 \u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443). \u0404 \u043f\u0440\u0435\u0441\u0442\u0438\u0436\u043d\u0438\u043c \u043d\u0430\u0440\u0456\u0447\u0447\u044f\u043c \u044e\u0435\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438. \u0406\u043d\u043a\u043e\u043b\u0438 \u0432\u0438\u0437\u043d\u0430\u0447\u0430\u0454\u0442\u044c\u0441\u044f \u044f\u043a \u043e\u043a\u0440\u0435\u043c\u0430 \u043c\u043e\u0432\u0430 \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u043d\u043e\u0457 \u0433\u0440\u0443\u043f\u0438 \u0441\u0438\u043d\u043e-\u0442\u0438\u0431\u0435\u0442\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u043d\u043e\u0457 \u0441\u0456\u043c'\u0457. \u0412\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u0454 \u0442\u0440\u0430\u0434\u0438\u0446\u0456\u0439\u043d\u0443 \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u0443 \u043f\u0438\u0441\u0435\u043c\u043d\u0456\u0441\u0442\u044c. \u041d\u0430 \u0432\u0456\u0434\u043c\u0456\u043d\u0443 \u0432\u0456\u0434 \u043c\u0430\u043d\u0434\u0430\u0440\u0438\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438, \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0438\u0437\u0430\u0446\u0456\u044f \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u043e\u0457 \u043d\u0435 \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430, \u0449\u043e \u0443\u0441\u043a\u043b\u0430\u0434\u043d\u044e\u0454 \u0457\u0457 \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f.[\u0434\u0436\u0435\u0440\u0435\u043b\u043e?] \u0406\u0441\u043d\u0443\u0432\u0430\u043d\u043d\u044f \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0434\u0456\u0430\u043b\u0435\u043a\u0442\u0456\u0432 \u0440\u043e\u0431\u0438\u0442\u044c \u043d\u0435\u043c\u043e\u0436\u043b\u0438\u0432\u0438\u043c \u0444\u043e\u0440\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0441\u0442\u0430\u0431\u0456\u043b\u044c\u043d\u043e\u0457 \u043b\u0435\u043a\u0441\u0438\u043a\u0438, \u0442\u043e\u043c\u0443 \u0431\u0456\u043b\u044c\u0448-\u043c\u0435\u043d\u0448 \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u0438\u043c\u0438 \u0454 \u0441\u043b\u043e\u0432\u0430 \u0434\u043b\u044f \u043f\u043e\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0456\u0432 \u0456\u043d\u043e\u0437\u0435\u043c\u043d\u043e\u0433\u043e \u043f\u043e\u0445\u043e\u0434\u0436\u0435\u043d\u043d\u044f, \u0447\u0430\u0441\u0442\u043e \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0445 \u0432\u0438\u043d\u0430\u0445\u043e\u0434\u0456\u0432, \u0442\u0430\u043a\u0438\u0445 \u044f\u043a \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440 \u0442\u043e\u0449\u043e.",
+          "\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0434\u0438\u0430\u043b\u0435\u043a\u0442, \u0433\u0443\u0430\u043d\u0447\u0436\u043e\u0443\u0441\u043a\u0438\u0439 \u0434\u0438\u0430\u043b\u0435\u043a\u0442 \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0445 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u043e\u0432; \u043e\u0434\u0438\u043d \u0438\u0437 \u044e\u044d\u0441\u043a\u0438\u0445 \u0433\u043e\u0432\u043e\u0440\u043e\u0432, \u043f\u043e\u044f\u0432\u0438\u0432\u0448\u0438\u0439\u0441\u044f \u0432 \u041a\u0430\u043d\u0442\u043e\u043d\u0435 (\u0444\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443). \u042f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u0440\u0435\u0441\u0442\u0438\u0436\u043d\u044b\u043c \u043d\u0430\u0440\u0435\u0447\u0438\u0435\u043c \u044e\u044d\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430. \u0412 \u043c\u0430\u0442\u0435\u0440\u0438\u043a\u043e\u0432\u043e\u043c \u041a\u0438\u0442\u0430\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442 \u0440\u043e\u043b\u044c \u044f\u0437\u044b\u043a\u0430 \u043c\u0435\u0436\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0432 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u0413\u0443\u0430\u043d\u0434\u0443\u043d \u0438 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u0438\u043b\u0435\u0433\u0430\u044e\u0449\u0438\u0445 \u043a \u043d\u0435\u0439 \u0440\u0430\u0439\u043e\u043d\u0430\u0445, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043d\u0430 \u0432\u043e\u0441\u0442\u043e\u043a\u0435 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u0438 \u0413\u0443\u0430\u043d\u0441\u0438. \u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0442\u0430\u043a\u0436\u0435 \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u0436\u0438\u0442\u0435\u043b\u044f\u043c\u0438 \u0413\u043e\u043d\u043a\u043e\u043d\u0433\u0430 \u0438 \u041c\u0430\u043a\u0430\u043e \u0432 \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438. \u0412 \u0441\u0442\u0440\u0430\u043d\u0430\u0445 \u0441 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u043e \u0432\u044b\u0441\u043e\u043a\u0438\u043c \u0447\u0438\u0441\u043b\u043e\u043c \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f (\u041a\u0430\u043d\u0430\u0434\u0430, \u041f\u0435\u0440\u0443, \u041f\u0430\u043d\u0430\u043c\u0430, \u0421\u0428\u0410, \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f) \u043c\u0435\u0441\u0442\u043d\u044b\u0435 \u043a\u0438\u0442\u0430\u0439\u0446\u044b \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044e\u0442 \u0433\u043e\u0432\u043e\u0440\u044b \u0440\u043e\u0434\u0438\u043d\u044b \u0441\u0432\u043e\u0438\u0445 \u043f\u0440\u0435\u0434\u043a\u043e\u0432: \u044d\u043c\u0438\u0433\u0440\u0430\u043d\u0442\u044b \u0438\u0437 \u043e\u043a\u0440\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u0435\u0439 \u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443 \u0433\u043e\u0432\u043e\u0440\u044f\u0442 \u043d\u0430 \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u043e\u043c. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u00ab\u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439\u00bb \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u043f\u043e \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044e \u043a \u043f\u0440\u0435\u0441\u0442\u0438\u0436\u043d\u043e\u043c\u0443 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u0443 \u044e\u044d\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0442\u0430\u043a \u0438 \u043a \u0441\u0430\u043c\u043e\u043c\u0443 \u044e\u044d\u0441\u043a\u043e\u043c\u0443, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0441\u043e\u0441\u0442\u043e\u0438\u0442 \u0438\u0437 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u0445 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u043e\u0432, \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u0442\u0430\u0439\u0448\u0430\u043d\u044c\u0441\u043a\u043e\u0433\u043e. \u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0432\u043e\u0441\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044f\u043c\u0438 \u043a\u0430\u043a \u0447\u0430\u0441\u0442\u044c \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0447\u043d\u043e\u0441\u0442\u0438 \u043a\u0438\u0442\u0430\u0439\u0446\u0435\u0432 \u0441 \u044e\u0433\u0430 \u0441\u0442\u0440\u0430\u043d\u044b. \u0425\u043e\u0442\u044f \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0438 \u0441\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0433\u043e \u0438\u043c\u0435\u044e\u0442 \u043c\u043d\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u0433\u043e \u0432 \u043b\u0435\u043a\u0441\u0438\u043a\u0435 \u0438 \u0433\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0435, \u0438\u0445 \u043d\u043e\u0441\u0438\u0442\u0435\u043b\u0438 \u043d\u0435 \u043f\u043e\u043d\u0438\u043c\u0430\u044e\u0442 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430 \u0432 \u0443\u0441\u0442\u043d\u043e\u043c \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u0435, \u0432\u043e \u043c\u043d\u043e\u0433\u043e\u043c \u0438\u0437-\u0437\u0430 \u0440\u0430\u0437\u043d\u0438\u0446\u044b \u0432 \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u0438.",
+          "Kanton\u0161tina \u010di standardn\u00ed kanton\u0161tina (\u010d\u00ednsky znaky zjednodu\u0161en\u00e9 \u5e7f\u5dde\u8bdd, tradi\u010dn\u00ed \u5ee3\u5dde\u8a71) je dialekt \u010d\u00ednsk\u00e9ho jazyka j\u00fce, j\u00edm\u017e se hovo\u0159\u00ed v okol\u00ed jiho\u010d\u00ednsk\u00fdch velkom\u011bst Kanton a \u0160en-\u010den a tak\u00e9 ve zvl\u00e1\u0161tn\u00edch spr\u00e1vn\u00edch oblastech Hongkong a Macao. Je to nejroz\u0161\u00ed\u0159en\u011bj\u0161\u00ed a nejpresti\u017en\u011bj\u0161\u00ed dialekt jazyka j\u00fce. V neposledn\u00ed \u0159ad\u011b d\u00edky ekonomick\u00e9mu a kulturn\u00edmu rozkv\u011btu Hongkongu pod britskou spr\u00e1vou, kter\u00e1 trvala do 30. \u010dervna 1997, z\u00edskala kanton\u0161tina velk\u00fd kulturn\u00ed v\u00fdznam nejen v r\u00e1mci \u010c\u00edny, ale i v dal\u0161\u00edch asijsk\u00fdch zem\u00edch. V t\u00e9to \u0159e\u010di se to\u010d\u00ed mnoho film\u016f a jsou v n\u00ed tak\u00e9 ps\u00e1ny texty pro zp\u00edvanou popovou hudbu, tzv. Cantopop (zkr\u00e1cen\u011b pro Cantonese popular music). P\u0159esn\u00fd po\u010det mluv\u010d\u00edch kanton\u0161tiny nen\u00ed vzhledem k nedostatku statistick\u00fdch \u00fadaj\u016f zn\u00e1m. Hovo\u0159\u00ed se j\u00ed na rozs\u00e1hl\u00e9m \u00fazem\u00ed, do kter\u00e9ho pat\u0159\u00ed m\u011bsto Kanton a spr\u00e1vn\u00ed oblasti Hongkong a Macao. Kanton\u0161tina je tak\u00e9 lingua franca nejen v provincii Kuang-tung, ale i uvnit\u0159 \u010d\u00ednsk\u00fdch men\u0161inov\u00fdch spole\u010denstv\u00ed v mnoha zem\u00edch sv\u011bta. Jako sv\u016fj hlavn\u00ed jazyk ji pou\u017e\u00edvaj\u00ed \u010detn\u00e9 \u010d\u00ednsk\u00e9 komunity v jihov\u00fdchodn\u00ed Asii, v Kanad\u011b a ve Spojen\u00fdch st\u00e1tech americk\u00fdch. P\u0159esto\u017ee kanton\u0161tina sd\u00edl\u00ed hodn\u011b slovn\u00ed z\u00e1soby s mandar\u00edn\u0161tinou, jsou si tyto dva sinitsk\u00e9 jazyky vz\u00e1jemn\u011b nesrozumiteln\u00e9, p\u0159ev\u00e1\u017en\u011b kv\u016fli fonologick\u00fdm rozd\u00edl\u016fm, ale tak\u00e9 rozd\u00edl\u016fm v gramatice a slovn\u00ed z\u00e1sob\u011b. N\u011bkdy se li\u0161\u00ed i struktura v\u011bt, zejm\u00e9na um\u00edst\u011bn\u00ed sloves. Dal\u0161\u00ed rozd\u00edl je v tom, jak je mluven\u00e9 slovo ps\u00e1no (psan\u00e9 lidov\u00e9 formy); oboj\u00ed lze zaznamenat doslovn\u011b, ale ne mnoho kantonsk\u00fdch mluv\u010d\u00edch zn\u00e1 \u00fapln\u00fd kantonsk\u00fd psan\u00fd slovn\u00edk. Z\u00e1rove\u0148 je psan\u00e1 kanton\u0161tina zak\u00e1z\u00e1na ve \u0161koln\u00edch prac\u00edch a vl\u00e1dn\u00edch dokumentech, je toti\u017e pova\u017eov\u00e1na za neform\u00e1ln\u00ed p\u00edsmo. Tak\u017ee je p\u0159ijata nedoslovn\u00e1 formalizovan\u00e1 psan\u00e1 forma, kter\u00e1 je v\u00edce podobn\u00e1 mandar\u00ednsk\u00e9 psan\u00e9 form\u011b a psan\u00e1 kanton\u0161tina se v\u011bt\u0161inou pou\u017e\u00edv\u00e1 v soci\u00e1ln\u00edch m\u00e9di\u00edch a online komunikaci. N\u00e1sledkem je situace, kdy kantonsk\u00e9 texty v ofici\u00e1ln\u00edch dokumentech a mandar\u00ednsk\u00e9 texty mohou vypadat podobn\u011b, ale jsou vyslovov\u00e1ny odli\u0161n\u011b, kde kantonsk\u00fdm text\u016fm na online platform\u00e1ch, jako jsou blogy a f\u00f3ra, nemohou rodil\u00ed mluv\u010d\u00ed mandar\u00edn\u0161tiny pln\u011b rozum\u011bt, a\u010dkoli mohou h\u00e1dat stru\u010dn\u00fd v\u00fdznam psan\u00fdch kantonsk\u00fdch text\u016f.",
+          "\u042e\u0435 (\u0433\u0443\u0430\u043d\u0434\u0443\u043d\u0441\u044c\u043a\u0430, \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0430, \u044e\u0435\u0441\u044c\u043a\u0430, \u043f\u0430\u043a\u0432\u0430; \u0442\u0440\u0430\u0434. \u7cb5\u8a9e, \u0441\u043f\u0440. \u7ca4\u8bed , \u044e\u0442\u043f\u0445\u0456\u043d: jyut6jyu5, : \u044e\u0442'\u044e, \u0431\u0443\u043a\u0432. \u00ab\u044e\u0435\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430\u00bb; \u0442\u0440\u0430\u0434. \u5ee3\u6771\u8a71, \u0441\u043f\u0440. \u5e7f\u4e1c\u8bdd , \u044e\u0442\u043f\u0445\u0456\u043d: gwong\u00b2dung\u00b9waa6, : \u043a\u0443\u043e\u043d\u0442\u0443\u043d\u0432\u0430, \u0431\u0443\u043a\u0432. \u00ab\u0433\u0443\u0430\u043d\u0434\u0443\u043d\u0441\u044c\u043a\u0430 \u043c\u043e\u0432\u0430\u00bb) \u2014 \u043e\u0434\u043d\u0430 \u0437 \u043c\u043e\u0432 \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u043d\u043e\u0457 \u0433\u0440\u0443\u043f\u0438, \u0430\u0431\u043e \u043e\u0434\u043d\u0430 \u0437 \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0445 \u0434\u0456\u0430\u043b\u0435\u043a\u0442\u043d\u0438\u0445 \u0433\u0440\u0443\u043f \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438, \u0437\u0430\u043b\u0435\u0436\u043d\u043e \u0432\u0456\u0434 \u0442\u043e\u0447\u043a\u0438 \u0437\u043e\u0440\u0443. \u042e\u0435, \u044f\u043a \u0456 \u043f\u0443\u0442\u0443\u043d\u0445\u0443\u0430 (\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u0430 \u043a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u0430), \u2014 \u0456\u0437\u043e\u043b\u044e\u044e\u0447\u0430, \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u0430 \u043c\u043e\u0432\u0430. \u042e\u0435\u0441\u044c\u043a\u0443 \u043c\u043e\u0432\u0443 \u0442\u0430\u043a\u043e\u0436 \u043d\u0430\u0437\u0438\u0432\u0430\u044e\u0442\u044c \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u043e\u044e \u043c\u043e\u0432\u043e\u044e \u0430\u0431\u043e \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0438\u043c \u0434\u0456\u0430\u043b\u0435\u043a\u0442\u043e\u043c, \u043e\u0434\u043d\u0430\u043a \u043e\u0441\u0442\u0430\u043d\u043d\u044f \u043d\u0430\u0437\u0432\u0430 \u0442\u0430\u043a\u043e\u0436 \u043e\u0437\u043d\u0430\u0447\u0430\u0454 \u043d\u0430\u0440\u0456\u0447\u0447\u044f \u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443. \u0423 \u0446\u0456\u0439 \u0441\u0442\u0430\u0442\u0442\u0456 \u043c\u043e\u0432\u0430 \u0439\u0434\u0435 \u043f\u0440\u043e \u0432\u0441\u0456 \u044e\u0435\u0441\u044c\u043a\u0456 \u0434\u0456\u0430\u043b\u0435\u043a\u0442\u0438, \u0432 \u0442\u043e\u043c\u0443 \u0447\u0438\u0441\u043b\u0456 \u0442\u0430\u0439\u0448\u0430\u043d\u044c\u0441\u044c\u043a\u0438\u0439 \u0456 \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0438\u0439 (\u0433\u0443\u0430\u043d\u0447\u0436\u043e\u0443\u0441\u044c\u043a\u0438\u0439).",
+          "O canton\u00eas ou cantonense (chin\u00eas simplificado: \u5e7f\u4e1c\u8bdd; chin\u00eas tradicional: \u5ee3\u6771\u8a71; : Gw\u00f3ngd\u016bng w\u00e1) \u00e9 uma das principais l\u00ednguas do grupo yu\u00e8 da fam\u00edlia lingu\u00edstica chinesa (sin\u00edtica), fazendo parte do tronco lingu\u00edstico Sino-Tibetano. O canton\u00eas \u00e9 o 16\u00b0 idioma mais falado do mundo como l\u00edngua materna e o 3\u00b0 mais falado entre os dialetos chineses, com mais de 80 milh\u00f5es de falantes nativos que usam ativamente a l\u00edngua em seu cotidiano, principalmente localizados na prov\u00edncia do Cant\u00e3o (Guangdong), nas regi\u00f5es administrativas de Hong Kong e Macau, assim como em comunidades internacionais, mais notavelmente no Vietn\u00e3, Mal\u00e1sia, Camboja e Singapura. O nome da sua fam\u00edlia lingu\u00edstica yu\u00e8 corresponde ao nome de um antigo reino situado na atual prov\u00edncia de Cant\u00e3o. Por esse motivo, o caractere \u7cb5 utiliza-se hoje em dia como abreviatura do nome desta prov\u00edncia e l\u00edngua. O canton\u00eas \u00e9 um dialeto chin\u00eas bastante conservador, mais pr\u00f3ximo das formas antigas da l\u00edngua do que outros dialetos. Isto se reflete, por exemplo, no fato de que a antiga poesia antiga, cuja pron\u00fancia original ainda desconhecemos, rima melhor lida em canton\u00eas do que em mandarim. Ainda que os chineses prefiram falar de dialetos (\u65b9\u8a00 f\u0101ngy\u00e1n) ao referirem-se \u00e0s variedades do chin\u00eas falado, a inteligibilidade m\u00fatua entre estes \u00e9 praticamente nula, fazendo com que muitos linguistas consideram o chin\u00eas uma fam\u00edlia de l\u00ednguas, e n\u00e3o uma l\u00edngua \u00fanica, fam\u00edlia esta que inclui variedades como o mandarim, , wu, gan, hakka, xiang e min. Dos diferentes dialetos chineses, o canton\u00eas \u00e9 o \u00fanico que, \u00e0 parte do mandarim, tem uma forma escrita. Esta utiliza alguns caracteres chineses que n\u00e3o existem em mandarim e reutiliza outros com significados diferentes. O canton\u00eas escrito se utiliza, no entanto, somente em situa\u00e7\u00f5es informais, como cartas entre amigos, foros de Internet ou em algumas formas de literatura popular. Em situa\u00e7\u00f5es formais, o chin\u00eas escrito segue as normas do mandarim. Em Hong Kong e Macau, o canton\u00eas falado se utiliza tamb\u00e9m em situa\u00e7\u00f5es formais, como em discursos pol\u00edticos, emissoras de r\u00e1dio e televis\u00e3o. Nestes casos, o idioma utilizado n\u00e3o \u00e9 o canton\u00eas aut\u00eantico, sen\u00e3o mandarim com uma leitura cantonesa dos caracteres. Para a l\u00edngua cantonesa, utiliza-se em Macau um silab\u00e1rio codificado de romaniza\u00e7\u00e3o com o objetivo de evitar disparidades na romaniza\u00e7\u00e3o dos nomes pr\u00f3prios escritos em caracteres chineses tradicionais.",
+          "\u042e\u044d (\u0433\u0443\u0430\u043d\u0434\u0443\u043d\u0441\u043a\u0438\u0439, \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439, \u044e\u0442\u0441\u043a\u0438\u0439, \u044e\u044d\u0441\u043a\u0438\u0439, \u043f\u0430\u043a\u0432\u0430; \u0438\u0435\u0440. \u0442\u0440\u0430\u0434. \u7cb5\u8a9e, \u0443\u043f\u0440. \u7ca4\u8bed, \u044e\u0442\u043f\u0445\u0438\u043d: jyut6jyu5, \u043a\u0430\u043d\u0442.-\u0440\u0443\u0441.: \u044e\u0442\u044a\u044e, \u0431\u0443\u043a\u0432. \u00ab\u044e\u044d\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a\u00bb; \u0438\u0435\u0440. \u0442\u0440\u0430\u0434. \u5ee3\u6771\u8a71, \u0443\u043f\u0440. \u5e7f\u4e1c\u8bdd, \u044e\u0442\u043f\u0445\u0438\u043d: gwong\u00b2dung\u00b9waa6, \u043a\u0430\u043d\u0442.-\u0440\u0443\u0441.: \u043a\u0443\u043e\u043d\u0442\u0443\u043d\u0432\u0430, \u0431\u0443\u043a\u0432. \u00ab\u0433\u0443\u0430\u043d\u0434\u0443\u043d\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a\u00bb) \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u044f\u0437\u044b\u043a\u043e\u0432 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0439 \u044f\u0437\u044b\u043a\u043e\u0432\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b, \u043b\u0438\u0431\u043e \u043e\u0434\u043d\u0430 \u0438\u0437 \u0433\u043b\u0430\u0432\u043d\u044b\u0445 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u043d\u044b\u0445 \u0433\u0440\u0443\u043f\u043f \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f. \u042e\u044d, \u043a\u0430\u043a \u0438 \u043f\u0443\u0442\u0443\u043d\u0445\u0443\u0430 (\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 \u043a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439), \u2014 \u0438\u0437\u043e\u043b\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u0442\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u044f\u0437\u044b\u043a. \u042e\u044d\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u0442\u0430\u043a\u0436\u0435 \u043d\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u043c \u044f\u0437\u044b\u043a\u043e\u043c \u0438\u043b\u0438 \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u043c \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u043e\u043c, \u043e\u0434\u043d\u0430\u043a\u043e \u044d\u0442\u0438 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u044f, \u0441\u0442\u0440\u043e\u0433\u043e \u0433\u043e\u0432\u043e\u0440\u044f, \u043e\u0442\u043d\u043e\u0441\u044f\u0442\u0441\u044f \u0442\u043e\u043b\u044c\u043a\u043e \u043a \u043d\u0430\u0440\u0435\u0447\u0438\u044e \u0413\u0443\u0430\u043d\u0447\u0436\u043e\u0443. \u0412 \u044d\u0442\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0435 \u0440\u0435\u0447\u044c \u0438\u0434\u0451\u0442 \u043e\u0431\u043e \u0432\u0441\u0435\u0445 \u044e\u044d\u0441\u043a\u0438\u0445 \u0434\u0438\u0430\u043b\u0435\u043a\u0442\u0430\u0445, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0442\u0430\u0439\u0448\u0430\u043d\u044c\u0441\u043a\u043e\u043c \u0438 \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u043e\u043c (\u0433\u0443\u0430\u043d\u0447\u0436\u043e\u0443\u0441\u043a\u043e\u043c).",
+          "Bahasa Kanton (\u5e7f\u4e1c\u8bdd/\u5ee3\u6771\u8a71, secara harafiah: bahasa Guangdong; di Indonesia sering disebut bahasa Konghu) adalah salah satu dari dialek bahasa Tionghoa Yue yang dituturkan di Guangdong dan sekitarnya di Republik Rakyat Tiongkok/Cina selatan, Hong Kong, Makau, masyarakat keturunan Tionghoa di Asia Tenggara dan juga masyarakat Tionghoa di belahan dunia lain. Bahasa Kanton merupakan dialek prestise tradisional dari Yue. Bahasa Kanton merupakan bahasa perdagangan kebanyakan orang-orang Tionghoa yang tinggal di luar negeri - dituturkan oleh hampir 70 juta orang di seluruh dunia, jumlah yang hanya bisa disaingi di luar Republik Rakyat Tiongkok/Cina oleh Bahasa Hokkien yang mempunyai sekitar 40 juta penutur. Sejarah dialek Kanton ini dapat ditarik balik ke zaman Dinasti Tang. Menurut penelitian dari ahli bahasa Han di Republik Rakyat Tiongkok/Cina, dialek Kanton merupakan salah satu dialek bahasa Han tertua yang masih tersisa sekarang ini. Dialek Kanton digunakan secara luas pada zaman Dinasti Tang. Itu makanya anggapan bahwa melafalkan puisi Li Bai, Du Fu yang hidup pada zaman Dinasti Tang dengan dialek Kanton adalah lebih cocok daripada melafalkannya dengan bahasa Mandarin yang kita kenal sekarang ini. Bahasa Kanton ini juga punya pembicara di kalangan Tionghoa di Indonesia dan Malaysia. Di Indonesia, bahasa Kanton biasa dikenal dengan sebutan bahasa Konghu."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/cy",
+        "Values": [
+          "Gw\u00f3ngf\u00fa w\u00e1",
+          "Gw\u00f3ngj\u0101u w\u00e1",
+          "J\u016bngm\u00e1n",
+          "Baahkw\u00e1",
+          "S\u00e1angs\u00ecng w\u00e1",
+          "Yuhty\u00fah",
+          "Gw\u00f3ngd\u016bng w\u00e1"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/dia",
+        "Values": [
+          "http://dbpedia.org/resource/Xiguan_dialect",
+          "http://dbpedia.org/resource/Malaysian_Cantonese",
+          "http://dbpedia.org/resource/Hong_Kong_Cantonese"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/familycolor",
+        "Values": [
+          "Sino-Tibetan"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/glotto",
+        "Values": [
+          "cant1236"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/glottorefname",
+        "Values": [
+          "Cantonese"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/iso",
+        "Values": [
+          "yue"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/iso3comment",
+        "Values": [
+          ""
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/isoexception",
+        "Values": [
+          "dialect"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/iw",
+        "Values": [
+          "zh-yue"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/lingua",
+        "Values": [
+          "79"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/languageFamily",
+        "Values": [
+          "http://dbpedia.org/resource/Yuehai_Yue",
+          "http://dbpedia.org/resource/Chinese_language",
+          "http://dbpedia.org/resource/Yue_Chinese",
+          "http://dbpedia.org/resource/Sinitic_languages"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Dialect"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wordnet_type",
+        "Values": [
+          "http://www.w3.org/2006/03/wn/wn20/instances/synset-language-noun-1"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/spokenIn",
+        "Values": [
+          "http://dbpedia.org/resource/Guangdong",
+          "http://dbpedia.org/resource/Guangxi",
+          "http://dbpedia.org/resource/China",
+          "http://dbpedia.org/resource/Overseas_Chinese",
+          "http://dbpedia.org/resource/Macau",
+          "http://dbpedia.org/resource/Hong_Kong"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Cantonese?oldid=1123814546&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "85554"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/iso6393Code",
+        "Values": [
+          "yue"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Cantonese"
+        ]
+      }
+    ]
+  }
+]

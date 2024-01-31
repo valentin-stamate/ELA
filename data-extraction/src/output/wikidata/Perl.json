@@ -1,0 +1,1305 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q42478",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u0e20\u0e32\u0e29\u0e32\u0e40\u0e1e\u0e34\u0e23\u0e4c\u0e25",
+          "\u092a\u0930\u094d\u0932",
+          "\ud384",
+          "\u067e\u0631\u0655\u0644",
+          "\u0baa\u0bc6\u0bb0\u0bcd\u0bb3\u0bcd",
+          "\u041f\u044a\u0440\u043b",
+          "\u041f\u0435\u0440\u043b",
+          "\u0caa\u0cb0\u0ccd\u0cb2\u0ccd",
+          "PERL\u7a0b\u5f0f\u8a9e\u8a00",
+          "\u10de\u10d4\u10e0\u10da\u10d8",
+          "\u0aaa\u0ab0\u0acd\u0ab2",
+          "\u0b2a\u0b30\u0b4d\u0b32\u0b4d",
+          "\u067e\u06ce\u0631\u06b5",
+          "\u0628\u064a\u0631\u0644",
+          "\u067e\u0631\u0644",
+          "Perl\u7f16\u7a0b\u8bed\u8a00",
+          "\u0d2a\u0d47\u0d7e",
+          "Perl",
+          "\u09aa\u09be\u09b0\u09cd\u09b2"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "Lenguaje de programacion Perl",
+          "\u0e40\u0e1e\u0e34\u0e23\u0e4c\u0e25",
+          "Patologicznie Eklektyczny Roztrz\u0105sacz \u015amieci",
+          "Perl5",
+          "Perl\u99f1\u99dd",
+          "Programmeertaal Perl",
+          "Practical Extraction and Reporting Language",
+          "Perl/CGI",
+          "\u0baa\u0bc7\u0bb0\u0bcd\u0bb3\u0bcd",
+          "Perl programming language",
+          "\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u0646\u0648\u06cc\u0633\u06cc \u067e\u0631\u0644",
+          "Programmiersprache Perl",
+          "\u0baa\u0bc6\u0bb0\u0bcd\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0bb2\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bca\u0bb4\u0bbf",
+          "Praktika Elprena kaj Resuma Lingvo",
+          "PEARL\u8bed\u8a00",
+          "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0441\u043a\u0438 \u0458\u0435\u0437\u0438\u043a \u041f\u0435\u0440\u043b",
+          "\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u0654 \u0646\u0648\u06cc\u0633\u06cc \u067e\u0631\u0644",
+          "\u0632\u0628\u0627\u0646 \u067e\u0631\u0644",
+          "\u041f\u0435\u0440\u043b",
+          "Lenguaje de programaci\u00f3n Perl",
+          "Prel",
+          "Ng\u00f4n ng\u1eef Perl",
+          "\u0baa\u0bc6\u0bb0\u0bcd\u0bb3\u0bcd \u0ba8\u0bbf\u0bb0\u0bb2\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0bca\u0bb4\u0bbf",
+          "Datei-Handle",
+          "perl",
+          "Lenguaje Perl",
+          "Perl programoz\u00e1si nyelv",
+          "Per\u8bed\u8a00",
+          "Langage Perl",
+          "PERL",
+          "Perl\u8bed\u8a00",
+          "\ud384 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4",
+          "\u0a95\u0acb\u0aae\u0acd\u0aaa\u0acd\u0aaf\u0ac1\u0a9f\u0ab0 \u0aa8\u0ac7\u0a9f\u0ab5\u0ab0\u0acd\u0a95",
+          "\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc \u067e\u0631\u0644",
+          "Pearl",
+          "Perl 5",
+          "\u0627\u0644\u0628\u064a\u0631\u0644",
+          "\u0baa\u0bc7\u0bb0\u0bcd\u0bb4\u0bcd",
+          "Perl\u7f16\u7a0b\u8bed\u8a00",
+          "Practical Extraction and Report Language",
+          "Tim Toady",
+          "Perl",
+          "\u0baa\u0bc7\u0bb0\u0bcd\u0bb2\u0bcd",
+          "\u05e4\u05e8\u05dc",
+          "\u5be6\u7528\u7684\u63d0\u53d6\u548c\u5831\u544a\u8a9e\u8a00",
+          "Perl 6",
+          "Bahasa Practical Extraction and Reporting",
+          "Pathologically Eclectic Rubbish Lister"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P7427",
+        "Values": [
+          "lang/perl5.32",
+          "lang/perl5.30",
+          "lang/perl5.28",
+          "lang/perl5.26"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P7788",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P7818",
+        "Values": [
+          "Perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P7966",
+        "Values": [
+          "lang/perl5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8189",
+        "Values": [
+          "987007532328005171"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8408",
+        "Values": [
+          "Perl-ProgrammingLanguage"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8443",
+        "Values": [
+          "perl@5.18",
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8687",
+        "Values": [
+          "16050"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8778",
+        "Values": [
+          "library/perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P8885",
+        "Values": [
+          "Perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P9100",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P9602",
+        "Values": [
+          "freshmeat_perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P9618",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P10283",
+        "Values": [
+          "C2777002779"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P10376",
+        "Values": [
+          "computer-science/perl-programming-language"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P11292",
+        "Values": [
+          "perl.1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P11410",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P12204",
+        "Values": [
+          "10517"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P268",
+        "Values": [
+          "http://data.bnf.fr/ark:/12148/cb124906490#about"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P646",
+        "Values": [
+          "http://g.co/kg/m/05zrn"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P950",
+        "Values": [
+          "http://datos.bne.es/resource/XX542605"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P2347",
+        "Values": [
+          "http://www.yso.fi/onto/yso/p16913"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P6366",
+        "Values": [
+          "http://ma-graph.org/entity/2777002779"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P8408",
+        "Values": [
+          "http://kbpedia.org/kko/rc/Perl-ProgrammingLanguage"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P268",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-b7281a3d-4037-b2b3-8a39-4aef982cf7b5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P275",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-5A071349-A854-4A29-84AC-163096084F3E",
+          "http://www.wikidata.org/entity/statement/Q42478-F5719DE8-9115-46B2-9842-374F47B54E05"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P277",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-BAC64312-51C2-4F87-88BF-66608A029A12"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P287",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-651DC123-8145-454F-8081-8B949573D470"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P306",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-41692a82-4f10-6256-ac80-c80808a3306f",
+          "http://www.wikidata.org/entity/statement/Q42478-b667e0d0-4abd-08d4-3be3-a6d341bc6a8b",
+          "http://www.wikidata.org/entity/statement/Q42478-517df16c-4657-9d89-3016-1666e3b64517",
+          "http://www.wikidata.org/entity/statement/Q42478-4732a41c-451b-964c-b395-06d1c9dd7bb8",
+          "http://www.wikidata.org/entity/statement/Q42478-89a51e91-46f2-0e03-d13c-7dbe35c150b0",
+          "http://www.wikidata.org/entity/statement/Q42478-1697fe38-4f8c-d886-1308-bd80e102ce2d"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P348",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-6106a28b-4b73-7b70-8f5b-e7b81773ab5c",
+          "http://www.wikidata.org/entity/statement/Q42478-217b20c9-4409-191f-169b-a937960c6b0f",
+          "http://www.wikidata.org/entity/statement/Q42478-E1FD228D-9ACE-43AD-88A7-C4775208D482",
+          "http://www.wikidata.org/entity/statement/Q42478-0CD38215-CAD3-4F46-A111-BFECC46AB4E9",
+          "http://www.wikidata.org/entity/statement/Q42478-f602ad96-d7c4-4b34-8618-1c1d7f2838a3",
+          "http://www.wikidata.org/entity/statement/Q42478-6730D3F3-C520-4E82-95CE-25CA1200C314",
+          "http://www.wikidata.org/entity/statement/Q42478-a0ea80bd-43fb-adf6-777f-3357a2848db9",
+          "http://www.wikidata.org/entity/statement/Q42478-07055b52-4172-d1f3-b225-bd459d4e386b",
+          "http://www.wikidata.org/entity/statement/Q42478-702E30F0-D486-44F5-9BCF-D66202CDC075",
+          "http://www.wikidata.org/entity/statement/Q42478-59df497b-423b-63bf-43d0-d6243a0b1cfe",
+          "http://www.wikidata.org/entity/statement/Q42478-06D96CB3-25D6-4D9C-855F-0C81D43FAEAB",
+          "http://www.wikidata.org/entity/statement/Q42478-1D69FADF-C71B-4799-AFD3-06F927819615",
+          "http://www.wikidata.org/entity/statement/Q42478-bc76f105-45a4-22b9-c383-8bf02ea485d6",
+          "http://www.wikidata.org/entity/statement/Q42478-A48E68B4-A100-414F-B062-8B58F54E0DF2",
+          "http://www.wikidata.org/entity/statement/Q42478-cbe55c06-4718-1c1d-7f4f-4d3e7a36a24c",
+          "http://www.wikidata.org/entity/statement/Q42478-120a7b1c-481f-4b59-2c9f-d26eb40549ca",
+          "http://www.wikidata.org/entity/statement/Q42478-4c009bd5-45b7-82d8-0564-cc576703de85",
+          "http://www.wikidata.org/entity/statement/Q42478-de986f56-4dfd-0454-2790-71febbd4c2dc",
+          "http://www.wikidata.org/entity/statement/Q42478-1f5e31a8-4ccd-d2ed-6762-7bbd08534763",
+          "http://www.wikidata.org/entity/statement/Q42478-F20D944F-1473-4C9A-B720-1A9731D54B83",
+          "http://www.wikidata.org/entity/statement/Q42478-9A30B201-C3FA-4563-BB8D-05E395730BE3",
+          "http://www.wikidata.org/entity/statement/Q42478-C5B1460B-0A8A-468E-95AE-EBD173E8F68F",
+          "http://www.wikidata.org/entity/statement/Q42478-EC8E6044-3C5F-497D-8913-631E2B65C215",
+          "http://www.wikidata.org/entity/statement/Q42478-CC0FEE01-8512-4BB2-B76F-AF7D0BA804D1",
+          "http://www.wikidata.org/entity/statement/Q42478-2993691C-742C-410F-8545-33E23B688BBE",
+          "http://www.wikidata.org/entity/statement/Q42478-CD5DAAF6-D38C-4785-92E6-C25D54180DB3",
+          "http://www.wikidata.org/entity/statement/Q42478-E924FEAD-8D3D-4805-9E10-F365A644FEED",
+          "http://www.wikidata.org/entity/statement/Q42478-E17F764A-2BF4-41CE-957E-AC7E5345F701",
+          "http://www.wikidata.org/entity/statement/Q42478-4CA52A5E-673F-4D8A-AFB6-8D692F5D1F01",
+          "http://www.wikidata.org/entity/statement/Q42478-b9ae1ff5-472a-068b-cd60-8f918bfd3891",
+          "http://www.wikidata.org/entity/statement/Q42478-b25d6e24-4da7-f087-fad5-bbe38768e9d1",
+          "http://www.wikidata.org/entity/statement/Q42478-4F724BE3-2F00-4B92-9396-0F0D84CAF6E7",
+          "http://www.wikidata.org/entity/statement/Q42478-fca659bf-4527-8af6-fac4-3e0e4274f6d5",
+          "http://www.wikidata.org/entity/statement/Q42478-8A741A97-283E-4F5C-A45C-6805303622FF",
+          "http://www.wikidata.org/entity/statement/Q42478-D521D6A6-BC57-40D4-A175-7BB9E84D4800",
+          "http://www.wikidata.org/entity/statement/Q42478-16FF9AC4-727D-4FDC-8B55-49AA1BB1B7E6",
+          "http://www.wikidata.org/entity/statement/Q42478-6807220F-1D5A-4ADA-9E11-0187002FC8C8",
+          "http://www.wikidata.org/entity/statement/Q42478-254E4849-4920-4394-B981-A145247FEB8E",
+          "http://www.wikidata.org/entity/statement/Q42478-ce88e2da-47f7-0ff6-9bc3-191795d86721",
+          "http://www.wikidata.org/entity/statement/Q42478-D3EF8053-8BD4-404B-9A2B-9EC0FCEF2970",
+          "http://www.wikidata.org/entity/statement/Q42478-cb1ef932-ad44-43d0-a84e-9d5565e6a2ea",
+          "http://www.wikidata.org/entity/statement/Q42478-55843E7E-A8F4-4627-A531-3CE0AE9D3B61",
+          "http://www.wikidata.org/entity/statement/Q42478-e73e2ff0-2625-436a-8ccb-fee08c08c376",
+          "http://www.wikidata.org/entity/statement/Q42478-73AF5EC9-01A7-48FF-BF29-B0CF817F0849",
+          "http://www.wikidata.org/entity/statement/Q42478-9c92b77c-4cf7-fd4d-11f3-c5fe187de00c",
+          "http://www.wikidata.org/entity/statement/Q42478-B763257E-ECDD-4C3B-A425-9A5CEC151B1E",
+          "http://www.wikidata.org/entity/statement/Q42478-6D950022-2690-4609-90AE-AA30D8015F58",
+          "http://www.wikidata.org/entity/statement/Q42478-8d1b4286-461a-bbaa-21c4-9388c8eb29c2",
+          "http://www.wikidata.org/entity/statement/Q42478-b00180ef-4759-bad4-e122-35133a6de6a5",
+          "http://www.wikidata.org/entity/statement/Q42478-7a311274-47b0-b014-4857-c18d0a322c87",
+          "http://www.wikidata.org/entity/statement/Q42478-9DE6DE44-B10A-4744-9798-788A7AB28053",
+          "http://www.wikidata.org/entity/statement/Q42478-9EE9D988-F79F-4057-A6FC-3C948F18F525",
+          "http://www.wikidata.org/entity/statement/Q42478-C2EE5F60-8F2E-43F5-B451-549053F5FBFF",
+          "http://www.wikidata.org/entity/statement/Q42478-65abb573-4410-1480-1e0f-1d73b2e1642f",
+          "http://www.wikidata.org/entity/statement/Q42478-E92BCDD7-6E6C-4B1D-A1D8-AAFBC43E9969",
+          "http://www.wikidata.org/entity/statement/Q42478-69bbcdf9-3c29-4011-a730-1b138218c66a",
+          "http://www.wikidata.org/entity/statement/Q42478-52ac6e64-4b2e-f84f-4050-9f0d9cde1c04",
+          "http://www.wikidata.org/entity/statement/Q42478-da7f3db4-4816-94a4-3e3f-40b7ad78e971",
+          "http://www.wikidata.org/entity/statement/Q42478-A3E53996-C116-4E03-A227-E6A6503AD584",
+          "http://www.wikidata.org/entity/statement/Q42478-5AC8D623-B3DF-4AD6-ADB7-479977B5A3B6",
+          "http://www.wikidata.org/entity/statement/Q42478-87d120be-2ad6-46a3-a3cc-8dafd34bc949",
+          "http://www.wikidata.org/entity/statement/Q42478-03AE644E-D2D2-49AB-8F8E-3F786CCE2AC6",
+          "http://www.wikidata.org/entity/statement/Q42478-B8ED5758-3E62-4C07-BB15-79D73B28FD00",
+          "http://www.wikidata.org/entity/statement/Q42478-D88078E3-4325-45E7-9A4C-9F0DF2E881E5",
+          "http://www.wikidata.org/entity/statement/Q42478-8585F637-9A27-4306-80D2-BF3F00932509",
+          "http://www.wikidata.org/entity/statement/Q42478-D2BBC326-9522-4B59-A78E-FB677AA3E8C7",
+          "http://www.wikidata.org/entity/statement/Q42478-12f29a29-4fca-cc82-a501-4f14c048c241",
+          "http://www.wikidata.org/entity/statement/Q42478-B149F7E7-1AE4-451A-BC42-66685F73F9A9",
+          "http://www.wikidata.org/entity/statement/Q42478-08841739-F050-4361-9DB1-65D09072036B",
+          "http://www.wikidata.org/entity/statement/Q42478-E7E276A9-E633-4689-8A58-3E7FCBFCB839",
+          "http://www.wikidata.org/entity/statement/Q42478-5468ffe0-40cc-2a40-273c-ca19a67de692",
+          "http://www.wikidata.org/entity/statement/Q42478-5343756e-41eb-728b-15e1-2656e1fc25a3",
+          "http://www.wikidata.org/entity/statement/Q42478-062AED79-56C4-4CD2-A196-C0FDF273AD3D",
+          "http://www.wikidata.org/entity/statement/Q42478-1077E1C4-B9E6-4769-9E6B-9824CB549245",
+          "http://www.wikidata.org/entity/statement/Q42478-96ECC0FF-66F3-450B-B58A-14BF190A61F4",
+          "http://www.wikidata.org/entity/statement/Q42478-9a33f44f-a665-4b70-8877-80297f074735",
+          "http://www.wikidata.org/entity/statement/Q42478-a92dd7e9-4978-fb1e-a858-a55988ba330e",
+          "http://www.wikidata.org/entity/statement/Q42478-E8F8FB7A-7ED0-4A40-A6A3-73E7277964DC",
+          "http://www.wikidata.org/entity/statement/Q42478-BF6ABADB-D4D6-4FBF-927F-F40FE127B6D3",
+          "http://www.wikidata.org/entity/statement/Q42478-ad0e4ea3-456e-2acc-d407-1b70a1f6592d",
+          "http://www.wikidata.org/entity/statement/Q42478-ca219c53-4214-3fd5-2a78-0649ff0c25cf",
+          "http://www.wikidata.org/entity/statement/Q42478-A08AD38E-07D5-4E25-995B-09D66C40D02B",
+          "http://www.wikidata.org/entity/statement/Q42478-622A9DAB-40BE-4AD9-A035-EDF67AF5F81E",
+          "http://www.wikidata.org/entity/statement/Q42478-6DDD111A-AA23-473F-9EAA-5C2A6F94D048",
+          "http://www.wikidata.org/entity/statement/Q42478-c9da24e1-405a-a2d5-1733-3af47c2dc33b",
+          "http://www.wikidata.org/entity/statement/Q42478-1c299bc8-4b4a-70dc-a172-476206598908",
+          "http://www.wikidata.org/entity/statement/Q42478-7C045DB9-58E4-4960-90CB-D76989E8A85D",
+          "http://www.wikidata.org/entity/statement/Q42478-fd38ef51-4950-bba8-bdad-e58019fa9252",
+          "http://www.wikidata.org/entity/statement/Q42478-22a4de06-410c-68b6-c0fa-2897276bfec2",
+          "http://www.wikidata.org/entity/statement/Q42478-FCD7E97B-44A0-4C6A-B4AA-F86F7B651697",
+          "http://www.wikidata.org/entity/statement/Q42478-C75BF7AA-4647-4E54-8318-6B0884436A1D",
+          "http://www.wikidata.org/entity/statement/Q42478-25c780f2-4227-5c89-1ddf-38722bbc2ea8",
+          "http://www.wikidata.org/entity/statement/Q42478-D67CE036-B124-4824-A216-2C9FB2BF54BA",
+          "http://www.wikidata.org/entity/statement/Q42478-58962C5C-1B0F-41A3-AD60-FA55F50F7F0F",
+          "http://www.wikidata.org/entity/statement/Q42478-5BB43978-B11C-439B-A0AC-B82977DAC821",
+          "http://www.wikidata.org/entity/statement/Q42478-d04e2365-4b26-ceaf-08a4-486b23f00247",
+          "http://www.wikidata.org/entity/statement/Q42478-4E79D7C2-D742-4A0F-ABE6-9A5CEAD557E1",
+          "http://www.wikidata.org/entity/statement/Q42478-01F008E0-6235-4C54-8BB4-9E173FAA95B8",
+          "http://www.wikidata.org/entity/statement/Q42478-328BEE14-E513-47F2-B96D-549DB5C33616",
+          "http://www.wikidata.org/entity/statement/Q42478-b4132185-4053-03a0-8813-8bf63eb9136d",
+          "http://www.wikidata.org/entity/statement/Q42478-2DA70325-0F9C-4554-8666-0BFDC7D8D932",
+          "http://www.wikidata.org/entity/statement/Q42478-9BEC6B88-C0A5-4BFF-94D3-36DC938DC795",
+          "http://www.wikidata.org/entity/statement/Q42478-b3e23c0f-4884-5103-c927-d6eeaf906160",
+          "http://www.wikidata.org/entity/statement/Q42478-2E5B720B-0DD6-4524-9C69-7E58CA212862",
+          "http://www.wikidata.org/entity/statement/Q42478-582953FF-BC34-4421-A527-9865CA1A52F6",
+          "http://www.wikidata.org/entity/statement/Q42478-2B7B4401-7FBE-4064-B3D4-2206BE1492F4",
+          "http://www.wikidata.org/entity/statement/Q42478-880A218B-1ADA-472A-B543-BC19B5349497",
+          "http://www.wikidata.org/entity/statement/Q42478-1c0b1d8f-42c4-8260-89a0-51a0787b249f",
+          "http://www.wikidata.org/entity/statement/Q42478-9A22A68F-8B7B-4F81-90A2-019E02EEDFA0",
+          "http://www.wikidata.org/entity/statement/Q42478-0D0D5CC7-A5FF-4FAB-B414-54C3B64B8731",
+          "http://www.wikidata.org/entity/statement/Q42478-03d9e3a2-490a-12c6-d256-3eb6edbe4678",
+          "http://www.wikidata.org/entity/statement/Q42478-B706B5B7-CAE4-42DF-8496-965C00763603",
+          "http://www.wikidata.org/entity/statement/Q42478-C4655822-8FBA-4DCD-A984-A884F425DC45",
+          "http://www.wikidata.org/entity/statement/Q42478-bb656e74-98ab-4126-89a6-0049f4b7c5e2",
+          "http://www.wikidata.org/entity/statement/Q42478-fdee1590-45ee-0b8b-696c-b26ee3fb90cf",
+          "http://www.wikidata.org/entity/statement/Q42478-20B6AA1C-0309-4FCB-8E7C-F33AE5D1AFEA",
+          "http://www.wikidata.org/entity/statement/Q42478-BB99125E-88F9-47A6-8A3E-0E95A7D0B2D8",
+          "http://www.wikidata.org/entity/statement/Q42478-1EF4F52F-A2E6-4374-8136-6C956FD8007F",
+          "http://www.wikidata.org/entity/statement/Q42478-1A5DA2E9-9ED6-48D4-B37C-F2053358D1AB",
+          "http://www.wikidata.org/entity/statement/Q42478-06f34475-4fa1-b9f0-40c6-aa6bde1bf3aa",
+          "http://www.wikidata.org/entity/statement/Q42478-6F3CF59C-BD6C-4DC7-A826-81163B13B501",
+          "http://www.wikidata.org/entity/statement/Q42478-AD5811F8-919E-42DD-96BE-7E677A885F5D",
+          "http://www.wikidata.org/entity/statement/Q42478-57A7CFEB-E31E-4280-AE0D-8D13C9642985",
+          "http://www.wikidata.org/entity/statement/Q42478-1ce1b7e3-4d26-6530-80ad-3e5e4a322ad1",
+          "http://www.wikidata.org/entity/statement/Q42478-46E833F6-DFD7-4B81-AF2D-A832BD0B69AE",
+          "http://www.wikidata.org/entity/statement/Q42478-A4C93B13-DE60-4FA2-BF9D-67BDCCAE9D28",
+          "http://www.wikidata.org/entity/statement/Q42478-C6CF255F-B893-4137-8DB7-4B66E0FD75BA",
+          "http://www.wikidata.org/entity/statement/Q42478-0EC3858A-A429-4EFE-849C-68AC70BCB847",
+          "http://www.wikidata.org/entity/statement/Q42478-da86749f-4a6d-567c-cf3a-b7328e138620",
+          "http://www.wikidata.org/entity/statement/Q42478-b077bed6-a7bc-459e-878c-027cdc83ce00",
+          "http://www.wikidata.org/entity/statement/Q42478-F719D87C-011E-4F2F-B495-C6BB4DF382B8",
+          "http://www.wikidata.org/entity/statement/Q42478-B4E869C4-E9F9-421A-B6FA-A67218C7EF0B",
+          "http://www.wikidata.org/entity/statement/Q42478-18697780-E30C-4313-BBC6-A298EA1C399E",
+          "http://www.wikidata.org/entity/statement/Q42478-111FEECC-AB31-4F13-91BF-9263E15E439C",
+          "http://www.wikidata.org/entity/statement/Q42478-D0CDD9EC-8AC2-4DB9-80D5-8BFA1C12D1C1",
+          "http://www.wikidata.org/entity/statement/Q42478-e61738f7-43fb-96fb-342d-7fed4d8884fc",
+          "http://www.wikidata.org/entity/statement/Q42478-be5262bd-48b1-618c-4ac6-1cc15926ac36",
+          "http://www.wikidata.org/entity/statement/Q42478-2EEBBC46-3D2D-4437-A823-D170BB2FC4B3",
+          "http://www.wikidata.org/entity/statement/Q42478-591E30D7-9EF2-402C-8778-D102C75E85A3"
+        ]
+      },
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "2062142930"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2024-01-26T04:10:14Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "\u76f4\u8b6f\u5f0f\u7a0b\u5f0f\u8a9e\u8a00",
+          "programovac\u00ed jazyk",
+          "interpreted programming language first released in 1987",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "yezh programmi\u00f1",
+          "skriptspr\u00e5k",
+          "programmeringsspr\u00e5k",
+          "linguaggiu di prugrammazzioni intirpritatu",
+          "Llenguatge de programaci\u00f3 interpretat",
+          "\u89e3\u91cb\u7684\u7de8\u7a0b\u8a9e\u8a00",
+          "\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u4e00\u3064",
+          "limbaj de programare",
+          "\u1041\u1049\u1048\u1047\u1001\u102f\u1014\u103e\u1005\u103a\u1010\u103d\u1004\u103a \u1016\u103c\u1014\u1037\u103a\u1001\u103b\u102e\u1001\u1032\u1037\u101e\u100a\u1037\u103a \u1018\u102c\u101e\u102c\u1015\u103c\u1014\u103a \u1015\u101b\u102d\u102f\u1002\u101b\u1019\u103a\u1038\u1019\u1004\u103a\u1038\u1018\u102c\u101e\u102c",
+          "\u0456\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u043e\u0432\u0430\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f",
+          "\u0cae\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0ca8 \u0c92\u0c82\u0ca6\u0cc1 \u0c9c\u0cc0\u0cb5\u0c82\u0ca4 \u0cb6\u0cc6\u0cb2\u0ccd\u0ca1\u0ccd \u0cae\u0cca\u0cb3\u0c95\u0cc6 \u0c85\u0ca5\u0cb5\u0cbe \u0cae\u0ca4\u0ccd\u0ca4\u0cca\u0c82\u0ca6\u0cc1 \u0caa\u0ccd\u0cb0\u0cbe\u0ca3\u0cbf\u0c97\u0cb3 \u0cae\u0cc3\u0ca6\u0cc1 \u0c85\u0c82\u0c97\u0cbe\u0c82\u0cb6\u0ca6 (\u0ca8\u0cbf\u0cb0\u0ccd\u0ca6\u0cbf\u0cb7\u0ccd\u0c9f\u0cb5\u0cbe\u0c97\u0cbf \u0c86\u0cb5\u0cb0\u0cbf\u0cb8\u0cbf\u0cb0\u0cc1\u0cb5) \u0c92\u0cb3\u0c97\u0cc6 \u0ca8\u0cbf\u0cb0\u0ccd\u0cae\u0cbf\u0cb8\u0cb2\u0cbe\u0ca6 \u0c92\u0c82\u0ca6\u0cc1 \u0cb9\u0cbe\u0cb0\u0ccd\u0ca1\u0ccd \u0cb5\u0cb8\u0ccd\u0ca4\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6, \u0c89\u0ca6\u0cbe\u0cb9\u0cb0\u0ca3\u0cc6\u0c97\u0cc6 \u0c95\u0ccb\u0ca8\u0cb2\u0cbe\u0caf\u0cbf\u0ca1\u0ccd",
+          "Programmiersprache",
+          "linguaggio di programmazione interpretato",
+          "programski jezik",
+          "\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u0646\u0648\u06cc\u0633\u06cc \u062a\u0641\u0633\u06cc\u0631\u06cc",
+          "linguagem de programa\u00e7\u00e3o interpretada",
+          "\u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+          "forritunarm\u00e1l sem er t\u00falka\u00f0",
+          "\u89e3\u91ca\u578b\u7a0b\u5e8f\u8bed\u8a00",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "programlingvo",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "linguaxe de programaci\u00f3n",
+          "\uc778\ud130\ud504\ub9ac\ud2b8 \ubc29\uc2dd\uc758 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4",
+          "1987'de \u00e7\u0131kan yorumlanan programlama dili",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37",
+          "\u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1245",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-2776D69F-4E2C-44ED-944A-4B0765FD9EF2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1296",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-68429F58-6E2F-4E0B-AE04-7F02394E90A4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1324",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-95be5b03-40a8-8d9f-031a-ded2ab71e775",
+          "http://www.wikidata.org/entity/statement/Q42478-3ec25948-41cb-c221-943b-6ade9100406b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1417",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-CB33AF3F-66FC-4610-9CB2-580003304AED"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1482",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-7e1d4425-4d9b-2c07-29cf-54595ade3ece",
+          "http://www.wikidata.org/entity/statement/Q42478-4672052C-743F-4848-A594-00F0828065DD",
+          "http://www.wikidata.org/entity/statement/Q42478-b9ca31cf-4654-1441-9d20-cb53a9f120de"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1705",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-8187f230-4a50-9c7b-5841-5f4d0acb6037"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1889",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-6EF0A40D-587A-44FC-BC14-CF93A1896E29"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1972",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-6962A6B7-1173-494F-990E-E558702EABF4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P2347",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-CC14D030-A671-4EAF-A737-5BFCFCE56B49"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P2537",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-2B2BFA44-1B68-4641-A004-9CC6D0217589"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3222",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-6967F930-96B3-4825-97A4-B332124B3E0E"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3417",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-70d2495f-4e4b-c097-fd62-45acbae5b160"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3442",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-6d207069-4589-8ec5-3769-2c48f8b7d040",
+          "http://www.wikidata.org/entity/statement/Q42478-35350f3d-47c6-3e93-8817-6ae54046c11b",
+          "http://www.wikidata.org/entity/statement/Q42478-33d7803b-499f-dd3a-dd61-28f49549839e"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3454",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-78b02756-49df-248b-962d-52c163a58490"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3463",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-080d02bc-4cb0-edeb-231d-706e7cb1fbb5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3473",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-27b6ad29-449d-4beb-4598-c9d1a4d61c3a",
+          "http://www.wikidata.org/entity/statement/Q42478-c8929936-48d1-3d94-893e-76a53cfbc15a",
+          "http://www.wikidata.org/entity/statement/Q42478-3ad25309-4375-09a8-0929-51849c7ef028"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3499",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-245a1f2e-4456-abbf-0f81-f84483e48509"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3553",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-4F84B346-42F2-409C-A7B6-B16149EB1DED"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3847",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-25e8a3fa-463a-45f5-dae8-ac7013e364ea"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-FA5B5A27-BC96-416B-AAD7-ED48CBEA082E"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3984",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-dec0efdd-44df-1a56-63e3-74658cfaf48d"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P4073",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-72971F8C-3C51-46DA-AF60-82D440C7C812"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P4162",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-9f86713d-6ddc-4424-a8d4-7505b9a3ea34",
+          "http://www.wikidata.org/entity/statement/Q42478-5ad4afaa-ee50-4877-a14d-8a0e9db64bb1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P4342",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-9ed227b2-4929-1f20-8bad-81e93935fa61",
+          "http://www.wikidata.org/entity/statement/Q42478-578AA1DD-F2F0-41A3-B7ED-27C979781B1A"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P5125",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-8CD78955-3C34-450C-A802-D080639676F0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6216",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-c52ca43d-47c1-fff5-5b93-82069887a819"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6262",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-F110A3B1-1FB1-4D4D-A9FD-E872F89B5C2F"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6293",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-C224F4C7-C0F2-4288-83E2-C89B393B61BD"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6366",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-6CEAF531-115C-4087-BBF8-199B684C5B85"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6611",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-68d471af-47be-ab9d-254c-9d2488fe45dc"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6931",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-99af6af3-46ec-af80-1f8c-84859d85785b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P7078",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-39DDFA2D-6D8D-4F5C-ABE3-AE5260396A4E"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P7427",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-efa6d91e-9c43-4850-8e09-18e6e81ed514",
+          "http://www.wikidata.org/entity/statement/Q42478-c6c09d7c-4c68-45b7-a8ab-c673074f2d23",
+          "http://www.wikidata.org/entity/statement/Q42478-05148b5a-b9af-4a66-b394-102d9679548d",
+          "http://www.wikidata.org/entity/statement/Q42478-ed6bc586-693a-4480-b00d-d224630ab802"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P7788",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-19647460-47db-6744-00b3-73c6530a237b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P7818",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-0322232B-DF07-47A8-AA2B-8343B1D60F81"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P7966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-a62f857f-8f8a-4ab4-a5ae-9a9758ca6a8c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8189",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-45242C12-82BE-4C27-ABBA-2849071C6EB6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8408",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-1A9680EE-3531-47C3-9D9F-F8B59AD292F7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8443",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-40c19aec-c5f9-42da-9a02-3aaaacb3a9df",
+          "http://www.wikidata.org/entity/statement/Q42478-01f3632c-ea78-441f-9d86-9d6e388eee73"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8687",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-d40b99e2-d6b6-4ef2-820a-e4a2859a4603"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8778",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-69c1e179-4664-b48b-51e7-bf5d5cedbc47"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P8885",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-0d795491-459e-4e16-276f-3feba706b645"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P9100",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-2d2a9225-47ad-8e7b-babd-b13a509b78cc"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P9602",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-159CD829-813A-48BB-9F60-CA4F2A3624B7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P9618",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-0609ca17-4614-b8ab-1759-0a43ccf25814"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P10283",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-26BBE5EC-D3B2-4A63-A187-500AB5C0C057"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P10376",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-6cbcf867-48c6-5bbd-cbd0-ee06b7ebe25e"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P11292",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-5dd869ad-4b0f-576d-fd72-850778547fc9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P11410",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-140ea87f-7245-41f4-b2ab-5fdf4b579b11"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P12204",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-907b5a7a-4f26-4745-ddee-f2cdfbf6634f"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P373",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q42478-1F9AD902-F8F6-47FF-A369-6585C3AE6C10"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P443",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-fffcb181-6fe4-407c-bc22-d784ddaaf39e"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P571",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-a2918e56-4282-ff49-a2ad-7bb98e6677c0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P577",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-515eb524-4a45-6c7e-9993-4056266af50e"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P646",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-64B63660-EC59-4A9B-9DF8-7D94CB247F5D"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P691",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-D50F580E-8558-471A-80F0-6C75DF4FF3FC"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P737",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-1B99C17A-4612-49D7-A6FA-B20524554E60",
+          "http://www.wikidata.org/entity/statement/Q42478-5e4cbc92-3b48-4283-b4b8-0d5ef6fc2025",
+          "http://www.wikidata.org/entity/statement/Q42478-252121EA-7EB5-4AC0-8302-8E3D9231E85C",
+          "http://www.wikidata.org/entity/statement/Q42478-99E8D595-C8A1-46F0-A220-E19689447472",
+          "http://www.wikidata.org/entity/statement/Q42478-33BB32CA-284B-4CCD-B5E5-4F0443BA5AC1",
+          "http://www.wikidata.org/entity/statement/Q42478-e6a29a01-8299-4d41-b467-fc3c30866c41",
+          "http://www.wikidata.org/entity/statement/Q42478-14c5bcbc-9cb0-43a2-8f63-f7136578e0ac"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P822",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-47d36cc0-43fa-43dc-366f-deb0f59b41c6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P856",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-A395332B-63AA-435C-941A-F5ECF0234A4E",
+          "http://www.wikidata.org/entity/statement/Q42478-7FF284DC-108D-4893-983E-512548E80729"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P910",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-5748FEDB-663F-4294-AF1D-2AFF50C6E999"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P950",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-fb6c075c-4da5-23d8-b035-84a4342302e7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1163",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-465dd31e-408b-7a9e-d0d1-9d5efb3c33f3",
+          "http://www.wikidata.org/entity/statement/Q42478-9b686ae9-4267-436b-2f56-69749d45387d",
+          "http://www.wikidata.org/entity/statement/Q42478-2005f722-41b3-d42b-6851-c25ba28bf19d"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1195",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-1cbc3f43-44e0-7d29-1289-aae4a542a1d6",
+          "http://www.wikidata.org/entity/statement/Q42478-e10de3ee-4c06-747e-a052-2f67014a8180"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "251"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "100"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "57"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P18",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Source%20code%20in%20Perl.png"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P154",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Perl5Raptor.png"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P170",
+        "Values": [
+          "http://www.wikidata.org/entity/Q92597"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P178",
+        "Values": [
+          "http://www.wikidata.org/entity/Q941805",
+          "http://www.wikidata.org/entity/Q92597"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P227",
+        "Values": [
+          "4307836-9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P244",
+        "Values": [
+          "sh95010633"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P227",
+        "Values": [
+          "https://d-nb.info/gnd/4307836-9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P244",
+        "Values": [
+          "http://id.loc.gov/authorities/names/sh95010633"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P18",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-545f8570-4f04-402c-ea03-d24ba511fbef"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-ede56dc4-4e8d-b179-fade-9ad8b8b3dc26",
+          "http://www.wikidata.org/entity/statement/Q42478-C4A8BC3D-F882-40BF-BB89-81120A0B1715",
+          "http://www.wikidata.org/entity/statement/Q42478-AA97364E-3178-43CD-BB82-A47746C26934",
+          "http://www.wikidata.org/entity/statement/Q42478-54AC8C02-3CF3-4321-8DD6-B16C1E82E496",
+          "http://www.wikidata.org/entity/statement/Q42478-585234A9-8989-475C-A137-B050D8A9FEBC",
+          "http://www.wikidata.org/entity/statement/Q42478-94B99342-A4EF-4DA3-97C1-1853327500D7",
+          "http://www.wikidata.org/entity/statement/Q42478-3BE3A682-41F0-44B5-A508-1B0759FE40FE",
+          "http://www.wikidata.org/entity/statement/Q42478-031406ff-4a1e-4500-12f4-5d6188792cbc"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P154",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-3a265130-4159-5da1-2a99-cb7f8e9bbd6c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P170",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-5038a7d7-4729-7887-c62a-33981916f300"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P178",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-8ce01e0d-460e-5533-ef22-8b80e8a5c1a8",
+          "http://www.wikidata.org/entity/statement/Q42478-1aeafb21-4f35-647e-078f-b6c24ea3efeb"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P227",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-443C6D2C-B427-4AF3-AF7C-022BD0903296"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P244",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q42478-60d44c11-46b3-e1a5-b963-9eacd471e556"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P268",
+        "Values": [
+          "124906490"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P275",
+        "Values": [
+          "http://www.wikidata.org/entity/Q27016750",
+          "http://www.wikidata.org/entity/Q713244"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P277",
+        "Values": [
+          "http://www.wikidata.org/entity/Q15777"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P287",
+        "Values": [
+          "http://www.wikidata.org/entity/Q92597"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P306",
+        "Values": [
+          "http://www.wikidata.org/entity/Q14646",
+          "http://www.wikidata.org/entity/Q269856",
+          "http://www.wikidata.org/entity/Q847593",
+          "http://www.wikidata.org/entity/Q1406",
+          "http://www.wikidata.org/entity/Q14116",
+          "http://www.wikidata.org/entity/Q388"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P348",
+        "Values": [
+          "5.38.2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P373",
+        "Values": [
+          "Perl (programming language)"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P443",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9288%20%28heb%29-Uziel302-Perl.wav"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P571",
+        "Values": [
+          "1987-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P577",
+        "Values": [
+          "1987-12-18T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P646",
+        "Values": [
+          "/m/05zrn"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P691",
+        "Values": [
+          "ph117992"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P737",
+        "Values": [
+          "http://www.wikidata.org/entity/Q2407",
+          "http://www.wikidata.org/entity/Q14663",
+          "http://www.wikidata.org/entity/Q132874",
+          "http://www.wikidata.org/entity/Q42979",
+          "http://www.wikidata.org/entity/Q213970",
+          "http://www.wikidata.org/entity/Q15777",
+          "http://www.wikidata.org/entity/Q305876"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P822",
+        "Values": [
+          "http://www.wikidata.org/entity/Q19844990"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P856",
+        "Values": [
+          "https://www.perl.org/"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P910",
+        "Values": [
+          "http://www.wikidata.org/entity/Q6345187"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P950",
+        "Values": [
+          "XX542605"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1245",
+        "Values": [
+          "1220251"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1296",
+        "Values": [
+          "0518411"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1324",
+        "Values": [
+          "http://perl5.git.perl.org/perl.git",
+          "https://github.com/Perl/perl5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1417",
+        "Values": [
+          "technology/Perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1482",
+        "Values": [
+          "https://superuser.com/tags/perl",
+          "https://stackoverflow.com/tags/perl",
+          "https://ja.stackoverflow.com/tags/perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1705",
+        "Values": [
+          "Perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1889",
+        "Values": [
+          "http://www.wikidata.org/entity/Q2043979"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1972",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P2347",
+        "Values": [
+          "16913"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P2537",
+        "Values": [
+          "Perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3222",
+        "Values": [
+          "perl-(programspr\u00e5k)"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3417",
+        "Values": [
+          "Perl-programming-language-1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3442",
+        "Values": [
+          "perl-base",
+          "perl",
+          "perl-doc"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3454",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3463",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3473",
+        "Values": [
+          "perl-base",
+          "perl",
+          "perl-doc"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3499",
+        "Values": [
+          "dev-lang/perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3553",
+        "Values": [
+          "19582234"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3847",
+        "Values": [
+          "perl_(computer_program_language)"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q4306983"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3984",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P4073",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P4162",
+        "Values": [
+          "microperl",
+          "perl-git"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P4342",
+        "Values": [
+          "Perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P5125",
+        "Values": [
+          "http://www.wikidata.org/entity/Q17083764"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6216",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6262",
+        "Values": [
+          "htmlcss:Perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6293",
+        "Values": [
+          "Y110120"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6366",
+        "Values": [
+          "2777002779"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6611",
+        "Values": [
+          "8196"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6931",
+        "Values": [
+          "perl"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P7078",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1268978"
+        ]
+      }
+    ]
+  }
+]

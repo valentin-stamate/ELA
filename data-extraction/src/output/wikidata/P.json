@@ -1,0 +1,219 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q30599213",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1944059546"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-08-01T09:22:17Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "programming language",
+          "Programmiersprache",
+          "yezh programmi\u00f1",
+          "langage de programmation"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u0d2a\u0d3f",
+          "P"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "56"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P154",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/P%20logo.png"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-497a9bef-4ec0-675b-343f-271bff89f7e8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P154",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-9874d4f3-46b9-02bc-dd6f-4e5e289c6a4c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P275",
+        "Values": [
+          "http://www.wikidata.org/entity/Q334661"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P348",
+        "Values": [
+          "2.0.13"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P571",
+        "Values": [
+          "2012-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P856",
+        "Values": [
+          "http://p-org.github.io/P/"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1195",
+        "Values": [
+          "p"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1324",
+        "Values": [
+          "https://github.com/p-org/P"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1889",
+        "Values": [
+          "http://www.wikidata.org/entity/Q27746"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P6216",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P275",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-2A5677B2-556E-4501-84F4-9FF24447E5E2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P348",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-c5501068-408c-4e56-ac2d-1cb96042c06b",
+          "http://www.wikidata.org/entity/statement/Q30599213-fd5893c4-8033-4962-94c0-e618cdef39cb",
+          "http://www.wikidata.org/entity/statement/Q30599213-e1a7d01c-12cb-49e9-8bab-b60acca6e812",
+          "http://www.wikidata.org/entity/statement/Q30599213-6ec7ffac-983a-421e-96a1-17b4dca43550",
+          "http://www.wikidata.org/entity/statement/Q30599213-0b369c14-15a4-4862-9371-37261a6aea53",
+          "http://www.wikidata.org/entity/statement/Q30599213-72446b4f-4083-4472-9222-8f966dc4a514",
+          "http://www.wikidata.org/entity/statement/Q30599213-e0195bc9-308a-4ed4-89ed-58af28a1e4d9",
+          "http://www.wikidata.org/entity/statement/Q30599213-2a4275c5-f48d-4fa3-9a8e-5df0fe2eaa74",
+          "http://www.wikidata.org/entity/statement/Q30599213-1691e9ad-cad5-4c27-b098-c8876d48975b",
+          "http://www.wikidata.org/entity/statement/Q30599213-63936fe5-ceba-4883-bca8-768bdfc2f00d",
+          "http://www.wikidata.org/entity/statement/Q30599213-bb57de9a-201c-45e5-98f5-cc2c681ff4ad",
+          "http://www.wikidata.org/entity/statement/Q30599213-a64e172e-d51d-423b-a428-2a8f5414412d",
+          "http://www.wikidata.org/entity/statement/Q30599213-f855eb0f-4f7d-43b5-92df-fa25cb5ead31",
+          "http://www.wikidata.org/entity/statement/Q30599213-78aca1c3-0a06-4551-be72-ea832d19ff5e",
+          "http://www.wikidata.org/entity/statement/Q30599213-8b00afe5-14b5-40ab-8129-49f6e2f3e820",
+          "http://www.wikidata.org/entity/statement/Q30599213-be9b74da-9c8f-46ff-b79f-6316fc0911a4",
+          "http://www.wikidata.org/entity/statement/Q30599213-5e80e734-1546-4b05-94cb-b1df3d348f73",
+          "http://www.wikidata.org/entity/statement/Q30599213-b730e13f-b6a8-43ab-afc8-5a11d305b240",
+          "http://www.wikidata.org/entity/statement/Q30599213-9aefd796-a099-4d9a-8128-febf4afcab87",
+          "http://www.wikidata.org/entity/statement/Q30599213-33a37fb5-34f9-4b14-ae4f-379cc8a57183",
+          "http://www.wikidata.org/entity/statement/Q30599213-9d38f80b-0b6e-4d0f-8d6a-aeb8a7f7410c",
+          "http://www.wikidata.org/entity/statement/Q30599213-0ebb8694-24d1-4edb-8ca8-8baf64e01dee",
+          "http://www.wikidata.org/entity/statement/Q30599213-cee79834-8273-4709-81e3-fa5e6be7ab12",
+          "http://www.wikidata.org/entity/statement/Q30599213-9fab2788-f5a6-45ec-82d3-3794279099e7",
+          "http://www.wikidata.org/entity/statement/Q30599213-5bb0d9e2-f180-4ff0-99b2-e6d469715466",
+          "http://www.wikidata.org/entity/statement/Q30599213-08c17bdd-3b62-44eb-991b-f5437418a40c",
+          "http://www.wikidata.org/entity/statement/Q30599213-3742f77e-3e51-450a-8c37-a0a7f1808ede",
+          "http://www.wikidata.org/entity/statement/Q30599213-95713afe-37c8-48f9-b1a4-9d91c21a6488",
+          "http://www.wikidata.org/entity/statement/Q30599213-60110651-5e9d-4c32-8fed-4429df44a8d9",
+          "http://www.wikidata.org/entity/statement/Q30599213-fbc9cb2b-2ece-4ffc-b5d3-c22e114a70b9",
+          "http://www.wikidata.org/entity/statement/Q30599213-58976e60-d1c1-4a5f-9265-79b4ce55b279",
+          "http://www.wikidata.org/entity/statement/Q30599213-e9f2179f-69b0-4db9-9bad-a17cb0278a4c",
+          "http://www.wikidata.org/entity/statement/Q30599213-15ef5414-4390-4c95-8dc1-d443719a8a93",
+          "http://www.wikidata.org/entity/statement/Q30599213-0b12c91b-24be-42b8-9a36-7bd6aee4e0c9",
+          "http://www.wikidata.org/entity/statement/Q30599213-c600a613-d1fc-4bb4-96f9-f5306d41f713",
+          "http://www.wikidata.org/entity/statement/Q30599213-d622f08d-a903-4474-b2ab-39372a9996f6",
+          "http://www.wikidata.org/entity/statement/Q30599213-9f49bc4b-3724-4481-84cd-3a68acd45599",
+          "http://www.wikidata.org/entity/statement/Q30599213-b5aa05a6-bb24-4a81-a9a0-527cfbf9992b",
+          "http://www.wikidata.org/entity/statement/Q30599213-4ab49f18-3c3c-4481-aa93-c7af05882fc5",
+          "http://www.wikidata.org/entity/statement/Q30599213-23080906-2bea-4d8a-abe3-470c7d26110f",
+          "http://www.wikidata.org/entity/statement/Q30599213-37f1c31a-f4e1-4602-aa59-84bb1592b24f",
+          "http://www.wikidata.org/entity/statement/Q30599213-ba0cd44c-050b-44e7-a602-4c95ea942c35",
+          "http://www.wikidata.org/entity/statement/Q30599213-23758077-2929-4d71-9383-ba896709a911",
+          "http://www.wikidata.org/entity/statement/Q30599213-1da318e7-2491-4b13-92f9-dd09d2469129",
+          "http://www.wikidata.org/entity/statement/Q30599213-69c3bc92-45b7-42e0-bd56-1e1354f6e42f",
+          "http://www.wikidata.org/entity/statement/Q30599213-4e7f94ca-b3a7-418d-9ec5-82b86a7df729",
+          "http://www.wikidata.org/entity/statement/Q30599213-f59688a9-ebec-4950-903b-9ca01e1aabaa"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P571",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-6a9f3432-44b1-e924-47f6-88db2216f8be"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P856",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-4cc66e26-55b6-4aca-96a1-04f487a8b4f8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1195",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-ee20e00e-49c7-48a0-87a2-547502e63201"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1324",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-e682d095-4d36-bcfc-ec66-31e937ca54f4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1889",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-008f88c6-40a8-3713-fae4-23dbff4a8c37"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P6216",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q30599213-96C187B8-7DC8-4DE6-A896-CE144D184E30"
+        ]
+      }
+    ]
+  }
+]

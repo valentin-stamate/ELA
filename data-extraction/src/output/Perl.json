@@ -1,0 +1,852 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Perl",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/PsychologicalFeature100023100",
+          "http://dbpedia.org/class/yago/Invention105633385",
+          "http://dbpedia.org/class/yago/ProgrammingLanguage106898352",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguages",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/Event100029378",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatScriptingLanguages",
+          "http://dbpedia.org/class/yago/Cognition100023271",
+          "http://schema.org/Language",
+          "http://dbpedia.org/class/yago/Ability105616246",
+          "http://dbpedia.org/class/yago/SocialEvent107288639",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguagesCreatedIn1987",
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/Contest107456188",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/WikicatProgrammingContests",
+          "http://dbpedia.org/class/yago/WikicatAmericanInventions",
+          "http://dbpedia.org/class/yago/Creativity105624700",
+          "http://dbpedia.org/ontology/ProgrammingLanguage"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Perl (programmeertaal)",
+          "\u0628\u064a\u0631\u0644",
+          "\ud384",
+          "Perl",
+          "Perl (langage)",
+          "Perl (Programmiersprache)"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Perl \u00e8 un linguaggio di programmazione ad alto livello, dinamico, procedurale e interpretato, creato nel 1987 da Larry Wall. Perl ha un singolare insieme di funzionalit\u00e0 ereditate da C, scripting shell Unix (sh), Awk, sed e in diversa misura da molti altri linguaggi di programmazione, compresi alcuni linguaggi funzionali.",
+          "Perl [p\u025d\u02d0l] ist eine freie, plattformunabh\u00e4ngige und interpretierte Programmiersprache, die mehrere Paradigmen unterst\u00fctzt. Der Linguist Larry Wall entwarf sie 1987 als Synthese aus C, awk, den Unix-Befehlen und anderen Einfl\u00fcssen. Urspr\u00fcnglich als Werkzeug zur Verarbeitung und Manipulation von Textdateien insbesondere bei der System- und Netzwerkadministration vorgesehen (zum Beispiel f\u00fcr die Auswertung von Logdateien), hat Perl auch bei der Entwicklung von Webanwendungen und in der Bioinformatik weite Verbreitung gefunden. Traditionell vertreten ist Perl auch in der Finanzwelt, vor allem bei der Verarbeitung von Datenstr\u00f6men verschiedenartiger Nachrichtenquellen. Hauptziele sind eine schnelle Probleml\u00f6sung und gr\u00f6\u00dftm\u00f6gliche Freiheit f\u00fcr Programmierer. Die Bearbeitung von Texten mit Hilfe",
+          "Perl\uff08\u30d1\u30fc\u30eb\uff09\u3068\u306f\u3001\u30e9\u30ea\u30fc\u30fb\u30a6\u30a9\u30fc\u30eb\u306b\u3088\u3063\u3066\u958b\u767a\u3055\u308c\u305f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3042\u308b\u3002\u5b9f\u7528\u6027\u3068\u591a\u69d8\u6027\u3092\u91cd\u8996\u3057\u3066\u304a\u308a\u3001C\u8a00\u8a9e\u3084sed\u3001awk\u3001\u30b7\u30a7\u30eb\u30b9\u30af\u30ea\u30d7\u30c8\u306a\u3069\u4ed6\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u512a\u308c\u305f\u6a5f\u80fd\u3092\u53d6\u308a\u5165\u308c\u3066\u3044\u308b\u3002\u30a6\u30a7\u30d6\u30fb\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u3001\u30b7\u30b9\u30c6\u30e0\u7ba1\u7406\u3001\u30c6\u30ad\u30b9\u30c8\u51e6\u7406\u306a\u3069\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u66f8\u304f\u306e\u306b\u5e83\u304f\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002 \u8a00\u8a9e\u51e6\u7406\u7cfb\u3068\u3057\u3066\u306eperl\u306f\u30d5\u30ea\u30fc\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3067\u3042\u308b\u3002Artistic License\u304a\u3088\u3073GPL\u306e\u3082\u3068\u3067\u914d\u5e03\u3055\u308c\u3066\u304a\u308a\u3001\u8ab0\u3067\u3082\u3069\u3061\u3089\u304b\u306e\u30e9\u30a4\u30bb\u30f3\u30b9\u3092\u9078\u629e\u3057\u3066\u5229\u7528\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002Linux/UNIX\u3084Windows\u3001macOS\u306a\u3069\u591a\u304f\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u4e0a\u3067\u52d5\u4f5c\u3059\u308b\u3002",
+          "Perl is een programmeertaal ontworpen door Larry Wall die eigenschappen van C en UNIX-scripttalen zoals sh en awk in zich verenigt. De naam Perl is geen gewone afkorting, maar een backroniem, dat staat voor Practical Extraction and Report Language.",
+          "Perl\u662f\u9ad8\u968e\u3001\u901a\u7528\u3001\u76f4\u8b6f\u5f0f\u3001\u52d5\u614b\u7684\u7a0b\u5f0f\u8bed\u8a00\u5bb6\u65cf\u3002\u6700\u521d\u8bbe\u8ba1\u8005\u62c9\u91cc\u00b7\u6c83\u5c14\u70ba\u4e86\u8b93\u5728UNIX\u4e0a\u9032\u884c\u5831\u8868\u8655\u7406\u7684\u5de5\u4f5c\u8b8a\u5f97\u66f4\u65b9\u4fbf\uff0c\u6c7a\u5b9a\u958b\u767c\u4e00\u500b\u901a\u7528\u7684\u8173\u672c\u8a9e\u8a00\uff0c\u800c\u57281987\u5e7412\u670818\u65e5\u767c\u8868\u3002\u76ee\u524d\uff0cPerl\u8bed\u8a00\u5bb6\u65cf\u5305\u542b\u4e24\u4e2a\u5206\u652fPerl 5\u4ee5\u53caPerl 6\u3002\u96d6\u7136Perl\u4e0d\u662f\u6b63\u5f0f\u7684\u9996\u5b57\u6bcd\u7e2e\u7565\u8a5e\uff0c\u4f46\u4ecd\u6709\u5404\u7a2e\u5404\u6a23\u7684\u9006\u5411\u9996\u5b57\u6bcd\u7f29\u7565\u8bcd\uff0c\u5305\u62ec\u201c\u5be6\u7528\u7684\u63d0\u53d6\u548c\u5831\u544a\u8a9e\u8a00\u201d\u3002 Perl\u501f\u7528\u4e86C\u3001sed\u3001awk\u3001shell\u811a\u672c\u3001Lisp\u4ee5\u53ca\u5f88\u591a\u5176\u4ed6\u7a0b\u5f0f\u8a9e\u8a00\u7684\u7279\u6027\u3002\u5176\u4e2d\u6700\u91cd\u8981\u7684\u7279\u6027\u662fPerl\u5185\u90e8\u96c6\u6210\u4e86\u6b63\u5219\u8868\u8fbe\u5f0f\u7684\u529f\u80fd\uff0c\u4ee5\u53ca\u5de8\u5927\u7684\u7b2c\u4e09\u65b9\u4ee3\u7801\u5e93CPAN\u3002 2000\u5e74\u5f00\u59cb\uff0c\u62c9\u91cc\u00b7\u6c83\u5c14\u8457\u624b\u958b\u767cPerl 6\u4f86\u4f5c\u70baPerl\u7684\u5f8c\u7e7c\uff0cPerl 6\u8a9e\u8a00\u7684\u8a9e\u6cd5\u6709\u5f88\u591a\u8f49\u8b8a\uff0c\u4e5f\u88ab\u8996\u70baPerl\u5bb6\u65cf\u4e2d\u7684\u53e6\u4e00\u500b\u8a9e\u8a00\uff08Perl 6\u65bc2019\u5e74\u66f4\u540d\u70baRaku\uff09\u3002 Perl\u8bed\u8a00\u5e94\u7528\u5e7f\u6cdb\uff0c\u6db5\u76d6CGI\u3001\u56fe\u5f62\u7f16\u7a0b\u3001\u7cfb\u7edf\u7ba1\u7406\u3001\u7f51\u7edc\u7f16\u7a0b\u3001\u91d1\u878d\u3001\u751f\u7269\u7b49\u9886\u57df\u3002\u7531\u4e8e\u5176\u7075\u6d3b\u6027\uff0cPerl\u88ab\u79f0\u4e3a\u811a\u672c\u8bed\u8a00\u4e2d\u7684\u745e\u58eb\u519b\u5200\u3002 \u9274\u4e8ePerl\u5728\u5b9e\u9645\u5de5\u7a0b\u5e94\u7528\u4e2d\u5e7f\u6cdb\u4f7f\u7528\uff0cMacOS\uff0cLinux\uff0cFreeBSD\u7b49\u73b0\u4ee3\u5316\u64cd\u4f5c\u7cfb\u7edfPerl\u3002",
+          "Perl \u00e9s un llenguatge de programaci\u00f3 d'alt nivell, estable, interpretat i multiplataforma dissenyat per Larry Wall. Els programes escrits en Perl s'anomenen scripts de Perl. El llenguatge de programaci\u00f3 Perl fou alliberat al 18 de desembre de 1987 per Larry Wall. Perl est\u00e0 inspirat en els llenguatges awk, C i , entre altres, aix\u00ed com en Shell. Perl est\u00e0 sota la combinaci\u00f3 de la i la GPL. Est\u00e0 disponible en molts sistemes operatius de tipus Unix, com Linux i FreeBSD, i tamb\u00e9 en sistemes operatius de la fam\u00edlia de Microsoft.",
+          "Perl \u2013 interpretowany, dynamiczny j\u0119zyk programowania wysokiego poziomu autorstwa Larry\u2019ego Walla pocz\u0105tkowo przeznaczony g\u0142\u00f3wnie do pracy z danymi tekstowymi, obecnie u\u017cywany do wielu innych zastosowa\u0144. Wzorowany na takich j\u0119zykach jak C, skryptowe: sed, awk i sh i inne.",
+          "Perl es un lenguaje de programaci\u00f3n dise\u00f1ado por Larry Wall en 1987. Perl toma caracter\u00edsticas del lenguaje C, del lenguaje interpretado bourne shell (sh), AWK, sed, Lisp y, en un grado inferior, de muchos otros lenguajes de programaci\u00f3n. Estructuralmente, Perl est\u00e1 basado en un estilo de bloques como los del C o AWK, y fue ampliamente adoptado por su destreza en el procesado de texto y no tener ninguna de las limitaciones de los otros lenguajes de script.",
+          "Perl \u2014 \u0432\u044b\u0441\u043e\u043a\u043e\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0431\u0449\u0435\u0433\u043e \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u041b\u0430\u0440\u0440\u0438 \u0423\u043e\u043b\u043b\u043e\u043c, \u043b\u0438\u043d\u0433\u0432\u0438\u0441\u0442\u043e\u043c \u043f\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044e. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u0430\u043a Practical Extraction and Report Language (\u00ab\u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u0434\u043b\u044f \u0438\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0442\u0447\u0451\u0442\u043e\u0432\u00bb), \u0430 \u0432 \u0448\u0443\u0442\u043a\u0443 \u2014 \u043a\u0430\u043a Pathologically Eclectic Rubbish Lister (\u00ab\u043f\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438 \u044d\u043a\u043b\u0435\u043a\u0442\u0438\u0447\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c \u043c\u0443\u0441\u043e\u0440\u0430\u00bb); \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0438 \u044f\u0437\u044b\u043a\u0430 \u043d\u0435 \u0441\u0447\u0438\u0442\u0430\u044e\u0442 \u0435\u0433\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0430\u043a\u0440\u043e\u043d\u0438\u043c\u043e\u043c. \u041f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043b\u043e \u0438\u0437 \u043f\u044f\u0442\u0438 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u0438 \u0432 \u0442\u0430\u043a\u043e\u043c \u0432\u0438\u0434\u0435 \u0432 \u0442\u043e\u0447\u043d\u043e\u0441\u0442\u0438 \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u043b\u043e \u0441 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u043c \u0441\u043b\u043e\u0432\u043e\u043c pearl (\u00ab\u0436\u0435\u043c\u0447\u0443\u0436\u0438\u043d\u0430\u00bb). \u041d\u043e \u0437\u0430\u0442\u0435\u043c \u0441\u0442\u0430\u043b\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0439 \u044f\u0437\u044b\u043a \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 (\u0441\u043c. PEARL), \u0438 \u0431\u0443\u043a\u0432\u0443 \u00aba\u00bb \u0443\u0431\u0440\u0430\u043b\u0438. \u0421\u0438\u043c\u0432\u043e\u043b\u043e\u043c \u044f\u0437\u044b\u043a\u0430 Perl \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u0435\u0440\u0431\u043b\u044e\u0434 \u2014 \u043d\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043a\u0440\u0430\u0441\u0438\u0432\u043e\u0435, \u043d\u043e \u043e\u0447\u0435\u043d\u044c \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0442\u044f\u0436\u0451\u043b\u0443\u044e \u0440\u0430\u0431\u043e\u0442\u0443.",
+          "Perl est un langage de programmation cr\u00e9\u00e9 par Larry Wall en 1987 pour traiter facilement de l'information de type textuel. Ce langage, interpr\u00e9t\u00e9, s'inspire des structures de contr\u00f4le et d'impression du langage C, mais aussi de langages de scripts sed, awk et shell (sh). Il prend en charge les expressions r\u00e9guli\u00e8res dans sa syntaxe m\u00eame, permettant ainsi directement des actions sur l'aspect g\u00e9n\u00e9ral de s\u00e9quences de texte.",
+          "Perl (v\u00fdslovnost [purl] \u010di [p\u025c\u02d0l]IPA) je interpretovan\u00fd programovac\u00ed jazyk vytvo\u0159en\u00fd Larry Wallem v roce 1987. S rozvojem internetu se Perl stal velmi popul\u00e1rn\u00edm n\u00e1strojem pro tvorbu CGI skript\u016f. Perl zah\u00e1jil svou \u00e9ru jako skriptovac\u00ed jazyk, n\u00e1hrada jazyka AWK a interpretru sh. Nejv\u011bt\u0161\u00edho roz\u0161\u00ed\u0159en\u00ed dos\u00e1hl ve verzi 4 z roku 1991.Verze 5 p\u0159inesla \u010detn\u00e1 vylep\u0161en\u00ed, p\u0159edev\u0161\u00edm v\u00fdkonn\u00e9 datov\u00e9 struktury a mo\u017enost objektov\u00e9ho programov\u00e1n\u00ed. V posledn\u00ed dob\u011b z\u00edskal Perl oblibu mimo jin\u00e9 v bioinformatice. PC Magazine za\u0159adil Perl v roce 1998 mezi finalisty sout\u011b\u017ee Technical Excellence Award v kategorii Development Tool. Slovo Perl najdete v Oxford English Dictionary.",
+          "Perl estas komputila programlingvo kreita de en 1987 kiu prenas propra\u0135ojn de C, sed, , \u015dela skriptado (sh) kaj malpli de multaj aliaj komputillingvoj. Kvankam la nomo povas esti legita kiel akronimo la\u016d pli ol unu maniero ('Praktika elprena kaj resuma lingvo' estas unu), estas normale literumita en miksita majuskleco, kiam temas pri la lingvo, kaj minuskle, kiam temas pri la interpretilo. \"Nur perl \u011duste traktas Perl-on.\"",
+          "Perl \u00e4r ett skriptspr\u00e5k skapat av Larry Wall 1987. D\u00e5 Wall \u00e4r utbildad lingvist har Perl, liksom naturliga spr\u00e5k, mindre inriktning p\u00e5 struktur och mer p\u00e5 flexibilitet. Perls motto \u00e4r Det finns mer \u00e4n ett s\u00e4tt att g\u00f6ra det p\u00e5 (eng.: \"There's more than one way to do it\", eller TIMTOWTDI; uttalas 'Tim Toady'). Som exempel har Perl syntaxst\u00f6d f\u00f6r att implementera program procedurellt, objektorienterat och till och med visst st\u00f6d f\u00f6r funktionell programmering. Perl \u00e4r ett generellt spr\u00e5k och kan anv\u00e4ndas till det mesta, men det har vunnit sin st\u00f6rsta popularitet f\u00f6r CGI-utveckling och . En av Perls viktigaste egenskaper \u00e4r den integration regulj\u00e4ra uttryck har i spr\u00e5ket. Till skillnad fr\u00e5n andra spr\u00e5k, d\u00e4r regulj\u00e4ra uttryck normalt implementeras med hj\u00e4lp av funktioner och klasser man kan anv\u00e4",
+          "Perl (\u043d\u0435\u043e\u0444\u0456\u0446\u0456\u0439\u043d\u0430 \u0440\u043e\u0437\u0448\u0438\u0444\u0440\u043e\u0432\u043a\u0430 \u0430\u043d\u0433\u043b. Practical Extraction and Reporting Language \u2014 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u0432\u0438\u0442\u044f\u0433\u0456\u0432 \u0442\u0430 \u0437\u0432\u0456\u0442\u0456\u0432) \u2014 \u0432\u0438\u0441\u043e\u043a\u043e\u0440\u0456\u0432\u043d\u0435\u0432\u0430, \u0456\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u043e\u0432\u0430\u043d\u0430, \u0434\u0438\u043d\u0430\u043c\u0456\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f. Perl \u0431\u0443\u043b\u043e \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u043e \u0443 1987 \u0440\u043e\u0446\u0456 \u041b\u0430\u0440\u0456 \u0412\u043e\u043b\u043b\u043e\u043c, \u043b\u0456\u043d\u0433\u0432\u0456\u0441\u0442\u043e\u043c \u0456 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456\u0441\u0442\u043e\u043c \u0437\u0430 \u043e\u0441\u0432\u0456\u0442\u043e\u044e, \u044f\u043a\u0438\u0439 \u0443 \u0442\u043e\u0439 \u0447\u0430\u0441 \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u0438\u043c \u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u043e\u043c \u0443 NASA, \u044f\u043a \u0441\u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430 \u043c\u043e\u0432\u0430 \u0434\u043b\u044f Unix, \u043c\u0435\u0442\u043e\u044e \u044f\u043a\u043e\u0457 \u0431\u0443\u043b\u043e \u043f\u043e\u043b\u0435\u0433\u0448\u0438\u0442\u0438 \u043f\u0440\u043e\u0446\u0435\u0441 \u043e\u0431\u0440\u043e\u0431\u043a\u0438 \u0442\u0435\u043a\u0441\u0442\u0456\u0432 \u0444\u0430\u0439\u043b\u0456\u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0456\u0432. \u0417 \u0442\u043e\u0433\u043e \u0447\u0430\u0441\u0443 \u0434\u043e \u043c\u043e\u0432\u0438 \u0431\u0443\u043b\u043e \u0432\u043d\u0435\u0441\u0435\u043d\u043e \u0431\u0430\u0433\u0430\u0442\u043e \u0437\u043c\u0456\u043d, \u0456 \u0437\u0434\u0456\u0439\u0441\u043d\u0435\u043d\u043e \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u0434 \u0457\u0457 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0456\u0457 \u0442\u0430 \u0430\u0440\u0445\u0456\u0442\u0435\u043a\u0442\u0443\u0440\u0438, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0447\u043e\u0433\u043e \u0432\u043e\u043d\u0430 \u0441\u0442\u0430\u043b\u0430 \u0434\u0443\u0436\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u044e \u0441\u0435\u0440\u0435\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456\u0441\u0442\u0456\u0432. \u041b\u0430\u0440\u0456 \u0412\u043e\u043b\u043b \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0443\u0454 \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438 \u043d\u0430\u0434 \u044f\u0434\u0440\u043e\u043c \u043c\u043e\u0432\u0438, \u0456 \u043d\u0430\u0440\u0430\u0437\u0456 \u043e\u0447\u0456\u043a\u0443\u0454\u0442\u044c\u0441\u044f \u0432\u0438\u0445\u0456\u0434 \u043d\u043e\u0432\u043e\u0457 \u0432\u0435\u0440\u0441\u0456\u0457, Perl 6.",
+          "Perl adalah bahasa pemrograman untuk segala keperluan, dikembangkan pertama kali oleh Larry Wall di mesin Unix. Perl dirilis pertama kali pada tanggal 18 Desember 1987 ditandai dengan keluarnya Perl 1. Pada versi-versi selanjutnya, Perl tersedia pula untuk berbagai sistem operasi varian Unix (SunOS, Linux, BSD, HP-UX), juga tersedia untuk sistem operasi seperti DOS, Microsoft Windows, PowerPC, , , EBCDIC, dan . Dukungan terhadap pemrograman berbasis objek (object oriented programming/OOP) ditambahkan pada Perl 5, yang pertama kali dirilis pada tanggal 31 Juli 1993. Proyek pengembangan Perl 6 dimulai pada tahun 2000, dan masih berlangsung hingga kini tanpa tanggal yang jelas kapan mau dirilis. Ini dikatakan sendiri oleh Larry Wall dalam satu pidatonya yang dikenal dengan seri .",
+          "Perl \u00e9 uma fam\u00edlia de duas linguagens de programa\u00e7\u00e3o multiplataforma, Perl 5 e Perl 6. Originalmente, Perl foi desenvolvida por Larry Wall em 1987; desde ent\u00e3o, a linguagem passou por muitas atualiza\u00e7\u00f5es e revis\u00f5es at\u00e9 chegar \u00e0 vers\u00e3o Perl 5 em 1994. Perl 6, desenvolvido a partir do Perl 5 em 2000, eventualmente evoluiu para uma linguagem distinta. Ambas as linguagens continuam a ser desenvolvidas independentemente por equipes diferentes.",
+          "Is teanga r\u00edomhchl\u00e1r\u00fach\u00e1in \u00ed Perl a chruthaigh sna 1980\u00ed. Baintear \u00fas\u00e1id as Perl go forleathan ar an nGr\u00e9as\u00e1n Domhanda i , i b, agus i m. Ritheann r\u00edomhchl\u00e1ir Perl ar ard\u00e1in Windows, Mac OS, agus Linux. Glacann Perl gn\u00e9ithe \u00f3 go leor teangacha eile: C, , , sed, agus Lisp san \u00e1ireamh.",
+          "\u0397 Perl \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03af\u03b1 \u03c0\u03bf\u03bb\u03cd \u03b4\u03b7\u03bc\u03bf\u03c6\u03b9\u03bb\u03ae\u03c2 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03bf\u03c3\u03c4\u03c1\u03b5\u03c6\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd. \u03a3\u03c5\u03bd\u03ae\u03b8\u03c9\u03c2 \u03ad\u03bd\u03b1 \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c3\u03b5 Perl \u03b5\u03ba\u03c4\u03b5\u03bb\u03b5\u03af\u03c4\u03b1\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ce\u03bd\u03c4\u03b1\u03c2 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03ae \u03ad\u03bc\u03bc\u03b5\u03c3\u03b1 \u03c4\u03bf \u03b4\u03b9\u03b5\u03c1\u03bc\u03b7\u03bd\u03ad\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2. \u0391\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03b4\u03b9\u03b1\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd Perl \u03b1\u03c0\u03cc \u03c0\u03bf\u03bb\u03bb\u0301\u03b5\u03c2 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b5\u03c2 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03cc\u03c4\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b7 \u03b3\u03b9\u03b1 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b9\u03ba\u03ac \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1. \u0397 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c3\u03c7\u03b5\u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03b1\u03b9 \u03bf \u03c0\u03b7\u03b3\u03b1\u03af\u03bf\u03c2 \u03ba\u03ce\u03b4\u03b9\u03ba\u03ac\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c4\u03af\u03b8\u03b5\u03c4\u03b1\u03b9 \u03b2\u03ac\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03b4\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03bf\u03b9\u03ba\u03c4\u03bf\u03cd \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1 GPL. \u0397 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2 \u03b5\u03bc\u03c6\u03b1\u03bd\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c4\u03bf 1987 \u03b5\u03bd\u03ce \u03c3\u03c4\u03b9\u03c2 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03c4\u03bf\u03c5 2017, 30 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2, \u03b7 \u03c0\u03b9\u03bf \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b7 \u03ad\u03ba\u03b4\u03bf\u03c3\u03ae \u03c4\u03b7\u03c2 \u03ae\u03c4\u03b1\u03bd \u03b7 5.24.0.",
+          "Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages. \"Perl\" refers to Perl 5, but from 2000 to 2019 it also referred to its redesigned \"sister language\", Perl 6, before the latter's name was officially changed to Raku in October 2019. Perl is a highly expressive programming language: source code for a given algorithm can be short and highly compressible.",
+          "Perl sortutako programazio lengoaia dinamikoa da, 1987an argitaratutakoa. Beste programazio lengoaia batzuen ezaugarriak bateratzen ditu, hala nola, C, , , eta Lisp. Testu fitxategiak aztertu eta manipulatzeko bereziki sorturiko programazio-lengoaia da Perl, egokia beraz egokirik bada hizkuntzarekin erlazionatutako atazetarako. Fitxategiak lerroz-lerro irakurtzeko gai da eta karaktereak eta hitzak bezalako terminoak maneiatzen ditu. Adierazpen erregularren bitartez testuetan bilaketak eta aldaketak egiteko izugarrizko tresneria eskaintzen du.",
+          "( \ub2e4\ub978 \ub73b\uc5d0 \ub300\ud574\uc11c\ub294 \ud384 (\ub3d9\uc74c\uc774\uc758) \ubb38\uc11c\ub97c \ucc38\uace0\ud558\uc2ed\uc2dc\uc624.) \ud384(\uc601\uc5b4: Perl)\uc740 \ub798\ub9ac \uc6d4\uc774 \ub9cc\ub4e0 \uc778\ud130\ud504\ub9ac\ud130 \ubc29\uc2dd\uc758 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4 \ud639\uc740 \uadf8 \uc778\ud130\ud504\ub9ac\ud130 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uac00\ub9ac\ud0a8\ub2e4. \ud384\uc740 \uace0\uae09 \uc5b8\uc5b4, \ubc94\uc6a9 \uc5b8\uc5b4, \uc778\ud130\ud504\ub9ac\ud130 \uc5b8\uc5b4, \ub3d9\uc801 \uc5b8\uc5b4 \ubc94\uc8fc\uc5d0 \uc18d\ud55c\ub2e4. \ud384\uc740 \uc77c\ubc18\uc801\uc73c\ub85c \ud384 5\ub85c \ubd80\ub974\uc9c0\ub9cc 2000\ub144\ubd80\ud130 2019\ub144\uae4c\uc9c0 \uc790\ub9e4 \uc5b8\uc5b4 \ud384 6\uc73c\ub85c \ubd88\ub9ac\ub2e4\uac00 2019\ub144 10\uc6d4 \ub4e4\uc5b4 \ud384 6\ub77c\ub294 \uc774\ub984\uc740 \ub77c\ucfe0\ub77c\ub294 \uc774\ub984\uc73c\ub85c \uacf5\uc2dd\uc801\uc73c\ub85c \ubcc0\uacbd\ub418\uc5c8\ub2e4. \ub798\ub9ac \uc6d4\uc774 1987\ub144 \ud384\uc744 \ucc98\uc74c \ub9cc\ub4e0 \ud6c4, \ud384\uc740 \ub9ce\uc740 \ubcc0\ud654\ub97c \uacaa\uc5c8\ub2e4. \ud384 6\uc740 2000\ub144\ubd80\ud130 \ud384\uc744 \ub2e4\uc2dc \uc124\uacc4\ud558\uba74\uc11c \uac1c\ubc1c\ub418\uae30 \uc2dc\uc791\ud588\uace0, \ud384 5\uc640\ub294 \ub3c5\ub9bd\uc801\uc73c\ub85c \uac1c\ubc1c\ub418\uc5c8\uace0 \uc11c\ub85c \uc601\ud5a5\uc744 \ubbf8\ucce4\ub2e4. \ud384 \uc5b8\uc5b4\ub294 \uc2e4\uc6a9\uc131\uc744 \ubaa8\ud1a0\ub85c \ud558\uace0 \uc788\uc5b4 C\ub098 sed, AWK, \uc178 \uc2a4\ud06c\ub9bd\ud2b8 (sh) \ub4f1 \ub2e4\ub978 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\uc5d0\uc11c \ub6f0\uc5b4\ub09c \uae30\ub2a5\uc744 \ub9ce\uc774 \ub3c4\uc785\ud558\uc5ec \uc0ac\uc6a9\ud558\uace0 \uc788\ub2e4. \ub3d9\uc2dc\ub300\uc758 \uc720\ub2c9\uc2a4 \uba85\ub839 \ub3c4\uad6c\ub4e4\uc774 \uc9c0\ub2cc \ubd88\ud2b9\uc815\ud55c \ub370\uc774\ud130 \uae38\uc774\uc758 \uc81c\uc57d \uc5c6\uc774 \uac15\ub825\ud55c \ubb38\uc790\uc5f4 \ucc98\ub9ac \uae30\ub2a5\uc744 \uc81c\uacf5\ud558\uba70 \uc774\ub97c \ud1b5\ud574 \ud14d\uc2a4\ud2b8 \ud30c\uc77c\uc758 \uc870\uc791\uc744 \uc6a9\uc774\ud558\uac8c \ub9cc\ub4e4\uc5b4 \uc900\ub2e4. \ud384 5\ub294 \ubd80\ubd84\uc801\uc778 \uc774\uc720\ub85c\ub294 \ud0c0\uc758 \ucd94\uc885\uc744 \ubd88\ud5c8\ud558\ub294 \uc815\uaddc \ud45c\ud604\uc2dd, \ubb38\uc790\uc5f4 \uad6c\ubb38 \ubd84\uc11d \uae30\ub2a5 \ub355\ubd84\uc5d0 1990\ub144\ub300 \ub9d0 \ub4e4\uc5b4 \uc778\uae30\ub97c \ub04c\uae30 \uc2dc\uc791\ud588\ub2e4.",
+          "\u0628\u064a\u0631\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Perl)\u200f (\u0627\u062e\u062a\u0635\u0627\u0631 \u0644\u0639\u0628\u0627\u0631\u0629 Practical Extracting and Reporting Language) \u0647\u064a \u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629 \u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u062a\u0631\u0633\u064a\u0645\u0627\u062a\u060c \u0647\u0630\u0647 \u0627\u0644\u0644\u063a\u0629 \u0638\u0647\u0631\u062a \u0633\u0646\u0629 1987 \u0639\u0644\u0649 \u064a\u062f \u0644\u0627\u0631\u064a \u0648\u0648\u0644.\u0628\u064a\u0631\u0644 \u0644\u063a\u0629 \u0645\u0641\u062a\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631\u060c \u0645\u0631\u062a\u0628\u0637\u0629 \u0623\u0633\u0627\u0633\u0627 \u0628\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0631\u0633\u0644\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 . \u0643\u0627\u0646 \u0627\u0644\u06be\u062f\u0641 \u0645\u0646\u06be\u0627 \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0646\u0635\u0648\u0635 \u0641\u064a \u0646\u0638\u0627\u0645 \u064a\u0648\u0646\u0643\u0633 \u062d\u06cc\u062b \u06be\u0646\u0627\u0643 \u0645\u0633\u0627\u0626\u0644 \u0645\u0646 \u0627\u0644\u0635\u0639\u0628 \u062d\u0644\u06be\u0627 \u0628\u0627\u0644\u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u0645\u0633\u062a\u0639\u0645\u0644\u0629 \u062d\u06cc\u0646\u06be\u0627. \u0623\u0645\u0627 \u0627\u0644\u0622\u0646 \u0641\u0642\u062f \u062a\u0648\u0633\u0639 \u0627\u0633\u062a\u0639\u0645\u0627\u0644\u06be\u0627 \u0644\u062a\u0635\u0628\u062d \u0627\u0644\u0623\u0643\u062b\u0631 \u0637\u0644\u0628\u0627 \u0644\u0623\u062a\u0645\u062a\u0629. \u0639\u0627\u062f\u0629 \u0645\u0627 \u0646\u0645\u06cc\u0644 \u0625\u0644\u0649 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u062f\u0648\u0627\u062a \u0627\u0646\u062a\u0634\u0627\u0631\u0627\u060c \u0648\u0628\u0645\u0627 \u0623\u0646 \u0627\u0644\u0628\u06cc\u0631\u0644 \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u0627\u0633\u062a\u0639\u0645\u0627\u0644\u0627\u062a\u060c \u0628\u0643\u0644 \u062a\u0623\u0643\u06cc\u062f \u0641\u06be\u0648 \u0644\u06cc\u0633 \u0645\u0646 \u0623\u062c\u0644 \u0643\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644. \u0644\u0630\u0644\u0643 \u0633\u0646\u0631\u0649 \u0623\u0628\u0631\u0632 \u0646\u0642\u0627\u0637 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u062a\u064a \u0645\u0646 \u0623\u062c\u0644\u06be\u0627 \u0643\u0627\u0646\u062a \u06be\u0630\u0647 \u0627\u0644\u0644\u063a\u0629 \u0645\u062a\u0646\u0641\u0633 \u0627\u0644\u0643\u062b\u06cc\u0631 \u0645\u0646 \u0627\u0644\u0645\u0628\u0631\u0645\u062c\u06cc\u0646"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#differentFrom",
+        "Values": [
+          "http://dbpedia.org/resource/PEARL_(programming_language)"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/homepage",
+        "Values": [
+          "https://www.perl.org/%7Cperl.org"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Perl_language_logo.svg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Camelia.svg",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Perl5Raptor.png",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Onion_64x64.png",
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Perl-camel-small.png"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/page",
+        "Values": [
+          "https://www.perl.org/%7Cperl.org"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Text-oriented_programming_languages",
+          "http://dbpedia.org/resource/Category:Programming_languages",
+          "http://dbpedia.org/resource/Category:Procedural_programming_languages",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1987",
+          "http://dbpedia.org/resource/Category:Dynamic_programming_languages",
+          "http://dbpedia.org/resource/Category:Free_compilers_and_interpreters",
+          "http://dbpedia.org/resource/Category:C_programming_language_family",
+          "http://dbpedia.org/resource/Category:Articles_with_example_Perl_code",
+          "http://dbpedia.org/resource/Category:Scripting_languages",
+          "http://dbpedia.org/resource/Category:Unix_programming_tools",
+          "http://dbpedia.org/resource/Category:Dynamically_typed_programming_languages",
+          "http://dbpedia.org/resource/Category:Free_software_programmed_in_C",
+          "http://dbpedia.org/resource/Category:Cross-platform_software",
+          "http://dbpedia.org/resource/Category:Object-oriented_programming_languages",
+          "http://dbpedia.org/resource/Category:American_inventions",
+          "http://dbpedia.org/resource/Category:Perl",
+          "http://dbpedia.org/resource/Category:Software_using_the_Artistic_license",
+          "http://dbpedia.org/resource/Category:High-level_programming_languages",
+          "http://dbpedia.org/resource/Category:Multi-paradigm_programming_languages"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "23939"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1123080881"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Dynamic_dispatch",
+          "http://dbpedia.org/resource/Request_for_Comments",
+          "http://dbpedia.org/resource/Niecza",
+          "http://dbpedia.org/resource/File:Camelia.svg",
+          "http://dbpedia.org/resource/Acme_Corporation",
+          "http://dbpedia.org/resource/Mailing_list",
+          "http://dbpedia.org/resource/Dynamic_programming_language",
+          "http://dbpedia.org/resource/SQL",
+          "http://dbpedia.org/resource/Latin",
+          "http://dbpedia.org/resource/Visual_Perl",
+          "http://dbpedia.org/resource/The_Perl_Foundation",
+          "http://dbpedia.org/resource/LAMP_(software_bundle)",
+          "http://dbpedia.org/resource/Variable_interpolation",
+          "http://dbpedia.org/resource/HTML",
+          "http://dbpedia.org/resource/Huffman_coding",
+          "http://dbpedia.org/resource/Associative_array",
+          "http://dbpedia.org/resource/Programming_paradigm",
+          "http://dbpedia.org/resource/RSA_(algorithm)",
+          "http://dbpedia.org/resource/Data_extraction",
+          "http://dbpedia.org/resource/Backronym",
+          "http://dbpedia.org/resource/Multi-paradigm",
+          "http://dbpedia.org/resource/Variable_(computer_science)",
+          "http://dbpedia.org/resource/Maintenance_release",
+          "http://dbpedia.org/resource/Category:Articles_with_example_Perl_code",
+          "http://dbpedia.org/resource/One-liner_program",
+          "http://dbpedia.org/resource/Software_bug",
+          "http://dbpedia.org/resource/Application_programming_interface",
+          "http://dbpedia.org/resource/Compiler",
+          "http://dbpedia.org/resource/Sed",
+          "http://dbpedia.org/resource/Internet",
+          "http://dbpedia.org/resource/Object-oriented_programming",
+          "http://dbpedia.org/resource/Category:Scripting_languages",
+          "http://dbpedia.org/resource/Category:Unix_programming_tools",
+          "http://dbpedia.org/resource/Modular_programming",
+          "http://dbpedia.org/resource/Randal_L._Schwartz",
+          "http://dbpedia.org/resource/Fortran",
+          "http://dbpedia.org/resource/Variable_(programming)",
+          "http://dbpedia.org/resource/PEARL_(programming_language)",
+          "http://dbpedia.org/resource/BASIC",
+          "http://dbpedia.org/resource/Assignment_statement",
+          "http://dbpedia.org/resource/Subroutine",
+          "http://dbpedia.org/resource/Type_conversion",
+          "http://dbpedia.org/resource/Checksum",
+          "http://dbpedia.org/resource/QNX",
+          "http://dbpedia.org/resource/ActivePerl",
+          "http://dbpedia.org/resource/Lexical_analysis",
+          "http://dbpedia.org/resource/Bracket",
+          "http://dbpedia.org/resource/Category:Object-oriented_programming_languages",
+          "http://dbpedia.org/resource/Linux",
+          "http://dbpedia.org/resource/Category:American_inventions",
+          "http://dbpedia.org/resource/Ticketmaster",
+          "http://dbpedia.org/resource/American_National_Standards_Institute",
+          "http://dbpedia.org/resource/System_administrator",
+          "http://dbpedia.org/resource/Graphical_user_interface",
+          "http://dbpedia.org/resource/Software_versioning",
+          "http://dbpedia.org/resource/Slash_(weblog_system)",
+          "http://dbpedia.org/resource/Lex_programming_tool",
+          "http://dbpedia.org/resource/Java_virtual_machine",
+          "http://dbpedia.org/resource/Slashdot_effect",
+          "http://dbpedia.org/resource/Control_structure",
+          "http://dbpedia.org/resource/Dromedary",
+          "http://dbpedia.org/resource/Scripting_language",
+          "http://dbpedia.org/resource/Parsing",
+          "http://dbpedia.org/resource/Category:Perl",
+          "http://dbpedia.org/resource/S-expression",
+          "http://dbpedia.org/resource/Naming_scheme",
+          "http://dbpedia.org/resource/GNU_bison",
+          "http://dbpedia.org/resource/Catalyst_(software)",
+          "http://dbpedia.org/resource/Perl_DBI",
+          "http://dbpedia.org/resource/ActiveState",
+          "http://dbpedia.org/resource/Regular_expression",
+          "http://dbpedia.org/resource/Parrot_virtual_machine",
+          "http://dbpedia.org/resource/VBScript",
+          "http://dbpedia.org/resource/MKS_Toolkit",
+          "http://dbpedia.org/resource/C++",
+          "http://dbpedia.org/resource/Duct_tape",
+          "http://dbpedia.org/resource/Cygwin",
+          "http://dbpedia.org/resource/Circular_dependency",
+          "http://dbpedia.org/resource/CPAN",
+          "http://dbpedia.org/resource/CPU",
+          "http://dbpedia.org/resource/Typedef",
+          "http://dbpedia.org/resource/Craigslist",
+          "http://dbpedia.org/resource/Haskell_(programming_language)",
+          "http://dbpedia.org/resource/Unisys",
+          "http://dbpedia.org/resource/There's_more_than_one_way_to_do_it",
+          "http://dbpedia.org/resource/Just_another_Perl_hacker",
+          "http://dbpedia.org/resource/Write-only_language",
+          "http://dbpedia.org/resource/MoarVM",
+          "http://dbpedia.org/resource/Category:Text-oriented_programming_languages",
+          "http://dbpedia.org/resource/Man_page",
+          "http://dbpedia.org/resource/Audrey_Tang",
+          "http://dbpedia.org/resource/Code_golf",
+          "http://dbpedia.org/resource/Imperative_programming",
+          "http://dbpedia.org/resource/Indent_style",
+          "http://dbpedia.org/resource/Perl_package_manager",
+          "http://dbpedia.org/resource/WxPerl",
+          "http://dbpedia.org/resource/LPC_(programming_language)",
+          "http://dbpedia.org/resource/Classic_Mac_OS",
+          "http://dbpedia.org/resource/Perl_Object_Environment",
+          "http://dbpedia.org/resource/World_Wide_Web",
+          "http://dbpedia.org/resource/Request_Tracker",
+          "http://dbpedia.org/resource/Dromaeosauridae",
+          "http://dbpedia.org/resource/Raku_(programming_language)",
+          "http://dbpedia.org/resource/Common_Gateway_Interface",
+          "http://dbpedia.org/resource/Adam_Kennedy_(programmer)",
+          "http://dbpedia.org/resource/Zero_One_Infinity",
+          "http://dbpedia.org/resource/Usenet",
+          "http://dbpedia.org/resource/Local_variable",
+          "http://dbpedia.org/resource/Internet_Relay_Chat",
+          "http://dbpedia.org/resource/Closure_(computer_science)",
+          "http://dbpedia.org/resource/Linguistic",
+          "http://dbpedia.org/resource/Struct_(C_programming_language)",
+          "http://dbpedia.org/resource/Bytecode",
+          "http://dbpedia.org/resource/Data_munging",
+          "http://dbpedia.org/resource/AWK",
+          "http://dbpedia.org/resource/Ascending_order",
+          "http://dbpedia.org/resource/Unix",
+          "http://dbpedia.org/resource/Expression_(programming)",
+          "http://dbpedia.org/resource/Category:Free_software_programmed_in_C",
+          "http://dbpedia.org/resource/Y2038",
+          "http://dbpedia.org/resource/Visual_pun",
+          "http://dbpedia.org/resource/Artistic_License",
+          "http://dbpedia.org/resource/Python_(programming_language)",
+          "http://dbpedia.org/resource/Category:Cross-platform_software",
+          "http://dbpedia.org/resource/Bugzilla",
+          "http://dbpedia.org/resource/Rakudo",
+          "http://dbpedia.org/resource/UWIN",
+          "http://dbpedia.org/resource/Switch_statement",
+          "http://dbpedia.org/resource/Language_construct",
+          "http://dbpedia.org/resource/PHP",
+          "http://dbpedia.org/resource/Parser",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/Glue_language",
+          "http://dbpedia.org/resource/String_(computer_science)",
+          "http://dbpedia.org/resource/Expressive_power_(computer_science)",
+          "http://dbpedia.org/resource/Julia_(programming_language)",
+          "http://dbpedia.org/resource/Web_page",
+          "http://dbpedia.org/resource/PowerShell",
+          "http://dbpedia.org/resource/Halting_problem",
+          "http://dbpedia.org/resource/Character_encoding",
+          "http://dbpedia.org/resource/Category:Software_using_the_Artistic_license",
+          "http://dbpedia.org/resource/Internet_Movie_Database",
+          "http://dbpedia.org/resource/Plain_Old_Documentation",
+          "http://dbpedia.org/resource/Memory_management",
+          "http://dbpedia.org/resource/Gerund",
+          "http://dbpedia.org/resource/Constant_folding",
+          "http://dbpedia.org/resource/Awk",
+          "http://dbpedia.org/resource/TWiki",
+          "http://dbpedia.org/resource/Web_framework",
+          "http://dbpedia.org/resource/Obfuscated_Perl_Contest",
+          "http://dbpedia.org/resource/Run_time_(program_lifecycle_phase)",
+          "http://dbpedia.org/resource/File_handle",
+          "http://dbpedia.org/resource/Language_primitive",
+          "http://dbpedia.org/resource/Libera_Chat",
+          "http://dbpedia.org/resource/Dynamic_typing",
+          "http://dbpedia.org/resource/Golf",
+          "http://dbpedia.org/resource/Functional_testing",
+          "http://dbpedia.org/resource/Komodo_IDE",
+          "http://dbpedia.org/resource/The_Computer_Language_Benchmarks_Game",
+          "http://dbpedia.org/resource/Wikt:line_noise",
+          "http://dbpedia.org/resource/Abstract_syntax_tree",
+          "http://dbpedia.org/resource/Mod_perl",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1987",
+          "http://dbpedia.org/resource/Heuristics",
+          "http://dbpedia.org/resource/Ruby_(programming_language)",
+          "http://dbpedia.org/resource/Reference_counting",
+          "http://dbpedia.org/resource/Turing-complete",
+          "http://dbpedia.org/resource/List_of_Unix_commands",
+          "http://dbpedia.org/resource/Slashdot",
+          "http://dbpedia.org/resource/Category:Dynamic_programming_languages",
+          "http://dbpedia.org/resource/Learning_Perl",
+          "http://dbpedia.org/resource/Hacker_(programmer_subculture)",
+          "http://dbpedia.org/resource/First-class_function",
+          "http://dbpedia.org/resource/Category:Free_compilers_and_interpreters",
+          "http://dbpedia.org/resource/Trademark",
+          "http://dbpedia.org/resource/Formal_grammar",
+          "http://dbpedia.org/resource/LiveJournal",
+          "http://dbpedia.org/resource/Debian",
+          "http://dbpedia.org/resource/Plan_9_from_Bell_Labs",
+          "http://dbpedia.org/resource/Windows_Services_for_Unix",
+          "http://dbpedia.org/resource/Common_Language_Runtime",
+          "http://dbpedia.org/resource/Keynote",
+          "http://dbpedia.org/resource/Bradley_M._Kuhn",
+          "http://dbpedia.org/resource/Shell_builtin",
+          "http://dbpedia.org/resource/Static_program_analysis",
+          "http://dbpedia.org/resource/Syntax_(programming_languages)",
+          "http://dbpedia.org/resource/System_programming_language",
+          "http://dbpedia.org/resource/Obfuscated_code",
+          "http://dbpedia.org/resource/Backward_compatibility",
+          "http://dbpedia.org/resource/Unix_shell",
+          "http://dbpedia.org/resource/Movable_Type",
+          "http://dbpedia.org/resource/Operating_system",
+          "http://dbpedia.org/resource/String_(computing)",
+          "http://dbpedia.org/resource/File:Perl5Raptor.png",
+          "http://dbpedia.org/resource/DTrace",
+          "http://dbpedia.org/resource/Client-side",
+          "http://dbpedia.org/resource/Computer_network_programming",
+          "http://dbpedia.org/resource/Procedural_programming",
+          "http://dbpedia.org/resource/CGI.pm",
+          "http://dbpedia.org/resource/Signature_block",
+          "http://dbpedia.org/resource/Non-commercial",
+          "http://dbpedia.org/resource/Reference_(computer_science)",
+          "http://dbpedia.org/resource/Compiler_directive",
+          "http://dbpedia.org/resource/Type_introspection",
+          "http://dbpedia.org/resource/Commercial_off-the-shelf",
+          "http://dbpedia.org/resource/Web_development",
+          "http://dbpedia.org/resource/Software_repository",
+          "http://dbpedia.org/resource/Yacc",
+          "http://dbpedia.org/resource/Class-based_programming",
+          "http://dbpedia.org/resource/Formal_specification",
+          "http://dbpedia.org/resource/Category:High-level_programming_languages",
+          "http://dbpedia.org/resource/Bioinformatics",
+          "http://dbpedia.org/resource/Perl_Data_Language",
+          "http://dbpedia.org/resource/Boilerplate_code",
+          "http://dbpedia.org/resource/GNU_Compiler_Collection",
+          "http://dbpedia.org/resource/Cross-platform",
+          "http://dbpedia.org/resource/Hello_World",
+          "http://dbpedia.org/resource/Computer_data_storage",
+          "http://dbpedia.org/resource/File:Perl-camel-small.png",
+          "http://dbpedia.org/resource/CPanel",
+          "http://dbpedia.org/resource/Outline_of_Perl",
+          "http://dbpedia.org/resource/Unix-like",
+          "http://dbpedia.org/resource/AWK_(programming_language)",
+          "http://dbpedia.org/resource/Source_code",
+          "http://dbpedia.org/resource/ISAPI",
+          "http://dbpedia.org/resource/Strawberry_Perl",
+          "http://dbpedia.org/resource/Category:Programming_languages",
+          "http://dbpedia.org/resource/Category:Procedural_programming_languages",
+          "http://dbpedia.org/resource/DuckDuckGo",
+          "http://dbpedia.org/resource/O'Reilly_Open_Source_Convention",
+          "http://dbpedia.org/resource/Preposition_and_postposition",
+          "http://dbpedia.org/resource/JavaScript",
+          "http://dbpedia.org/resource/Command-line_interface",
+          "http://dbpedia.org/resource/XS_(Perl)",
+          "http://dbpedia.org/resource/Yet_Another_Perl_Conference",
+          "http://dbpedia.org/resource/Pearl_onion",
+          "http://dbpedia.org/resource/Tree_traversal",
+          "http://dbpedia.org/resource/Data_set",
+          "http://dbpedia.org/resource/Category:C_programming_language_family",
+          "http://dbpedia.org/resource/Reflective_programming",
+          "http://dbpedia.org/resource/Microsoft_Windows",
+          "http://dbpedia.org/resource/PerlMonks",
+          "http://dbpedia.org/resource/The_Perl_Journal",
+          "http://dbpedia.org/resource/Larry_Wall",
+          "http://dbpedia.org/resource/Return_statement",
+          "http://dbpedia.org/resource/Black_Perl",
+          "http://dbpedia.org/resource/Windows_Script_Host",
+          "http://dbpedia.org/resource/JAPH",
+          "http://dbpedia.org/resource/Unicode",
+          "http://dbpedia.org/resource/Scope_(programming)",
+          "http://dbpedia.org/resource/Perl_Mongers",
+          "http://dbpedia.org/resource/Object-relational_mapper",
+          "http://dbpedia.org/resource/AmigaOS",
+          "http://dbpedia.org/resource/English_language",
+          "http://dbpedia.org/resource/Tk_(framework)",
+          "http://dbpedia.org/resource/Priceline.com",
+          "http://dbpedia.org/resource/Category:Dynamically_typed_programming_languages",
+          "http://dbpedia.org/resource/GNU_General_Public_License",
+          "http://dbpedia.org/resource/File:Onion_64x64.png",
+          "http://dbpedia.org/resource/POSIX",
+          "http://dbpedia.org/resource/Pugs_(programming)",
+          "http://dbpedia.org/resource/JSON",
+          "http://dbpedia.org/resource/Peephole_optimization",
+          "http://dbpedia.org/resource/High-level_programming_language",
+          "http://dbpedia.org/resource/Lisp_(programming_language)",
+          "http://dbpedia.org/resource/Block_(programming)",
+          "http://dbpedia.org/resource/PerlScript",
+          "http://dbpedia.org/resource/CoffeeScript",
+          "http://dbpedia.org/resource/O'Reilly_Media",
+          "http://dbpedia.org/resource/Object_(computer_science)",
+          "http://dbpedia.org/resource/Perl_module",
+          "http://dbpedia.org/resource/APL_(programming_language)",
+          "http://dbpedia.org/resource/Binary_data",
+          "http://dbpedia.org/resource/Directive_(programming)",
+          "http://dbpedia.org/resource/Dual_licensed",
+          "http://dbpedia.org/resource/Programming_Perl",
+          "http://dbpedia.org/resource/Virtual_machine",
+          "http://dbpedia.org/resource/Mojolicious",
+          "http://dbpedia.org/resource/Amortized",
+          "http://dbpedia.org/resource/Perl_Cookbook",
+          "http://dbpedia.org/resource/Interpreter_(computing)",
+          "http://dbpedia.org/resource/Category:Multi-paradigm_programming_languages",
+          "http://dbpedia.org/resource/Functional_programming",
+          "http://dbpedia.org/resource/Type_system",
+          "http://dbpedia.org/resource/Data_structure",
+          "http://dbpedia.org/resource/Interix",
+          "http://dbpedia.org/resource/64-bit_computing",
+          "http://dbpedia.org/resource/Here_document",
+          "http://dbpedia.org/resource/Sigil_(computer_programming)",
+          "http://dbpedia.org/resource/General-purpose_programming_language",
+          "http://dbpedia.org/resource/DBIx::Class",
+          "http://dbpedia.org/resource/Groovy_(programming_language)",
+          "http://dbpedia.org/resource/Recursive_language",
+          "http://dbpedia.org/resource/BeOS",
+          "http://dbpedia.org/resource/Class_(computer_programming)",
+          "http://dbpedia.org/resource/Chromatic_(programmer)",
+          "http://dbpedia.org/resource/Macro_(computer_science)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "https://web.archive.org/web/20111222045417/http:/onyxneon.com/books/modern_perl/",
+          "http://onyxneon.com/books/modern_perl/",
+          "http://www.pearsonhighered.com/educator/product/Effective-Perl-Programming-Ways-to-Write-Better-More-Idiomatic-Perl-2E/9780321496942.page",
+          "http://shop.oreilly.com/product/9780596004927.do",
+          "http://ofps.oreilly.com/titles/9781118013847/index.html",
+          "https://www.perl.org/%7Cperl.org",
+          "http://hop.perl.plover.com/book/",
+          "http://shop.oreilly.com/product/0636920018452.do"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://cy.dbpedia.org/resource/Perl_(cyfrifiadureg)",
+          "http://d-nb.info/gnd/4307836-9",
+          "http://ka.dbpedia.org/resource/Perl",
+          "http://new.dbpedia.org/resource/\u092a\u0930\u094d\u0932",
+          "http://eo.dbpedia.org/resource/Perl",
+          "http://sr.dbpedia.org/resource/Perl_(\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0441\u043a\u0438_\u0458\u0435\u0437\u0438\u043a)",
+          "http://ml.dbpedia.org/resource/\u0d2a\u0d47\u0d7e",
+          "http://sl.dbpedia.org/resource/Perl",
+          "http://da.dbpedia.org/resource/Perl",
+          "http://be.dbpedia.org/resource/Perl",
+          "http://ga.dbpedia.org/resource/Perl",
+          "http://et.dbpedia.org/resource/Perl",
+          "http://or.dbpedia.org/resource/\u0b2a\u0b30\u0b4d\u0b32\u0b4d_(\u0b2a\u0b4d\u0b30\u0b4b\u0b17\u0b4d\u0b30\u0b3e\u0b2e\u0b3f\u0b02_\u0b2d\u0b3e\u0b37\u0b3e)",
+          "http://fr.dbpedia.org/resource/Perl_(langage)",
+          "http://fa.dbpedia.org/resource/\u067e\u0631\u0644",
+          "http://he.dbpedia.org/resource/Perl",
+          "http://kk.dbpedia.org/resource/Perl_(\u0431\u0430\u0493\u0434\u0430\u0440\u043b\u0430\u043c\u0430\u043b\u0430\u0443_\u0442\u0456\u043b\u0456)",
+          "http://simple.dbpedia.org/resource/Perl",
+          "http://sah.dbpedia.org/resource/Perl",
+          "http://www.wikidata.org/entity/Q42478",
+          "http://it.dbpedia.org/resource/Perl",
+          "http://ky.dbpedia.org/resource/Perl",
+          "http://id.dbpedia.org/resource/Perl",
+          "http://ku.dbpedia.org/resource/Perl",
+          "http://kn.dbpedia.org/resource/\u0caa\u0cb0\u0ccd\u0cb2\u0ccd",
+          "http://gl.dbpedia.org/resource/Perl",
+          "https://global.dbpedia.org/id/3w6Ky",
+          "http://pl.dbpedia.org/resource/Perl",
+          "http://bn.dbpedia.org/resource/\u09aa\u09be\u09b0\u09cd\u09b2_(\u09aa\u09cd\u09b0\u09cb\u0997\u09cd\u09b0\u09be\u09ae\u09bf\u0982_\u09ad\u09be\u09b7\u09be)",
+          "http://ar.dbpedia.org/resource/\u0628\u064a\u0631\u0644",
+          "http://no.dbpedia.org/resource/Perl",
+          "http://hi.dbpedia.org/resource/\u092a\u0930\u094d\u0932",
+          "http://sk.dbpedia.org/resource/Perl",
+          "http://fi.dbpedia.org/resource/Perl",
+          "http://nn.dbpedia.org/resource/Perl",
+          "http://tg.dbpedia.org/resource/\u041f\u0435\u0440\u043b_(\u0437\u0430\u0431\u043e\u043d\u0438_\u0431\u0430\u0440\u043d\u043e\u043c\u0430\u0441\u043e\u0437\u04e3)",
+          "http://lt.dbpedia.org/resource/Perl",
+          "http://sq.dbpedia.org/resource/Perl",
+          "http://uk.dbpedia.org/resource/Perl",
+          "http://ckb.dbpedia.org/resource/\u067e\u06ce\u0631\u06b5_(\u067e\u0631\u06c6\u06af\u0631\u0627\u0645\u0633\u0627\u0632\u06cc)",
+          "http://gu.dbpedia.org/resource/\u0aaa\u0ab0\u0acd\u0ab2",
+          "http://vi.dbpedia.org/resource/Perl",
+          "http://eu.dbpedia.org/resource/Perl",
+          "http://sco.dbpedia.org/resource/Perl",
+          "http://bg.dbpedia.org/resource/\u041f\u044a\u0440\u043b_(\u0435\u0437\u0438\u043a_\u0437\u0430_\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438\u0440\u0430\u043d\u0435)",
+          "http://ko.dbpedia.org/resource/\ud384",
+          "http://ast.dbpedia.org/resource/Perl",
+          "http://als.dbpedia.org/resource/Perl",
+          "http://ro.dbpedia.org/resource/Perl",
+          "http://cs.dbpedia.org/resource/Perl",
+          "http://ur.dbpedia.org/resource/\u067e\u0631\u0644",
+          "http://ms.dbpedia.org/resource/Perl",
+          "http://lmo.dbpedia.org/resource/Perl",
+          "http://th.dbpedia.org/resource/\u0e20\u0e32\u0e29\u0e32\u0e40\u0e1e\u0e34\u0e23\u0e4c\u0e25",
+          "http://sw.cyc.com/concept/Mx4rv_A-PpwpEbGdrcN5Y29ycA",
+          "http://ta.dbpedia.org/resource/\u0baa\u0bc6\u0bb0\u0bcd\u0bb3\u0bcd",
+          "http://nl.dbpedia.org/resource/Perl_(programmeertaal)",
+          "http://sv.dbpedia.org/resource/Perl",
+          "http://mk.dbpedia.org/resource/\u041f\u0435\u0440\u043b_(\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0441\u043a\u0438_\u0458\u0430\u0437\u0438\u043a)",
+          "http://tr.dbpedia.org/resource/Perl",
+          "http://rdf.freebase.com/ns/m.05zrn",
+          "http://lv.dbpedia.org/resource/Perl",
+          "http://hy.dbpedia.org/resource/Perl",
+          "http://hr.dbpedia.org/resource/Perl",
+          "http://es.dbpedia.org/resource/Perl",
+          "http://de.dbpedia.org/resource/Perl_(Programmiersprache)",
+          "http://lb.dbpedia.org/resource/Perl_(Programm\u00e9iersprooch)",
+          "http://sh.dbpedia.org/resource/Perl",
+          "http://pt.dbpedia.org/resource/Perl",
+          "http://hu.dbpedia.org/resource/Perl_(programoz\u00e1si_nyelv)",
+          "http://la.dbpedia.org/resource/Perl",
+          "http://an.dbpedia.org/resource/Perl",
+          "http://ja.dbpedia.org/resource/Perl",
+          "http://el.dbpedia.org/resource/Perl",
+          "http://mr.dbpedia.org/resource/\u092a\u0930\u094d\u0932_(\u0906\u091c\u094d\u091e\u093e\u0935\u0932\u0940_\u092d\u093e\u0937\u093e)",
+          "http://ca.dbpedia.org/resource/Perl",
+          "http://zh.dbpedia.org/resource/Perl",
+          "http://yago-knowledge.org/resource/Perl",
+          "http://az.dbpedia.org/resource/Perl",
+          "http://ru.dbpedia.org/resource/Perl",
+          "http://my.dbpedia.org/resource/Perl"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikibooks",
+        "Values": [
+          "Perl Programming"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:ISBN",
+          "http://dbpedia.org/resource/Template:Snd",
+          "http://dbpedia.org/resource/Template:Clear",
+          "http://dbpedia.org/resource/Template:Cn",
+          "http://dbpedia.org/resource/Template:Proper_name",
+          "http://dbpedia.org/resource/Template:Use_mdy_dates",
+          "http://dbpedia.org/resource/Template:Authority_control",
+          "http://dbpedia.org/resource/Template:Not_a_typo",
+          "http://dbpedia.org/resource/Template:Webarchive",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:FOSS",
+          "http://dbpedia.org/resource/Template:About",
+          "http://dbpedia.org/resource/Template:Perl",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Portal",
+          "http://dbpedia.org/resource/Template:Citation_needed",
+          "http://dbpedia.org/resource/Template:Sister_project_links",
+          "http://dbpedia.org/resource/Template:Main",
+          "http://dbpedia.org/resource/Template:As_of",
+          "http://dbpedia.org/resource/Template:Cite_book",
+          "http://dbpedia.org/resource/Template:Failed_verification",
+          "http://dbpedia.org/resource/Template:Programming_languages",
+          "http://dbpedia.org/resource/Template:Start_date_and_age",
+          "http://dbpedia.org/resource/Template:Distinguish",
+          "http://dbpedia.org/resource/Template:Version",
+          "http://dbpedia.org/resource/Template:Official_website"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Perl_language_logo.svg?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/b",
+        "Values": [
+          "Perl Programming"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/commons",
+        "Values": [
+          "Category:Perl"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/date",
+        "Values": [
+          "2011-12-22"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/designer",
+        "Values": [
+          "http://dbpedia.org/resource/Larry_Wall"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/developer",
+        "Values": [
+          "Larry Wall"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influenced",
+        "Values": [
+          "CoffeeScript, Groovy, JavaScript, Julia, LPC, PHP, Python, Raku, Ruby, PowerShell"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/Unix_shell",
+          "http://dbpedia.org/resource/BASIC",
+          "http://dbpedia.org/resource/AWK_(programming_language)",
+          "http://dbpedia.org/resource/Lisp_(programming_language)",
+          "http://dbpedia.org/resource/C++",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/Sed"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestReleaseVersion",
+        "Values": [
+          "",
+          "2022-05-28",
+          "2022-03-13"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/license",
+        "Values": [
+          "Artistic License 1.0 or GNU General Public License"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logo",
+        "Values": [
+          "Perl language logo.svg"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logoSize",
+        "Values": [
+          "120"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/n",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/operatingSystem",
+        "Values": [
+          "http://dbpedia.org/resource/Cross-platform"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/paradigm",
+        "Values": [
+          "Multi-paradigm: functional, imperative, object-oriented , reflective"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/programmingLanguage",
+        "Values": [
+          "http://dbpedia.org/resource/C_(programming_language)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/q",
+        "Values": [
+          "Perl"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/released",
+        "Values": [
+          "1987-12-18"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/s",
+        "Values": [
+          "no"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/typing",
+        "Values": [
+          "Dynamic"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/url",
+        "Values": [
+          "https://web.archive.org/web/20111222045417/http:/onyxneon.com/books/modern_perl/"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/v",
+        "Values": [
+          "Topic:Perl"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/website",
+        "Values": [
+          "https://www.perl.org/%7Cperl.org"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "Perl \u00e8 un linguaggio di programmazione ad alto livello, dinamico, procedurale e interpretato, creato nel 1987 da Larry Wall. Perl ha un singolare insieme di funzionalit\u00e0 ereditate da C, scripting shell Unix (sh), Awk, sed e in diversa misura da molti altri linguaggi di programmazione, compresi alcuni linguaggi funzionali.",
+          "Perl [p\u025d\u02d0l] ist eine freie, plattformunabh\u00e4ngige und interpretierte Programmiersprache, die mehrere Paradigmen unterst\u00fctzt. Der Linguist Larry Wall entwarf sie 1987 als Synthese aus C, awk, den Unix-Befehlen und anderen Einfl\u00fcssen. Urspr\u00fcnglich als Werkzeug zur Verarbeitung und Manipulation von Textdateien insbesondere bei der System- und Netzwerkadministration vorgesehen (zum Beispiel f\u00fcr die Auswertung von Logdateien), hat Perl auch bei der Entwicklung von Webanwendungen und in der Bioinformatik weite Verbreitung gefunden. Traditionell vertreten ist Perl auch in der Finanzwelt, vor allem bei der Verarbeitung von Datenstr\u00f6men verschiedenartiger Nachrichtenquellen. Hauptziele sind eine schnelle Probleml\u00f6sung und gr\u00f6\u00dftm\u00f6gliche Freiheit f\u00fcr Programmierer. Die Bearbeitung von Texten mit Hilfe regul\u00e4rer Ausdr\u00fccke und ein gro\u00dfer Gestaltungsspielraum sind St\u00e4rken der Sprache.",
+          "Perl adalah bahasa pemrograman untuk segala keperluan, dikembangkan pertama kali oleh Larry Wall di mesin Unix. Perl dirilis pertama kali pada tanggal 18 Desember 1987 ditandai dengan keluarnya Perl 1. Pada versi-versi selanjutnya, Perl tersedia pula untuk berbagai sistem operasi varian Unix (SunOS, Linux, BSD, HP-UX), juga tersedia untuk sistem operasi seperti DOS, Microsoft Windows, PowerPC, , , EBCDIC, dan . Dukungan terhadap pemrograman berbasis objek (object oriented programming/OOP) ditambahkan pada Perl 5, yang pertama kali dirilis pada tanggal 31 Juli 1993. Proyek pengembangan Perl 6 dimulai pada tahun 2000, dan masih berlangsung hingga kini tanpa tanggal yang jelas kapan mau dirilis. Ini dikatakan sendiri oleh Larry Wall dalam satu pidatonya yang dikenal dengan seri . Dua di antara utama Perl adalah penanganan teks dan berbagai jalan pintas untuk menyelesaiakn persoalan-persoalan umum. Tidak heran jika Perl sangat populer digunakan dalam program-program CGI (Common Gateway Interface) dan berbagai protokol Internet lainnya. Seperti diketahui, TCP/IP sebagai basis bagi semua protokol Internet yang dikenal sekarang ini menggunakan format teks dalam komunikasi data. Seperti juga bahasa populer lainnya, Perl menerima banyak kritikan. Meski banyak di antaranya hanya berupa mitos, atau berlebih-lebihan, tetapi terdapat juga sejumlah kritikan yang valid. Salah satunya adalah, sintaksnya susah dibaca, karena banyak menggunakan simbol-simbol yang bukan huruf dan angka.",
+          "Perl\uff08\u30d1\u30fc\u30eb\uff09\u3068\u306f\u3001\u30e9\u30ea\u30fc\u30fb\u30a6\u30a9\u30fc\u30eb\u306b\u3088\u3063\u3066\u958b\u767a\u3055\u308c\u305f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3042\u308b\u3002\u5b9f\u7528\u6027\u3068\u591a\u69d8\u6027\u3092\u91cd\u8996\u3057\u3066\u304a\u308a\u3001C\u8a00\u8a9e\u3084sed\u3001awk\u3001\u30b7\u30a7\u30eb\u30b9\u30af\u30ea\u30d7\u30c8\u306a\u3069\u4ed6\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u512a\u308c\u305f\u6a5f\u80fd\u3092\u53d6\u308a\u5165\u308c\u3066\u3044\u308b\u3002\u30a6\u30a7\u30d6\u30fb\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u3001\u30b7\u30b9\u30c6\u30e0\u7ba1\u7406\u3001\u30c6\u30ad\u30b9\u30c8\u51e6\u7406\u306a\u3069\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u66f8\u304f\u306e\u306b\u5e83\u304f\u7528\u3044\u3089\u308c\u3066\u3044\u308b\u3002 \u8a00\u8a9e\u51e6\u7406\u7cfb\u3068\u3057\u3066\u306eperl\u306f\u30d5\u30ea\u30fc\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3067\u3042\u308b\u3002Artistic License\u304a\u3088\u3073GPL\u306e\u3082\u3068\u3067\u914d\u5e03\u3055\u308c\u3066\u304a\u308a\u3001\u8ab0\u3067\u3082\u3069\u3061\u3089\u304b\u306e\u30e9\u30a4\u30bb\u30f3\u30b9\u3092\u9078\u629e\u3057\u3066\u5229\u7528\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002Linux/UNIX\u3084Windows\u3001macOS\u306a\u3069\u591a\u304f\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u4e0a\u3067\u52d5\u4f5c\u3059\u308b\u3002",
+          "Perl \u00e9s un llenguatge de programaci\u00f3 d'alt nivell, estable, interpretat i multiplataforma dissenyat per Larry Wall. Els programes escrits en Perl s'anomenen scripts de Perl. El llenguatge de programaci\u00f3 Perl fou alliberat al 18 de desembre de 1987 per Larry Wall. Perl est\u00e0 inspirat en els llenguatges awk, C i , entre altres, aix\u00ed com en Shell. Perl est\u00e0 sota la combinaci\u00f3 de la i la GPL. Est\u00e0 disponible en molts sistemes operatius de tipus Unix, com Linux i FreeBSD, i tamb\u00e9 en sistemes operatius de la fam\u00edlia de Microsoft. La seva mascota \u00e9s un camell d'en\u00e7\u00e0 de la publicaci\u00f3 del llibre , que va esdevenir refer\u00e8ncia \u00abde facto\u00bb per al llenguatge, i que t\u00e9 aquest animal dibuixat en la portada.",
+          "Perl is een programmeertaal ontworpen door Larry Wall die eigenschappen van C en UNIX-scripttalen zoals sh en awk in zich verenigt. De naam Perl is geen gewone afkorting, maar een backroniem, dat staat voor Practical Extraction and Report Language.",
+          "Perl \u2014 \u0432\u044b\u0441\u043e\u043a\u043e\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0438\u0440\u0443\u0435\u043c\u044b\u0439 \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043e\u0431\u0449\u0435\u0433\u043e \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u041b\u0430\u0440\u0440\u0438 \u0423\u043e\u043b\u043b\u043e\u043c, \u043b\u0438\u043d\u0433\u0432\u0438\u0441\u0442\u043e\u043c \u043f\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044e. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u0430\u043a Practical Extraction and Report Language (\u00ab\u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u0434\u043b\u044f \u0438\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445 \u0438 \u0441\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0442\u0447\u0451\u0442\u043e\u0432\u00bb), \u0430 \u0432 \u0448\u0443\u0442\u043a\u0443 \u2014 \u043a\u0430\u043a Pathologically Eclectic Rubbish Lister (\u00ab\u043f\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438 \u044d\u043a\u043b\u0435\u043a\u0442\u0438\u0447\u043d\u044b\u0439 \u043f\u0435\u0440\u0435\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c \u043c\u0443\u0441\u043e\u0440\u0430\u00bb); \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a\u0438 \u044f\u0437\u044b\u043a\u0430 \u043d\u0435 \u0441\u0447\u0438\u0442\u0430\u044e\u0442 \u0435\u0433\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0430\u043a\u0440\u043e\u043d\u0438\u043c\u043e\u043c. \u041f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043b\u043e \u0438\u0437 \u043f\u044f\u0442\u0438 \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432 \u0438 \u0432 \u0442\u0430\u043a\u043e\u043c \u0432\u0438\u0434\u0435 \u0432 \u0442\u043e\u0447\u043d\u043e\u0441\u0442\u0438 \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u043b\u043e \u0441 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u043c \u0441\u043b\u043e\u0432\u043e\u043c pearl (\u00ab\u0436\u0435\u043c\u0447\u0443\u0436\u0438\u043d\u0430\u00bb). \u041d\u043e \u0437\u0430\u0442\u0435\u043c \u0441\u0442\u0430\u043b\u043e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0439 \u044f\u0437\u044b\u043a \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 (\u0441\u043c. PEARL), \u0438 \u0431\u0443\u043a\u0432\u0443 \u00aba\u00bb \u0443\u0431\u0440\u0430\u043b\u0438. \u0421\u0438\u043c\u0432\u043e\u043b\u043e\u043c \u044f\u0437\u044b\u043a\u0430 Perl \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432\u0435\u0440\u0431\u043b\u044e\u0434 \u2014 \u043d\u0435 \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043a\u0440\u0430\u0441\u0438\u0432\u043e\u0435, \u043d\u043e \u043e\u0447\u0435\u043d\u044c \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0442\u044f\u0436\u0451\u043b\u0443\u044e \u0440\u0430\u0431\u043e\u0442\u0443. \u041e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e \u044f\u0437\u044b\u043a\u0430 \u0441\u0447\u0438\u0442\u0430\u044e\u0442\u0441\u044f \u0435\u0433\u043e \u0431\u043e\u0433\u0430\u0442\u044b\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u0442\u0435\u043a\u0441\u0442\u043e\u043c, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0440\u0430\u0431\u043e\u0442\u0430 \u0441 \u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u044b\u043c\u0438 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u044f\u043c\u0438, \u0432\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u0430\u044f \u0432 \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441. \u041f\u0435\u0440\u043b \u0443\u043d\u0430\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043b \u043c\u043d\u043e\u0433\u043e \u0441\u0432\u043e\u0439\u0441\u0442\u0432 \u043e\u0442 \u044f\u0437\u044b\u043a\u043e\u0432 \u0421\u0438, AWK, \u0441\u043a\u0440\u0438\u043f\u0442\u043e\u0432\u044b\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u044b\u0445 \u043e\u0431\u043e\u043b\u043e\u0447\u0435\u043a UNIX. Perl \u0437\u043d\u0430\u043c\u0435\u043d\u0438\u0442 \u043e\u0433\u0440\u043e\u043c\u043d\u043e\u0439 \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u0435\u0439 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043c\u043e\u0434\u0443\u043b\u0435\u0439 CPAN (\u043e\u043a\u043e\u043b\u043e 200 000), \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0432\u0430\u044e\u0442 \u0435\u0433\u043e \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438. CPAN \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u043f\u043e \u0430\u0434\u0440\u0435\u0441\u0443 https://www.cpan.org.",
+          "Perl\u662f\u9ad8\u968e\u3001\u901a\u7528\u3001\u76f4\u8b6f\u5f0f\u3001\u52d5\u614b\u7684\u7a0b\u5f0f\u8bed\u8a00\u5bb6\u65cf\u3002\u6700\u521d\u8bbe\u8ba1\u8005\u62c9\u91cc\u00b7\u6c83\u5c14\u70ba\u4e86\u8b93\u5728UNIX\u4e0a\u9032\u884c\u5831\u8868\u8655\u7406\u7684\u5de5\u4f5c\u8b8a\u5f97\u66f4\u65b9\u4fbf\uff0c\u6c7a\u5b9a\u958b\u767c\u4e00\u500b\u901a\u7528\u7684\u8173\u672c\u8a9e\u8a00\uff0c\u800c\u57281987\u5e7412\u670818\u65e5\u767c\u8868\u3002\u76ee\u524d\uff0cPerl\u8bed\u8a00\u5bb6\u65cf\u5305\u542b\u4e24\u4e2a\u5206\u652fPerl 5\u4ee5\u53caPerl 6\u3002\u96d6\u7136Perl\u4e0d\u662f\u6b63\u5f0f\u7684\u9996\u5b57\u6bcd\u7e2e\u7565\u8a5e\uff0c\u4f46\u4ecd\u6709\u5404\u7a2e\u5404\u6a23\u7684\u9006\u5411\u9996\u5b57\u6bcd\u7f29\u7565\u8bcd\uff0c\u5305\u62ec\u201c\u5be6\u7528\u7684\u63d0\u53d6\u548c\u5831\u544a\u8a9e\u8a00\u201d\u3002 Perl\u501f\u7528\u4e86C\u3001sed\u3001awk\u3001shell\u811a\u672c\u3001Lisp\u4ee5\u53ca\u5f88\u591a\u5176\u4ed6\u7a0b\u5f0f\u8a9e\u8a00\u7684\u7279\u6027\u3002\u5176\u4e2d\u6700\u91cd\u8981\u7684\u7279\u6027\u662fPerl\u5185\u90e8\u96c6\u6210\u4e86\u6b63\u5219\u8868\u8fbe\u5f0f\u7684\u529f\u80fd\uff0c\u4ee5\u53ca\u5de8\u5927\u7684\u7b2c\u4e09\u65b9\u4ee3\u7801\u5e93CPAN\u3002 2000\u5e74\u5f00\u59cb\uff0c\u62c9\u91cc\u00b7\u6c83\u5c14\u8457\u624b\u958b\u767cPerl 6\u4f86\u4f5c\u70baPerl\u7684\u5f8c\u7e7c\uff0cPerl 6\u8a9e\u8a00\u7684\u8a9e\u6cd5\u6709\u5f88\u591a\u8f49\u8b8a\uff0c\u4e5f\u88ab\u8996\u70baPerl\u5bb6\u65cf\u4e2d\u7684\u53e6\u4e00\u500b\u8a9e\u8a00\uff08Perl 6\u65bc2019\u5e74\u66f4\u540d\u70baRaku\uff09\u3002 Perl\u8bed\u8a00\u5e94\u7528\u5e7f\u6cdb\uff0c\u6db5\u76d6CGI\u3001\u56fe\u5f62\u7f16\u7a0b\u3001\u7cfb\u7edf\u7ba1\u7406\u3001\u7f51\u7edc\u7f16\u7a0b\u3001\u91d1\u878d\u3001\u751f\u7269\u7b49\u9886\u57df\u3002\u7531\u4e8e\u5176\u7075\u6d3b\u6027\uff0cPerl\u88ab\u79f0\u4e3a\u811a\u672c\u8bed\u8a00\u4e2d\u7684\u745e\u58eb\u519b\u5200\u3002 \u9274\u4e8ePerl\u5728\u5b9e\u9645\u5de5\u7a0b\u5e94\u7528\u4e2d\u5e7f\u6cdb\u4f7f\u7528\uff0cMacOS\uff0cLinux\uff0cFreeBSD\u7b49\u73b0\u4ee3\u5316\u64cd\u4f5c\u7cfb\u7edfPerl\u3002",
+          "Perl est un langage de programmation cr\u00e9\u00e9 par Larry Wall en 1987 pour traiter facilement de l'information de type textuel. Ce langage, interpr\u00e9t\u00e9, s'inspire des structures de contr\u00f4le et d'impression du langage C, mais aussi de langages de scripts sed, awk et shell (sh). Il prend en charge les expressions r\u00e9guli\u00e8res dans sa syntaxe m\u00eame, permettant ainsi directement des actions sur l'aspect g\u00e9n\u00e9ral de s\u00e9quences de texte. Une association, The Perl Foundation, s'occupe de son devenir, et entre autres de son \u00e9ventuel passage de la version 5.x \u00e0 la version 7 \u2014 la version 6 initialement envisag\u00e9e comme le successeur de Perl 5 ayant diverg\u00e9 au point de devenir un langage \u00e0 part enti\u00e8re nomm\u00e9 Raku. Le statut du langage est celui de logiciel libre, distribu\u00e9 sous double licence : Artistic License et GPL.",
+          "Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages. \"Perl\" refers to Perl 5, but from 2000 to 2019 it also referred to its redesigned \"sister language\", Perl 6, before the latter's name was officially changed to Raku in October 2019. Though Perl is not officially an acronym, there are various backronyms in use, including \"Practical Extraction and Reporting Language\". Perl was developed by Larry Wall in 1987 as a general-purpose Unix scripting language to make report processing easier. Since then, it has undergone many changes and revisions. Raku, which began as a redesign of Perl 5 in 2000, eventually evolved into a separate language. Both languages continue to be developed independently by different development teams and liberally borrow ideas from each other. The Perl languages borrow features from other programming languages including C, sh, AWK, and sed; They provide text processing facilities without the arbitrary data-length limits of many contemporary Unix command line tools. Perl 5 gained widespread popularity in the late 1990s as a CGI scripting language, in part due to its powerful regular expression and string parsing abilities. In addition to CGI, Perl 5 is used for system administration, network programming, finance, bioinformatics, and other applications, such as for GUIs. It has been nicknamed \"the Swiss Army chainsaw of scripting languages\" because of its flexibility and power, and also what some consider ugliness due to its utilization of more special characters than many other languages. In 1998, it was also referred to as the \"duct tape that holds the Internet together,\" in reference to both its ubiquitous use as a glue language and its perceived inelegance. Perl is a highly expressive programming language: source code for a given algorithm can be short and highly compressible.",
+          "Perl \u2013 interpretowany, dynamiczny j\u0119zyk programowania wysokiego poziomu autorstwa Larry\u2019ego Walla pocz\u0105tkowo przeznaczony g\u0142\u00f3wnie do pracy z danymi tekstowymi, obecnie u\u017cywany do wielu innych zastosowa\u0144. Wzorowany na takich j\u0119zykach jak C, skryptowe: sed, awk i sh i inne.",
+          "Perl sortutako programazio lengoaia dinamikoa da, 1987an argitaratutakoa. Beste programazio lengoaia batzuen ezaugarriak bateratzen ditu, hala nola, C, , , eta Lisp. Testu fitxategiak aztertu eta manipulatzeko bereziki sorturiko programazio-lengoaia da Perl, egokia beraz egokirik bada hizkuntzarekin erlazionatutako atazetarako. Fitxategiak lerroz-lerro irakurtzeko gai da eta karaktereak eta hitzak bezalako terminoak maneiatzen ditu. Adierazpen erregularren bitartez testuetan bilaketak eta aldaketak egiteko izugarrizko tresneria eskaintzen du. Perl software-librea da eta doakoa. Konputagailu eta sistema eragile guztientzat aurki daiteke doako Perl inplementazioa. Perl lankidetzan oinarritua dago. CPAN software artxibategiak Perl komunitateak idatzitako programak biltzen ditu, eta doan jaitsi eta erabil ditzakegu. Haietako asko testuak prozesatu eta manipulatzeko gehigarriak (moduluak) dira. Perl lengoaiaren sortzailea den Larry Wall hizkuntzalariarenak dira aipu hauek:\u201cPerl egin behar duzun hori egiteko lengoaia da\u201d, \u201cErrazak diren gauzak errazak izan behar lukete, eta zailak berriz posible\u201d,\u201cGauza bera egiteko modu bat baino gehiago dago\u201d",
+          "Perl es un lenguaje de programaci\u00f3n dise\u00f1ado por Larry Wall en 1987. Perl toma caracter\u00edsticas del lenguaje C, del lenguaje interpretado bourne shell (sh), AWK, sed, Lisp y, en un grado inferior, de muchos otros lenguajes de programaci\u00f3n. Estructuralmente, Perl est\u00e1 basado en un estilo de bloques como los del C o AWK, y fue ampliamente adoptado por su destreza en el procesado de texto y no tener ninguna de las limitaciones de los otros lenguajes de script.",
+          "Perl (\u043d\u0435\u043e\u0444\u0456\u0446\u0456\u0439\u043d\u0430 \u0440\u043e\u0437\u0448\u0438\u0444\u0440\u043e\u0432\u043a\u0430 \u0430\u043d\u0433\u043b. Practical Extraction and Reporting Language \u2014 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u0432\u0438\u0442\u044f\u0433\u0456\u0432 \u0442\u0430 \u0437\u0432\u0456\u0442\u0456\u0432) \u2014 \u0432\u0438\u0441\u043e\u043a\u043e\u0440\u0456\u0432\u043d\u0435\u0432\u0430, \u0456\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u043e\u0432\u0430\u043d\u0430, \u0434\u0438\u043d\u0430\u043c\u0456\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0437\u0430\u0433\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f. Perl \u0431\u0443\u043b\u043e \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u043e \u0443 1987 \u0440\u043e\u0446\u0456 \u041b\u0430\u0440\u0456 \u0412\u043e\u043b\u043b\u043e\u043c, \u043b\u0456\u043d\u0433\u0432\u0456\u0441\u0442\u043e\u043c \u0456 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456\u0441\u0442\u043e\u043c \u0437\u0430 \u043e\u0441\u0432\u0456\u0442\u043e\u044e, \u044f\u043a\u0438\u0439 \u0443 \u0442\u043e\u0439 \u0447\u0430\u0441 \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u0438\u043c \u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u043e\u0440\u043e\u043c \u0443 NASA, \u044f\u043a \u0441\u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430 \u043c\u043e\u0432\u0430 \u0434\u043b\u044f Unix, \u043c\u0435\u0442\u043e\u044e \u044f\u043a\u043e\u0457 \u0431\u0443\u043b\u043e \u043f\u043e\u043b\u0435\u0433\u0448\u0438\u0442\u0438 \u043f\u0440\u043e\u0446\u0435\u0441 \u043e\u0431\u0440\u043e\u0431\u043a\u0438 \u0442\u0435\u043a\u0441\u0442\u0456\u0432 \u0444\u0430\u0439\u043b\u0456\u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0456\u0432. \u0417 \u0442\u043e\u0433\u043e \u0447\u0430\u0441\u0443 \u0434\u043e \u043c\u043e\u0432\u0438 \u0431\u0443\u043b\u043e \u0432\u043d\u0435\u0441\u0435\u043d\u043e \u0431\u0430\u0433\u0430\u0442\u043e \u0437\u043c\u0456\u043d, \u0456 \u0437\u0434\u0456\u0439\u0441\u043d\u0435\u043d\u043e \u043f\u0435\u0440\u0435\u0433\u043b\u044f\u0434 \u0457\u0457 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0456\u0457 \u0442\u0430 \u0430\u0440\u0445\u0456\u0442\u0435\u043a\u0442\u0443\u0440\u0438, \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0456 \u0447\u043e\u0433\u043e \u0432\u043e\u043d\u0430 \u0441\u0442\u0430\u043b\u0430 \u0434\u0443\u0436\u0435 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u044e \u0441\u0435\u0440\u0435\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0456\u0441\u0442\u0456\u0432. \u041b\u0430\u0440\u0456 \u0412\u043e\u043b\u043b \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0443\u0454 \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438 \u043d\u0430\u0434 \u044f\u0434\u0440\u043e\u043c \u043c\u043e\u0432\u0438, \u0456 \u043d\u0430\u0440\u0430\u0437\u0456 \u043e\u0447\u0456\u043a\u0443\u0454\u0442\u044c\u0441\u044f \u0432\u0438\u0445\u0456\u0434 \u043d\u043e\u0432\u043e\u0457 \u0432\u0435\u0440\u0441\u0456\u0457, Perl 6. Perl \u0437\u0430\u043f\u043e\u0437\u0438\u0447\u0443\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u0456 \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0456\u043d\u0448\u0438\u0445 \u043c\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f, \u044f\u043a \u0442\u043e C, shell scripting, AWK \u0442\u0430 sed. \u041c\u043e\u0432\u0430 \u043d\u0430\u0434\u0430\u0454 \u043f\u043e\u0442\u0443\u0436\u043d\u0456 \u043c\u043e\u0436\u043b\u0438\u0432\u043e\u0441\u0442\u0456 \u0434\u043b\u044f \u043e\u0431\u0440\u043e\u0431\u043a\u0438 \u0442\u0435\u043a\u0441\u0442\u0443 \u0431\u0435\u0437 \u0434\u043e\u0432\u0456\u043b\u044c\u043d\u0438\u0445 \u043e\u0431\u043c\u0435\u0436\u0435\u043d\u044c \u043d\u0430 \u0434\u043e\u0432\u0436\u0438\u043d\u0443 \u0434\u0430\u043d\u0438\u0445 \u0431\u0430\u0433\u0430\u0442\u044c\u043e\u0445 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0445 \u0456\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0456\u0432 Unix. \u043f\u043e\u043b\u0435\u0433\u0448\u0443\u0454 \u043c\u0430\u043d\u0456\u043f\u0443\u043b\u044f\u0446\u0456\u0457 \u0437 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0438\u043c\u0438 \u0444\u0430\u0439\u043b\u0430\u043c\u0438. \u0417\u0430\u0441\u0442\u043e\u0441\u043e\u0432\u0443\u0454\u0442\u044c\u0441\u044f \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u0433\u0440\u0430\u0444\u0456\u043a\u0438, \u0441\u0438\u0441\u0442\u0435\u043c\u043d\u043e\u0433\u043e \u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0443\u0432\u0430\u043d\u043d\u044f, \u0443 \u043c\u0435\u0440\u0435\u0436\u043d\u043e\u043c\u0443 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u0456, \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043d\u043e\u0433\u043e \u0437\u0430\u0431\u0435\u0437\u043f\u0435\u0447\u0435\u043d\u043d\u044f, \u044f\u043a\u0435 \u0432\u0437\u0430\u0454\u043c\u043e\u0434\u0456\u0454 \u0437 \u0431\u0430\u0437\u0430\u043c\u0438 \u0434\u0430\u043d\u0438\u0445, \u0443 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u0456 CGI \u0434\u043b\u044f \u0432\u0435\u0431. Perl \u0437\u0430 \u0441\u0432\u043e\u044e \u0433\u043d\u0443\u0447\u043a\u0456\u0441\u0442\u044c \u0456 \u043f\u043e\u0442\u0443\u0436\u043d\u0456\u0441\u0442\u044c \u043e\u0442\u0440\u0438\u043c\u0430\u0432 \u043f\u0440\u0456\u0437\u0432\u0438\u0441\u044c\u043a\u043e \u00ab\u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u044c\u043a\u043e\u0433\u043e \u0430\u0440\u043c\u0456\u0439\u0441\u044c\u043a\u043e\u0433\u043e \u043d\u043e\u0436\u0430 \u043c\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f\u00bb.",
+          "Perl estas komputila programlingvo kreita de en 1987 kiu prenas propra\u0135ojn de C, sed, , \u015dela skriptado (sh) kaj malpli de multaj aliaj komputillingvoj. Kvankam la nomo povas esti legita kiel akronimo la\u016d pli ol unu maniero ('Praktika elprena kaj resuma lingvo' estas unu), estas normale literumita en miksita majuskleco, kiam temas pri la lingvo, kaj minuskle, kiam temas pri la interpretilo. \"Nur perl \u011duste traktas Perl-on.\"",
+          "Perl (v\u00fdslovnost [purl] \u010di [p\u025c\u02d0l]IPA) je interpretovan\u00fd programovac\u00ed jazyk vytvo\u0159en\u00fd Larry Wallem v roce 1987. S rozvojem internetu se Perl stal velmi popul\u00e1rn\u00edm n\u00e1strojem pro tvorbu CGI skript\u016f. Perl zah\u00e1jil svou \u00e9ru jako skriptovac\u00ed jazyk, n\u00e1hrada jazyka AWK a interpretru sh. Nejv\u011bt\u0161\u00edho roz\u0161\u00ed\u0159en\u00ed dos\u00e1hl ve verzi 4 z roku 1991.Verze 5 p\u0159inesla \u010detn\u00e1 vylep\u0161en\u00ed, p\u0159edev\u0161\u00edm v\u00fdkonn\u00e9 datov\u00e9 struktury a mo\u017enost objektov\u00e9ho programov\u00e1n\u00ed. V posledn\u00ed dob\u011b z\u00edskal Perl oblibu mimo jin\u00e9 v bioinformatice. PC Magazine za\u0159adil Perl v roce 1998 mezi finalisty sout\u011b\u017ee Technical Excellence Award v kategorii Development Tool. Slovo Perl najdete v Oxford English Dictionary. Larry Wall se p\u0159i konstrukci jazyka \u0159\u00eddil heslem \u201ed\u00e1 se to ud\u011blat v\u00edce zp\u016fsoby\u201c (anglicky there's more than one way to do it). Umo\u017e\u0148uje ps\u00e1t kr\u00e1tk\u00e9 programy jednodu\u0161e a rychle a p\u0159itom nebr\u00e1n\u00ed v psan\u00ed t\u011bch slo\u017eit\u00fdch. Jeden ze zp\u016fsob\u016f je p\u0159itom obvykle velmi stru\u010dn\u00fd, tak\u017ee Perl z\u00edskal nezaslou\u017eenou pov\u011bst jazyka, ve kter\u00e9m se tvo\u0159\u00ed nesrozumiteln\u00fd a neudr\u017eovateln\u00fd k\u00f3d. Tato kritika ale nen\u00ed opr\u00e1vn\u011bn\u00e1, Perl je vhodn\u00fd k \u0159e\u0161en\u00ed mal\u00fdch i velk\u00fdch probl\u00e9m\u016f. Schopnosti a n\u00e1stroje, kter\u00e9 se pou\u017e\u00edvaj\u00ed u velk\u00fdch projekt\u016f, lze pou\u017e\u00edt i v kr\u00e1tk\u00fdch skriptech. Dobr\u00fd program\u00e1tor m\u00e1 podle Larryho Walla b\u00fdt l\u00edn\u00fd, netrp\u011bliv\u00fd a sebev\u011bdom\u00fd (Laziness, Impatience and Hubris).",
+          "Perl \u00e9 uma fam\u00edlia de duas linguagens de programa\u00e7\u00e3o multiplataforma, Perl 5 e Perl 6. Originalmente, Perl foi desenvolvida por Larry Wall em 1987; desde ent\u00e3o, a linguagem passou por muitas atualiza\u00e7\u00f5es e revis\u00f5es at\u00e9 chegar \u00e0 vers\u00e3o Perl 5 em 1994. Perl 6, desenvolvido a partir do Perl 5 em 2000, eventualmente evoluiu para uma linguagem distinta. Ambas as linguagens continuam a ser desenvolvidas independentemente por equipes diferentes. Perl \u00e9 usada em aplica\u00e7\u00f5es de CGI para a web, para administra\u00e7\u00e3o de sistemas linux e por v\u00e1rias aplica\u00e7\u00f5es que necessitam de facilidade de manipula\u00e7\u00e3o de strings. Permite a cria\u00e7\u00e3o de programas em ambientes UNIX, MSDOS, Windows, Macintosh, OS/2 e outros sistemas operacionais. Al\u00e9m de ser muito utilizada para programa\u00e7\u00e3o de formul\u00e1rios www e em tarefas administrativas de sistemas UNIX - onde a linguagem nasceu e se desenvolveu -, possui fun\u00e7\u00f5es muito eficientes para manipula\u00e7\u00e3o de textos. Seu slogan \"There's more than one way to do it\" (Existe mais de uma maneira de fazer isso) demonstra exatamente o prop\u00f3sito da linguagem: sua flexibilidade e capacidade de fazer c\u00f3digos funcionais.",
+          "Is teanga r\u00edomhchl\u00e1r\u00fach\u00e1in \u00ed Perl a chruthaigh sna 1980\u00ed. Baintear \u00fas\u00e1id as Perl go forleathan ar an nGr\u00e9as\u00e1n Domhanda i , i b, agus i m. Ritheann r\u00edomhchl\u00e1ir Perl ar ard\u00e1in Windows, Mac OS, agus Linux. Glacann Perl gn\u00e9ithe \u00f3 go leor teangacha eile: C, , , sed, agus Lisp san \u00e1ireamh.",
+          "\u0397 Perl \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03af\u03b1 \u03c0\u03bf\u03bb\u03cd \u03b4\u03b7\u03bc\u03bf\u03c6\u03b9\u03bb\u03ae\u03c2 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b5\u03b9\u03bc\u03b5\u03bd\u03bf\u03c3\u03c4\u03c1\u03b5\u03c6\u03ae\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd. \u03a3\u03c5\u03bd\u03ae\u03b8\u03c9\u03c2 \u03ad\u03bd\u03b1 \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c3\u03b5 Perl \u03b5\u03ba\u03c4\u03b5\u03bb\u03b5\u03af\u03c4\u03b1\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ce\u03bd\u03c4\u03b1\u03c2 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03ae \u03ad\u03bc\u03bc\u03b5\u03c3\u03b1 \u03c4\u03bf \u03b4\u03b9\u03b5\u03c1\u03bc\u03b7\u03bd\u03ad\u03b1 \u03c4\u03b7\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2. \u0391\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03b4\u03b9\u03b1\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd Perl \u03b1\u03c0\u03cc \u03c0\u03bf\u03bb\u03bb\u0301\u03b5\u03c2 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b5\u03c2 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03cc\u03c4\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b7 \u03b3\u03b9\u03b1 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b9\u03ba\u03ac \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1. \u0397 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1 \u03c3\u03c7\u03b5\u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03b1\u03b9 \u03bf \u03c0\u03b7\u03b3\u03b1\u03af\u03bf\u03c2 \u03ba\u03ce\u03b4\u03b9\u03ba\u03ac\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c4\u03af\u03b8\u03b5\u03c4\u03b1\u03b9 \u03b2\u03ac\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03b4\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03bf\u03b9\u03ba\u03c4\u03bf\u03cd \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1 GPL. \u0397 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03c2 \u03b5\u03bc\u03c6\u03b1\u03bd\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c4\u03bf 1987 \u03b5\u03bd\u03ce \u03c3\u03c4\u03b9\u03c2 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03c4\u03bf\u03c5 2017, 30 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2, \u03b7 \u03c0\u03b9\u03bf \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b7 \u03ad\u03ba\u03b4\u03bf\u03c3\u03ae \u03c4\u03b7\u03c2 \u03ae\u03c4\u03b1\u03bd \u03b7 5.24.0.",
+          "Perl \u00e4r ett skriptspr\u00e5k skapat av Larry Wall 1987. D\u00e5 Wall \u00e4r utbildad lingvist har Perl, liksom naturliga spr\u00e5k, mindre inriktning p\u00e5 struktur och mer p\u00e5 flexibilitet. Perls motto \u00e4r Det finns mer \u00e4n ett s\u00e4tt att g\u00f6ra det p\u00e5 (eng.: \"There's more than one way to do it\", eller TIMTOWTDI; uttalas 'Tim Toady'). Som exempel har Perl syntaxst\u00f6d f\u00f6r att implementera program procedurellt, objektorienterat och till och med visst st\u00f6d f\u00f6r funktionell programmering. Perl \u00e4r ett generellt spr\u00e5k och kan anv\u00e4ndas till det mesta, men det har vunnit sin st\u00f6rsta popularitet f\u00f6r CGI-utveckling och . En av Perls viktigaste egenskaper \u00e4r den integration regulj\u00e4ra uttryck har i spr\u00e5ket. Till skillnad fr\u00e5n andra spr\u00e5k, d\u00e4r regulj\u00e4ra uttryck normalt implementeras med hj\u00e4lp av funktioner och klasser man kan anv\u00e4nda sig av, \u00e4r \"regex\" direkt tillg\u00e4ngligt f\u00f6r programmeraren som en del av spr\u00e5kets syntax. Perl \u00e4r fri mjukvara och distribueras under antingen GNU General Public License eller . Det finns tillg\u00e4ngligt f\u00f6r de flesta plattformar och operativsystem; bland annat GNU/Linux, FreeBSD, Mac OS X och Microsoft Windows. Perl har ett stort arkiv med till\u00e4ggsbibliotek (moduler) kallat CPAN, d\u00e4r utvecklare kan f\u00e5 tag p\u00e5 f\u00e4rdigskriven kod f\u00f6r m\u00e5nga vanliga sysslor.",
+          "\u0628\u064a\u0631\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Perl)\u200f (\u0627\u062e\u062a\u0635\u0627\u0631 \u0644\u0639\u0628\u0627\u0631\u0629 Practical Extracting and Reporting Language) \u0647\u064a \u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629 \u0645\u062a\u0639\u062f\u062f\u0629 \u0627\u0644\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u062e\u0627\u0635\u0629 \u0628\u0627\u0644\u062a\u0631\u0633\u064a\u0645\u0627\u062a\u060c \u0647\u0630\u0647 \u0627\u0644\u0644\u063a\u0629 \u0638\u0647\u0631\u062a \u0633\u0646\u0629 1987 \u0639\u0644\u0649 \u064a\u062f \u0644\u0627\u0631\u064a \u0648\u0648\u0644.\u0628\u064a\u0631\u0644 \u0644\u063a\u0629 \u0645\u0641\u062a\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631\u060c \u0645\u0631\u062a\u0628\u0637\u0629 \u0623\u0633\u0627\u0633\u0627 \u0628\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0645\u0631\u0633\u0644\u0629 \u0628\u0648\u0627\u0633\u0637\u0629 . \u0643\u0627\u0646 \u0627\u0644\u06be\u062f\u0641 \u0645\u0646\u06be\u0627 \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0646\u0635\u0648\u0635 \u0641\u064a \u0646\u0638\u0627\u0645 \u064a\u0648\u0646\u0643\u0633 \u062d\u06cc\u062b \u06be\u0646\u0627\u0643 \u0645\u0633\u0627\u0626\u0644 \u0645\u0646 \u0627\u0644\u0635\u0639\u0628 \u062d\u0644\u06be\u0627 \u0628\u0627\u0644\u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u0645\u0633\u062a\u0639\u0645\u0644\u0629 \u062d\u06cc\u0646\u06be\u0627. \u0623\u0645\u0627 \u0627\u0644\u0622\u0646 \u0641\u0642\u062f \u062a\u0648\u0633\u0639 \u0627\u0633\u062a\u0639\u0645\u0627\u0644\u06be\u0627 \u0644\u062a\u0635\u0628\u062d \u0627\u0644\u0623\u0643\u062b\u0631 \u0637\u0644\u0628\u0627 \u0644\u0623\u062a\u0645\u062a\u0629. \u0639\u0627\u062f\u0629 \u0645\u0627 \u0646\u0645\u06cc\u0644 \u0625\u0644\u0649 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u062f\u0648\u0627\u062a \u0627\u0646\u062a\u0634\u0627\u0631\u0627\u060c \u0648\u0628\u0645\u0627 \u0623\u0646 \u0627\u0644\u0628\u06cc\u0631\u0644 \u0645\u062a\u0639\u062f\u062f \u0627\u0644\u0627\u0633\u062a\u0639\u0645\u0627\u0644\u0627\u062a\u060c \u0628\u0643\u0644 \u062a\u0623\u0643\u06cc\u062f \u0641\u06be\u0648 \u0644\u06cc\u0633 \u0645\u0646 \u0623\u062c\u0644 \u0643\u0644 \u0627\u0644\u0623\u0639\u0645\u0627\u0644. \u0644\u0630\u0644\u0643 \u0633\u0646\u0631\u0649 \u0623\u0628\u0631\u0632 \u0646\u0642\u0627\u0637 \u0627\u0644\u0642\u0648\u0629 \u0627\u0644\u062a\u064a \u0645\u0646 \u0623\u062c\u0644\u06be\u0627 \u0643\u0627\u0646\u062a \u06be\u0630\u0647 \u0627\u0644\u0644\u063a\u0629 \u0645\u062a\u0646\u0641\u0633 \u0627\u0644\u0643\u062b\u06cc\u0631 \u0645\u0646 \u0627\u0644\u0645\u0628\u0631\u0645\u062c\u06cc\u0646",
+          "( \ub2e4\ub978 \ub73b\uc5d0 \ub300\ud574\uc11c\ub294 \ud384 (\ub3d9\uc74c\uc774\uc758) \ubb38\uc11c\ub97c \ucc38\uace0\ud558\uc2ed\uc2dc\uc624.) \ud384(\uc601\uc5b4: Perl)\uc740 \ub798\ub9ac \uc6d4\uc774 \ub9cc\ub4e0 \uc778\ud130\ud504\ub9ac\ud130 \ubc29\uc2dd\uc758 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4 \ud639\uc740 \uadf8 \uc778\ud130\ud504\ub9ac\ud130 \uc18c\ud504\ud2b8\uc6e8\uc5b4\ub97c \uac00\ub9ac\ud0a8\ub2e4. \ud384\uc740 \uace0\uae09 \uc5b8\uc5b4, \ubc94\uc6a9 \uc5b8\uc5b4, \uc778\ud130\ud504\ub9ac\ud130 \uc5b8\uc5b4, \ub3d9\uc801 \uc5b8\uc5b4 \ubc94\uc8fc\uc5d0 \uc18d\ud55c\ub2e4. \ud384\uc740 \uc77c\ubc18\uc801\uc73c\ub85c \ud384 5\ub85c \ubd80\ub974\uc9c0\ub9cc 2000\ub144\ubd80\ud130 2019\ub144\uae4c\uc9c0 \uc790\ub9e4 \uc5b8\uc5b4 \ud384 6\uc73c\ub85c \ubd88\ub9ac\ub2e4\uac00 2019\ub144 10\uc6d4 \ub4e4\uc5b4 \ud384 6\ub77c\ub294 \uc774\ub984\uc740 \ub77c\ucfe0\ub77c\ub294 \uc774\ub984\uc73c\ub85c \uacf5\uc2dd\uc801\uc73c\ub85c \ubcc0\uacbd\ub418\uc5c8\ub2e4. \ub798\ub9ac \uc6d4\uc774 1987\ub144 \ud384\uc744 \ucc98\uc74c \ub9cc\ub4e0 \ud6c4, \ud384\uc740 \ub9ce\uc740 \ubcc0\ud654\ub97c \uacaa\uc5c8\ub2e4. \ud384 6\uc740 2000\ub144\ubd80\ud130 \ud384\uc744 \ub2e4\uc2dc \uc124\uacc4\ud558\uba74\uc11c \uac1c\ubc1c\ub418\uae30 \uc2dc\uc791\ud588\uace0, \ud384 5\uc640\ub294 \ub3c5\ub9bd\uc801\uc73c\ub85c \uac1c\ubc1c\ub418\uc5c8\uace0 \uc11c\ub85c \uc601\ud5a5\uc744 \ubbf8\ucce4\ub2e4. \ud384 \uc5b8\uc5b4\ub294 \uc2e4\uc6a9\uc131\uc744 \ubaa8\ud1a0\ub85c \ud558\uace0 \uc788\uc5b4 C\ub098 sed, AWK, \uc178 \uc2a4\ud06c\ub9bd\ud2b8 (sh) \ub4f1 \ub2e4\ub978 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\uc5d0\uc11c \ub6f0\uc5b4\ub09c \uae30\ub2a5\uc744 \ub9ce\uc774 \ub3c4\uc785\ud558\uc5ec \uc0ac\uc6a9\ud558\uace0 \uc788\ub2e4. \ub3d9\uc2dc\ub300\uc758 \uc720\ub2c9\uc2a4 \uba85\ub839 \ub3c4\uad6c\ub4e4\uc774 \uc9c0\ub2cc \ubd88\ud2b9\uc815\ud55c \ub370\uc774\ud130 \uae38\uc774\uc758 \uc81c\uc57d \uc5c6\uc774 \uac15\ub825\ud55c \ubb38\uc790\uc5f4 \ucc98\ub9ac \uae30\ub2a5\uc744 \uc81c\uacf5\ud558\uba70 \uc774\ub97c \ud1b5\ud574 \ud14d\uc2a4\ud2b8 \ud30c\uc77c\uc758 \uc870\uc791\uc744 \uc6a9\uc774\ud558\uac8c \ub9cc\ub4e4\uc5b4 \uc900\ub2e4. \ud384 5\ub294 \ubd80\ubd84\uc801\uc778 \uc774\uc720\ub85c\ub294 \ud0c0\uc758 \ucd94\uc885\uc744 \ubd88\ud5c8\ud558\ub294 \uc815\uaddc \ud45c\ud604\uc2dd, \ubb38\uc790\uc5f4 \uad6c\ubb38 \ubd84\uc11d \uae30\ub2a5 \ub355\ubd84\uc5d0 1990\ub144\ub300 \ub9d0 \ub4e4\uc5b4 \uc778\uae30\ub97c \ub04c\uae30 \uc2dc\uc791\ud588\ub2e4. CGI\ubfd0 \uc544\ub2c8\ub77c \ud384 5\ub294 \uadf8\ub798\ud53d\uc2a4 \ud504\ub85c\uadf8\ub798\ubc0d, \uc2dc\uc2a4\ud15c \uad00\ub9ac, \ub124\ud2b8\uc6cc\ud06c \ud504\ub85c\uadf8\ub798\ubc0d, \uae08\uc735, \uc0dd\ubb3c\uc815\ubcf4\ud559 \ub4f1\uc5d0\ub3c4 \uc0ac\uc6a9\ub41c\ub2e4. \uc5b8\uc5b4\uc758 \uc720\uc5f0\uc131\uacfc \uac15\ub825\ud568\uc73c\ub85c \uc778\ud574 \"\uc2a4\ud06c\ub9bd\ud2b8 \uc5b8\uc5b4\ub4e4 \uc911\uc758 \uc2a4\uc704\uc2a4 \uad70\uc6a9 \uc0ac\uc2ac\ud1b1\"(the Swiss Army chainsaw of scripting languages)\uc774\ub77c\ub294 \ubcc4\uba85\uc744 \uc5bb\uc5c8\ub2e4. \uc778\ud130\ud504\ub9ac\ud130 \ud384\uc740 \uc790\uc720 \uc18c\ud504\ud2b8\uc6e8\uc5b4\uc774\uba70, \uc544\ud2f0\uc2a4\ud2f1 \ub77c\uc774\uc120\uc2a4 \ub610\ub294 GPL\uc73c\ub85c \ubc30\ud3ec\ub418\uace0 \uc788\uc5b4 \uc0ac\uc6a9\uc790\ub294 \ub458 \uac00\uc6b4\ub370 \ud558\ub098\uc758 \ub77c\uc774\uc120\uc2a4\ub97c \uace8\ub77c \uc4f8 \uc218 \uc788\ub2e4. \uc720\ub2c9\uc2a4\ub97c \ube44\ub86f\ud574 \ub2e4\uc591\ud55c \ud50c\ub7ab\ud3fc\uc5d0\uc11c \ub3d9\uc791\ud55c\ub2e4. \ud384\uc740 \ub9e4\uc6b0 \ud45c\ud604 \ub2a5\ub825\uc774 \uc88b\uc740 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\uc774\uae30 \ub54c\ubb38\uc5d0 \uc8fc\uc5b4\uc9c4 \uc54c\uace0\ub9ac\uc998\uc758 \uc18c\uc2a4 \ucf54\ub4dc\ub294 \uc9e7\uc73c\uba74\uc11c\ub3c4 \ub9e4\uc6b0 \uc555\ucd95\uc801\uc73c\ub85c \uc791\uc131\ud560 \uc218 \uc788\ub2e4."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/fileExt",
+        "Values": [
+          ".plx, .pl, .pm, .xs, .t, .pod, .cgi"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/latestPreviewVersion",
+        "Values": [
+          "2022-11-21"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Family"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wordnet_type",
+        "Values": [
+          "http://www.w3.org/2006/03/wn/wn20/instances/synset-programming_language-noun-1"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Perl?oldid=1123080881&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "108699"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/latestReleaseVersion",
+        "Values": [
+          "5.34.1 /",
+          "5.36.0 /"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/releaseDate",
+        "Values": [
+          "1987-12-18"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/designer",
+        "Values": [
+          "http://dbpedia.org/resource/Larry_Wall"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/developer",
+        "Values": [
+          "http://dbpedia.org/resource/Larry_Wall"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influenced",
+        "Values": [
+          "http://dbpedia.org/resource/JavaScript",
+          "http://dbpedia.org/resource/PowerShell",
+          "http://dbpedia.org/resource/LPC_(programming_language)",
+          "http://dbpedia.org/resource/Raku_(programming_language)",
+          "http://dbpedia.org/resource/Python_(programming_language)",
+          "http://dbpedia.org/resource/CoffeeScript",
+          "http://dbpedia.org/resource/Groovy_(programming_language)",
+          "http://dbpedia.org/resource/PHP",
+          "http://dbpedia.org/resource/Ruby_(programming_language)",
+          "http://dbpedia.org/resource/Julia_(programming_language)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/Unix_shell",
+          "http://dbpedia.org/resource/BASIC",
+          "http://dbpedia.org/resource/AWK_(programming_language)",
+          "http://dbpedia.org/resource/Lisp_(programming_language)",
+          "http://dbpedia.org/resource/C++",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/Sed"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/license",
+        "Values": [
+          "http://dbpedia.org/resource/Artistic_License",
+          "http://dbpedia.org/resource/GNU_General_Public_License"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Perl"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q1391724",
+    "Properties": [
+      {
+        "Property": "http://www.wikidata.org/prop/AUR package",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-12b28871-ff72-4ec1-8e22-22abf63ae719",
+          "http://www.wikidata.org/entity/statement/Q1391724-bfd59a0d-cb25-41b8-8c16-303e1c43fac4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-69AB8F3A-08BE-4F71-B174-123AB7396B8B"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Repology project name",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-372c6a7a-4b4c-30d0-005f-953d7932f3ae"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/typing discipline",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-06ea9f94-7e8f-4df2-90d5-832ed05ac708",
+          "http://www.wikidata.org/entity/statement/Q1391724-a29aa5de-e023-44bb-ab9b-28b0af881f77"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/OpenAlex ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-C72814AD-DCA5-4358-892E-E1AFAA4633E5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Chocolatey Community package ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-cd8cc117-e610-4a05-9d2a-fb12581f8c85"
+        ]
+      },
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "2037013686"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-12-26T00:57:22Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "programmeringssprog",
+          "linguagem de programa\u00e7\u00e3o imperd\u00edvel para este endere\u00e7o eletr\u00f4nico acima",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "programming language",
+          "\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u0646\u0648\u06cc\u0633\u06cc",
+          "Programmiersprache",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "langage de programmation informatique",
+          "ohjelmointikieli",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\ud329\ud130",
+          "\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc \u0641\u06a9\u062a\u0648\u0631",
+          "Factor\u8bed\u8a00",
+          "\u0641\u0627\u0643\u062a\u0648\u0631",
+          "Lenguaje Factor",
+          "Factor (\u7a0b\u5f0f\u8a9e\u8a00)",
+          "Factor (\u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f)",
+          "Factor\u8a9e\u8a00",
+          "Factor"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "\u0641\u06a9\u062a\u0648\u0631",
+          "\u0424\u0430\u043a\u0442\u043e\u0440 (\u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f)",
+          "Factor"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "26"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "13"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/Q4359939"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q1391724-06261752-F47A-4FF0-BF2E-182AC2AB1025"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-FFF710AE-4BAD-4071-86E3-AB886494D800"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright license",
+        "Values": [
+          "http://www.wikidata.org/entity/Q191307"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programmed in",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1391724"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/software version identifier",
+        "Values": [
+          "0.99"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/inception",
+        "Values": [
+          "2003-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/03m7hp"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/influenced by",
+        "Values": [
+          "http://www.wikidata.org/entity/Q132874",
+          "http://www.wikidata.org/entity/Q1864529",
+          "http://www.wikidata.org/entity/Q275472",
+          "http://www.wikidata.org/entity/Q1265107"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/official website",
+        "Values": [
+          "https://factorcode.org"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Open Hub ID",
+        "Values": [
+          "factor"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q52845127",
+          "http://www.wikidata.org/entity/Q4306983",
+          "http://www.wikidata.org/entity/Q28934749",
+          "http://www.wikidata.org/entity/Q193076"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/AUR package",
+        "Values": [
+          "factor",
+          "factor-git"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Repology project name",
+        "Values": [
+          "factor"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/typing discipline",
+        "Values": [
+          "http://www.wikidata.org/entity/Q991202",
+          "http://www.wikidata.org/entity/Q1268978"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/OpenAlex ID",
+        "Values": [
+          "C2781039887"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Chocolatey Community package ID",
+        "Values": [
+          "factor"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/03m7hp"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright license",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-AC313EEA-1581-429E-A5E5-B5C1512DFC46"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programmed in",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-0b3f80a0-415d-7158-b324-9804c29cca3c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/software version identifier",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-fbd2b724-4499-a69c-52b0-adda91a8a529",
+          "http://www.wikidata.org/entity/statement/Q1391724-32f8722b-4c56-4560-53fe-17096989a7c0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/inception",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-CA21F306-8F21-4AB1-80CD-BDF3C8B88AEB"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-F9400027-10A6-435D-B717-F853770C74D9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/influenced by",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-4AA85E6F-01F2-4F2E-8044-026D18B20DB1",
+          "http://www.wikidata.org/entity/statement/Q1391724-81c9a5e9-b03c-4796-a601-7f50a5145c0e",
+          "http://www.wikidata.org/entity/statement/Q1391724-551a726e-4eed-ecf8-07e3-7e1a533a4051",
+          "http://www.wikidata.org/entity/statement/Q1391724-9ec579d3-31a7-4542-a80d-2c0e731561a2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/official website",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-85C91D25-EDF4-40B5-9495-CD6F06819533"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Open Hub ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-81D52188-2A49-4E70-AE7E-1C5A6D8BD79A"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q1391724-35DB9590-DC27-4DD7-A2EF-5B0968393F9C",
+          "http://www.wikidata.org/entity/statement/Q1391724-d8e65285-4cb3-ea01-5702-f68529f0acf8",
+          "http://www.wikidata.org/entity/statement/Q1391724-22c4093d-4cba-6c86-72a1-291dbac7b2a6",
+          "http://www.wikidata.org/entity/statement/Q1391724-98ae3f73-41bb-0b25-c0f6-c72afbf9842d"
+        ]
+      }
+    ]
+  }
+]

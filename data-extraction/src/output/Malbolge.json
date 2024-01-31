@@ -1,0 +1,311 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Malbolge",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguagesCreatedIn1998",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/ProgrammingLanguage106898352",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://schema.org/Language",
+          "http://dbpedia.org/ontology/ProgrammingLanguage",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\ub9d0\ub808\ubcfc\uc81c",
+          "Malbolge"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Malbolge is een esoterische programmeertaal, in 1998 ontworpen door . De taal is vernoemd naar de malebolge, de achtste kring van de hel uit Dantes Inferno. Malbolge is opzettelijk ontworpen op een manier die de taal onbegrijpelijk, en het gebruik ervan moeilijk maakt. Olmstead vermoedde (zonder een bewijs te leveren) dat de taal Turingvolledig zou zijn, maar hoewel aangetoond is dat de taal praktisch Turingcompleet is, zouden aanpassingen nodig zijn om dat ook formeel zo te krijgen.",
+          "Malbolge je voln\u00fd ezoterick\u00fd programovac\u00ed jazyk, kter\u00fd vytvo\u0159il Ben Olmstead v roce 1998 a byl pojmenov\u00e1n po osm\u00e9m kruhu pekla v dramatu Dante Alighieriho, Malbolge. Malbolge byl navr\u017een tak, aby bylo t\u00e9m\u011b\u0159 nemo\u017en\u00e9 ho pou\u017e\u00edvat kv\u016fli neintuitivn\u00edm \u201e\u0161\u00edlen\u00fdm operac\u00edm\u201c a samo modifikuj\u00edc\u00edmu se k\u00f3du. Navazuje na obt\u00ed\u017enost \u010dasn\u011bj\u0161\u00edch, n\u00e1ro\u010dn\u00fdch ezoterick\u00fdch jazyk\u016f (jako je Brainfuck a Befunge), ale bere tento aspekt do extr\u00e9mu, pohr\u00e1v\u00e1 si se spletitou minulost\u00ed po\u010d\u00edta\u010dov\u00e9 v\u011bdy a \u0161ifrov\u00e1n\u00ed. Navzdory tomuto n\u00e1vrhu je mo\u017en\u00e9 (i kdy\u017e velmi n\u00e1ro\u010dn\u00e9) ps\u00e1t u\u017eite\u010dn\u00e9 Malbolge programy.",
+          "Malbolge \u2014 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043d\u043d\u044b\u0439 \u0411\u0435\u043d\u043e\u043c \u041e\u043b\u043c\u0441\u0442\u0435\u0434\u043e\u043c \u0432 1998 \u0433\u043e\u0434\u0443. \u042f\u0437\u044b\u043a \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0441 \u0446\u0435\u043b\u044c\u044e \u0431\u044b\u0442\u044c \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u044b\u043c \u0434\u043b\u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c. \u041f\u043e\u043b\u0443\u0447\u0438\u043b \u0441\u0432\u043e\u0451 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 Malebolge, \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u043a\u0440\u0443\u0433\u0430 \u0430\u0434\u0430 \u0414\u0430\u043d\u0442\u0435.",
+          "\ub9d0\ub808\ubcfc\uc81c(\uc601\uc5b4: Malbolge)\ub294 \ubca4 \uc62c\ub984\uc2a4\ud14c\ub4dc(Ben Olemstead)\uac00 1998\ub144\uc5d0 \ub9cc\ub4e0 \ub09c\ud574\ud55c \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c, \uadf8 \uc774\ub984\uc740 \ub2e8\ud14c\uc758 \uc2e0\uace1\uc5d0 \ub098\uc624\ub294 \uc9c0\uc625 \uc911 \uc81c8\uc625\uc778 \ub9d0\ub808\ubcfc\uc81c\uc5d0\uc11c \uc654\ub2e4. \ub9d0\ub808\ubcfc\uc81c\uc758 \ud2b9\uc9d5\uc740 \uc874\uc7ac\ud560 \uc218 \uc788\ub294 \uac00\uc7a5 \ucd5c\uc545\uc758 (\uac00\uc7a5 \uc5b4\ub835\uace0 \ub09c\ud574\ud55c) \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c \uc124\uacc4\ub418\uc5c8\ub2e4\ub294 \uac83\uc774\ub2e4. \ud558\uc9c0\ub9cc \uc774\ud574\ub97c \uc5b4\ub835\uac8c \ub9cc\ub4e4\uae30 \uc704\ud574 \uc0ac\uc6a9\ub41c \ubc29\ubc95 \uc911 \uba87\uba87\uc740 \ub2e8\uc21c\ud654\ud560 \uc218 \uc788\ub2e4.",
+          "Malbolge est un langage de programmation dans le domaine public invent\u00e9 par Ben Olmstead en 1998, nomm\u00e9 d'apr\u00e8s le huiti\u00e8me cercle de l'Enfer dans la Divine Com\u00e9die de Dante, le Malebolge. La particularit\u00e9 de Malbolge est qu'il a \u00e9t\u00e9 con\u00e7u pour \u00eatre le langage de programmation le plus difficile et le plus exotique possible. Toutefois, certaines des astuces utilis\u00e9es pour rendre la compr\u00e9hension difficile peuvent \u00eatre simplifi\u00e9es.",
+          "Malbolge \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica inventada por em 1998, cujo nome veio do oitavo c\u00edrculo do Inferno na Divina Com\u00e9dia de Dante Alighieri. A maior caracter\u00edstica de Malbolge \u00e9 que ela foi especialmente criada para ser a pior linguagem de programa\u00e7\u00e3o poss\u00edvel (a mais dif\u00edcil e mais esot\u00e9rica). O trabalho de seus desenvolvedores foi torn\u00e1-la a mais imposs\u00edvel de ser entendida por programadores. Por\u00e9m, muitos truques usados para complic\u00e1-la podem ser simplificados e entendidos.",
+          "Malbolge (/m\u00e6l\u02c8bo\u028ald\u0292/) is a public domain esoteric programming language invented by Ben Olmstead in 1998, named after the eighth circle of hell in Dante's Inferno, the Malebolge. It was specifically designed to be almost impossible to use, via a counter-intuitive 'crazy operation', base-three arithmetic, and self-altering code. It builds on the difficulty of earlier challenging esoteric languages (such as Brainfuck and Befunge), but takes this aspect to the extreme, playing on the entangled histories of computer science and encryption. Despite this design, it is possible to write useful Malbolge programs.",
+          "Malbolge domeinu publiko programazio lengoaia esoterikoa da, Ben Olmstead-ek 1998. urtean sortutakoa. Dantek idatzitako Jainkotiar Komedia infernuaren zortzigarren zirkuluarengatik du izena. Malbolge lengoaiarik zailena izateko diseinatua izan zen. Hala ere, zaila ulertzeko izateko erabiltzen diren trukoak saihestu daitezke.",
+          "Malbolge \u00e4r ett esoteriskt programspr\u00e5k d\u00f6pt efter den \u00e5ttonde kretsen i helvetet i Dantes Den gudomliga komedin. Spr\u00e5ket designades av 1998 med syftet att g\u00f6ra det s\u00e5 sv\u00e5rbegripligt som m\u00f6jligt.",
+          "Malbolge\u662f\u7531Ben Olmstead\u57281998\u5e74\u5f00\u53d1\u7684\u4e00\u79cd\u6df1\u5965\u7684\u7f16\u7a0b\u8bed\u8a00\uff0c\u5c5e\u4e8e\u516c\u5171\u9886\u57df\u3002\u5176\u540d\u5b57\u6765\u81ea\u4e8e\u4f46\u4e01\u7684\u300a\u795e\u66f2\u300b\u4e2d\u7684\u7b2c\u516b\u5c42\u5730\u72f1Malebolge\uff0c\u610f\u5927\u5229\u8bed\u4e2d\u610f\u4e3a\u201c\u90aa\u6076\u7684\u6c9f\u6e20\u201d\uff08male bolge\uff09\u3002Malbolge\u867d\u7136\u5177\u5907\u56fe\u7075\u5b8c\u5907\u6027\uff0c\u4f46\u5e76\u975e\u5b9e\u7528\u7684\u7f16\u7a0b\u8bed\u8a00\u3002Malbolge\u7684\u7279\u522b\u4e4b\u5904\u5c31\u5728\u4e8e\uff0c\u5b83\u88ab\u6545\u610f\u8bbe\u8ba1\u5f97\u6781\u5176\u7e41\u7410\u96be\u89e3\u3002",
+          "Malbolge es un lenguaje de programaci\u00f3n esot\u00e9rico de dominio p\u00fablico desarrollado por Ben Olmstead en 1998. Se llam\u00f3 as\u00ed por el octavo c\u00edrculo del infierno en La Divina Comedia, escrito por Dante. Malbolge es peculiar porque se dise\u00f1\u00f3 para ser el lenguaje m\u00e1s dif\u00edcil. Sin embargo, varios de los trucos utilizados para hacerlo dif\u00edcil de entender pueden ser evitados.",
+          "Malbolge\u306f1998\u5e74\u306bBen Olmstead\u306b\u3088\u3063\u3066\u958b\u767a\u3055\u308c\u305f\u3001\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u306e\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3042\u308b\u3002\u540d\u524d\u306f\u3001\u30c0\u30f3\u30c6\u306e\u795e\u66f2\u5730\u7344\u7bc7\u306b\u304a\u3051\u308b\u5730\u7344\u306e\u7b2c8\u570f\u3067\u3042\u308b\u30de\u30fc\u30ec\u30dc\u30eb\u30b8\u30a7(Malebolge)\u306b\u3061\u306a\u3093\u3067\u540d\u4ed8\u3051\u3089\u308c\u305f\u3002 Malbolge\u306f\u30c1\u30e5\u30fc\u30ea\u30f3\u30b0\u5b8c\u5168\u3067\u3042\u308b\u304c\u3001\u5b9f\u7528\u8a00\u8a9e\u3067\u306f\u306a\u3044\u3002Malbolge\u306e\u7570\u5e38\u306a\u70b9\u306f\u3001\u6700\u60aa\u306e\u3001\u3059\u306a\u308f\u3061\u6700\u3082\u6271\u3044\u306b\u304f\u304f\u96e3\u89e3\u3067\u3042\u308b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3068\u306a\u308b\u3079\u304f\u8a2d\u8a08\u3055\u308c\u305f\u3053\u3068\u3067\u3042\u308b\u3002Malbolge\u306fINTERCAL\u3001\u6a5f\u68b0\u8a9e\u3001Brainfuck\u306e\u6700\u60aa\u306a\u90e8\u5206\u3092\u7d44\u307f\u5408\u308f\u305b\u305f\u3082\u306e\u3067\u3042\u308b\u3068\u3044\u3046\u3002\u3057\u304b\u3057\u3001\u7406\u89e3\u3092\u56f0\u96e3\u306b\u3059\u308b\u305f\u3081\u306b\u7528\u3044\u305f\u30c8\u30ea\u30c3\u30af\u306e\u3044\u304f\u3064\u304b\u306f\u3054\u304f\u5358\u7d14\u5316\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+          "Malbolge \u2014 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f, \u044f\u043a\u0443 \u0432\u0438\u0433\u0430\u0434\u0430\u0432 \u0411\u0435\u043d \u041e\u043b\u043c\u0441\u0442\u0435\u0434 1998 \u0440\u043e\u043a\u0443. \u041c\u043e\u0432\u0430 \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u0430 \u0437 \u043c\u0435\u0442\u043e\u044e \u0431\u0443\u0442\u0438 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0441\u043a\u043b\u0430\u0434\u043d\u043e\u044e \u0434\u043b\u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c. \u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0445\u043e\u0434\u0438\u0442\u044c \u0432\u0456\u0434 Malebolge, \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u043a\u043e\u043b\u0430 \u043f\u0435\u043a\u043b\u0430 \u0414\u0430\u043d\u0442\u0435.",
+          "Malbolge \u00e8 un linguaggio di programmazione esoterico, creato da nel 1998, con lo scopo che fosse il codice pi\u00f9 difficile possibile da utilizzare. riusc\u00ec a scrivere il primo \"Hello, world!\" solo con l'aiuto di un programma in Lisp.",
+          "Malbolge \u2013 ezoteryczny j\u0119zyk programowania. Jest to prawdopodobnie najtrudniejszy istniej\u0105cy j\u0119zyk programowania. Istniej\u0105ce w nim instrukcje do wykonania nie s\u0105 zapisywane wprost. Powstaj\u0105 one dopiero po odpowiednim przekszta\u0142ceniu \u017ar\u00f3d\u0142a poprzez wykonanie odpowiednich operacji arytmetyczno-logicznych na kodach ASCII znak\u00f3w z tego \u017ar\u00f3d\u0142a, gdzie istniej\u0105 r\u00f3wnie\u017c zale\u017cno\u015bci od pozycji, na kt\u00f3rej umieszczono znak. Najbardziej z\u0142o\u017conym programem napisanym w tym j\u0119zyku jest Interpreter Lispa.",
+          "Malbolge ist eine gemeinfreie esoterische Programmiersprache, die 1998 von entwickelt wurde. Sie wurde nach dem achten Kreis der H\u00f6lle aus Dantes Divina Commedia benannt. Die Besonderheit von Malbolge besteht darin, dass sie als schlimmstm\u00f6gliche Programmiersprache entwickelt wurde, die am schwierigsten zu beherrschen ist. Allerdings ist Malbolge aufgrund des begrenzten Speichers nur mit leicht abgewandelten Verarbeitungsregeln Turing-vollst\u00e4ndig."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Malbolge_echo_program.png"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1998",
+          "http://dbpedia.org/resource/Category:Non-English-based_programming_languages",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "237720"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1122840058"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/GitHub",
+          "http://dbpedia.org/resource/Befunge",
+          "http://dbpedia.org/resource/Malebolge",
+          "http://dbpedia.org/resource/Processor_register",
+          "http://dbpedia.org/resource/Opcode",
+          "http://dbpedia.org/resource/Addressing_mode",
+          "http://dbpedia.org/resource/Esoteric_programming_language",
+          "http://dbpedia.org/resource/Inferno_(Dante)",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/Program_counter",
+          "http://dbpedia.org/resource/99_Bottles_of_Beer",
+          "http://dbpedia.org/resource/INTERCAL",
+          "http://dbpedia.org/resource/Encryption",
+          "http://dbpedia.org/resource/Obfuscated_code",
+          "http://dbpedia.org/resource/Backward_compatibility",
+          "http://dbpedia.org/resource/History_of_computer_science",
+          "http://dbpedia.org/resource/Cryptanalysis",
+          "http://dbpedia.org/resource/Ternary_numeral_system",
+          "http://dbpedia.org/resource/Modulo_operation",
+          "http://dbpedia.org/resource/Lisp_programming_language",
+          "http://dbpedia.org/resource/Billions_(TV_series)",
+          "http://dbpedia.org/resource/Permutation",
+          "http://dbpedia.org/resource/Lisp_(programming_language)",
+          "http://dbpedia.org/resource/Enciphered",
+          "http://dbpedia.org/resource/Category:Non-English-based_programming_languages",
+          "http://dbpedia.org/resource/Input/output",
+          "http://dbpedia.org/resource/Von_Neumann_architecture",
+          "http://dbpedia.org/resource/Beam_search",
+          "http://dbpedia.org/resource/Turing_completeness",
+          "http://dbpedia.org/resource/Hello_world_program",
+          "http://dbpedia.org/resource/Virtual_machine",
+          "http://dbpedia.org/resource/Linear_bounded_automaton",
+          "http://dbpedia.org/resource/Interpreter_(computing)",
+          "http://dbpedia.org/resource/ASCII",
+          "http://dbpedia.org/resource/Leverage:_Redemption",
+          "http://dbpedia.org/resource/Elementary_(TV_series)",
+          "http://dbpedia.org/resource/Public_domain",
+          "http://dbpedia.org/resource/Random-access_memory",
+          "http://dbpedia.org/resource/Turing-complete_language",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1998",
+          "http://dbpedia.org/resource/Substitution_cipher",
+          "http://dbpedia.org/resource/Dante_Alighieri",
+          "http://dbpedia.org/resource/Machine_language",
+          "http://dbpedia.org/resource/Brainfuck"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "https://www.lscheffer.com/malbolge_interp.html",
+          "https://esoteric.codes/blog/interview-with-ben-olmstead",
+          "https://bitbucket.org/msagi/malbolge-interpreter/",
+          "http://c0d3.attorney/",
+          "http://esolangs.org/wiki/Malbolge_programming"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://eu.dbpedia.org/resource/Malbolge",
+          "http://de.dbpedia.org/resource/Malbolge",
+          "http://ru.dbpedia.org/resource/Malbolge",
+          "http://zh.dbpedia.org/resource/Malbolge",
+          "http://et.dbpedia.org/resource/Malbolge",
+          "http://es.dbpedia.org/resource/Malbolge",
+          "http://fi.dbpedia.org/resource/Malbolge",
+          "http://sr.dbpedia.org/resource/\u041c\u0430\u043b\u0431\u043e\u043b\u045f",
+          "http://hu.dbpedia.org/resource/Malbolge",
+          "http://pl.dbpedia.org/resource/Malbolge",
+          "https://global.dbpedia.org/id/4iRDD",
+          "http://uk.dbpedia.org/resource/Malbolge",
+          "http://www.wikidata.org/entity/Q517956",
+          "http://ja.dbpedia.org/resource/Malbolge",
+          "http://ko.dbpedia.org/resource/\ub9d0\ub808\ubcfc\uc81c",
+          "http://fr.dbpedia.org/resource/Malbolge",
+          "http://it.dbpedia.org/resource/Malbolge",
+          "http://nl.dbpedia.org/resource/Malbolge",
+          "http://rdf.freebase.com/ns/m.01jh8h",
+          "http://sv.dbpedia.org/resource/Malbolge",
+          "http://pt.dbpedia.org/resource/Malbolge",
+          "http://cs.dbpedia.org/resource/Malbolge",
+          "http://la.dbpedia.org/resource/Malbolge",
+          "http://yago-knowledge.org/resource/Malbolge"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Mono",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:IPAc-en",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Portal",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:About"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Malbolge_echo_program.png?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/designer",
+        "Values": [
+          "Ben Olmstead"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/developer",
+        "Values": [
+          "Ben Olmstead"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/discontinued",
+        "Values": [
+          "yes"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influenced",
+        "Values": [
+          "Dis, Malbolge Unshackled"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/INTERCAL",
+          "http://dbpedia.org/resource/Befunge",
+          "http://dbpedia.org/resource/Brainfuck"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/paradigm",
+        "Values": [
+          "Esoteric, imperative, scalar, value-level"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/released",
+        "Values": [
+          "1998"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/screenshot",
+        "Values": [
+          "Malbolge echo program.png"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/title",
+        "Values": [
+          "Malbolge"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/typing",
+        "Values": [
+          "Untyped"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "Malbolge is een esoterische programmeertaal, in 1998 ontworpen door . De taal is vernoemd naar de malebolge, de achtste kring van de hel uit Dantes Inferno. Malbolge is opzettelijk ontworpen op een manier die de taal onbegrijpelijk, en het gebruik ervan moeilijk maakt. Olmstead vermoedde (zonder een bewijs te leveren) dat de taal Turingvolledig zou zijn, maar hoewel aangetoond is dat de taal praktisch Turingcompleet is, zouden aanpassingen nodig zijn om dat ook formeel zo te krijgen.",
+          "Malbolge je voln\u00fd ezoterick\u00fd programovac\u00ed jazyk, kter\u00fd vytvo\u0159il Ben Olmstead v roce 1998 a byl pojmenov\u00e1n po osm\u00e9m kruhu pekla v dramatu Dante Alighieriho, Malbolge. Malbolge byl navr\u017een tak, aby bylo t\u00e9m\u011b\u0159 nemo\u017en\u00e9 ho pou\u017e\u00edvat kv\u016fli neintuitivn\u00edm \u201e\u0161\u00edlen\u00fdm operac\u00edm\u201c a samo modifikuj\u00edc\u00edmu se k\u00f3du. Navazuje na obt\u00ed\u017enost \u010dasn\u011bj\u0161\u00edch, n\u00e1ro\u010dn\u00fdch ezoterick\u00fdch jazyk\u016f (jako je Brainfuck a Befunge), ale bere tento aspekt do extr\u00e9mu, pohr\u00e1v\u00e1 si se spletitou minulost\u00ed po\u010d\u00edta\u010dov\u00e9 v\u011bdy a \u0161ifrov\u00e1n\u00ed. Navzdory tomuto n\u00e1vrhu je mo\u017en\u00e9 (i kdy\u017e velmi n\u00e1ro\u010dn\u00e9) ps\u00e1t u\u017eite\u010dn\u00e9 Malbolge programy.",
+          "Malbolge \u2013 ezoteryczny j\u0119zyk programowania. Jest to prawdopodobnie najtrudniejszy istniej\u0105cy j\u0119zyk programowania. Istniej\u0105ce w nim instrukcje do wykonania nie s\u0105 zapisywane wprost. Powstaj\u0105 one dopiero po odpowiednim przekszta\u0142ceniu \u017ar\u00f3d\u0142a poprzez wykonanie odpowiednich operacji arytmetyczno-logicznych na kodach ASCII znak\u00f3w z tego \u017ar\u00f3d\u0142a, gdzie istniej\u0105 r\u00f3wnie\u017c zale\u017cno\u015bci od pozycji, na kt\u00f3rej umieszczono znak. Najbardziej z\u0142o\u017conym programem napisanym w tym j\u0119zyku jest Interpreter Lispa. Nazwa j\u0119zyka pochodzi od nazwy 8. kr\u0119gu piek\u0142a z \"Boskiej komedii\" Dantego, w obecnych wersjach jako Malebolge, w oryginale Dantego natomiast Malbolge. W trakcie rozwijania swojego pomys\u0142u autor stworzy\u0142 w\u0142a\u015bciwie dwa j\u0119zyki, jeden z nich to obecny Malbolge, drugim jest nieco \u0142atwiejszy j\u0119zyk programowania Dis, kt\u00f3rego nazwa pochodzi od miasta w sz\u00f3stym kr\u0119gu piek\u0142a w \"Boskiej komedii\".",
+          "\ub9d0\ub808\ubcfc\uc81c(\uc601\uc5b4: Malbolge)\ub294 \ubca4 \uc62c\ub984\uc2a4\ud14c\ub4dc(Ben Olemstead)\uac00 1998\ub144\uc5d0 \ub9cc\ub4e0 \ub09c\ud574\ud55c \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c, \uadf8 \uc774\ub984\uc740 \ub2e8\ud14c\uc758 \uc2e0\uace1\uc5d0 \ub098\uc624\ub294 \uc9c0\uc625 \uc911 \uc81c8\uc625\uc778 \ub9d0\ub808\ubcfc\uc81c\uc5d0\uc11c \uc654\ub2e4. \ub9d0\ub808\ubcfc\uc81c\uc758 \ud2b9\uc9d5\uc740 \uc874\uc7ac\ud560 \uc218 \uc788\ub294 \uac00\uc7a5 \ucd5c\uc545\uc758 (\uac00\uc7a5 \uc5b4\ub835\uace0 \ub09c\ud574\ud55c) \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c \uc124\uacc4\ub418\uc5c8\ub2e4\ub294 \uac83\uc774\ub2e4. \ud558\uc9c0\ub9cc \uc774\ud574\ub97c \uc5b4\ub835\uac8c \ub9cc\ub4e4\uae30 \uc704\ud574 \uc0ac\uc6a9\ub41c \ubc29\ubc95 \uc911 \uba87\uba87\uc740 \ub2e8\uc21c\ud654\ud560 \uc218 \uc788\ub2e4.",
+          "Malbolge \u2014 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u0438\u0434\u0443\u043c\u0430\u043d\u043d\u044b\u0439 \u0411\u0435\u043d\u043e\u043c \u041e\u043b\u043c\u0441\u0442\u0435\u0434\u043e\u043c \u0432 1998 \u0433\u043e\u0434\u0443. \u042f\u0437\u044b\u043a \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u043d \u0441 \u0446\u0435\u043b\u044c\u044e \u0431\u044b\u0442\u044c \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u044b\u043c \u0434\u043b\u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c. \u041f\u043e\u043b\u0443\u0447\u0438\u043b \u0441\u0432\u043e\u0451 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043e\u0442 Malebolge, \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u043a\u0440\u0443\u0433\u0430 \u0430\u0434\u0430 \u0414\u0430\u043d\u0442\u0435.",
+          "Malbolge est un langage de programmation dans le domaine public invent\u00e9 par Ben Olmstead en 1998, nomm\u00e9 d'apr\u00e8s le huiti\u00e8me cercle de l'Enfer dans la Divine Com\u00e9die de Dante, le Malebolge. La particularit\u00e9 de Malbolge est qu'il a \u00e9t\u00e9 con\u00e7u pour \u00eatre le langage de programmation le plus difficile et le plus exotique possible. Toutefois, certaines des astuces utilis\u00e9es pour rendre la compr\u00e9hension difficile peuvent \u00eatre simplifi\u00e9es.",
+          "Malbolge \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica inventada por em 1998, cujo nome veio do oitavo c\u00edrculo do Inferno na Divina Com\u00e9dia de Dante Alighieri. A maior caracter\u00edstica de Malbolge \u00e9 que ela foi especialmente criada para ser a pior linguagem de programa\u00e7\u00e3o poss\u00edvel (a mais dif\u00edcil e mais esot\u00e9rica). O trabalho de seus desenvolvedores foi torn\u00e1-la a mais imposs\u00edvel de ser entendida por programadores. Por\u00e9m, muitos truques usados para complic\u00e1-la podem ser simplificados e entendidos.",
+          "Malbolge (/m\u00e6l\u02c8bo\u028ald\u0292/) is a public domain esoteric programming language invented by Ben Olmstead in 1998, named after the eighth circle of hell in Dante's Inferno, the Malebolge. It was specifically designed to be almost impossible to use, via a counter-intuitive 'crazy operation', base-three arithmetic, and self-altering code. It builds on the difficulty of earlier challenging esoteric languages (such as Brainfuck and Befunge), but takes this aspect to the extreme, playing on the entangled histories of computer science and encryption. Despite this design, it is possible to write useful Malbolge programs.",
+          "Malbolge domeinu publiko programazio lengoaia esoterikoa da, Ben Olmstead-ek 1998. urtean sortutakoa. Dantek idatzitako Jainkotiar Komedia infernuaren zortzigarren zirkuluarengatik du izena. Malbolge lengoaiarik zailena izateko diseinatua izan zen. Hala ere, zaila ulertzeko izateko erabiltzen diren trukoak saihestu daitezke.",
+          "Malbolge \u00e4r ett esoteriskt programspr\u00e5k d\u00f6pt efter den \u00e5ttonde kretsen i helvetet i Dantes Den gudomliga komedin. Spr\u00e5ket designades av 1998 med syftet att g\u00f6ra det s\u00e5 sv\u00e5rbegripligt som m\u00f6jligt.",
+          "Malbolge\u662f\u7531Ben Olmstead\u57281998\u5e74\u5f00\u53d1\u7684\u4e00\u79cd\u6df1\u5965\u7684\u7f16\u7a0b\u8bed\u8a00\uff0c\u5c5e\u4e8e\u516c\u5171\u9886\u57df\u3002\u5176\u540d\u5b57\u6765\u81ea\u4e8e\u4f46\u4e01\u7684\u300a\u795e\u66f2\u300b\u4e2d\u7684\u7b2c\u516b\u5c42\u5730\u72f1Malebolge\uff0c\u610f\u5927\u5229\u8bed\u4e2d\u610f\u4e3a\u201c\u90aa\u6076\u7684\u6c9f\u6e20\u201d\uff08male bolge\uff09\u3002Malbolge\u867d\u7136\u5177\u5907\u56fe\u7075\u5b8c\u5907\u6027\uff0c\u4f46\u5e76\u975e\u5b9e\u7528\u7684\u7f16\u7a0b\u8bed\u8a00\u3002Malbolge\u7684\u7279\u522b\u4e4b\u5904\u5c31\u5728\u4e8e\uff0c\u5b83\u88ab\u6545\u610f\u8bbe\u8ba1\u5f97\u6781\u5176\u7e41\u7410\u96be\u89e3\u3002",
+          "Malbolge es un lenguaje de programaci\u00f3n esot\u00e9rico de dominio p\u00fablico desarrollado por Ben Olmstead en 1998. Se llam\u00f3 as\u00ed por el octavo c\u00edrculo del infierno en La Divina Comedia, escrito por Dante. Malbolge es peculiar porque se dise\u00f1\u00f3 para ser el lenguaje m\u00e1s dif\u00edcil. Sin embargo, varios de los trucos utilizados para hacerlo dif\u00edcil de entender pueden ser evitados.",
+          "Malbolge\u306f1998\u5e74\u306bBen Olmstead\u306b\u3088\u3063\u3066\u958b\u767a\u3055\u308c\u305f\u3001\u30d1\u30d6\u30ea\u30c3\u30af\u30c9\u30e1\u30a4\u30f3\u306e\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u3042\u308b\u3002\u540d\u524d\u306f\u3001\u30c0\u30f3\u30c6\u306e\u795e\u66f2\u5730\u7344\u7bc7\u306b\u304a\u3051\u308b\u5730\u7344\u306e\u7b2c8\u570f\u3067\u3042\u308b\u30de\u30fc\u30ec\u30dc\u30eb\u30b8\u30a7(Malebolge)\u306b\u3061\u306a\u3093\u3067\u540d\u4ed8\u3051\u3089\u308c\u305f\u3002 Malbolge\u306f\u30c1\u30e5\u30fc\u30ea\u30f3\u30b0\u5b8c\u5168\u3067\u3042\u308b\u304c\u3001\u5b9f\u7528\u8a00\u8a9e\u3067\u306f\u306a\u3044\u3002Malbolge\u306e\u7570\u5e38\u306a\u70b9\u306f\u3001\u6700\u60aa\u306e\u3001\u3059\u306a\u308f\u3061\u6700\u3082\u6271\u3044\u306b\u304f\u304f\u96e3\u89e3\u3067\u3042\u308b\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3068\u306a\u308b\u3079\u304f\u8a2d\u8a08\u3055\u308c\u305f\u3053\u3068\u3067\u3042\u308b\u3002Malbolge\u306fINTERCAL\u3001\u6a5f\u68b0\u8a9e\u3001Brainfuck\u306e\u6700\u60aa\u306a\u90e8\u5206\u3092\u7d44\u307f\u5408\u308f\u305b\u305f\u3082\u306e\u3067\u3042\u308b\u3068\u3044\u3046\u3002\u3057\u304b\u3057\u3001\u7406\u89e3\u3092\u56f0\u96e3\u306b\u3059\u308b\u305f\u3081\u306b\u7528\u3044\u305f\u30c8\u30ea\u30c3\u30af\u306e\u3044\u304f\u3064\u304b\u306f\u3054\u304f\u5358\u7d14\u5316\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+          "Malbolge \u2014 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f, \u044f\u043a\u0443 \u0432\u0438\u0433\u0430\u0434\u0430\u0432 \u0411\u0435\u043d \u041e\u043b\u043c\u0441\u0442\u0435\u0434 1998 \u0440\u043e\u043a\u0443. \u041c\u043e\u0432\u0430 \u0440\u043e\u0437\u0440\u043e\u0431\u043b\u0435\u043d\u0430 \u0437 \u043c\u0435\u0442\u043e\u044e \u0431\u0443\u0442\u0438 \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0441\u043a\u043b\u0430\u0434\u043d\u043e\u044e \u0434\u043b\u044f \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c. \u041d\u0430\u0437\u0432\u0430 \u043f\u043e\u0445\u043e\u0434\u0438\u0442\u044c \u0432\u0456\u0434 Malebolge, \u0432\u043e\u0441\u044c\u043c\u043e\u0433\u043e \u043a\u043e\u043b\u0430 \u043f\u0435\u043a\u043b\u0430 \u0414\u0430\u043d\u0442\u0435.",
+          "Malbolge \u00e8 un linguaggio di programmazione esoterico, creato da nel 1998, con lo scopo che fosse il codice pi\u00f9 difficile possibile da utilizzare. riusc\u00ec a scrivere il primo \"Hello, world!\" solo con l'aiuto di un programma in Lisp.",
+          "Malbolge ist eine gemeinfreie esoterische Programmiersprache, die 1998 von entwickelt wurde. Sie wurde nach dem achten Kreis der H\u00f6lle aus Dantes Divina Commedia benannt. Die Besonderheit von Malbolge besteht darin, dass sie als schlimmstm\u00f6gliche Programmiersprache entwickelt wurde, die am schwierigsten zu beherrschen ist. Allerdings ist Malbolge aufgrund des begrenzten Speichers nur mit leicht abgewandelten Verarbeitungsregeln Turing-vollst\u00e4ndig."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/fileExtensions",
+        "Values": [
+          ".mal, .mb"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/screenshotCaption",
+        "Values": [
+          "An echo program in Malbolge"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Malbolge?oldid=1122840058&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "19107"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/INTERCAL",
+          "http://dbpedia.org/resource/Befunge",
+          "http://dbpedia.org/resource/Brainfuck"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Malbolge"
+        ]
+      }
+    ]
+  }
+]

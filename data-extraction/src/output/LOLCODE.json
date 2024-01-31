@@ -1,0 +1,277 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/LOLCODE",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguagesCreatedIn2007",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/ProgrammingLanguage106898352",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://schema.org/Language",
+          "http://dbpedia.org/ontology/ProgrammingLanguage",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "LOLCODE"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "LOLCODE es un lenguaje de programaci\u00f3n esot\u00e9rico inspirado por el lenguaje expresado en el fen\u00f3meno de Internet de los Lolcat.\u200bEl lenguaje fue creado el 2007 por , investigador del Departamento de Computaci\u00f3n de la Universidad de Lancaster.\u200b\u200b",
+          "LOLCODE is een esoterische programmeertaal ge\u00efnspireerd door lolcats. De programmeertaal is in 2007 gemaakt door , onderzoeker aan de Lancaster University. Er bestaan verschillende interpreters en compilers voor LOLCODE. E\u00e9n interpretatie van LOLCODE is turingvolledig.",
+          "LOLCODE\u662f\u4e00\u79cd\u5efa\u7acb\u5728\u9ad8\u5ea6\u7f29\u5199\u7684\u7f51\u7edc\u82f1\u8bed\u4e4b\u4e0a\u7684\u7f16\u7a0b\u8bed\u8a00\uff0c\u5982\u679c\u80fd\u7406\u89e3\u8fd9\u79cd\u7f51\u7edc\u82f1\u8bed\uff0c\u4e00\u822c\u5c31\u80fd\u5728\u672a\u7ecf\u8bad\u7ec3\u7684\u60c5\u51b5\u4e0b\u8bfb\u61c2LOLCODE\u7a0b\u5e8f\u7684\u6e90\u4ee3\u7801\u3002",
+          "LOLCODE ist eine esoterische Programmiersprache (angelehnt an den Netzjargon Lolspeak des humoristischen Internet-Ph\u00e4nomens Lolcat) und wurde im Jahr 2007 von Adam Lindsay an der Lancaster University entwickelt. Die Sprache ist bez\u00fcglich Syntax und Operatoren nicht klar definiert, jedoch existieren verschiedene funktionierende Interpreter und Compiler.",
+          "LOLCODE est un langage de programmation exotique inspir\u00e9 de l'argot Internet et du Lolcat retrouvable sur les chats et forums anglophones. Les sp\u00e9cifications sont d\u00e9finies sur le site officiel. Son objectif est d'\u00eatre \u00e0 la fois un langage simple et amusant \u00e0 lire et \u00e0 \u00e9crire.",
+          "LOLCODE is an esoteric programming language inspired by lolspeak, the language expressed in examples of the lolcat Internet meme. The language was created in 2007 by Adam Lindsay, a researcher at the Computing Department of Lancaster University. The language is not clearly defined in terms of operator priorities and correct syntax, but several functioning interpreters and compilers exist. One interpretation of the language has been proven Turing-complete.",
+          "LOLCODE adalah yang terinspirasi oleh , bahasa yang dipakai dalam meme internet lolcat. Bahasa pemrograman ini dibuat pada 2007 oleh Adam Lindsay, peneliti di Departemen Komputer Universitas Lancaster. Bahasa pemrograman ini tidak mendefinisikan secara jelas prioritas operator dan sintaks yang benar, tetapi ada beberapa interpreter dan kompiler yang berfungsi. Salah satu interpretasi bahasa ini telah terbukti .",
+          "LOLCODE \u2014 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u0434 \u0432\u043b\u0438\u044f\u043d\u0438\u0435\u043c \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0435\u043c\u0430 \u043e lolcat\u2019\u0430\u0445. \u041d\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u0430\u0439\u0442\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0438, \u0445\u043e\u0442\u044f \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u043c\u0435\u043d\u0442\u044b \u0432 \u043d\u0435\u0439 \u043d\u0435 \u043e\u043f\u0438\u0441\u0430\u043d\u044b, \u0443\u0436\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0438\u0445 \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440\u043e\u0432 \u0438 \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u043e\u0432 \u044d\u0442\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430. LOLCODE \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0422\u044c\u044e\u0440\u0438\u043d\u0433-\u043f\u043e\u043b\u043d\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c, \u0442\u0430\u043a \u043a\u0430\u043a \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u0430 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440\u0430 Brainfuck \u043d\u0430 LOLCODE.",
+          "LOLCODE \u2014 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u043d\u0430\u0442\u0445\u043d\u0435\u043d\u043d\u0430 \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0435\u043c\u043e\u043c lolcat'\u043e\u043c. \u041c\u043e\u0432\u0430 \u0431\u0443\u043b\u0430 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0430 \u0432 2007 \u0440\u043e\u0446\u0456 \u0410\u0434\u0430\u043c\u043e\u044e \u041b\u0456\u043d\u0434\u0441\u0435\u0439, \u0434\u043e\u0441\u043b\u0456\u0434\u043d\u0438\u043a\u043e\u043c \u043a\u0430\u0444\u0435\u0434\u0440\u0438 \u043e\u0431\u0447\u0438\u0441\u043b\u044e\u0432\u0430\u043b\u044c\u043d\u043e\u0457 \u0442\u0435\u0445\u043d\u0456\u043a\u0438 \u041b\u0430\u043d\u043a\u0430\u0441\u0442\u0435\u0440\u0441\u044c\u043a\u043e\u0433\u043e \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0443.\u041c\u043e\u0432\u0430 \u0454 \u043f\u043e\u0432\u043d\u043e\u044e \u0437\u0430 \u0422\u044e\u0440\u0456\u043d\u0433\u043e\u043c, \u043e\u0441\u043a\u0456\u043b\u044c\u043a\u0438 \u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0440\u0435\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u0457 \u0456\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440\u0430 Brainfuck \u043d\u0430 LOLCODE.",
+          "LOLCODE \u00e9s un llenguatge de programaci\u00f3 esot\u00e8ric inspirat en el llenguatge expressat en exemples del meme d'internet lolcat. El llenguatge va ser creat el 2007 per Adam Lindsay, investigador al Departament de Computaci\u00f3 de la .El llenguatge est\u00e0 clarament definit respecte a prioritat d'operadors i sintaxi correcta, per\u00f2 ja existeixen diferents interpretadors i compiladors funcionals. S'ha demostrat que el llenguatge \u00e9s Turing complet.",
+          "LOLCODE \u00e8 un linguaggio di programmazione esoterico, ispirato al fenomeno di Internet dei lolcat. Il linguaggio \u00e8 stato creato nel 2007 da , ricercatore al dipartimento di ricerca informatica della Lancaster University.",
+          "LOLCODE \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica podendo ser classificada como integrante do grupo de linguagens pertencentes ao Paradigma Imperativo. A l\u00edngua foi criada em 25 de Mar\u00e7o de 2007 por Adam Lindsay, pesquisador do Departamento de Computa\u00e7\u00e3o da Universidade de Lancaster.",
+          "LOLCODE \u2013 ezoteryczny j\u0119zyk programowania zainspirowany j\u0119zykiem pidgin English, u\u017cywanym w fenomenie internetowym LOLCAT. J\u0119zyk zosta\u0142 stworzony w 2007 r. przez Adama Lindsaya, pracownika Wydzia\u0142u Informatyki Lancaster University. J\u0119zyk nie ma jeszcze dok\u0142adnie zdefiniowanej sk\u0142adni i semantyki. Mimo to istnieje ju\u017c kilka dzia\u0142aj\u0105cych interpreter\u00f3w i kompilator\u00f3w.",
+          "LOLCODE programazio lengoai esoterikoa da, interneten famatuak diren Lolcat memetan oinarrituta dagoena. Lengoaia 2007. urtean sortu zen Adam Lindsayren eskutik, Lancaster unibertsitateko konputazio departamentuko ikertzailea.",
+          "LOLCODE \u00e4r ett esoteriskt programspr\u00e5k skapat efter Internet-memen lolcat. Spr\u00e5ket \u00e4r Turingkomplett och det finns flera implementationer. Ett klassiskt exempel: HAICAN HAS STDIO?VISIBLE \"HAI WORLD!\"KTHXBYE"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "LOLCODE"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/homepage",
+        "Values": [
+          "http://lolcode.org"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "LOLCODE"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/LOLCode_logo.png"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/page",
+        "Values": [
+          "http://lolcode.org"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Lancaster_University",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_2007",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/Category:Science_and_technology_in_Lancashire"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "15450778"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1123243199"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Lolcat",
+          "http://dbpedia.org/resource/Pecha_Kucha",
+          "http://dbpedia.org/resource/Dynamic_Language_Runtime",
+          "http://dbpedia.org/resource/Internet_meme",
+          "http://dbpedia.org/resource/Houston_Chronicle",
+          "http://dbpedia.org/resource/Turing-complete",
+          "http://dbpedia.org/resource/Esoteric_programming_language",
+          "http://dbpedia.org/resource/JavaScript",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/.NET_Framework",
+          "http://dbpedia.org/resource/Category:Science_and_technology_in_Lancashire",
+          "http://dbpedia.org/resource/Stdio",
+          "http://dbpedia.org/resource/Microsoft",
+          "http://dbpedia.org/resource/Arnold_Schwarzenegger",
+          "http://dbpedia.org/resource/Keyword_(computer_programming)",
+          "http://dbpedia.org/resource/Lancaster_University",
+          "http://dbpedia.org/resource/Library_(software)",
+          "http://dbpedia.org/resource/PHP",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/%22Hello,_World!%22_program",
+          "http://dbpedia.org/resource/Category:Lancaster_University",
+          "http://dbpedia.org/resource/Tongue-in-cheek",
+          "http://dbpedia.org/resource/UTF-8",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_2007",
+          "http://dbpedia.org/resource/Error_handling",
+          "http://dbpedia.org/resource/Parrot_virtual_machine",
+          "http://dbpedia.org/resource/Patois",
+          "http://dbpedia.org/resource/Lolspeak"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "http://lolcode.org"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://hy.dbpedia.org/resource/LOLCODE",
+          "http://www.wikidata.org/entity/Q513238",
+          "http://yago-knowledge.org/resource/LOLCODE",
+          "http://eu.dbpedia.org/resource/LOLCODE",
+          "http://de.dbpedia.org/resource/LOLCODE",
+          "http://pt.dbpedia.org/resource/LOLCODE",
+          "http://ro.dbpedia.org/resource/LOLCODE",
+          "http://is.dbpedia.org/resource/LOLCODE",
+          "http://it.dbpedia.org/resource/LOLCODE",
+          "http://sr.dbpedia.org/resource/LOLCODE",
+          "http://rdf.freebase.com/ns/m.02x8svn",
+          "http://ru.dbpedia.org/resource/LOLCODE",
+          "http://ca.dbpedia.org/resource/LOLCODE",
+          "http://pl.dbpedia.org/resource/LOLCODE",
+          "https://global.dbpedia.org/id/4i8vy",
+          "http://sv.dbpedia.org/resource/LOLCODE",
+          "http://fi.dbpedia.org/resource/LOLCODE",
+          "http://nl.dbpedia.org/resource/LOLCODE",
+          "http://zh.dbpedia.org/resource/LOLCODE",
+          "http://id.dbpedia.org/resource/LOLCODE",
+          "http://fr.dbpedia.org/resource/LOLCODE",
+          "http://es.dbpedia.org/resource/LOLCODE",
+          "http://uk.dbpedia.org/resource/LOLCODE"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Code",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Programming_languages",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:Official_website"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/LOLCode_logo.png?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/designer",
+        "Values": [
+          "Adam Lindsay"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influencedBy",
+        "Values": [
+          "Lolcats"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/logo",
+        "Values": [
+          "LOLCode logo.png"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/paradigm",
+        "Values": [
+          "http://dbpedia.org/resource/Esoteric_programming_language"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/website",
+        "Values": [
+          "http://lolcode.org"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/year",
+        "Values": [
+          "2007"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "LOLCODE es un lenguaje de programaci\u00f3n esot\u00e9rico inspirado por el lenguaje expresado en el fen\u00f3meno de Internet de los Lolcat.\u200bEl lenguaje fue creado el 2007 por , investigador del Departamento de Computaci\u00f3n de la Universidad de Lancaster.\u200b\u200b",
+          "LOLCODE is een esoterische programmeertaal ge\u00efnspireerd door lolcats. De programmeertaal is in 2007 gemaakt door , onderzoeker aan de Lancaster University. Er bestaan verschillende interpreters en compilers voor LOLCODE. E\u00e9n interpretatie van LOLCODE is turingvolledig.",
+          "LOLCODE\u662f\u4e00\u79cd\u5efa\u7acb\u5728\u9ad8\u5ea6\u7f29\u5199\u7684\u7f51\u7edc\u82f1\u8bed\u4e4b\u4e0a\u7684\u7f16\u7a0b\u8bed\u8a00\uff0c\u5982\u679c\u80fd\u7406\u89e3\u8fd9\u79cd\u7f51\u7edc\u82f1\u8bed\uff0c\u4e00\u822c\u5c31\u80fd\u5728\u672a\u7ecf\u8bad\u7ec3\u7684\u60c5\u51b5\u4e0b\u8bfb\u61c2LOLCODE\u7a0b\u5e8f\u7684\u6e90\u4ee3\u7801\u3002",
+          "LOLCODE ist eine esoterische Programmiersprache (angelehnt an den Netzjargon Lolspeak des humoristischen Internet-Ph\u00e4nomens Lolcat) und wurde im Jahr 2007 von Adam Lindsay an der Lancaster University entwickelt. Die Sprache ist bez\u00fcglich Syntax und Operatoren nicht klar definiert, jedoch existieren verschiedene funktionierende Interpreter und Compiler.",
+          "LOLCODE est un langage de programmation exotique inspir\u00e9 de l'argot Internet et du Lolcat retrouvable sur les chats et forums anglophones. Les sp\u00e9cifications sont d\u00e9finies sur le site officiel. Son objectif est d'\u00eatre \u00e0 la fois un langage simple et amusant \u00e0 lire et \u00e0 \u00e9crire.",
+          "LOLCODE is an esoteric programming language inspired by lolspeak, the language expressed in examples of the lolcat Internet meme. The language was created in 2007 by Adam Lindsay, a researcher at the Computing Department of Lancaster University. The language is not clearly defined in terms of operator priorities and correct syntax, but several functioning interpreters and compilers exist. One interpretation of the language has been proven Turing-complete.",
+          "LOLCODE adalah yang terinspirasi oleh , bahasa yang dipakai dalam meme internet lolcat. Bahasa pemrograman ini dibuat pada 2007 oleh Adam Lindsay, peneliti di Departemen Komputer Universitas Lancaster. Bahasa pemrograman ini tidak mendefinisikan secara jelas prioritas operator dan sintaks yang benar, tetapi ada beberapa interpreter dan kompiler yang berfungsi. Salah satu interpretasi bahasa ini telah terbukti .",
+          "LOLCODE \u2014 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u043f\u043e\u0434 \u0432\u043b\u0438\u044f\u043d\u0438\u0435\u043c \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0435\u043c\u0430 \u043e lolcat\u2019\u0430\u0445. \u041d\u0430 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0441\u0430\u0439\u0442\u0435 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u044d\u0442\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0438, \u0445\u043e\u0442\u044f \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u043e\u043c\u0435\u043d\u0442\u044b \u0432 \u043d\u0435\u0439 \u043d\u0435 \u043e\u043f\u0438\u0441\u0430\u043d\u044b, \u0443\u0436\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0442 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0449\u0438\u0445 \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440\u043e\u0432 \u0438 \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0442\u043e\u0440\u043e\u0432 \u044d\u0442\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430. LOLCODE \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0422\u044c\u044e\u0440\u0438\u043d\u0433-\u043f\u043e\u043b\u043d\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c, \u0442\u0430\u043a \u043a\u0430\u043a \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u0430 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440\u0430 Brainfuck \u043d\u0430 LOLCODE.",
+          "LOLCODE \u2014 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f \u043d\u0430\u0442\u0445\u043d\u0435\u043d\u043d\u0430 \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u043c\u0435\u043c\u043e\u043c lolcat'\u043e\u043c. \u041c\u043e\u0432\u0430 \u0431\u0443\u043b\u0430 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u0430 \u0432 2007 \u0440\u043e\u0446\u0456 \u0410\u0434\u0430\u043c\u043e\u044e \u041b\u0456\u043d\u0434\u0441\u0435\u0439, \u0434\u043e\u0441\u043b\u0456\u0434\u043d\u0438\u043a\u043e\u043c \u043a\u0430\u0444\u0435\u0434\u0440\u0438 \u043e\u0431\u0447\u0438\u0441\u043b\u044e\u0432\u0430\u043b\u044c\u043d\u043e\u0457 \u0442\u0435\u0445\u043d\u0456\u043a\u0438 \u041b\u0430\u043d\u043a\u0430\u0441\u0442\u0435\u0440\u0441\u044c\u043a\u043e\u0433\u043e \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0443.\u041c\u043e\u0432\u0430 \u0454 \u043f\u043e\u0432\u043d\u043e\u044e \u0437\u0430 \u0422\u044e\u0440\u0456\u043d\u0433\u043e\u043c, \u043e\u0441\u043a\u0456\u043b\u044c\u043a\u0438 \u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0440\u0435\u0430\u043b\u0456\u0437\u0430\u0446\u0456\u0457 \u0456\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440\u0430 Brainfuck \u043d\u0430 LOLCODE.",
+          "LOLCODE \u00e9s un llenguatge de programaci\u00f3 esot\u00e8ric inspirat en el llenguatge expressat en exemples del meme d'internet lolcat. El llenguatge va ser creat el 2007 per Adam Lindsay, investigador al Departament de Computaci\u00f3 de la .El llenguatge est\u00e0 clarament definit respecte a prioritat d'operadors i sintaxi correcta, per\u00f2 ja existeixen diferents interpretadors i compiladors funcionals. S'ha demostrat que el llenguatge \u00e9s Turing complet.",
+          "LOLCODE \u00e8 un linguaggio di programmazione esoterico, ispirato al fenomeno di Internet dei lolcat. Il linguaggio \u00e8 stato creato nel 2007 da , ricercatore al dipartimento di ricerca informatica della Lancaster University.",
+          "LOLCODE \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica podendo ser classificada como integrante do grupo de linguagens pertencentes ao Paradigma Imperativo. A l\u00edngua foi criada em 25 de Mar\u00e7o de 2007 por Adam Lindsay, pesquisador do Departamento de Computa\u00e7\u00e3o da Universidade de Lancaster.",
+          "LOLCODE \u2013 ezoteryczny j\u0119zyk programowania zainspirowany j\u0119zykiem pidgin English, u\u017cywanym w fenomenie internetowym LOLCAT. J\u0119zyk zosta\u0142 stworzony w 2007 r. przez Adama Lindsaya, pracownika Wydzia\u0142u Informatyki Lancaster University. J\u0119zyk nie ma jeszcze dok\u0142adnie zdefiniowanej sk\u0142adni i semantyki. Mimo to istnieje ju\u017c kilka dzia\u0142aj\u0105cych interpreter\u00f3w i kompilator\u00f3w.",
+          "LOLCODE programazio lengoai esoterikoa da, interneten famatuak diren Lolcat memetan oinarrituta dagoena. Lengoaia 2007. urtean sortu zen Adam Lindsayren eskutik, Lancaster unibertsitateko konputazio departamentuko ikertzailea.",
+          "LOLCODE \u00e4r ett esoteriskt programspr\u00e5k skapat efter Internet-memen lolcat. Spr\u00e5ket \u00e4r Turingkomplett och det finns flera implementationer. Ett klassiskt exempel: HAICAN HAS STDIO?VISIBLE \"HAI WORLD!\"KTHXBYE"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/fileExt",
+        "Values": [
+          ".lol, .lols"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/LOLCODE?oldid=1123243199&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "13265"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/Lolcat"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/LOLCODE"
+        ]
+      }
+    ]
+  }
+]

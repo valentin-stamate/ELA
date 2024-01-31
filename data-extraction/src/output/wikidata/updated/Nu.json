@@ -1,0 +1,224 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q7067717",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "2001221123"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-10-31T03:28:41Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "Objektorientierte Programmiersprache",
+          "programmeringssprog",
+          "Object-oriented programming language",
+          "\u056e\u0580\u0561\u0563\u0580\u0561\u057e\u0578\u0580\u0574\u0561\u0576 \u056c\u0565\u0566\u0578\u0582",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "bahasa pemrograman berorientasi objek",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "\ub9ac\uc2a4\ud504 \uacc4\uc5f4 \ubb38\ubc95\uc744 \uc0ac\uc6a9\ud558\ub294 \uc778\ud130\ud504\ub9ac\ud130 \ubc29\uc2dd\uc758 \uac1d\uccb4 \uc9c0\ud5a5 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Nu (\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e)",
+          "Nu\u8bed\u8a00",
+          "Nu\u8a9e\u8a00",
+          "Nu"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "17"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "3"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28922885",
+          "http://www.wikidata.org/entity/Q899523",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q7067717-B82CDC7B-6D01-4997-9B61-7382C1942A0A",
+          "http://www.wikidata.org/entity/statement/Q7067717-762D6F61-CE2F-42BB-A65C-9F511C6E2531",
+          "http://www.wikidata.org/entity/statement/Q7067717-3B23487E-AA8F-4B71-8E3A-F222E121E135"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright license",
+        "Values": [
+          "http://www.wikidata.org/entity/Q616526"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/operating system",
+        "Values": [
+          "http://www.wikidata.org/entity/Q14116"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/platform",
+        "Values": [
+          "http://www.wikidata.org/entity/Q182933"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/inception",
+        "Values": [
+          "2007-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/043jn7w"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/official website",
+        "Values": [
+          "https://programming.nu"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q79872",
+          "http://www.wikidata.org/entity/Q1418502",
+          "http://www.wikidata.org/entity/Q193076",
+          "http://www.wikidata.org/entity/Q275596",
+          "http://www.wikidata.org/entity/Q223335"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/typing discipline",
+        "Values": [
+          "http://www.wikidata.org/entity/Q1268978"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/dialect of computer language",
+        "Values": [
+          "http://www.wikidata.org/entity/Q132874"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/043jn7w"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright license",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-92A9CEFE-5D1E-49D7-9516-3D8BD796C1EE"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/operating system",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-0708930F-614D-4466-B639-89FD41B06E6A"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/platform",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-67255EE0-ACBE-4B19-9D8C-B4F2FAA241AB"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/inception",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-1581be02-41b3-c59c-bd9f-1047c755fd85"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-EABC66D1-EFB8-45FF-9392-E94AF34C78E2"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/official website",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-4DB38C99-7369-4CD4-B5C3-133B347553E8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-2A455EA5-695C-4B46-8FAB-98B943AAB9D4",
+          "http://www.wikidata.org/entity/statement/Q7067717-948A658C-7406-47BC-AA42-65E98A2B676F",
+          "http://www.wikidata.org/entity/statement/Q7067717-4f049849-4704-81b1-4c72-8f0f670f4a0d",
+          "http://www.wikidata.org/entity/statement/Q7067717-042c58ad-4aa0-97b4-8f0c-225a1fb56664",
+          "http://www.wikidata.org/entity/statement/Q7067717-6F9D1B97-5F2B-48EF-A445-A503DDCFA4EE"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-642B6581-F885-41BD-BC06-66DA98A1FC0C"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/typing discipline",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-59C4C988-8537-4F6E-809B-4CCCB0BD8CA6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/dialect of computer language",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q7067717-D5F19326-06C0-4E8D-A805-222DDB69BE96"
+        ]
+      }
+    ]
+  }
+]

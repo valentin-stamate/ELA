@@ -1,0 +1,186 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q23663311",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729786862"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T11:17:46Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "linguagem de programa\u00e7\u00e3o",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "ezoteryczny j\u0119zyk programowania stworzony przez Cliffa L. Bifflego",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "limbaj de programare",
+          "Programmiersprache",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "lenguaje de programaci\u00f3n",
+          "ohjelmointikieli",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37",
+          "esoteric programming language designed by Cliff L. Biffle"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Beatnik"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "11"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P178",
+        "Values": [
+          "http://www.wikidata.org/entity/Q26299496"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P31",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-6dcb7d6f-41af-603e-a300-b2c83c99f44b",
+          "http://www.wikidata.org/entity/statement/Q23663311-0B0C48C6-3201-4140-B06A-4FD8B33E6F73"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P178",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-4b255c63-42d6-fa18-9227-4a7a3f09ee51"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P287",
+        "Values": [
+          "http://www.wikidata.org/entity/Q26299496"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P306",
+        "Values": [
+          "http://www.wikidata.org/entity/Q174666"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P577",
+        "Values": [
+          "2001-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P856",
+        "Values": [
+          "http://cliffle.com/esoterica/beatnik.html"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P2671",
+        "Values": [
+          "/g/11cm9d_vc9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/Q52845127",
+          "http://www.wikidata.org/entity/Q28937387"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/P2671",
+        "Values": [
+          "http://g.co/kg/g/11cm9d_vc9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P287",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-91ac88ed-4396-c366-86fd-4288dc86fe5c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P306",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-52e2622a-4c54-44d2-66f4-d16cda06a4a8"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P577",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-84ac7b81-4dfb-aef2-cf2c-41c9994a5f8e"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P856",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-09deb62f-4551-9aa0-08c4-5f3782647504"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P1343",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-05D35AED-8F10-4EDC-AFBE-F7219BBEF577"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P2671",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-A611BA59-EFC1-44AC-BD2B-B912B32680F5"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/P3966",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q23663311-2F50D218-45D6-4E08-913F-7BCE90198E20",
+          "http://www.wikidata.org/entity/statement/Q23663311-eb9be925-4440-383d-0e6c-525036b98061"
+        ]
+      }
+    ]
+  }
+]

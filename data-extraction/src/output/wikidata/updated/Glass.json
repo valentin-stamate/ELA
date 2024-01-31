@@ -1,0 +1,101 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q43556364",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1729787600"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2022-09-16T11:19:58Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "esoteric programming language",
+          "yezh programmi\u00f1",
+          "langage de programmation"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Glass"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "5"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43556364-D7A63296-2483-49A6-9FBD-1A31FB02F1D4",
+          "http://www.wikidata.org/entity/statement/Q43556364-5AB17402-281B-41BB-8750-132E428956DB"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/publication date",
+        "Values": [
+          "2005-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28937387"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/publication date",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43556364-EE6F4E38-B1E3-417B-B2AF-42C27583AAF6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43556364-36608667-63E5-43A4-B1F2-AD3C2195C5B6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q43556364-F51579E7-3A6A-4A2E-888E-97713471C94F"
+        ]
+      }
+    ]
+  }
+]

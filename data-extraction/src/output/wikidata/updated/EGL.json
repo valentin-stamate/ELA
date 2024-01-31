@@ -1,0 +1,109 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q464338",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1956761093"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-08-19T20:27:02Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "linguaxe de programaci\u00f3n",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "yezh programmi\u00f1",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "Programmiersprache der 4. Generation",
+          "common language and programming model across languages, frameworks, and runtime platforms",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d02\u0d17\u0d4d \u0d2d\u0d3e\u0d37",
+          "langage de programmation"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "EGL (lenguaje de programaci\u00f3n)",
+          "EGL",
+          "EGL (linguaxe de programaci\u00f3n)",
+          "Enterprise Generation Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "EGL",
+          "Enterprise Generation Language"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "3"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "6"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/Q37156"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q464338-E7868DE9-2719-43CF-A8E4-F47EA55CAC7D"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q464338-D26544D4-5C43-4CDE-A069-B4FD01A8E172"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/04h4mm"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/04h4mm"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q464338-255D3EC6-D6F6-42D4-B588-CDCC4A0D4421"
+        ]
+      }
+    ]
+  }
+]

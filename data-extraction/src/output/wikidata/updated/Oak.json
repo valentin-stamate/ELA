@@ -1,0 +1,153 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q10318621",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "1937850978"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-07-20T14:14:47Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "linguagem de programa\u00e7\u00e3o",
+          "yezh programmi\u00f1",
+          "programming language",
+          "\u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629",
+          "Vorg\u00e4nger der Programmiersprache Java",
+          "linguaggio di programmazione",
+          "langage de programmation"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u0623\u0648\u0643",
+          "Linguagem de programa\u00e7\u00e3o Oak",
+          "Oak"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "Oak"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "7"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "3"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "1"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/named after",
+        "Values": [
+          "http://www.wikidata.org/entity/Q33036816"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/Q92622"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q10318621-c64b0e92-44a0-6676-098b-8b033b20e098"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/named after",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q10318621-4b919b5b-4735-218c-88e1-bfe1f433035c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/developer",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q10318621-c711e373-40bf-c07a-ed4c-2dfdca4c338b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/inception",
+        "Values": [
+          "1989-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/07s5t5y"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/replaced by",
+        "Values": [
+          "http://www.wikidata.org/entity/Q251"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q79872"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/07s5t5y"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/inception",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q10318621-70431c30-417e-7ccc-ef3e-1d7e3e3a0102"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q10318621-5261E8CE-56AD-436B-BCA9-08A7E15B2082"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/replaced by",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q10318621-c67f6aaa-403e-2fe6-8d8f-e1d8d0239317"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q10318621-99b707fc-4460-2a7e-ce09-6a7d6fe43d9e"
+        ]
+      }
+    ]
+  }
+]

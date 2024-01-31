@@ -1,0 +1,408 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Shelta",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/WikicatCantLanguages",
+          "http://dbpedia.org/class/yago/WikicatCelticLanguages",
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/WikicatEndangeredLanguagesOfEurope",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/Pidgin106905680",
+          "http://dbpedia.org/class/yago/WikicatLanguages",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfNorthernIreland",
+          "http://dbpedia.org/class/yago/WikicatLanguagesOfIreland",
+          "http://schema.org/Language",
+          "http://dbpedia.org/class/yago/WikicatPidginsAndCreoles",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://dbpedia.org/class/yago/WikicatMixedLanguages"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "J\u0119zyk shelta",
+          "\u0428\u0435\u043b\u0442\u0430",
+          "\u30b7\u30a7\u30eb\u30bf\u8a9e",
+          "Lingua shelta",
+          "\uc178\ud0c0\uc5b4",
+          "\u0634\u064a\u0644\u062a\u0627",
+          "Shelta",
+          "L\u00edngua shelta",
+          "\u96ea\u723e\u5854\u8a9e",
+          "An tSeiltis"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Lo Shelta /\u02c8\u0283\u025blt\u0259/ \u00e8 la lingua parlata dalla popolazione pavee, in particolar modo da quella stanziata in Irlanda e nel Regno Unito. Chiamato De Gammon dalla sua comunit\u00e0 di locutori, esso viene spesso usato come criptolinguaggio dai pavee per non farsi comprendere dagli ascoltatori esterni. Il numero esatto dei madrelingua al giorno d'oggi \u00e8 difficile da determinare, l'ultima ricerca in merito venne eseguita nel 1992 da Ethnologue e indicava il numero dei parlanti in 30.000 nel Regno Unito, 6.000 in Irlanda e 50.000 negli Stati Uniti.",
+          "Shelta (hizkuntza honetako hiztunek Gammon deitzen diote) Irish Travellers edo Irlandar \"ijitoen\" komunitateko berezko hizkuntza da. Nagusiki Irlandan eta Erresuma Batuko zenbait eremutan mintzatzen da.",
+          "Shelta is een mengtaal die de traditionele taal is van de Irish Travellers, een Ierse bevolkingsgroep met een nomadische levensstijl. Andere namen zijn Gammon, Sheldru of The Cant. De woordenschat is grotendeels gebaseerd op het Iers-Gaelisch (woorden zijn vaak daarvan afgeleid door verwisseling van klanken, zoals ook in het Franse verlan). Grammaticaal zijn er echter veel overeenkomsten met Engels. Ook zijn er wat invloeden van het Romani, hoewel de Irish Travellers zelf geen Roma zijn.",
+          "\u96ea\u723e\u5854\u8a9e\uff08Shelta\u3001Gammen\u3001Sheldru\u3001\u6216 the Cant\u300c\u9ed1\u8a71\u300d\uff09\u662f\u8a31\u591a\u611b\u723e\u862d\u6d41\u6d6a\u8005(Irish Travellers(Irish: an lucht si\u00fail)\u3001Pavee\u3001Tinkers\u3001Gypsies)\u6240\u4f7f\u7528\u7684\u8a9e\u8a00\u3002 \u96ea\u723e\u5854\u8a9e\u7684\u5b57\u5f59\u5927\u90e8\u5206\u4f86\u81ea\u611b\u723e\u862d\u8a9e\uff0c\u4e26\u5728\u501f\u5b57\u7684\u904e\u7a0b\u4e2d\u4f7f\u7528\u4e86\u4e00\u7a2e\u985e\u4f3c\u6cd5\u8a9e\u7684\u6280\u5de7\uff1b\u4f8b\u5982\u300c\u5973\u5b69\u300d\u7684\u96ea\u723e\u5854\u8a9e\u662f lakeen\uff0c\u5be6\u969b\u4e0a\u662f\u5f9e\u611b\u723e\u862d\u8a9e\u7684 cail\u00edn \u8f49\u4f86\u7684\uff08\u539f\u4f86\u524d\u5f8c\u97f3\u7bc0\u7684\u8072\u6bcd c \u548c l \u88ab\u5012\u7f6e\uff09\uff0c\u53c8\u4f8b\u5982\u300c\u9580\u300drodas \u662f\u5f9e\u611b\u723e\u862d\u8a9e\u7684 doras \u8f49\u4f86\u7684\u3002\u5728\u7d50\u69cb\u65b9\u9762\uff0c\u96ea\u723e\u5854\u8a9e\u7684\u8a9e\u8a00\u7d50\u69cb\u8207\u82f1\u8a9e\u7684\u7d50\u69cb\u6709\u8a31\u591a\u76f8\u4f3c\u8655\uff0c\u800c\u5b83\u4e5f\u5305\u542b\u4e86\u7f57\u59c6\u8bed\uff08\u5409\u666e\u8cfd\u8a9e\uff09\uff0c\u96d6\u7136\u611b\u723e\u862d\u6d41\u6d6a\u8005\u5be6\u969b\u4e0a\u4e26\u975e\u7f57\u59c6\u4eba\uff08\u5409\u666e\u8cfd\u4eba\uff09\u3002\u5373\u4f7f\u9019\u7a2e\u8a9e\u8a00\u5305\u542b\u4e86\u5927\u91cf\u7684\u975e\u51f1\u723e\u7279\u8a9e\u8a00\u7684\u5143\u7d20\uff0c\u96ea\u723e\u5854\u8a9e\u4ecd\u5e38\u5e38\u88ab\u8aa4\u8a8d\u70ba\u662f\u51f1\u723e\u7279\u8a9e\u65cf\u5e95\u4e0b\u7684\u84cb\u723e\u4e9e\u652f\u8a9e\u8a00\u4e4b\u4e00\uff0c\u4f46\u5b83\u5be6\u969b\u4e0a\u50c5\u662f\u4e00\u7a2e\u6839\u57fa\u65bc\u611b\u723e\u862d\u8a9e\u548c\u82f1\u8a9e\u7684\u9ed1\u8a71\uff0c\u4e26\u4e3b\u8981\u4ee5\u82f1\u8a9e\u70ba\u5176\u8a9e\u6cd5\u7684\u57fa\u790e\u3002 \u5168\u4e16\u754c\u7d04\u6709 86,000 \u500b\u96ea\u723e\u5854\u8a9e\u4f7f\u7528\u8005\uff0c\u5176\u4e2d\u53c8\u6709 6,000 \u5230 25,000 \u7684\u4f7f\u7528\u8005\u662f\u5c45\u4f4f\u65bc\u611b\u723e\u862d\u5404\u5730\u3002\u96ea\u723e\u5854\u8a9e\u7684\u4f7f\u7528\u8005\u5e7e\u4e4e\u5168\u662f\u611b\u723e\u862d\u6d41\u6d6a\u8005\uff0c\u4e0d\u904e\u81ea1870\u5e74\u4ee3\u5c31\u5df2\u7d93\u6709\u8a9e\u8a00\u5b78\u5bb6\u958b\u59cb\u8a18\u9304\u9019\u7a2e\u8a9e\u8a00\u3002\u51f1\u723e\u7279\u8a9e\u8a00\u5b78\u5bb6 Kuno Meyer \u548c\u5409\u666e\u585e\u8a9e\u8a00\u5b78\u5bb6 John Sampson \u90fd\u8a8d\u70ba\u96ea\u723e\u5854\u8a9e\u6700\u65e9\u5728\u5341\u4e09\u4e16\u7d00\u5c31\u5df2\u7d93\u5b58\u5728\u3002",
+          "Shelta (/\u02c8\u0283\u025blt\u0259/; Irish: Seiltis) is a language spoken by Rilantu Minc\u00e9ir\u00ed (Irish Travellers), particularly in Ireland and the United Kingdom. It is widely known as the Cant, to its native speakers in Ireland as De Gammon, and to the linguistic community as Shelta. It was often used as a cryptolect to exclude outsiders from comprehending conversations between Travellers, although this aspect is frequently overemphasised. The exact number of native speakers is hard to determine due to sociolinguistic issues but Ethnologue puts the number of speakers at 30,000 in the UK, 6,000 in Ireland, and 50,000 in the US. The figure for at least the UK is dated to 1990; it is not clear if the other figures are from the same source.",
+          "Le shelta (en anglais : /\u02c8\u0283\u025bl.t\u0259/ ; en irlandais : Seiltis) est la langue des Travellers irlandais. Son origine n'est pas bien connue, bien qu'une partie de son lexique soit emprunt\u00e9e au ga\u00e9lique irlandais et une autre \u00e0 l'anglais. Il est parl\u00e9 surtout en Irlande, mais aussi au Royaume-Uni et aux \u00c9tats-Unis (surtout \u00e0 New York).Bien qu'on exag\u00e8re l'importance de ce fait, on l'utilisait souvent en tant que langue secr\u00e8te (cryptolecte) pour que les \u00e9trangers ne comprennent pas les conversations des Travellers.",
+          "Shelta (tamb\u00e9m conhecida como Gammen, Sheldru, Pavee, Caint\u00edotar ou simplesmente \"The Cant\") \u00e9 uma l\u00edngua falada pelo povo irland\u00eas Pavee. Foi muitas vezes utilizada para ocultar o significado daqueles fora do grupo. A linguagem \u00e9 encontrada em toda a Irlanda, por\u00e9m \u00e9 mais concentrada no Sudeste do pa\u00eds.",
+          "Is teanga mheasctha de chuid an lucht si\u00fail in \u00c9irinn ach go h\u00e1irithe, is in \u00e1iteanna sa Bhreatain Mh\u00f3r, \u00ed an tSeiltis (sa teangeola\u00edocht; Shelta i mB\u00e9\u00e1rla) n\u00f3 Caintis (Cant i mB\u00e9\u00e1rla; t\u00e1 t\u00f3ir ar an bhfocal seo ach go h\u00e1irithe). Tugtar an lucht si\u00fail Gaimis (de Gammon i mB\u00e9\u00e1rla) air. N\u00ed bh\u00edonn figi\u00fair\u00ed cruinne faoi l\u00edon na gcainteoir\u00ed Caintise ar f\u00e1il ach meastar go bhfuil tuairim is 5,000 \u2013 6,000 duine in \u00c9irinn a bhfuil cumas \u00e9igin sa teanga acu.",
+          "\uc178\ud0c0\uc5b4 \ub610\ub294 \"\uc178\ud0c0\"(Shelta)\ub294 \uc544\uc77c\ub79c\ub4dc \ubc0f \uc601\uad6d \uc77c\ubd80\uc5d0 \uc0ac\ub294 \uc544\uc77c\ub79c\ub4dc \uc720\ub791\ubbfc \uacf5\ub3d9\uccb4\uc5d0\uc11c \uc4f0\uc774\ub294 \ub9d0\uc774\ub2e4. \uc178\ud0c0\uc5b4\ub97c \uac00\ub9ac\ud0a4\ub294 \ub9d0\uc740 \uc5ec\ub7ec\uac00\uc9c0\uac00 \uc788\ub294\ub370, \uc544\uc77c\ub79c\ub4dc\uc5d0\uc11c\ub294 \uc5b8\uc5b4\ucabd\uc744 \uac10\ubaac(Gammon)\uc774\ub77c \ud558\uace0, \uadf8 \uacf5\ub3d9\uccb4\ub97c \uc178\ud0c0\ub77c \ud55c\ub2e4. (\uc5b8\uc5b4\uba85\uce6d\uc758 \uc178\ud0c0\ub294 \uc601\uc5b4\uad8c\uc758 \uc6a9\ubc95\uc774\ub2e4) \uc178\ud0c0\ub294 \uc77c\ubc18 \uc5b8\uc5b4\ub77c\uae30 \ubcf4\ub2e4\ub294 \ubcc0\ub9d0\uc774\ub098 \uc740\uc5b4\uc801 \uc131\uaca9\uc774 \uc9d9\uc740 \ub9d0\ub85c\uc11c, \uc8fc\ub85c \uc678\ubd80\uc778\uc5d0\uac8c \uc720\ub791\ubbfc \uc0ac\uc774\uc758 \uc758\uc0ac\uc18c\ud1b5\uc758 \ub0b4\uc6a9\uc744 \ub4e4\ud0a4\uc9c0 \uc54a\ub3c4\ub85d \ud558\ub294 \uad6c\uc2e4\uc744 \ud55c\ub2e4. \uc178\ud0c0\uc5b4\uc758 \uc0ac\uc6a9\uc778\uad6c\ub294 \uc815\ud655\ud55c \ucd94\uc0b0\uc774 \uc5b4\ub835\uc9c0\ub9cc, \uc5d0\uc2a4\ub180\ub85c\uadf8\uc5d0 \ub530\ub974\uba74 \uc801\uac8c 6000\uba85\uc5d0\uc11c \ucd5c\ub300 86000\uba85\uae4c\uc9c0 \uc5b4\ub9bc\uc7a1\uace0 \uc788\ub2e4. \uad6c\uc870\uc801\uc73c\ub85c \uc178\ud0c0\uc5b4\ub294 \uc77c\uc885\uc758 \ud06c\ub9ac\uc62c(\uc5b8\uc5b4)\uc758 \uc131\uaca9\uc744 \ub744\uace0 \uc788\ub2e4. \uc178\ud0c0\uc758 \uc0ac\uc6a9\uc790\ub294 \uc544\uc77c\ub79c\ub4dc\uc5b4 \ubaa8\uc5b4\ud654\uc790\uc778 \uc544\uc77c\ub79c\ub4dc\uacc4\uc774\uace0, \uc720\ub791\uc0dd\ud65c \uc911\uc5d0 \uc601\uc5b4 \uc774\uc911\ud654\uc790\uac00 \ub418\uc5c8\uc73c\uba70, \ub530\ub77c\uc11c \uc544\uc77c\ub79c\ub4dc \uc601\uc5b4\uc640 \uc544\uc77c\ub79c\ub4dc\uc5b4(-\uac8c\uc77c\uc5b4)\uc758 \uac04\uc12d\uc774 \ud06c\ub2e4. \uc178\ud0c0\ub294 \uc9c0\uc5ed\uc801\uc73c\ub85c \uc601\uc5b4\ud654\ub41c \uc815\ub3c4\uc758 \ucc28\uc774\uac00 \uc788\ub294\ub370, \uc815\ud655\ud55c \uc218\uce58\ub294 \uc544\ub2c8\uc9c0\ub9cc, \ub300\ub7b5 \uc178\ud0c0\uc5b4 \ub2e8\uc5b4 \uac00\uc6b4\ub370 2000-3000\uac1c\uc758 \uac8c\uc77c\uc5b4\uacc4 \uae30\uce35 \ub0b1\ub9d0\uc774 \uae54\ub824 \uc788\ub294 \uac83\uc73c\ub85c \ubcf8\ub2e4.(Oxford Companion)",
+          "\u30b7\u30a7\u30eb\u30bf\u8a9e(\u30b7\u30a7\u30eb\u30bf\u3054\u3001Shelta\u3001[\u02c8\u0283\u025blt\u0259])\u306f\u3001\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u304a\u3088\u3073\u30a4\u30ae\u30ea\u30b9\u306e\u4e00\u90e8\u306b\u3066\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5\u30fb\u30c8\u30e9\u30f4\u30a7\u30e9\u30fc\u306e\u8a71\u3059\u8a00\u8a9e\u3002",
+          "Shelta (auch als Gammen, Sheldru oder Cant bezeichnet) ist eine Mischsprache, die Elemente irisch-g\u00e4lischen und englischen Ursprungs sowie Merkmale weiterer indogermanischer Sprachen aufweist. Die Bezeichnung geht wahrscheinlich auf das irische si\u00falta, das \u201eauf Wanderschaft\u201c bedeutet, zur\u00fcck. Dies bezieht sich auf den nomadischen Lebensstil ihrer Sprecher: Shelta wird von der (urspr\u00fcnglich) nicht oder nur teilweise sesshaften Bev\u00f6lkerung der britischen Inseln, den h\u00e4ufig so genannten Tinkers (Pavee, Travellers) gesprochen.",
+          "El shelta es el idioma tradicional de los \"n\u00f3madas irlandeses\". Lo hablan unas 85.000 personas en Irlanda, Reino Unido y Estados Unidos, de las que entre 6.000 y 25.000 viven en Irlanda. La mayor parte del vocabulario se basa en el idioma irland\u00e9s, con muchas palabras invertidas de estilo un tanto informal como el dialecto franc\u00e9s denominado verlan. El idioma tiene su origen en versiones antiguas del irland\u00e9s, por lo que originalmente deriva del dialecto goid\u00e9lico proveniente de la familia del idioma celta.",
+          "J\u0119zyk shelta (znany tak\u017ce jako Gammen, Sheldru, Pavee, Caint\u00edotar lub w skr\u00f3cie \u201eThe Cant\u201d) \u2013 oparty na angielskim j\u0119zyk mieszany ze znacznym udzia\u0142em s\u0142ownictwa pochodzenia irlandzkiego. Jest to j\u0119zyk w\u0119drownej grupy ludzi zwanej podr\u00f3\u017cnikami irlandzkimi (Irish Travellers), pierwotnie pochodz\u0105cej z Irlandii, a obecnie zamieszkuj\u0105cej Irlandi\u0119, Wielk\u0105 Brytani\u0119 i Stany Zjednoczone. Oparty w du\u017cym stopniu na j\u0119zyku irlandzkim. Jego nazwa wywodzi si\u0119 prawdopodobnie z j\u0119zyka irlandzkiego (si\u00falta \u2013 w\u0119drowa\u0107) wskazuj\u0105c na nomadyczny charakter jego u\u017cytkownik\u00f3w.",
+          "\u0428\u0435\u043b\u0442\u0430, \u0491\u0430\u043c\u043c\u043e\u043d, \u043a\u0430\u043d\u0442 \u2014 \u0437\u043c\u0456\u0448\u0430\u043d\u0430 \u043c\u043e\u0432\u0430 \u043c\u043e\u0432\u0430 \u0456\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u0445 \u043c\u0430\u043d\u0434\u0440\u0456\u0432\u043d\u0438\u043a\u0456\u0432 (\u043f\u0435\u0439\u0432\u0456), \u043f\u043e\u0448\u0438\u0440\u0435\u043d\u0430 \u043d\u0430\u0441\u0430\u043c\u043f\u0435\u0440\u0435\u0434 \u0432 \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u0457 \u0442\u0430 \u0412\u0435\u043b\u0438\u043a\u0456\u0439 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u0457. \u0417\u043d\u0430\u043d\u0430 \u0442\u0430\u043a\u043e\u0436 \u044f\u043a \u0414\u0435 \u0490\u0430\u043c\u043c\u043e\u043d (\u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430). \u0422\u0430\u043a\u043e\u0436 \u043f\u0435\u0439\u0432\u0456 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u044e\u0442\u044c \u0457\u0457 \u044f\u043a (\u0441\u0435\u043a\u0440\u0435\u0442\u043d\u0430 \u043c\u043e\u0432\u0430), \u0449\u043e\u0431 \u0437\u0430\u043f\u043e\u0431\u0456\u0433\u0442\u0438 \u0440\u043e\u0437\u0443\u043c\u0456\u043d\u043d\u044e \u0457\u0445\u043d\u044c\u043e\u0457 \u0440\u043e\u0437\u043c\u043e\u0432\u0438 \u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0456\u043c\u0438 \u043b\u044e\u0434\u044c\u043c\u0438. \u041d\u0438\u043d\u0456 \u0434\u043e\u0441\u0438\u0442\u044c \u0432\u0430\u0436\u043a\u043e \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0438 \u0442\u043e\u0447\u043d\u0443 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043c\u043e\u0432\u0446\u0456\u0432 \u0448\u0435\u043b\u0442\u0430, \u0430\u043b\u0435 \u0437\u0430 \u0434\u0430\u043d\u0438\u043c\u0438 Ethnologue 6 \u0442\u0438\u0441. \u043e\u0441\u0456\u0431 \u0433\u043e\u0432\u043e\u0440\u044f\u0442\u044c \u043d\u0435\u044e \u0432 \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u0457, 30 \u0442\u0438\u0441. \u0443 \u0412\u0435\u043b\u0438\u043a\u0456\u0439 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u0457 \u0442\u0430 50 \u0442\u0438\u0441. \u0443 \u0421\u0428\u0410.",
+          "\u0428\u0435\u043b\u0442\u0430, Shelta (\u044d\u043a\u0437\u043e\u043d\u0438\u043c), \u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 Gammon, \u0438\u043b\u0438 the Cant, \u044f\u0437\u044b\u043a \u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439 \u043a\u0430\u043a \u0438\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u0438.",
+          "\u0634\u064a\u0644\u062a\u0627 (\u062a\u064f\u0644\u0641\u0638: \u200e/\u200f\u02c8\u0283\u025blt\u0259\u200e/\u200f) \u0647\u064a \u0644\u063a\u0629 \u064a\u062a\u0643\u0644\u0645\u0647\u0627 \u0627\u0644\u0631\u062d\u0644 \u0627\u0644\u0623\u064a\u0631\u0644\u0646\u062f\u064a\u0648\u0646 \u062a\u062d\u062f\u064a\u062f\u0627\u064b \u0641\u064a \u0623\u064a\u0631\u0644\u0646\u062f\u0627 \u0648\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0645\u0646 \u0627\u0644\u0635\u0639\u0628 \u0628\u0645\u0643\u0627\u0646 \u062a\u062d\u062f\u064a\u062f \u0639\u062f\u062f \u062f\u0642\u064a\u0642 \u0644\u0645\u062a\u062d\u062f\u062b\u064a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0623\u0635\u0644\u064a\u064a\u0646 \u0628\u0633\u0628\u0628 \u0648\u062c\u0648\u062f \u0645\u0634\u0627\u0643\u0644 \u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629-\u0644\u063a\u0648\u064a\u0629. \u0644\u0643\u0646 \u062a\u0642\u062f\u0631 \u00ab\u0625\u062b\u0646\u0648\u0644\u0648\u062c\u00bb \u0639\u062f\u062f \u0645\u062a\u062d\u062f\u062b\u064a \u0627\u0644\u0644\u063a\u0629 \u0639\u0646\u062f \u062d\u0648\u0627\u0644\u064a 30,000 \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0648 6,000 \u0641\u064a \u0623\u064a\u0631\u0644\u0646\u062f\u0627 \u0648 50,000 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u064a\u0639\u0648\u062f \u0639\u062f\u062f \u0627\u0644\u0645\u062a\u062d\u062f\u062b\u064a\u0646 \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0644\u0639\u0627\u0645 1990\u060c \u0641\u064a\u0645\u0627 \u0645\u0646 \u063a\u064a\u0631 \u0627\u0644\u0648\u0627\u0636\u062d \u0625\u0630\u0627 \u0645\u0627 \u0643\u0627\u0646\u062a \u0627\u0644\u0623\u0639\u062f\u0627\u062f \u0627\u0644\u0623\u062e\u0631\u0649 \u062a\u0639\u0648\u062f \u0644\u0644\u0645\u0635\u062f\u0631 \u0630\u0627\u062a\u0647.",
+          "Shelta (eget namn: De Gammon) \u00e4r ett blandspr\u00e5k mellan engelska och iriska som anv\u00e4nds av sheltafolket i Irland och delvis i Storbritannien ocks\u00e5. Antal talare \u00e4r cirka 27 000. Shelta har ganska m\u00e5nga likheter med gamla irl\u00e4ndska som talades p\u00e5 1200-talet. Spr\u00e5ket har ingen skriftlig standard. R\u00e4kneord 1-10 p\u00e5 shelta:",
+          "Shelta (v\u00fdslovnost: \u0161elta, IPA: /\u02c8\u0283\u025blt\u0259/, irsky: An tSeiltis, rodil\u00fdmi mluv\u010d\u00edmi naz\u00fdv\u00e1n De Gammon, t\u00e9\u017e Seldru) je tradi\u010dn\u00edm jazykem irsk\u00fdch ko\u010dovn\u00edk\u016f. Jedn\u00e1 se o sm\u00ed\u0161en\u00fd jazyk, vznikl sm\u00edsen\u00edm angli\u010dtiny (hlavn\u011b ) a ir\u0161tiny."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "De Gammon",
+          "Shelta"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "Shelta"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Languages_of_the_Republic_of_Ireland",
+          "http://dbpedia.org/resource/Category:English-based_pidgins_and_creoles",
+          "http://dbpedia.org/resource/Category:Cant_languages",
+          "http://dbpedia.org/resource/Category:English-based_argots",
+          "http://dbpedia.org/resource/Category:Macaronic_forms_of_English",
+          "http://dbpedia.org/resource/Category:Languages_of_Ireland",
+          "http://dbpedia.org/resource/Category:Irish_dialects",
+          "http://dbpedia.org/resource/Category:Irish_Travellers"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "196295"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1121880412"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Republic_of_Ireland",
+          "http://dbpedia.org/resource/United_Kingdom",
+          "http://dbpedia.org/resource/Verbal_noun",
+          "http://dbpedia.org/resource/Close-mid_vowel",
+          "http://dbpedia.org/resource/Diaspora",
+          "http://dbpedia.org/resource/Bloke",
+          "http://dbpedia.org/resource/Nasal_stop",
+          "http://dbpedia.org/resource/Dorsal_consonant",
+          "http://dbpedia.org/resource/Central_vowel",
+          "http://dbpedia.org/resource/Labial_consonant",
+          "http://dbpedia.org/resource/Category:Cant_languages",
+          "http://dbpedia.org/resource/Indo-European_languages",
+          "http://dbpedia.org/resource/Hiberno-English",
+          "http://dbpedia.org/resource/Syntax",
+          "http://dbpedia.org/resource/Charles_Leland",
+          "http://dbpedia.org/resource/Sociologist",
+          "http://dbpedia.org/resource/Romani_language",
+          "http://dbpedia.org/resource/Bilingualism",
+          "http://dbpedia.org/resource/Celtic_languages",
+          "http://dbpedia.org/resource/Category:Irish_dialects",
+          "http://dbpedia.org/resource/Celtic_studies",
+          "http://dbpedia.org/resource/R._A._Stewart_Macalister",
+          "http://dbpedia.org/resource/Grammar",
+          "http://dbpedia.org/resource/Romanian_language",
+          "http://dbpedia.org/resource/Approximant",
+          "http://dbpedia.org/resource/Palatalization_(phonetics)",
+          "http://dbpedia.org/resource/Irish_Traveller",
+          "http://dbpedia.org/resource/Category:Macaronic_forms_of_English",
+          "http://dbpedia.org/resource/Back_slang",
+          "http://dbpedia.org/resource/Back_vowel",
+          "http://dbpedia.org/resource/Mutual_intelligibility",
+          "http://dbpedia.org/resource/Front_vowel",
+          "http://dbpedia.org/resource/Category:English-based_argots",
+          "http://dbpedia.org/resource/Velarization",
+          "http://dbpedia.org/resource/Open_vowel",
+          "http://dbpedia.org/resource/Category:Languages_of_Ireland",
+          "http://dbpedia.org/resource/Substratum",
+          "http://dbpedia.org/resource/Cant_(language)",
+          "http://dbpedia.org/resource/Bungi_Creole",
+          "http://dbpedia.org/resource/Category:Languages_of_the_Republic_of_Ireland",
+          "http://dbpedia.org/resource/Gaeilge",
+          "http://dbpedia.org/resource/Affricate",
+          "http://dbpedia.org/resource/Vocabulary",
+          "http://dbpedia.org/resource/Uvular_consonant",
+          "http://dbpedia.org/resource/Close_vowel",
+          "http://dbpedia.org/resource/Irish_language",
+          "http://dbpedia.org/resource/Beurla_Reagaird",
+          "http://dbpedia.org/resource/Germanic_languages",
+          "http://dbpedia.org/resource/Fricative_consonant",
+          "http://dbpedia.org/resource/Coronal_consonant",
+          "http://dbpedia.org/resource/Mixed_language",
+          "http://dbpedia.org/resource/Lateral_consonant",
+          "http://dbpedia.org/resource/Palatal_consonant",
+          "http://dbpedia.org/resource/Ethnologue",
+          "http://dbpedia.org/resource/Creole_language",
+          "http://dbpedia.org/resource/Latin_script",
+          "http://dbpedia.org/resource/Open-mid_vowel",
+          "http://dbpedia.org/resource/Polari",
+          "http://dbpedia.org/resource/Category:English-based_pidgins_and_creoles",
+          "http://dbpedia.org/resource/Anglicisation",
+          "http://dbpedia.org/resource/Irish_Travellers",
+          "http://dbpedia.org/resource/Rhotic_consonant",
+          "http://dbpedia.org/resource/Cryptolect",
+          "http://dbpedia.org/resource/Stop_consonant",
+          "http://dbpedia.org/resource/Kuno_Meyer",
+          "http://dbpedia.org/resource/Affix",
+          "http://dbpedia.org/resource/Language",
+          "http://dbpedia.org/resource/Lord's_Prayer",
+          "http://dbpedia.org/resource/Linguist",
+          "http://dbpedia.org/resource/Metathesis_(linguistics)",
+          "http://dbpedia.org/resource/Voice_(phonetics)",
+          "http://dbpedia.org/resource/Category:Irish_Travellers",
+          "http://dbpedia.org/resource/John_Sampson_(linguist)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "https://web.archive.org/web/20140920033126/http:/www.travellersrest.org/sheltanocant990418.htm"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://uk.dbpedia.org/resource/\u0428\u0435\u043b\u0442\u0430",
+          "http://ru.dbpedia.org/resource/\u0428\u0435\u043b\u0442\u0430",
+          "http://fa.dbpedia.org/resource/\u0632\u0628\u0627\u0646_\u0634\u0644\u062a\u0627",
+          "http://cs.dbpedia.org/resource/Shelta",
+          "http://it.dbpedia.org/resource/Lingua_shelta",
+          "https://global.dbpedia.org/id/3PLQR",
+          "http://fr.dbpedia.org/resource/Shelta",
+          "http://ast.dbpedia.org/resource/Shelta",
+          "http://eu.dbpedia.org/resource/Shelta",
+          "http://pl.dbpedia.org/resource/J\u0119zyk_shelta",
+          "http://pms.dbpedia.org/resource/Lenga_shelta",
+          "http://zh.dbpedia.org/resource/\u96ea\u723e\u5854\u8a9e",
+          "http://no.dbpedia.org/resource/Shelta",
+          "http://es.dbpedia.org/resource/Shelta",
+          "http://de.dbpedia.org/resource/Shelta",
+          "http://nl.dbpedia.org/resource/Shelta",
+          "http://ga.dbpedia.org/resource/An_tSeiltis",
+          "http://he.dbpedia.org/resource/\u05e9\u05dc\u05d8\u05d4",
+          "http://gd.dbpedia.org/resource/Seulra",
+          "http://ko.dbpedia.org/resource/\uc178\ud0c0\uc5b4",
+          "http://rdf.freebase.com/ns/m.01bx1n",
+          "http://fi.dbpedia.org/resource/Shelta",
+          "http://ar.dbpedia.org/resource/\u0634\u064a\u0644\u062a\u0627",
+          "http://gl.dbpedia.org/resource/Shelta",
+          "http://ur.dbpedia.org/resource/\u0634\u06cc\u0644\u0679\u0627",
+          "http://vi.dbpedia.org/resource/Ti\u1ebfng_Shelta",
+          "http://hr.dbpedia.org/resource/Shelta_jezik",
+          "http://www.wikidata.org/entity/Q36705",
+          "http://pt.dbpedia.org/resource/L\u00edngua_shelta",
+          "http://ja.dbpedia.org/resource/\u30b7\u30a7\u30eb\u30bf\u8a9e",
+          "http://yago-knowledge.org/resource/Shelta",
+          "http://sv.dbpedia.org/resource/Shelta"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Celtic_languages",
+          "http://dbpedia.org/resource/Template:Irish_Travellers",
+          "http://dbpedia.org/resource/Template:Languages_of_Ireland",
+          "http://dbpedia.org/resource/Template:Infobox_language",
+          "http://dbpedia.org/resource/Template:Use_dmy_dates",
+          "http://dbpedia.org/resource/Template:IPA-ga",
+          "http://dbpedia.org/resource/Template:EngvarB",
+          "http://dbpedia.org/resource/Template:IPAc-en",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:IPAlink",
+          "http://dbpedia.org/resource/Template:Blockquote"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/script",
+        "Values": [
+          "http://dbpedia.org/resource/Latin_script"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/altname",
+        "Values": [
+          "The Seldru"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/date",
+        "Values": [
+          "1992"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/fam",
+        "Values": [
+          "Celtic, Germanic",
+          "http://dbpedia.org/resource/Indo-European_languages"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/ref",
+        "Values": [
+          "e12"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/region",
+        "Values": [
+          "Spoken by Irish Travellers"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/states",
+        "Values": [
+          "Ireland, by Irish Travellers, also spoken by Irish Traveller diaspora"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/speakers",
+        "Values": [
+          "90000"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "Lo Shelta /\u02c8\u0283\u025blt\u0259/ \u00e8 la lingua parlata dalla popolazione pavee, in particolar modo da quella stanziata in Irlanda e nel Regno Unito. Chiamato De Gammon dalla sua comunit\u00e0 di locutori, esso viene spesso usato come criptolinguaggio dai pavee per non farsi comprendere dagli ascoltatori esterni. Il numero esatto dei madrelingua al giorno d'oggi \u00e8 difficile da determinare, l'ultima ricerca in merito venne eseguita nel 1992 da Ethnologue e indicava il numero dei parlanti in 30.000 nel Regno Unito, 6.000 in Irlanda e 50.000 negli Stati Uniti. Malgrado originariamente nella comunit\u00e0 pavee fosse predominante l'utilizzo del gaelico irlandese, la permanenza nei pressi dei grossi centri abitati e la conseguente assimilazione graduale della lingua inglese ha portato alla formazione dello shelta come creolo avente elementi morfologici di entrambi gli idiomi, basato sul dialetto inglese parlato in Irlanda con forti influenze dal gaelico. Le differenti varianti dello shelta presenti sul territorio irlandese mostrano inoltre diversi gradi di anglicizzazione, rendendo difficile quindi stabilire quanto determinante sia il substrato gaelico che comunque, secondo una stima dell'Oxford Companion to the English Language si aggira attorno a un contributo linguistico di 2.000/3.000 parole.",
+          "Shelta (hizkuntza honetako hiztunek Gammon deitzen diote) Irish Travellers edo Irlandar \"ijitoen\" komunitateko berezko hizkuntza da. Nagusiki Irlandan eta Erresuma Batuko zenbait eremutan mintzatzen da.",
+          "\u96ea\u723e\u5854\u8a9e\uff08Shelta\u3001Gammen\u3001Sheldru\u3001\u6216 the Cant\u300c\u9ed1\u8a71\u300d\uff09\u662f\u8a31\u591a\u611b\u723e\u862d\u6d41\u6d6a\u8005(Irish Travellers(Irish: an lucht si\u00fail)\u3001Pavee\u3001Tinkers\u3001Gypsies)\u6240\u4f7f\u7528\u7684\u8a9e\u8a00\u3002 \u96ea\u723e\u5854\u8a9e\u7684\u5b57\u5f59\u5927\u90e8\u5206\u4f86\u81ea\u611b\u723e\u862d\u8a9e\uff0c\u4e26\u5728\u501f\u5b57\u7684\u904e\u7a0b\u4e2d\u4f7f\u7528\u4e86\u4e00\u7a2e\u985e\u4f3c\u6cd5\u8a9e\u7684\u6280\u5de7\uff1b\u4f8b\u5982\u300c\u5973\u5b69\u300d\u7684\u96ea\u723e\u5854\u8a9e\u662f lakeen\uff0c\u5be6\u969b\u4e0a\u662f\u5f9e\u611b\u723e\u862d\u8a9e\u7684 cail\u00edn \u8f49\u4f86\u7684\uff08\u539f\u4f86\u524d\u5f8c\u97f3\u7bc0\u7684\u8072\u6bcd c \u548c l \u88ab\u5012\u7f6e\uff09\uff0c\u53c8\u4f8b\u5982\u300c\u9580\u300drodas \u662f\u5f9e\u611b\u723e\u862d\u8a9e\u7684 doras \u8f49\u4f86\u7684\u3002\u5728\u7d50\u69cb\u65b9\u9762\uff0c\u96ea\u723e\u5854\u8a9e\u7684\u8a9e\u8a00\u7d50\u69cb\u8207\u82f1\u8a9e\u7684\u7d50\u69cb\u6709\u8a31\u591a\u76f8\u4f3c\u8655\uff0c\u800c\u5b83\u4e5f\u5305\u542b\u4e86\u7f57\u59c6\u8bed\uff08\u5409\u666e\u8cfd\u8a9e\uff09\uff0c\u96d6\u7136\u611b\u723e\u862d\u6d41\u6d6a\u8005\u5be6\u969b\u4e0a\u4e26\u975e\u7f57\u59c6\u4eba\uff08\u5409\u666e\u8cfd\u4eba\uff09\u3002\u5373\u4f7f\u9019\u7a2e\u8a9e\u8a00\u5305\u542b\u4e86\u5927\u91cf\u7684\u975e\u51f1\u723e\u7279\u8a9e\u8a00\u7684\u5143\u7d20\uff0c\u96ea\u723e\u5854\u8a9e\u4ecd\u5e38\u5e38\u88ab\u8aa4\u8a8d\u70ba\u662f\u51f1\u723e\u7279\u8a9e\u65cf\u5e95\u4e0b\u7684\u84cb\u723e\u4e9e\u652f\u8a9e\u8a00\u4e4b\u4e00\uff0c\u4f46\u5b83\u5be6\u969b\u4e0a\u50c5\u662f\u4e00\u7a2e\u6839\u57fa\u65bc\u611b\u723e\u862d\u8a9e\u548c\u82f1\u8a9e\u7684\u9ed1\u8a71\uff0c\u4e26\u4e3b\u8981\u4ee5\u82f1\u8a9e\u70ba\u5176\u8a9e\u6cd5\u7684\u57fa\u790e\u3002 \u5168\u4e16\u754c\u7d04\u6709 86,000 \u500b\u96ea\u723e\u5854\u8a9e\u4f7f\u7528\u8005\uff0c\u5176\u4e2d\u53c8\u6709 6,000 \u5230 25,000 \u7684\u4f7f\u7528\u8005\u662f\u5c45\u4f4f\u65bc\u611b\u723e\u862d\u5404\u5730\u3002\u96ea\u723e\u5854\u8a9e\u7684\u4f7f\u7528\u8005\u5e7e\u4e4e\u5168\u662f\u611b\u723e\u862d\u6d41\u6d6a\u8005\uff0c\u4e0d\u904e\u81ea1870\u5e74\u4ee3\u5c31\u5df2\u7d93\u6709\u8a9e\u8a00\u5b78\u5bb6\u958b\u59cb\u8a18\u9304\u9019\u7a2e\u8a9e\u8a00\u3002\u51f1\u723e\u7279\u8a9e\u8a00\u5b78\u5bb6 Kuno Meyer \u548c\u5409\u666e\u585e\u8a9e\u8a00\u5b78\u5bb6 John Sampson \u90fd\u8a8d\u70ba\u96ea\u723e\u5854\u8a9e\u6700\u65e9\u5728\u5341\u4e09\u4e16\u7d00\u5c31\u5df2\u7d93\u5b58\u5728\u3002 \u4e00\u822c\u8a8d\u70ba\u300c\u96ea\u723e\u5854\u300d\"Shelta\" \u6b64\u5b57\u4f86\u81ea\u611b\u723e\u862d\u8a9e\u7684 si\u00falta\uff0c\u610f\u601d\u662f\u300c\u8d70\u8def\u7684\u300d\uff0c\u660e\u767d\u6307\u51fa\u611b\u723e\u862d\u6d41\u6d6a\u8005\u7684\u6d41\u6d6a\u751f\u6d3b\u578b\u614b\uff0c\u9019\u4e5f\u8207\u611b\u723e\u862d\u7684\u82f1\u8a9e\u4f7f\u7528\u8005\u6709\u6642\u5c0d\u4ed6\u5011\u7684\u53e6\u4e00\u7a2e\u7a31\u547c\u300c\u8d70\u8def\u7684\u4eba\u300d\"the Walking People\" \u76f8\u4e92\u61c9\u3002\u611b\u723e\u862d\u8a9e\u7684\u300c\u611b\u723e\u862d\u6d41\u6d6a\u8005\u300d\u662f an Lucht si\u00fail\uff0c\u610f\u70ba\u300c\u8d70\u8def\u7684\u4eba\u300d\uff0c\u4f46\u53e6\u4e00\u7a2e\u8f03\u5c11\u898b\u7684\u8aaa\u6cd5 an Lucht si\u00falta \u4e5f\u5b58\u5728\uff0c\u53ef\u80fd\u6b63\u8aaa\u660e\u611b\u723e\u862d\u8a9e\u7684 si\u00falta \u5c31\u662f\u300c\u96ea\u723e\u5854\u300d\"Shelta\" \u7684\u4f86\u6e90\u3002",
+          "El shelta es el idioma tradicional de los \"n\u00f3madas irlandeses\". Lo hablan unas 85.000 personas en Irlanda, Reino Unido y Estados Unidos, de las que entre 6.000 y 25.000 viven en Irlanda. La mayor parte del vocabulario se basa en el idioma irland\u00e9s, con muchas palabras invertidas de estilo un tanto informal como el dialecto franc\u00e9s denominado verlan. El idioma tiene su origen en versiones antiguas del irland\u00e9s, por lo que originalmente deriva del dialecto goid\u00e9lico proveniente de la familia del idioma celta. Lo hablan exclusivamente los n\u00f3madas irlandeses y sus descendientes. Los ling\u00fcistas, que lo han estudiado desde la d\u00e9cada de 1870, mantienen que el shelta existe desde hace varios siglos, pero no se ponen de acuerdo sobre su origen. Kuno Meyer, experto en lenguas celtas, y John Sampson, experto rom\u00e1nico, sostienen que la lengua ya exist\u00eda antes del siglo XIII. Otras fuentes afirman que el idioma se origin\u00f3 en el siglo XVII entre los campesinos irlandeses que perdieron sus tierras y se vieron abocados a una vida itinerante tras el asentamiento en Irlanda de colonos ingleses y escoceses en tiempos de Oliver Cromwell.",
+          "Shelta (tamb\u00e9m conhecida como Gammen, Sheldru, Pavee, Caint\u00edotar ou simplesmente \"The Cant\") \u00e9 uma l\u00edngua falada pelo povo irland\u00eas Pavee. Foi muitas vezes utilizada para ocultar o significado daqueles fora do grupo. A linguagem \u00e9 encontrada em toda a Irlanda, por\u00e9m \u00e9 mais concentrada no Sudeste do pa\u00eds. Shelta \u00e9 baseada numa escala originalmente irlandesa com algumas influ\u00eancias do ingl\u00eas. Shelta porque prov\u00e9m de vers\u00f5es mais antigas do irland\u00eas, era originalmente parte do ramo Goidelic da fam\u00edlia da l\u00edngua celta. No entanto, a sua sintaxe \u00e9 baseada principalmente no ingl\u00eas e tem sido fortemente influenciada por outras l\u00ednguas n\u00e3o-celtas. Como resultado, Shelta tem um car\u00e1cter muito diferente de outras l\u00ednguas c\u00e9lticas.",
+          "Le shelta (en anglais : /\u02c8\u0283\u025bl.t\u0259/ ; en irlandais : Seiltis) est la langue des Travellers irlandais. Son origine n'est pas bien connue, bien qu'une partie de son lexique soit emprunt\u00e9e au ga\u00e9lique irlandais et une autre \u00e0 l'anglais. Il est parl\u00e9 surtout en Irlande, mais aussi au Royaume-Uni et aux \u00c9tats-Unis (surtout \u00e0 New York).Bien qu'on exag\u00e8re l'importance de ce fait, on l'utilisait souvent en tant que langue secr\u00e8te (cryptolecte) pour que les \u00e9trangers ne comprennent pas les conversations des Travellers.",
+          "Shelta (/\u02c8\u0283\u025blt\u0259/; Irish: Seiltis) is a language spoken by Rilantu Minc\u00e9ir\u00ed (Irish Travellers), particularly in Ireland and the United Kingdom. It is widely known as the Cant, to its native speakers in Ireland as De Gammon, and to the linguistic community as Shelta. It was often used as a cryptolect to exclude outsiders from comprehending conversations between Travellers, although this aspect is frequently overemphasised. The exact number of native speakers is hard to determine due to sociolinguistic issues but Ethnologue puts the number of speakers at 30,000 in the UK, 6,000 in Ireland, and 50,000 in the US. The figure for at least the UK is dated to 1990; it is not clear if the other figures are from the same source. Linguistically Shelta is today seen as a mixed language that stems from a community of travelling people in Ireland that was originally predominantly Irish-speaking. The community later went through a period of widespread bilingualism that resulted in a language based heavily on Hiberno-English with heavy influences from Irish. As different varieties of Shelta display different degrees of anglicisation, it is hard to determine the extent of the Irish substratum. The Oxford Companion to the English Language puts it at 2,000\u20133,000 words.",
+          "Is teanga mheasctha de chuid an lucht si\u00fail in \u00c9irinn ach go h\u00e1irithe, is in \u00e1iteanna sa Bhreatain Mh\u00f3r, \u00ed an tSeiltis (sa teangeola\u00edocht; Shelta i mB\u00e9\u00e1rla) n\u00f3 Caintis (Cant i mB\u00e9\u00e1rla; t\u00e1 t\u00f3ir ar an bhfocal seo ach go h\u00e1irithe). Tugtar an lucht si\u00fail Gaimis (de Gammon i mB\u00e9\u00e1rla) air. N\u00ed bh\u00edonn figi\u00fair\u00ed cruinne faoi l\u00edon na gcainteoir\u00ed Caintise ar f\u00e1il ach meastar go bhfuil tuairim is 5,000 \u2013 6,000 duine in \u00c9irinn a bhfuil cumas \u00e9igin sa teanga acu.",
+          "\u0428\u0435\u043b\u0442\u0430, \u0491\u0430\u043c\u043c\u043e\u043d, \u043a\u0430\u043d\u0442 \u2014 \u0437\u043c\u0456\u0448\u0430\u043d\u0430 \u043c\u043e\u0432\u0430 \u043c\u043e\u0432\u0430 \u0456\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u0445 \u043c\u0430\u043d\u0434\u0440\u0456\u0432\u043d\u0438\u043a\u0456\u0432 (\u043f\u0435\u0439\u0432\u0456), \u043f\u043e\u0448\u0438\u0440\u0435\u043d\u0430 \u043d\u0430\u0441\u0430\u043c\u043f\u0435\u0440\u0435\u0434 \u0432 \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u0457 \u0442\u0430 \u0412\u0435\u043b\u0438\u043a\u0456\u0439 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u0457. \u0417\u043d\u0430\u043d\u0430 \u0442\u0430\u043a\u043e\u0436 \u044f\u043a \u0414\u0435 \u0490\u0430\u043c\u043c\u043e\u043d (\u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430). \u0422\u0430\u043a\u043e\u0436 \u043f\u0435\u0439\u0432\u0456 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0443\u044e\u0442\u044c \u0457\u0457 \u044f\u043a (\u0441\u0435\u043a\u0440\u0435\u0442\u043d\u0430 \u043c\u043e\u0432\u0430), \u0449\u043e\u0431 \u0437\u0430\u043f\u043e\u0431\u0456\u0433\u0442\u0438 \u0440\u043e\u0437\u0443\u043c\u0456\u043d\u043d\u044e \u0457\u0445\u043d\u044c\u043e\u0457 \u0440\u043e\u0437\u043c\u043e\u0432\u0438 \u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0456\u043c\u0438 \u043b\u044e\u0434\u044c\u043c\u0438. \u041d\u0438\u043d\u0456 \u0434\u043e\u0441\u0438\u0442\u044c \u0432\u0430\u0436\u043a\u043e \u0432\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0438 \u0442\u043e\u0447\u043d\u0443 \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c \u043c\u043e\u0432\u0446\u0456\u0432 \u0448\u0435\u043b\u0442\u0430, \u0430\u043b\u0435 \u0437\u0430 \u0434\u0430\u043d\u0438\u043c\u0438 Ethnologue 6 \u0442\u0438\u0441. \u043e\u0441\u0456\u0431 \u0433\u043e\u0432\u043e\u0440\u044f\u0442\u044c \u043d\u0435\u044e \u0432 \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u0457, 30 \u0442\u0438\u0441. \u0443 \u0412\u0435\u043b\u0438\u043a\u0456\u0439 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u0457 \u0442\u0430 50 \u0442\u0438\u0441. \u0443 \u0421\u0428\u0410. \u041b\u0456\u043d\u0433\u0432\u0456\u0441\u0442\u0438\u0447\u043d\u043e \u0448\u0435\u043b\u0442\u0430 \u043d\u0430 \u0441\u044c\u043e\u0433\u043e\u0434\u043d\u0456 \u043a\u043b\u0430\u0441\u0438\u0444\u0456\u043a\u0443\u044e\u0442\u044c \u044f\u043a \u0437\u043c\u0456\u0448\u0430\u043d\u0443 \u043c\u043e\u0432\u0443, \u044f\u043a\u0430 \u043f\u043e\u0445\u043e\u0434\u0438\u0442\u044c \u0432\u0456\u0434 \u043c\u043e\u0432\u0438 \u0456\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u0445 \u043c\u0430\u043d\u0434\u0440\u0456\u0432\u043d\u0438\u043a\u0456\u0432, \u044f\u043a\u0456 \u043f\u043e\u0447\u0430\u0442\u043a\u043e\u0432\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438 \u0456\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u043e\u044e. \u041f\u0456\u0437\u043d\u0456\u0448\u0435 \u0441\u0435\u0440\u0435\u0434 \u043e\u0431\u0449\u0438\u043d\u0438 \u043f\u043e\u0448\u0438\u0440\u0438\u0432\u0441\u044f \u0431\u0456\u043b\u0456\u043d\u0433\u0432\u0456\u0437\u043c, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043e\u043c \u044f\u043a\u043e\u0433\u043e \u0441\u0442\u0430\u043b\u0430 \u043c\u043e\u0432\u0430, \u044f\u043a\u0430 \u0431\u0430\u0437\u0443\u0432\u0430\u043b\u0430\u0441\u044c \u043d\u0430 \u0433\u0456\u0431\u0435\u0440\u043d\u043e-\u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u0456\u0439 \u0437\u0456 \u0437\u043d\u0430\u0447\u043d\u0438\u043c \u0456\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0438\u043c \u0432\u043f\u043b\u0438\u0432\u043e\u043c. \u0420\u0456\u0437\u043d\u0456 \u0433\u043e\u0432\u043e\u0440\u0438 \u0448\u0435\u043b\u0442\u0438 \u043c\u0430\u044e\u0442\u044c \u0440\u0456\u0437\u043d\u0456 \u0441\u0442\u0443\u043f\u0435\u043d\u0456 \u0430\u043d\u0433\u043b\u0456\u0437\u0430\u0446\u0456\u0457 \u0442\u0430 \u0447\u0435\u0440\u0435\u0437 \u0442\u0435 \u0434\u043e\u0441\u0438\u0442\u044c \u0432\u0430\u0436\u043a\u043e \u0434\u043e\u0441\u043b\u0456\u0434\u0438\u0442\u0438 \u0440\u0456\u0432\u0435\u043d\u044c \u0456\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u043e\u0433\u043e \u0441\u0443\u0431\u0441\u0442\u0440\u0430\u0442\u0443.",
+          "Shelta (auch als Gammen, Sheldru oder Cant bezeichnet) ist eine Mischsprache, die Elemente irisch-g\u00e4lischen und englischen Ursprungs sowie Merkmale weiterer indogermanischer Sprachen aufweist. Die Bezeichnung geht wahrscheinlich auf das irische si\u00falta, das \u201eauf Wanderschaft\u201c bedeutet, zur\u00fcck. Dies bezieht sich auf den nomadischen Lebensstil ihrer Sprecher: Shelta wird von der (urspr\u00fcnglich) nicht oder nur teilweise sesshaften Bev\u00f6lkerung der britischen Inseln, den h\u00e4ufig so genannten Tinkers (Pavee, Travellers) gesprochen. Aufgrund seiner Stellung als Mischsprache ist die Zuordnung von Shelta, anders als das irische und das schottische G\u00e4lisch sowie Manx, zu der Gruppe der keltischen Sprachen umstritten. Das Vokabular entstammt haupts\u00e4chlich dem Irischen, w\u00e4hrend die Struktur mehr dem Englischen entstammt. Es wird in Irland von etwa 6.000 Fahrenden gesprochen. Weltweit, vor allem im Vereinigten K\u00f6nigreich und den USA, geht man von bis zu 86.000 Menschen aus, die Shelta sprechen. Mit dem alternativen Begriff Cant bezeichnet man auch die englische Gaunersprache, vergleichbar mit dem Rotwelsch, also die Fachsprache der kriminellen Unterwelt. Daher wird er von vielen der Travellers als stigmatisierend abgelehnt.",
+          "\uc178\ud0c0\uc5b4 \ub610\ub294 \"\uc178\ud0c0\"(Shelta)\ub294 \uc544\uc77c\ub79c\ub4dc \ubc0f \uc601\uad6d \uc77c\ubd80\uc5d0 \uc0ac\ub294 \uc544\uc77c\ub79c\ub4dc \uc720\ub791\ubbfc \uacf5\ub3d9\uccb4\uc5d0\uc11c \uc4f0\uc774\ub294 \ub9d0\uc774\ub2e4. \uc178\ud0c0\uc5b4\ub97c \uac00\ub9ac\ud0a4\ub294 \ub9d0\uc740 \uc5ec\ub7ec\uac00\uc9c0\uac00 \uc788\ub294\ub370, \uc544\uc77c\ub79c\ub4dc\uc5d0\uc11c\ub294 \uc5b8\uc5b4\ucabd\uc744 \uac10\ubaac(Gammon)\uc774\ub77c \ud558\uace0, \uadf8 \uacf5\ub3d9\uccb4\ub97c \uc178\ud0c0\ub77c \ud55c\ub2e4. (\uc5b8\uc5b4\uba85\uce6d\uc758 \uc178\ud0c0\ub294 \uc601\uc5b4\uad8c\uc758 \uc6a9\ubc95\uc774\ub2e4) \uc178\ud0c0\ub294 \uc77c\ubc18 \uc5b8\uc5b4\ub77c\uae30 \ubcf4\ub2e4\ub294 \ubcc0\ub9d0\uc774\ub098 \uc740\uc5b4\uc801 \uc131\uaca9\uc774 \uc9d9\uc740 \ub9d0\ub85c\uc11c, \uc8fc\ub85c \uc678\ubd80\uc778\uc5d0\uac8c \uc720\ub791\ubbfc \uc0ac\uc774\uc758 \uc758\uc0ac\uc18c\ud1b5\uc758 \ub0b4\uc6a9\uc744 \ub4e4\ud0a4\uc9c0 \uc54a\ub3c4\ub85d \ud558\ub294 \uad6c\uc2e4\uc744 \ud55c\ub2e4. \uc178\ud0c0\uc5b4\uc758 \uc0ac\uc6a9\uc778\uad6c\ub294 \uc815\ud655\ud55c \ucd94\uc0b0\uc774 \uc5b4\ub835\uc9c0\ub9cc, \uc5d0\uc2a4\ub180\ub85c\uadf8\uc5d0 \ub530\ub974\uba74 \uc801\uac8c 6000\uba85\uc5d0\uc11c \ucd5c\ub300 86000\uba85\uae4c\uc9c0 \uc5b4\ub9bc\uc7a1\uace0 \uc788\ub2e4. \uad6c\uc870\uc801\uc73c\ub85c \uc178\ud0c0\uc5b4\ub294 \uc77c\uc885\uc758 \ud06c\ub9ac\uc62c(\uc5b8\uc5b4)\uc758 \uc131\uaca9\uc744 \ub744\uace0 \uc788\ub2e4. \uc178\ud0c0\uc758 \uc0ac\uc6a9\uc790\ub294 \uc544\uc77c\ub79c\ub4dc\uc5b4 \ubaa8\uc5b4\ud654\uc790\uc778 \uc544\uc77c\ub79c\ub4dc\uacc4\uc774\uace0, \uc720\ub791\uc0dd\ud65c \uc911\uc5d0 \uc601\uc5b4 \uc774\uc911\ud654\uc790\uac00 \ub418\uc5c8\uc73c\uba70, \ub530\ub77c\uc11c \uc544\uc77c\ub79c\ub4dc \uc601\uc5b4\uc640 \uc544\uc77c\ub79c\ub4dc\uc5b4(-\uac8c\uc77c\uc5b4)\uc758 \uac04\uc12d\uc774 \ud06c\ub2e4. \uc178\ud0c0\ub294 \uc9c0\uc5ed\uc801\uc73c\ub85c \uc601\uc5b4\ud654\ub41c \uc815\ub3c4\uc758 \ucc28\uc774\uac00 \uc788\ub294\ub370, \uc815\ud655\ud55c \uc218\uce58\ub294 \uc544\ub2c8\uc9c0\ub9cc, \ub300\ub7b5 \uc178\ud0c0\uc5b4 \ub2e8\uc5b4 \uac00\uc6b4\ub370 2000-3000\uac1c\uc758 \uac8c\uc77c\uc5b4\uacc4 \uae30\uce35 \ub0b1\ub9d0\uc774 \uae54\ub824 \uc788\ub294 \uac83\uc73c\ub85c \ubcf8\ub2e4.(Oxford Companion)",
+          "\u30b7\u30a7\u30eb\u30bf\u8a9e(\u30b7\u30a7\u30eb\u30bf\u3054\u3001Shelta\u3001[\u02c8\u0283\u025blt\u0259])\u306f\u3001\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u304a\u3088\u3073\u30a4\u30ae\u30ea\u30b9\u306e\u4e00\u90e8\u306b\u3066\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5\u30fb\u30c8\u30e9\u30f4\u30a7\u30e9\u30fc\u306e\u8a71\u3059\u8a00\u8a9e\u3002",
+          "J\u0119zyk shelta (znany tak\u017ce jako Gammen, Sheldru, Pavee, Caint\u00edotar lub w skr\u00f3cie \u201eThe Cant\u201d) \u2013 oparty na angielskim j\u0119zyk mieszany ze znacznym udzia\u0142em s\u0142ownictwa pochodzenia irlandzkiego. Jest to j\u0119zyk w\u0119drownej grupy ludzi zwanej podr\u00f3\u017cnikami irlandzkimi (Irish Travellers), pierwotnie pochodz\u0105cej z Irlandii, a obecnie zamieszkuj\u0105cej Irlandi\u0119, Wielk\u0105 Brytani\u0119 i Stany Zjednoczone. Oparty w du\u017cym stopniu na j\u0119zyku irlandzkim. Jego nazwa wywodzi si\u0119 prawdopodobnie z j\u0119zyka irlandzkiego (si\u00falta \u2013 w\u0119drowa\u0107) wskazuj\u0105c na nomadyczny charakter jego u\u017cytkownik\u00f3w. Obecnie jest u\u017cywany przez ok. 86 tys. ludzi, w tym 6 tys. w Irlandii.",
+          "Shelta is een mengtaal die de traditionele taal is van de Irish Travellers, een Ierse bevolkingsgroep met een nomadische levensstijl. Andere namen zijn Gammon, Sheldru of The Cant. De woordenschat is grotendeels gebaseerd op het Iers-Gaelisch (woorden zijn vaak daarvan afgeleid door verwisseling van klanken, zoals ook in het Franse verlan). Grammaticaal zijn er echter veel overeenkomsten met Engels. Ook zijn er wat invloeden van het Romani, hoewel de Irish Travellers zelf geen Roma zijn. In de hele wereld zijn er zo\u2019n 86 000 sprekers van het Shelta, waarvan 6 000 tot 25 000 in Ierland. De taal zou al sinds de 13e eeuw bestaan en sinds 1870 is ze zowat \u201cgecatalogiseerd\u201d. De benaming Shelta zou komen van het Ierse \u201csi\u00falta\u201d oftewel \u201cwandelend\u201d. Dat verwijst uiteraard naar de nomadische levensstijl van de Irish Travellers. Deze werden in Engeland bovendien \u201cThe Walking People\u201d genoemd.",
+          "\u0428\u0435\u043b\u0442\u0430, Shelta (\u044d\u043a\u0437\u043e\u043d\u0438\u043c), \u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 Gammon, \u0438\u043b\u0438 the Cant, \u044f\u0437\u044b\u043a \u044d\u0442\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043a\u043e\u0447\u0435\u0432\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b, \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0439 \u043a\u0430\u043a \u0438\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u0438.",
+          "\u0634\u064a\u0644\u062a\u0627 (\u062a\u064f\u0644\u0641\u0638: \u200e/\u200f\u02c8\u0283\u025blt\u0259\u200e/\u200f) \u0647\u064a \u0644\u063a\u0629 \u064a\u062a\u0643\u0644\u0645\u0647\u0627 \u0627\u0644\u0631\u062d\u0644 \u0627\u0644\u0623\u064a\u0631\u0644\u0646\u062f\u064a\u0648\u0646 \u062a\u062d\u062f\u064a\u062f\u0627\u064b \u0641\u064a \u0623\u064a\u0631\u0644\u0646\u062f\u0627 \u0648\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0645\u0646 \u0627\u0644\u0635\u0639\u0628 \u0628\u0645\u0643\u0627\u0646 \u062a\u062d\u062f\u064a\u062f \u0639\u062f\u062f \u062f\u0642\u064a\u0642 \u0644\u0645\u062a\u062d\u062f\u062b\u064a \u0627\u0644\u0644\u063a\u0629 \u0627\u0644\u0623\u0635\u0644\u064a\u064a\u0646 \u0628\u0633\u0628\u0628 \u0648\u062c\u0648\u062f \u0645\u0634\u0627\u0643\u0644 \u0627\u062c\u062a\u0645\u0627\u0639\u064a\u0629-\u0644\u063a\u0648\u064a\u0629. \u0644\u0643\u0646 \u062a\u0642\u062f\u0631 \u00ab\u0625\u062b\u0646\u0648\u0644\u0648\u062c\u00bb \u0639\u062f\u062f \u0645\u062a\u062d\u062f\u062b\u064a \u0627\u0644\u0644\u063a\u0629 \u0639\u0646\u062f \u062d\u0648\u0627\u0644\u064a 30,000 \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0648 6,000 \u0641\u064a \u0623\u064a\u0631\u0644\u0646\u062f\u0627 \u0648 50,000 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u064a\u0639\u0648\u062f \u0639\u062f\u062f \u0627\u0644\u0645\u062a\u062d\u062f\u062b\u064a\u0646 \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0644\u0639\u0627\u0645 1990\u060c \u0641\u064a\u0645\u0627 \u0645\u0646 \u063a\u064a\u0631 \u0627\u0644\u0648\u0627\u0636\u062d \u0625\u0630\u0627 \u0645\u0627 \u0643\u0627\u0646\u062a \u0627\u0644\u0623\u0639\u062f\u0627\u062f \u0627\u0644\u0623\u062e\u0631\u0649 \u062a\u0639\u0648\u062f \u0644\u0644\u0645\u0635\u062f\u0631 \u0630\u0627\u062a\u0647.",
+          "Shelta (eget namn: De Gammon) \u00e4r ett blandspr\u00e5k mellan engelska och iriska som anv\u00e4nds av sheltafolket i Irland och delvis i Storbritannien ocks\u00e5. Antal talare \u00e4r cirka 27 000. Shelta har ganska m\u00e5nga likheter med gamla irl\u00e4ndska som talades p\u00e5 1200-talet. Spr\u00e5ket har ingen skriftlig standard. R\u00e4kneord 1-10 p\u00e5 shelta:",
+          "Shelta (v\u00fdslovnost: \u0161elta, IPA: /\u02c8\u0283\u025blt\u0259/, irsky: An tSeiltis, rodil\u00fdmi mluv\u010d\u00edmi naz\u00fdv\u00e1n De Gammon, t\u00e9\u017e Seldru) je tradi\u010dn\u00edm jazykem irsk\u00fdch ko\u010dovn\u00edk\u016f. Jedn\u00e1 se o sm\u00ed\u0161en\u00fd jazyk, vznikl sm\u00edsen\u00edm angli\u010dtiny (hlavn\u011b ) a ir\u0161tiny."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/familycolor",
+        "Values": [
+          "Indo-European"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/glotto",
+        "Values": [
+          "shel1236"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/glottorefname",
+        "Values": [
+          "Shelta"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/iso",
+        "Values": [
+          "sth"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/lingua",
+        "Values": [
+          "50"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/nativename",
+        "Values": [
+          "De Gammon"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/notice",
+        "Values": [
+          "IPA"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/languageFamily",
+        "Values": [
+          "http://dbpedia.org/resource/Celtic_languages",
+          "http://dbpedia.org/resource/Indo-European_languages",
+          "http://dbpedia.org/resource/Germanic_languages"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wordnet_type",
+        "Values": [
+          "http://www.w3.org/2006/03/wn/wn20/instances/synset-language-noun-1"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/spokenIn",
+        "Values": [
+          "http://dbpedia.org/resource/Republic_of_Ireland",
+          "http://dbpedia.org/resource/Irish_Traveller"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Shelta?oldid=1121880412&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "18287"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/iso6393Code",
+        "Values": [
+          "sth"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Shelta"
+        ]
+      }
+    ]
+  }
+]

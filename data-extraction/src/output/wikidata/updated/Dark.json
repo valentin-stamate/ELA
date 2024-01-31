@@ -1,0 +1,212 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q114245787",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "2007647482"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-11-09T20:30:49Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "programming language, code editor and web backend infrastructure framework"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Dark"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
+        "Values": [
+          "Darklang"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "22"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "0"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q271680",
+          "http://www.wikidata.org/entity/Q9143",
+          "http://www.wikidata.org/entity/Q522972"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-f560030e-4c97-fc4b-5721-d8e74d6c0b37",
+          "http://www.wikidata.org/entity/statement/Q114245787-b2d23244-4588-6aa0-d73b-908c9cff481f",
+          "http://www.wikidata.org/entity/statement/Q114245787-ba4cbfbb-4d0f-5405-f8d4-5bf9b950f86e"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/software version identifier",
+        "Values": [
+          "6"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/has use",
+        "Values": [
+          "http://www.wikidata.org/entity/Q110245837",
+          "http://www.wikidata.org/entity/Q483639"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/official website",
+        "Values": [
+          "https://darklang.com"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/source code repository URL",
+        "Values": [
+          "https://github.com/darklang/dark"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/official blog URL",
+        "Values": [
+          "https://blog.darklang.com"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/X username",
+        "Values": [
+          "darklang"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/GitHub username",
+        "Values": [
+          "darklang"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/user manual URL",
+        "Values": [
+          "https://docs.darklang.com"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/YouTube channel ID",
+        "Values": [
+          "UCYUv1H0ENhZa4lNjOL-EiYg"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/LinkedIn organization ID",
+        "Values": [
+          "darklang"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/Q50423863"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/software version identifier",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-9f78fb68-4b69-2170-eafa-b931776adef0",
+          "http://www.wikidata.org/entity/statement/Q114245787-5e5b5288-4ace-f0eb-888f-2a43daec24aa",
+          "http://www.wikidata.org/entity/statement/Q114245787-b1720570-342f-4558-b13a-2534ad5ec29b",
+          "http://www.wikidata.org/entity/statement/Q114245787-09f4070a-4aa0-314d-07b8-3e133e5a563f",
+          "http://www.wikidata.org/entity/statement/Q114245787-8c49659e-4e61-bd16-5254-28d994fe3e7b",
+          "http://www.wikidata.org/entity/statement/Q114245787-6638f5f9-b970-40c2-9042-31eeb3b14019",
+          "http://www.wikidata.org/entity/statement/Q114245787-4037b010-9d33-4298-b20d-8b536eef89bb",
+          "http://www.wikidata.org/entity/statement/Q114245787-a97a4090-6f63-4531-a2c5-be94af2ed156"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/has use",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-c3612c28-4a16-4ba1-8209-4fd951bae13a",
+          "http://www.wikidata.org/entity/statement/Q114245787-93fa0532-4b59-5680-8b7a-d32fd50b613b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/official website",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-79c0d0b2-4953-37b7-349c-72a0ceb4625c"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/source code repository URL",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-8447689d-4658-db10-9dd1-75aae9a1c66b"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/official blog URL",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-c0eb71cd-496f-82b9-83d2-89f5d1d1340f"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/X username",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-347c1340-4f93-547a-5da6-941b4bd51451"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/GitHub username",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-cbdd52e7-477c-43a3-0a4a-7ddc1ba6ec28"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/user manual URL",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-06980570-41e0-fbb1-5da4-3dd3e67730b7"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/YouTube channel ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-b3c9bea7-473a-a72b-4f5c-e3eee7069b08"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/LinkedIn organization ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-4b90d40f-4990-223f-b749-1ff5ac159cc4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/copyright status",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q114245787-277BCB5A-913F-40C9-9692-D47948C03693"
+        ]
+      }
+    ]
+  }
+]

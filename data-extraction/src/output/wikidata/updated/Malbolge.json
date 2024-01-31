@@ -1,0 +1,219 @@
+[
+  {
+    "Language": "http://www.wikidata.org/entity/Q517956",
+    "Properties": [
+      {
+        "Property": "http://schema.org/version",
+        "Values": [
+          "2032550292"
+        ]
+      },
+      {
+        "Property": "http://schema.org/dateModified",
+        "Values": [
+          "2023-12-19T03:14:50Z"
+        ]
+      },
+      {
+        "Property": "http://schema.org/description",
+        "Values": [
+          "j\u0119zyk programowania",
+          "linguagem de programa\u00e7\u00e3o",
+          "Esoterische Programmiersprache",
+          "programmeringssprog",
+          "programovac\u00ed jazyk",
+          "programspr\u00e5k",
+          "linguaggio di programmazione",
+          "llenguatge de programaci\u00f3",
+          "yezh programmi\u00f1",
+          "\u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u093f\u0902\u0917 \u092d\u093e\u0937\u093e",
+          "programmeringsspr\u00e5k",
+          "ezoterikus programoz\u00e1si nyelv",
+          "lenguaje de programaci\u00f3n esot\u00e9rico",
+          "limbaj de programare",
+          "\u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f",
+          "\u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e\u0a3f\u0a70\u0a17 \u0a2d\u0a3e\u0a38\u0a3c\u0a3e",
+          "ohjelmointikieli",
+          "1998 esoteric programming language",
+          "langage de programmation",
+          "\u05e9\u05e4\u05ea \u05ea\u05db\u05e0\u05d5\u05ea",
+          "programmeertaal",
+          "\u0d2a\u0d4d\u0d30\u0d4b\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d3f\u0d19\u0d4d \u0d2d\u0d3e\u0d37"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\u041c\u0430\u043b\u0431\u043e\u043b\u045f",
+          "Malbolge"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#statements",
+        "Values": [
+          "13"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#sitelinks",
+        "Values": [
+          "23"
+        ]
+      },
+      {
+        "Property": "http://wikiba.se/ontology#identifiers",
+        "Values": [
+          "4"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/Q610140",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/instance of",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/q517956-27052C06-DB2B-4B0C-9610-1BE165FA4F55",
+          "http://www.wikidata.org/entity/statement/Q517956-893AE076-B1CF-47DD-9CB1-CE76D2587C1E"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Commons category",
+        "Values": [
+          "Malbolge"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/inception",
+        "Values": [
+          "1998-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/publication date",
+        "Values": [
+          "1998-01-01T00:00:00Z"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Freebase ID",
+        "Values": [
+          "/m/01jh8h"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/influenced by",
+        "Values": [
+          "http://www.wikidata.org/entity/Q814269",
+          "http://www.wikidata.org/entity/Q244627"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/Q30312498"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Quora topic ID",
+        "Values": [
+          "Malbolge"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/Q28937387"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Fandom article ID",
+        "Values": [
+          "code:Malbolge"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct/Microsoft Academic ID",
+        "Values": [
+          "2780411187"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Freebase ID",
+        "Values": [
+          "http://g.co/kg/m/01jh8h"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Microsoft Academic ID",
+        "Values": [
+          "http://ma-graph.org/entity/2780411187"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Commons category",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-762970ab-4590-479a-b383-f5eafd44a8cd"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/inception",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-40AEE424-59D0-4CD5-AFEB-A2787985F734"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/publication date",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-5D3E00AF-98C7-45F9-A26A-2FA68E675BFF"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Freebase ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-EF13C3C8-2077-49E6-9B67-370AC5F1E106"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/influenced by",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-11F160DB-7B77-4611-8413-05E18D839DEE",
+          "http://www.wikidata.org/entity/statement/Q517956-56A9E609-FFDA-4092-9010-74C0CF168BDC"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/described by source",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-5E9AA1FE-ED89-4DD9-A6D2-808344CA92E9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Quora topic ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-3B974DCF-E36E-4110-8539-6A1042F480F9"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/programming paradigm",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-9D03FB2D-4D48-4BAD-B407-2A9A0FFA7EAA"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Fandom article ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-157212FC-7536-46EB-9C2A-E44A421BEADA"
+        ]
+      },
+      {
+        "Property": "http://www.wikidata.org/prop/Microsoft Academic ID",
+        "Values": [
+          "http://www.wikidata.org/entity/statement/Q517956-DEA65FDE-7408-4F3A-871E-EC5A8B251DA7"
+        ]
+      }
+    ]
+  }
+]

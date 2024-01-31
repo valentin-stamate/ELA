@@ -1,0 +1,411 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Sed",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/PsychologicalFeature100023100",
+          "http://dbpedia.org/class/yago/ProgrammingLanguage106898352",
+          "http://dbpedia.org/ontology/Language",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguages",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143",
+          "http://dbpedia.org/class/yago/Content105809192",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/Idea105833840",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatScriptingLanguages",
+          "http://dbpedia.org/class/yago/Cognition100023271",
+          "http://schema.org/Language",
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://dbpedia.org/class/yago/WikicatStandardUnixPrograms",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/ontology/ProgrammingLanguage",
+          "http://dbpedia.org/class/yago/Plan105898568"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "Sed (Unix)",
+          "Sed (\uc720\ud2f8\ub9ac\ud2f0)",
+          "\u0645\u062d\u0631\u0631 \u0627\u0644\u062a\u064a\u0627\u0631 (\u0623\u062f\u0627\u0629 \u064a\u0648\u0646\u0643\u0633)",
+          "Sed (program)",
+          "Sed (inform\u00e1tica)",
+          "Sed (software)",
+          "Sed (stream editor)",
+          "Stream Editor",
+          "Sed (\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf)",
+          "Sed"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "sed (ang. stream editor) \u2013 edytor strumieniowy, kt\u00f3ry wyst\u0119puje w zestawie komend system\u00f3w uniksowych, a s\u0142u\u017cy do przetwarzania tekstu. \u0141\u0105czy w sobie prostot\u0119 oraz szeroki wachlarz mo\u017cliwo\u015bci. Znajduje te\u017c zastosowanie przy pisaniu program\u00f3w konwertuj\u0105cych. Jest on j\u0119zykiem programowania zupe\u0142nym w sensie Turinga.",
+          "Sed is een acroniem van Stream EDitor. Het is een computerprogramma dat behoort tot de standaardset van applicaties onder Unix en GNU/Linux (en varianten). Ook voor andere besturingssystemen bestaan er ports van dit programma. Sed is niet bedoeld als interactieve editor -hoewel het, met enige moeite, wel als zodanig zou kunnen worden gebruikt- maar wordt meestal, op de unix-manier, gebruikt in pipe-structuren. Sed maakt gebruik van zeer uitgebreide en krachtige reguliere expressies. Belangrijke kenmerken van sed:",
+          "sed (zkratka pro stream editor) je jednoduch\u00fd, ale v\u00fdkonn\u00fd po\u010d\u00edta\u010dov\u00fd program, slou\u017e\u00edc\u00ed k aplikaci rozli\u010dn\u00fdch p\u0159eddefinovan\u00fdch textov\u00fdch transformac\u00ed na sekven\u010dn\u00ed proud textov\u00fdch dat. Po jednotliv\u00fdch \u0159\u00e1dc\u00edch proch\u00e1z\u00ed vstupn\u00ed soubor, dle pravidel ur\u010den\u00fdch v jednoduch\u00e9m jazyku (sedovsk\u00e9m skriptu) ka\u017ed\u00fd \u0159\u00e1dek uprav\u00ed a pot\u00e9 vyp\u00ed\u0161e. Sed p\u016fvodn\u011b vytvo\u0159il n\u011bkdy na p\u0159elomu let 1973/1974 z Bellov\u00fdch laborato\u0159\u00ed jako unixov\u00fd n\u00e1stroj, dnes je v\u0161ak dostupn\u00fd pro t\u00e9m\u011b\u0159 v\u0161echny opera\u010dn\u00ed syst\u00e9my podporuj\u00edc\u00ed p\u0159\u00edkazov\u00fd \u0159\u00e1dek.",
+          "sed (\"stream editor\") is a Unix utility that parses and transforms text, using a simple, compact programming language. It was developed from 1973 to 1974 by Lee E. McMahon of Bell Labs,and is available today for most operating systems. sed was based on the scripting features of the interactive editor ed (\"editor\", 1971) and the earlier qed (\"quick editor\", 1965\u201366). It was one of the earliest tools to support regular expressions, and remains in use for text processing, most notably with the substitution command. Popular alternative tools for plaintext string manipulation and \"stream editing\" include AWK and Perl.",
+          "sed st\u00e5r f\u00f6r Stream EDitor och \u00e4r ett Unixprogram som b\u00f6rjade utvecklas i b\u00f6rjan av 1970-talet av . \"sed\" anv\u00e4nds f\u00f6r att f\u00f6r\u00e4ndra text, men ist\u00e4llet f\u00f6r att g\u00f6ra det genom att flytta mark\u00f6ren till \u00f6nskad position och g\u00f6ra f\u00f6r\u00e4ndringen s\u00e5 anv\u00e4nder man skript med \"sed\" f\u00f6r att l\u00f6sa detta. H\u00e4r \u00e4r ett exempel p\u00e5 ett enkelt sedskript som ers\u00e4tter alla ord som inneh\u00e5ller ordet banan med ordet apelsin i filen \"textfil\" och skickar d\u00e4refter resultatet till filen \"nytextfil\". V\u00e4ljer man att inte skicka resultatet n\u00e5gonstans s\u00e5 skickas resultatet till STDOUT, vilket i normala fall betyder sk\u00e4rmen.",
+          "sed (stream editor) es un editor de flujo, una potente herramienta de tratamiento de texto para el sistema operativo Unix que acepta como entrada un archivo, lo lee y modifica l\u00ednea a l\u00ednea de acuerdo a un script, mostrando el resultado por salida est\u00e1ndar (normalmente en pantalla, a menos que se realice una redirecci\u00f3n). Sed permite manipular flujos de datos, como por ejemplo cortar l\u00edneas, buscar y reemplazar texto (con soporte de expresiones regulares), entre otras cosas. Posee muchas caracter\u00edsticas de ed y ex.",
+          "sed (abbreviazione dalla lingua inglese di stream editor, editor di flusso) \u00e8 un comando dei sistemi operativi Unix e Unix-like, e pi\u00f9 in generale dei sistemi POSIX, che consente il filtraggio e la manipolazione di testi.Il comando viene tipicamente utilizzato in pipe in ambiente shell o specificando un file di input da riga di comando. Pur essendo principalmente utilizzato per applicare delle espressioni regolari, il linguaggio interpretato da sed \u00e8 turing completo, anche se, essendo pensato per la manipolazione del testo, un suo utilizzo per altri scopi \u00e8 considerato esoterico.",
+          "sed steht f\u00fcr Stream EDitor und ist ein Unix-Werkzeug, mit dem Text-Datenstr\u00f6me bearbeitet werden k\u00f6nnen. Der Datenstrom kann auch aus einer Datei gelesen werden. Im Gegensatz zu einem Texteditor wird die Ursprungsdatei aber nicht ver\u00e4ndert. Im Gegensatz zu einem interaktiven Texteditor, wie etwa dem vi, wird sed mittels eines Skripts gesteuert. Folglich konnten und wurden sogar Spiele wie Sokoban oder Arkanoid und andere anspruchsvolle Programme wie Debugger mit sed geschrieben.",
+          "sed(stream editor)\ub294 \uc720\ub2c9\uc2a4\uc5d0\uc11c \ud14d\uc2a4\ud2b8\ub97c \ubd84\ud574\ud558\uac70\ub098 \ubcc0\ud658\ud558\uae30 \uc704\ud55c \ud504\ub85c\uadf8\ub7a8\uc774\ub2e4. sed\ub294 \ubca8 \uc5f0\uad6c\uc18c\uc758 \ub9ac E. \ub9e5\ub9c8\ud754\uc774 1973\ub144\ubd80\ud130 1974\ub144\uae4c\uc9c0 \uac1c\ubc1c\ud558\uc600\uace0, \ud604\uc7ac \uc720\ub2c9\uc2a4 \ub4f1\uc758 \uc5ec\ub7ec \uac00\uc9c0 \uc6b4\uc601 \uccb4\uc81c\uc5d0\uc11c \uc0ac\uc6a9 \uac00\ub2a5\ud558\ub2e4.",
+          "Bogearra \u00e1irge ar ch\u00f3rais Linux/Unix is ea sed (\u00f3 \u201cstream editor\u201d i mB\u00e9arla). \u00das\u00e1ideann s\u00e9 teanga r\u00edomhchl\u00e1r\u00fach\u00e1in an-simpl\u00ed chun sruthanna t\u00e9acs a athr\u00fa. Ba \u00e9 Lee E. McMahon, ag obair le , a chruthaigh an ch\u00e9ad leagan de sed idir 1973 agus 1974. Bh\u00ed sed bunaithe ar ghn\u00e9ithe scriptithe a bh\u00ed ar f\u00e1il sna heagarth\u00f3ir\u00ed idirghn\u00edomhacha (\u00f3 \u201cquick editor\u201d i mB\u00e9arla, 1965\u20131966) agus (1971). Bh\u00ed sed ar cheann de na huirlis\u00ed is luaithe a thacaigh le , agus t\u00e1 s\u00e9 f\u00f3s in \u00fas\u00e1id go forleathan sa t\u00e9acsphr\u00f3ise\u00e1il, in \u00e9ineacht le huirlis\u00ed eile ar n\u00f3s agus Perl.",
+          "sed\uff08\u610f\u4e3a\u6d41\u7f16\u8f91\u5668\uff0c\u6e90\u81ea\u82f1\u8bed\u201cstream editor\u201d\u7684\u7f29\u5199\uff09\u662f\u4e00\u4e2a\u4f7f\u7528\u7b80\u5355\u7d27\u51d1\u7684\u7f16\u7a0b\u8bed\u8a00\u6765\u89e3\u6790\u548c\u8f6c\u6362\u6587\u672cUnix\u5b9e\u7528\u7a0b\u5e8f\u3002 sed\u7531\u8d1d\u5c14\u5b9e\u9a8c\u5ba4\u7684\u674e\u00b7E\u00b7\u9ea5\u514b\u99ac\u6d2a\u4e8e1973\u5e74\u81f31974\u5e74\u5f00\u53d1\uff0c \u5e76\u4e14\u73b0\u5728\u5927\u591a\u6570\u64cd\u4f5c\u7cfb\u7edf\u90fd\u53ef\u4ee5\u4f7f\u7528\u3002 sed\u57fa\u4e8e\u4ea4\u4e92\u5f0f\u7f16\u8f91\u5668ed\uff08\u201ceditor\u201d\uff0c1971\uff09\u548c\u65e9\u671fqed\uff08\u201cquick editor\u201d\uff0c1965-66\uff09\u7684\u811a\u672c\u529f\u80fd\u3002sed\u662f\u6700\u65e9\u652f\u6301\u6b63\u5219\u8868\u8fbe\u5f0f\u7684\u5de5\u5177\u4e4b\u4e00\uff0c\u81f3\u4eca\u4ecd\u7136\u7528\u4e8e\u6587\u672c\u5904\u7406\uff0c\u7279\u522b\u662f\u7528\u4e8e\u66ff\u6362\u547d\u4ee4\u3002\u7528\u4e8e\u7eaf\u6587\u672c\u5b57\u7b26\u4e32\u64cd\u4f5c\u548c\u201c\u6d41\u7f16\u8f91\u201d\u7684\u5e38\u7528\u5de5\u5177\u8fd8\u6709AWK\u548cPerl \u3002",
+          "sed (abr\u00e9viation de Stream EDitor, \u00ab \u00e9diteur de flux \u00bb) est, comme awk, un programme informatique permettant d'appliquer diff\u00e9rentes transformations pr\u00e9d\u00e9finies \u00e0 un flux s\u00e9quentiel de donn\u00e9es textuelles. sed lit des donn\u00e9es d'entr\u00e9e ligne par ligne, modifie chaque ligne selon des r\u00e8gles sp\u00e9cifi\u00e9es dans un langage propre (appel\u00e9 \u00ab script sed \u00bb), puis retourne le contenu du fichier (par d\u00e9faut). Bien qu'originellement \u00e9crit pour Unix, par (en) en 1973/1974 (Bell Labs), sed est maintenant disponible sur pratiquement tous les syst\u00e8mes d'exploitation disposant d'une interface en ligne de commande.",
+          "sed\uff08\u30bb\u30c9\uff09\u306f\u3001\u5165\u529b\u30b9\u30c8\u30ea\u30fc\u30e0\uff08\u30d5\u30a1\u30a4\u30eb\u307e\u305f\u306f\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\u304b\u3089\u306e\u5165\u529b\uff09\u306b\u5bfe\u3057\u3066\u30c6\u30ad\u30b9\u30c8\u5909\u63db\u306a\u3069\u306e\u30c7\u30fc\u30bf\u51e6\u7406\u3092\u304a\u3053\u306a\u3046\u305f\u3081\u306b\u4f7f\u7528\u3055\u308c\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u3067\u3042\u308b\u3002\u540d\u79f0\u300csed\u300d\u306f\u300c\u30b9\u30c8\u30ea\u30fc\u30e0\u30a8\u30c7\u30a3\u30bf\u300d\u3092\u610f\u5473\u3059\u308b\u82f1\u8a9e\u300cstream editor\u300d\u306b\u7531\u6765\u3059\u308b\u3002 sed\u306f\u3001\u5165\u529b\u3092\u884c\u5358\u4f4d\u3067\u8aad\u307f\u53d6\u308a\u3001sed\u30b9\u30af\u30ea\u30d7\u30c8\u3068\u547c\u3070\u308c\u308b\u30b7\u30f3\u30d7\u30eb\u306a\u547d\u4ee4\u6587\u306b\u5f93\u3063\u3066\u30c6\u30ad\u30b9\u30c8\u5909\u63db\u306a\u3069\u306e\u7de8\u96c6\u3092\u304a\u3053\u306a\u3044\u3001\u307e\u305f\u884c\u5358\u4f4d\u3067\u51fa\u529b\u3059\u308b\u3002\u57fa\u672c\u7684\u306b\u306f\u7167\u5408\u30eb\u30fc\u30eb\u306b\u5f93\u3044\u5834\u5408\u5206\u3051\u3092\u304a\u3053\u306a\u3046\u30d5\u30a3\u30eb\u30bf\u3068\u6349\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30aa\u30ea\u30b8\u30ca\u30eb\u7248\u306esed\u306f\u30d9\u30eb\u7814\u7a76\u6240\u306e\u30de\u30af\u30de\u30db\u30f3\u306b\u3088\u3063\u30661973\u5e74\u524d\u5f8c\u306b\u958b\u767a\u3055\u308c\u305fUNIX\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3\u3067\u3001\u73fe\u5728\u3067\u306f\u30b3\u30de\u30f3\u30c9\u30e9\u30a4\u30f3\u3092\u30b5\u30dd\u30fc\u30c8\u3059\u308b\u3055\u307e\u3056\u307e\u306a\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u306b\u642d\u8f09\u3055\u308c\u3066\u3044\u308b\u3002 \u5927\u91cf\u306e\u30c6\u30ad\u30b9\u30c8\u30d5\u30a1\u30a4\u30eb\u306b\u5bfe\u3057\u3066\u4e00\u62ec\u3067\u5b9a\u5f62\u306e\u51e6\u7406\u3092\u304a\u3053\u306a\u3046\u5834\u5408\u306b\u5927\u304d\u306a\u5a01\u529b\u3092\u767a\u63ee\u3059\u308b\u3002\u6b63\u898f\u8868\u73fe\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u3001\u3042\u308b\u6761\u4ef6\u306e\u7bc4\u56f2\u5185\u306e\u6587\u5b57\u5217\u3092\u63a2\u3057\u51fa\u3057\u3066\u51e6\u7406\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u7279\u5b9a\u306e\u6761\u4ef6\u306b\u5408\u3063\u305f\u6587\u5b57\u5217\u3092\u691c\u7d22\u3057\u7f6e\u63db\u3059\u308b\u306a\u3069\u306e\u7528\u9014\u306b\u7528\u3044\u308b\u3002",
+          "sed (\u043e\u0442 \u0430\u043d\u0433\u043b. Stream EDitor) \u2014 \u043f\u043e\u0442\u043e\u043a\u043e\u0432\u044b\u0439 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 (\u0430 \u0442\u0430\u043a\u0436\u0435 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f), \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0449\u0438\u0439 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u043c\u0443 \u043f\u043e\u0442\u043e\u043a\u0443 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445. \u041f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u0431\u044b\u043b \u043d\u0430\u043f\u0438\u0441\u0430\u043d \u043a\u0430\u043a UNIX-\u0443\u0442\u0438\u043b\u0438\u0442\u0430 \u041b\u0438 \u041c\u0430\u043a\u043c\u044d\u0445\u043e\u043d\u043e\u043c (\u0430\u043d\u0433\u043b. Lee E. McMahon) \u0438\u0437 Bell Labs \u0432 1973\u201474 \u0433\u043e\u0434\u0430\u0445. \u0421\u0435\u0439\u0447\u0430\u0441 sed \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0444\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0434\u043b\u044f \u043b\u044e\u0431\u043e\u0439 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0449\u0435\u0439 \u0440\u0430\u0431\u043e\u0442\u0443 \u0441 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u043e\u0439. Sed \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0422\u044c\u044e\u0440\u0438\u043d\u0433-\u043f\u043e\u043b\u043d\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c, \u0442\u0430\u043a \u043a\u0430\u043a \u043d\u0430 \u043d\u0451\u043c \u043c\u043e\u0436\u043d\u043e \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043c\u0430\u0448\u0438\u043d\u0443 \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0430.",
+          "\u0645\u062d\u0631\u0631 \u0627\u0644\u062a\u064a\u0627\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: sed)\u200f \u0647\u0648 \u0623\u062f\u0627\u0629 \u064a\u0648\u0646\u064a\u0643\u0633 \u0627\u0644\u062a\u064a \u062a\u0639\u0631\u0628 \u0627\u0644\u0646\u0635 \u0648\u062a\u0637\u0628\u0642 \u0644\u063a\u0629 \u0627\u0644\u0628\u0631\u0645\u062c\u0629 \u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0646\u0637\u0628\u0642 \u0639\u0644\u0649 \u0627\u0644\u0646\u0635 \u0641\u064a \u0645\u062b\u0644 \u0647\u0630\u0647 \u0627\u0644\u062a\u062d\u0648\u064a\u0644\u0627\u062a \u0641\u0623\u0646\u0647 \u064a\u0642\u0631\u0623 \u0627\u0644\u0645\u062f\u062e\u0644\u0627\u062a \u0633\u0637\u0631 \u0628\u0633\u0637\u0631 \u0628\u0627\u0644\u062a\u062a\u0627\u0628\u0639 \u0648\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u0639\u0645\u0644\u064a\u0629 \u064a\u062a\u0645 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062a\u062d\u062f\u064a\u062f \u0633\u0637\u0631 \u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0623\u0648 \u0627\u0644\u062d\u0648\u0627\u0631 \u0627\u0644\u0646\u0635\u064a \u0648\u0642\u062f \u0648\u0636\u0639 \u062e\u0644\u0627\u0644 \u0639\u0627\u0645\u064a 1973 . 1974 \u0628\u0627\u0639\u062a\u0628\u0627\u0631\u0647 \u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u062a\u064a \u064a\u0633\u062a\u062e\u062f\u0645\u0647\u0627 \u0628\u0631\u0646\u0627\u0645\u062c \u064a\u0648\u0646\u0643\u0633 \u0648\u0627\u0628\u062a\u0643\u0631\u0647 \u0643\u0644\u0627 \u0645\u0646 Lee E. McMahon \u0645\u0646 \u0645\u062e\u062a\u0628\u0631\u0627\u062a \u0628\u064a\u0644 \u0648\u0647\u0648 \u0645\u062a\u0627\u062d \u0627\u0644\u064a\u0648\u0645 \u0644\u0645\u0639\u0638\u0645 \u0623\u0646\u0638\u0645\u0629 \u0627\u0644\u062a\u0634\u063a\u064a\u0644.",
+          "sed (abrevia\u00e7\u00e3o de stream editor: 'editor de fluxo') \u00e9 um utilit\u00e1rio Unix que analisa e transforma textos, usando uma linguagem de programa\u00e7\u00e3o simples e compacta. Tal como o awk, \u00e9 um programa que permite aplicar diferentes transforma\u00e7\u00f5es predefinidas a um fluxo sequencial de dados textuais, sendo muito utilizado nos sistemas tipo Unix. Ao contr\u00e1rio dos editores convencionais, o sed atua em linha de comandos ou em shell script. Pode, por exemplo, editar a terceira linha de v\u00e1rios arquivos com um s\u00f3 comando. H\u00e1 uma vers\u00e3o do sed com alguns recursos extras.",
+          "sed (\u0432\u0456\u0434 \u0430\u043d\u0433\u043b. Stream EDitor) \u2014 \u043f\u043e\u0442\u043e\u043a\u043e\u0432\u0438\u0439 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0438\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 (\u0430 \u0442\u0430\u043a\u043e\u0436 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f), \u0449\u043e \u0437\u0430\u0441\u0442\u043e\u0441\u043e\u0432\u0443\u0454 \u0440\u0456\u0437\u043d\u0456 \u0437\u0443\u043c\u043e\u0432\u043b\u0435\u043d\u0456 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0456 \u043f\u0435\u0440\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0434\u043e \u043f\u043e\u0441\u043b\u0456\u0434\u043e\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0443 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0438\u0445 \u0434\u0430\u043d\u0438\u0445. \u0421\u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0431\u0443\u0432 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0439 \u044f\u043a UNIX-\u0443\u0442\u0438\u043b\u0456\u0442\u0430 \u0437 Bell Labs \u0432 1973\u201474 \u0440\u043e\u043a\u0430\u0445. \u0417\u0430\u0440\u0430\u0437 sed \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0438\u0439 \u0444\u0430\u043a\u0442\u0438\u0447\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0457 \u043e\u043f\u0435\u0440\u0430\u0446\u0456\u0439\u043d\u043e\u0457 \u0441\u0438\u0441\u0442\u0435\u043c\u0438, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454 \u0440\u043e\u0431\u043e\u0442\u0443 \u0437 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u0438\u043c \u0440\u044f\u0434\u043a\u043e\u043c.",
+          "sed (stream editor) \u00e9s una utilitat d'Unix que analitza text i implementa un llenguatge de programaci\u00f3 que pot aplicar transformacions al text analitzat. Llegeix l'entrada sequencialment l\u00ednia a l\u00ednia i aplica l'operaci\u00f3 que s'ha especificat per la l\u00ednia d'ordres o a trav\u00e9s d'un script i finalment mostra la l\u00ednia transformada. Sed es va desenvolupar entre 1973 i 1974 com una utilitat d'Unix per de Bell Labs, i avui \u00e9s disponible per a la majoria dels sistemes operatius."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "sed"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "sed"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/depiction",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Sed_stream_editor.jpg"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:IBM_i_Qshell_commands",
+          "http://dbpedia.org/resource/Category:Pattern_matching_programming_languages",
+          "http://dbpedia.org/resource/Category:Cross-platform_software",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1974",
+          "http://dbpedia.org/resource/Category:Text-oriented_programming_languages",
+          "http://dbpedia.org/resource/Category:Standard_Unix_programs",
+          "http://dbpedia.org/resource/Category:Console_applications",
+          "http://dbpedia.org/resource/Category:Plan_9_commands",
+          "http://dbpedia.org/resource/Category:Unix_SUS2008_utilities",
+          "http://dbpedia.org/resource/Category:Unix_text_processing_utilities",
+          "http://dbpedia.org/resource/Category:Scripting_languages"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "27163"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1124309991"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Arkanoid",
+          "http://dbpedia.org/resource/Shebang_(Unix)",
+          "http://dbpedia.org/resource/Esoteric_programming",
+          "http://dbpedia.org/resource/Category:Text-oriented_programming_languages",
+          "http://dbpedia.org/resource/Man_page",
+          "http://dbpedia.org/resource/Full_stop",
+          "http://dbpedia.org/resource/Templating_language",
+          "http://dbpedia.org/resource/Turing_tarpit",
+          "http://dbpedia.org/resource/Category:Console_applications",
+          "http://dbpedia.org/resource/Category:Unix_SUS2008_utilities",
+          "http://dbpedia.org/resource/Ren\u00e9_Rebe",
+          "http://dbpedia.org/resource/Turing-complete",
+          "http://dbpedia.org/resource/List_of_Unix_commands",
+          "http://dbpedia.org/resource/Sokoban",
+          "http://dbpedia.org/resource/Command_line",
+          "http://dbpedia.org/resource/Ed_(text_editor)",
+          "http://dbpedia.org/resource/Feature-rich",
+          "http://dbpedia.org/resource/Pipeline_(Unix)",
+          "http://dbpedia.org/resource/Category:IBM_i_Qshell_commands",
+          "http://dbpedia.org/resource/Minix",
+          "http://dbpedia.org/resource/Prentice_Hall",
+          "http://dbpedia.org/resource/Plan_9_from_Bell_Labs",
+          "http://dbpedia.org/resource/One-liner_program",
+          "http://dbpedia.org/resource/Category:Plan_9_commands",
+          "http://dbpedia.org/resource/Pattern_matching",
+          "http://dbpedia.org/resource/Programming_language",
+          "http://dbpedia.org/resource/Perl",
+          "http://dbpedia.org/resource/Tr_(Unix)",
+          "http://dbpedia.org/resource/Chess",
+          "http://dbpedia.org/resource/AWK",
+          "http://dbpedia.org/resource/GOTO",
+          "http://dbpedia.org/resource/Sam_(text_editor)",
+          "http://dbpedia.org/resource/Vi",
+          "http://dbpedia.org/resource/Unix",
+          "http://dbpedia.org/resource/Lee_E._McMahon",
+          "http://dbpedia.org/resource/Category:Scripting_languages",
+          "http://dbpedia.org/resource/Shell_script",
+          "http://dbpedia.org/resource/Dollar_sign",
+          "http://dbpedia.org/resource/Plus_and_minus_signs",
+          "http://dbpedia.org/resource/Tail_(Unix)",
+          "http://dbpedia.org/resource/Head_(Unix)",
+          "http://dbpedia.org/resource/Asterisk",
+          "http://dbpedia.org/resource/Category:Cross-platform_software",
+          "http://dbpedia.org/resource/Termux",
+          "http://dbpedia.org/resource/Input_stream",
+          "http://dbpedia.org/resource/Question_mark",
+          "http://dbpedia.org/resource/Eric_S._Raymond",
+          "http://dbpedia.org/resource/Version_7_Unix",
+          "http://dbpedia.org/resource/Filter_(Unix)",
+          "http://dbpedia.org/resource/C_(programming_language)",
+          "http://dbpedia.org/resource/%22Hello,_World!%22_program",
+          "http://dbpedia.org/resource/Leaning_toothpick_syndrome",
+          "http://dbpedia.org/resource/QED_(text_editor)",
+          "http://dbpedia.org/resource/Tetris",
+          "http://dbpedia.org/resource/Scripting_language",
+          "http://dbpedia.org/resource/Metacharacter",
+          "http://dbpedia.org/resource/Grep",
+          "http://dbpedia.org/resource/Conditional_(computer_programming)",
+          "http://dbpedia.org/resource/Escape_sequence",
+          "http://dbpedia.org/resource/Category:Pattern_matching_programming_languages",
+          "http://dbpedia.org/resource/Vim_(text_editor)",
+          "http://dbpedia.org/resource/Regular_expression",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1974",
+          "http://dbpedia.org/resource/GNU",
+          "http://dbpedia.org/resource/Bell_Labs",
+          "http://dbpedia.org/resource/Caret",
+          "http://dbpedia.org/resource/GNU_Project",
+          "http://dbpedia.org/resource/Category:Standard_Unix_programs",
+          "http://dbpedia.org/resource/ECMAScript",
+          "http://dbpedia.org/resource/Category:Unix_text_processing_utilities",
+          "http://dbpedia.org/resource/Label_(programming_language)",
+          "http://dbpedia.org/resource/O'Reilly_and_Associates",
+          "http://dbpedia.org/resource/Main_loop"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "http://shop.oreilly.com/product/9781565922259.do%7Cauthor=Dale",
+          "http://www.gnu.org/software/sed/manual/",
+          "https://www.pement.org/sed/",
+          "http://www.grymoire.com/Unix/Sed.html",
+          "http://www.unix.com/man-page/linux/1/sed/",
+          "https://web.archive.org/web/20181110200025/http:/www.shell-fu.org/lister.php%3Ftag=sed",
+          "http://www.shell-fu.org/lister.php%3Ftag=sed",
+          "http://www.techsakh.com/2016/05/12/20160512use-sed-command-linux-unix/",
+          "https://exactcode.com/opensource/minised/",
+          "https://www.gnu.org/software/sed/",
+          "https://www.ehdp.com/press/sed-book/%7Cdate=February",
+          "https://groups.yahoo.com/neo/groups/sed-users/info",
+          "http://main.rtfiber.com.tw/~changyj/sed/",
+          "https://likegeeks.com/sed-linux/",
+          "http://shop.oreilly.com/product/9780596003524.do%7Cauthor=Arnold",
+          "http://sed.sourceforge.net/sedfaq.html",
+          "http://sed.sourceforge.net/grabbag/tutorials/sed_mcmahon.txt",
+          "http://man.cat-v.org/unix_8th/1/sed",
+          "http://sed.sourceforge.net"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://d-nb.info/gnd/4262086-7",
+          "http://als.dbpedia.org/resource/Sed",
+          "http://ga.dbpedia.org/resource/Sed",
+          "http://ca.dbpedia.org/resource/Sed",
+          "http://ml.dbpedia.org/resource/\u0d38\u0d46\u0d21\u0d4d",
+          "http://www.wikidata.org/entity/Q305876",
+          "http://tr.dbpedia.org/resource/Sed_(yaz\u0131l\u0131m)",
+          "http://az.dbpedia.org/resource/Sed",
+          "http://it.dbpedia.org/resource/Sed_(Unix)",
+          "http://ja.dbpedia.org/resource/Sed_(\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf)",
+          "http://es.dbpedia.org/resource/Sed_(inform\u00e1tica)",
+          "http://ko.dbpedia.org/resource/Sed_(\uc720\ud2f8\ub9ac\ud2f0)",
+          "https://global.dbpedia.org/id/2qLx8",
+          "http://fa.dbpedia.org/resource/Sed",
+          "http://zh.dbpedia.org/resource/Sed",
+          "http://yago-knowledge.org/resource/Sed",
+          "http://he.dbpedia.org/resource/Sed",
+          "http://be.dbpedia.org/resource/Sed",
+          "http://sv.dbpedia.org/resource/Sed_(stream_editor)",
+          "http://cs.dbpedia.org/resource/Sed",
+          "http://rdf.freebase.com/ns/m.06rm6",
+          "http://da.dbpedia.org/resource/Sed",
+          "http://sw.cyc.com/concept/Mx4rvbFjo5wpEbGdrcN5Y29ycA",
+          "http://nl.dbpedia.org/resource/Sed_(software)",
+          "http://ar.dbpedia.org/resource/\u0645\u062d\u0631\u0631_\u0627\u0644\u062a\u064a\u0627\u0631_(\u0623\u062f\u0627\u0629_\u064a\u0648\u0646\u0643\u0633)",
+          "http://pt.dbpedia.org/resource/Sed",
+          "http://de.dbpedia.org/resource/Sed_(Unix)",
+          "http://fr.dbpedia.org/resource/Stream_Editor",
+          "http://hu.dbpedia.org/resource/Sed",
+          "http://ro.dbpedia.org/resource/Sed",
+          "http://pl.dbpedia.org/resource/Sed_(program)",
+          "http://sr.dbpedia.org/resource/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0441\u043a\u0438_\u0430\u043b\u0430\u0442_\u0441\u0435\u0434",
+          "http://uk.dbpedia.org/resource/Sed",
+          "http://ru.dbpedia.org/resource/Sed",
+          "http://fi.dbpedia.org/resource/Sed"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Lowercase",
+          "http://dbpedia.org/resource/Template:Authority_control",
+          "http://dbpedia.org/resource/Template:R",
+          "http://dbpedia.org/resource/Template:Unix_commands",
+          "http://dbpedia.org/resource/Template:Man",
+          "http://dbpedia.org/resource/Template:Plan_9_commands",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Cite_book",
+          "http://dbpedia.org/resource/Template:Wikibooks",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:Webarchive",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Start_date_and_age",
+          "http://dbpedia.org/resource/Template:Cite_web",
+          "http://dbpedia.org/resource/Template:Citation_needed",
+          "http://dbpedia.org/resource/Template:About"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/thumbnail",
+        "Values": [
+          "http://commons.wikimedia.org/wiki/Special:FilePath/Sed_stream_editor.jpg?width=300"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/date",
+        "Values": [
+          "2018-11-10"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/designer",
+        "Values": [
+          "http://dbpedia.org/resource/Lee_E._McMahon"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influenced",
+        "Values": [
+          "http://dbpedia.org/resource/AWK",
+          "http://dbpedia.org/resource/Perl"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/Ed_(text_editor)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/paradigm",
+        "Values": [
+          "http://dbpedia.org/resource/Scripting_language"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/programmingLanguage",
+        "Values": [
+          "http://dbpedia.org/resource/C_(programming_language)"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/screenshot",
+        "Values": [
+          "Sed stream editor.jpg"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/url",
+        "Values": [
+          "https://web.archive.org/web/20181110200025/http:/www.shell-fu.org/lister.php%3Ftag=sed"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/website",
+        "Values": [
+          "hide"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "sed (abrevia\u00e7\u00e3o de stream editor: 'editor de fluxo') \u00e9 um utilit\u00e1rio Unix que analisa e transforma textos, usando uma linguagem de programa\u00e7\u00e3o simples e compacta. Tal como o awk, \u00e9 um programa que permite aplicar diferentes transforma\u00e7\u00f5es predefinidas a um fluxo sequencial de dados textuais, sendo muito utilizado nos sistemas tipo Unix. O sed, desenvolvido entre 1973 e 1974 por Lee E. McMahon, do Bell Labs, foi baseado nos recursos de scripting do editor interativo ed (editor, de 1971) e do anterior (quick editor, de 1965-66). O sed foi uma das primeiras ferramentas a suportar express\u00f5es regulares e continua em uso para processamento de texto, principalmente com o comando de substitui\u00e7\u00e3o. Entre as ferramentas alternativas populares para manipula\u00e7\u00e3o de strings de texto, em texto claro e edi\u00e7\u00e3o de fluxo cont\u00ednuo, est\u00e3o AWK e Perl. Ao contr\u00e1rio dos editores convencionais, o sed atua em linha de comandos ou em shell script. Pode, por exemplo, editar a terceira linha de v\u00e1rios arquivos com um s\u00f3 comando. Geralmente, o sed recebe como entrada, por meio de uma canaliza\u00e7\u00e3o, os dados sobre os quais ir\u00e1 atuar. Aceita express\u00f5es regulares, o que lhe confere maior poder e o torna um excelente insrumento para administradores de sistemas. H\u00e1 uma vers\u00e3o do sed com alguns recursos extras.",
+          "sed (ang. stream editor) \u2013 edytor strumieniowy, kt\u00f3ry wyst\u0119puje w zestawie komend system\u00f3w uniksowych, a s\u0142u\u017cy do przetwarzania tekstu. \u0141\u0105czy w sobie prostot\u0119 oraz szeroki wachlarz mo\u017cliwo\u015bci. Znajduje te\u017c zastosowanie przy pisaniu program\u00f3w konwertuj\u0105cych. Jest on j\u0119zykiem programowania zupe\u0142nym w sensie Turinga.",
+          "sed (zkratka pro stream editor) je jednoduch\u00fd, ale v\u00fdkonn\u00fd po\u010d\u00edta\u010dov\u00fd program, slou\u017e\u00edc\u00ed k aplikaci rozli\u010dn\u00fdch p\u0159eddefinovan\u00fdch textov\u00fdch transformac\u00ed na sekven\u010dn\u00ed proud textov\u00fdch dat. Po jednotliv\u00fdch \u0159\u00e1dc\u00edch proch\u00e1z\u00ed vstupn\u00ed soubor, dle pravidel ur\u010den\u00fdch v jednoduch\u00e9m jazyku (sedovsk\u00e9m skriptu) ka\u017ed\u00fd \u0159\u00e1dek uprav\u00ed a pot\u00e9 vyp\u00ed\u0161e. Sed p\u016fvodn\u011b vytvo\u0159il n\u011bkdy na p\u0159elomu let 1973/1974 z Bellov\u00fdch laborato\u0159\u00ed jako unixov\u00fd n\u00e1stroj, dnes je v\u0161ak dostupn\u00fd pro t\u00e9m\u011b\u0159 v\u0161echny opera\u010dn\u00ed syst\u00e9my podporuj\u00edc\u00ed p\u0159\u00edkazov\u00fd \u0159\u00e1dek.",
+          "sed (\"stream editor\") is a Unix utility that parses and transforms text, using a simple, compact programming language. It was developed from 1973 to 1974 by Lee E. McMahon of Bell Labs,and is available today for most operating systems. sed was based on the scripting features of the interactive editor ed (\"editor\", 1971) and the earlier qed (\"quick editor\", 1965\u201366). It was one of the earliest tools to support regular expressions, and remains in use for text processing, most notably with the substitution command. Popular alternative tools for plaintext string manipulation and \"stream editing\" include AWK and Perl.",
+          "sed st\u00e5r f\u00f6r Stream EDitor och \u00e4r ett Unixprogram som b\u00f6rjade utvecklas i b\u00f6rjan av 1970-talet av . \"sed\" anv\u00e4nds f\u00f6r att f\u00f6r\u00e4ndra text, men ist\u00e4llet f\u00f6r att g\u00f6ra det genom att flytta mark\u00f6ren till \u00f6nskad position och g\u00f6ra f\u00f6r\u00e4ndringen s\u00e5 anv\u00e4nder man skript med \"sed\" f\u00f6r att l\u00f6sa detta. H\u00e4r \u00e4r ett exempel p\u00e5 ett enkelt sedskript som ers\u00e4tter alla ord som inneh\u00e5ller ordet banan med ordet apelsin i filen \"textfil\" och skickar d\u00e4refter resultatet till filen \"nytextfil\". V\u00e4ljer man att inte skicka resultatet n\u00e5gonstans s\u00e5 skickas resultatet till STDOUT, vilket i normala fall betyder sk\u00e4rmen. sed 's/banan/apelsin/g' textfil > nytextfil",
+          "sed (stream editor) es un editor de flujo, una potente herramienta de tratamiento de texto para el sistema operativo Unix que acepta como entrada un archivo, lo lee y modifica l\u00ednea a l\u00ednea de acuerdo a un script, mostrando el resultado por salida est\u00e1ndar (normalmente en pantalla, a menos que se realice una redirecci\u00f3n). Sed permite manipular flujos de datos, como por ejemplo cortar l\u00edneas, buscar y reemplazar texto (con soporte de expresiones regulares), entre otras cosas. Posee muchas caracter\u00edsticas de ed y ex.",
+          "sed (abbreviazione dalla lingua inglese di stream editor, editor di flusso) \u00e8 un comando dei sistemi operativi Unix e Unix-like, e pi\u00f9 in generale dei sistemi POSIX, che consente il filtraggio e la manipolazione di testi.Il comando viene tipicamente utilizzato in pipe in ambiente shell o specificando un file di input da riga di comando. Pur essendo principalmente utilizzato per applicare delle espressioni regolari, il linguaggio interpretato da sed \u00e8 turing completo, anche se, essendo pensato per la manipolazione del testo, un suo utilizzo per altri scopi \u00e8 considerato esoterico.",
+          "Sed is een acroniem van Stream EDitor. Het is een computerprogramma dat behoort tot de standaardset van applicaties onder Unix en GNU/Linux (en varianten). Ook voor andere besturingssystemen bestaan er ports van dit programma. Sed is niet bedoeld als interactieve editor -hoewel het, met enige moeite, wel als zodanig zou kunnen worden gebruikt- maar wordt meestal, op de unix-manier, gebruikt in pipe-structuren. In het geval van sed betekent dit: lees uitvoer van een ander commando of van een bestand, bewerk dit volgens een aantal regels (het sed-script) en stuur de uitvoer naar een ander programma of naar een bestand.sed maakt gebruik van een simpele en krachtige commando-set en kent een eenvoudige branch- en variabelen-structuur. Desondanks is de taal Turing-compleet. Sed maakt gebruik van zeer uitgebreide en krachtige reguliere expressies. Belangrijke kenmerken van sed: \n* regel-geori\u00ebnteerd: alle commando's worden losgelaten op een regel alvorens een volgende regel wordt gelezen en verwerkt; \n* De in bewerking zijnde regel wordt opgeslagen in een zogenaamde pattern space waarin eventuele bewerkingen plaatsvinden; \n* een zogenaamde hold space kan worden gebruikt om voorgaande regels op te slaan; \n* door middel van speciale commando's kunnen pattern space en hold space worden uitgewisseld; \n* sed kent een goto label commando; \n* er kunnen labels worden gedefinieerd, te gebruiken in goto en conditionele commando's; \n* de enige variabelen die sed kent zijn de positionele velden binnen een reguliere expressie;",
+          "sed steht f\u00fcr Stream EDitor und ist ein Unix-Werkzeug, mit dem Text-Datenstr\u00f6me bearbeitet werden k\u00f6nnen. Der Datenstrom kann auch aus einer Datei gelesen werden. Im Gegensatz zu einem Texteditor wird die Ursprungsdatei aber nicht ver\u00e4ndert. Im Gegensatz zu einem interaktiven Texteditor, wie etwa dem vi, wird sed mittels eines Skripts gesteuert. Der sed-Befehlssatz orientiert sich an jenem des zeilenorientierten Texteditors ed. Dabei werden f\u00fcr die Text-Durchmusterung laut der POSIX-Spezifikation eine bestimmte Abart der Regular Expressions, sogenannte (POSIX-) Basic Regular Expressions (BRE) verwendet. Die GNU-Implementation verwendet allerdings GNU-BREs, die von POSIX-BREs geringf\u00fcgig abweichen. Auch wenn der Sprachumfang von sed ziemlich limitiert und spezialisiert erscheint, so handelt es sich doch um eine Turing-vollst\u00e4ndige Sprache. Beweisen kann man die Turing-Vollst\u00e4ndigkeit, indem man eine Turingmaschine mittels sed programmiert oder indem man mit sed einen Interpreter f\u00fcr eine andere, Turing-vollst\u00e4ndige Sprache schreibt. Folglich konnten und wurden sogar Spiele wie Sokoban oder Arkanoid und andere anspruchsvolle Programme wie Debugger mit sed geschrieben.",
+          "sed(stream editor)\ub294 \uc720\ub2c9\uc2a4\uc5d0\uc11c \ud14d\uc2a4\ud2b8\ub97c \ubd84\ud574\ud558\uac70\ub098 \ubcc0\ud658\ud558\uae30 \uc704\ud55c \ud504\ub85c\uadf8\ub7a8\uc774\ub2e4. sed\ub294 \ubca8 \uc5f0\uad6c\uc18c\uc758 \ub9ac E. \ub9e5\ub9c8\ud754\uc774 1973\ub144\ubd80\ud130 1974\ub144\uae4c\uc9c0 \uac1c\ubc1c\ud558\uc600\uace0, \ud604\uc7ac \uc720\ub2c9\uc2a4 \ub4f1\uc758 \uc5ec\ub7ec \uac00\uc9c0 \uc6b4\uc601 \uccb4\uc81c\uc5d0\uc11c \uc0ac\uc6a9 \uac00\ub2a5\ud558\ub2e4.",
+          "Bogearra \u00e1irge ar ch\u00f3rais Linux/Unix is ea sed (\u00f3 \u201cstream editor\u201d i mB\u00e9arla). \u00das\u00e1ideann s\u00e9 teanga r\u00edomhchl\u00e1r\u00fach\u00e1in an-simpl\u00ed chun sruthanna t\u00e9acs a athr\u00fa. Ba \u00e9 Lee E. McMahon, ag obair le , a chruthaigh an ch\u00e9ad leagan de sed idir 1973 agus 1974. Bh\u00ed sed bunaithe ar ghn\u00e9ithe scriptithe a bh\u00ed ar f\u00e1il sna heagarth\u00f3ir\u00ed idirghn\u00edomhacha (\u00f3 \u201cquick editor\u201d i mB\u00e9arla, 1965\u20131966) agus (1971). Bh\u00ed sed ar cheann de na huirlis\u00ed is luaithe a thacaigh le , agus t\u00e1 s\u00e9 f\u00f3s in \u00fas\u00e1id go forleathan sa t\u00e9acsphr\u00f3ise\u00e1il, in \u00e9ineacht le huirlis\u00ed eile ar n\u00f3s agus Perl.",
+          "sed\uff08\u610f\u4e3a\u6d41\u7f16\u8f91\u5668\uff0c\u6e90\u81ea\u82f1\u8bed\u201cstream editor\u201d\u7684\u7f29\u5199\uff09\u662f\u4e00\u4e2a\u4f7f\u7528\u7b80\u5355\u7d27\u51d1\u7684\u7f16\u7a0b\u8bed\u8a00\u6765\u89e3\u6790\u548c\u8f6c\u6362\u6587\u672cUnix\u5b9e\u7528\u7a0b\u5e8f\u3002 sed\u7531\u8d1d\u5c14\u5b9e\u9a8c\u5ba4\u7684\u674e\u00b7E\u00b7\u9ea5\u514b\u99ac\u6d2a\u4e8e1973\u5e74\u81f31974\u5e74\u5f00\u53d1\uff0c \u5e76\u4e14\u73b0\u5728\u5927\u591a\u6570\u64cd\u4f5c\u7cfb\u7edf\u90fd\u53ef\u4ee5\u4f7f\u7528\u3002 sed\u57fa\u4e8e\u4ea4\u4e92\u5f0f\u7f16\u8f91\u5668ed\uff08\u201ceditor\u201d\uff0c1971\uff09\u548c\u65e9\u671fqed\uff08\u201cquick editor\u201d\uff0c1965-66\uff09\u7684\u811a\u672c\u529f\u80fd\u3002sed\u662f\u6700\u65e9\u652f\u6301\u6b63\u5219\u8868\u8fbe\u5f0f\u7684\u5de5\u5177\u4e4b\u4e00\uff0c\u81f3\u4eca\u4ecd\u7136\u7528\u4e8e\u6587\u672c\u5904\u7406\uff0c\u7279\u522b\u662f\u7528\u4e8e\u66ff\u6362\u547d\u4ee4\u3002\u7528\u4e8e\u7eaf\u6587\u672c\u5b57\u7b26\u4e32\u64cd\u4f5c\u548c\u201c\u6d41\u7f16\u8f91\u201d\u7684\u5e38\u7528\u5de5\u5177\u8fd8\u6709AWK\u548cPerl \u3002",
+          "sed (abr\u00e9viation de Stream EDitor, \u00ab \u00e9diteur de flux \u00bb) est, comme awk, un programme informatique permettant d'appliquer diff\u00e9rentes transformations pr\u00e9d\u00e9finies \u00e0 un flux s\u00e9quentiel de donn\u00e9es textuelles. sed lit des donn\u00e9es d'entr\u00e9e ligne par ligne, modifie chaque ligne selon des r\u00e8gles sp\u00e9cifi\u00e9es dans un langage propre (appel\u00e9 \u00ab script sed \u00bb), puis retourne le contenu du fichier (par d\u00e9faut). Bien qu'originellement \u00e9crit pour Unix, par (en) en 1973/1974 (Bell Labs), sed est maintenant disponible sur pratiquement tous les syst\u00e8mes d'exploitation disposant d'une interface en ligne de commande.",
+          "sed\uff08\u30bb\u30c9\uff09\u306f\u3001\u5165\u529b\u30b9\u30c8\u30ea\u30fc\u30e0\uff08\u30d5\u30a1\u30a4\u30eb\u307e\u305f\u306f\u30d1\u30a4\u30d7\u30e9\u30a4\u30f3\u304b\u3089\u306e\u5165\u529b\uff09\u306b\u5bfe\u3057\u3066\u30c6\u30ad\u30b9\u30c8\u5909\u63db\u306a\u3069\u306e\u30c7\u30fc\u30bf\u51e6\u7406\u3092\u304a\u3053\u306a\u3046\u305f\u3081\u306b\u4f7f\u7528\u3055\u308c\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u3067\u3042\u308b\u3002\u540d\u79f0\u300csed\u300d\u306f\u300c\u30b9\u30c8\u30ea\u30fc\u30e0\u30a8\u30c7\u30a3\u30bf\u300d\u3092\u610f\u5473\u3059\u308b\u82f1\u8a9e\u300cstream editor\u300d\u306b\u7531\u6765\u3059\u308b\u3002 sed\u306f\u3001\u5165\u529b\u3092\u884c\u5358\u4f4d\u3067\u8aad\u307f\u53d6\u308a\u3001sed\u30b9\u30af\u30ea\u30d7\u30c8\u3068\u547c\u3070\u308c\u308b\u30b7\u30f3\u30d7\u30eb\u306a\u547d\u4ee4\u6587\u306b\u5f93\u3063\u3066\u30c6\u30ad\u30b9\u30c8\u5909\u63db\u306a\u3069\u306e\u7de8\u96c6\u3092\u304a\u3053\u306a\u3044\u3001\u307e\u305f\u884c\u5358\u4f4d\u3067\u51fa\u529b\u3059\u308b\u3002\u57fa\u672c\u7684\u306b\u306f\u7167\u5408\u30eb\u30fc\u30eb\u306b\u5f93\u3044\u5834\u5408\u5206\u3051\u3092\u304a\u3053\u306a\u3046\u30d5\u30a3\u30eb\u30bf\u3068\u6349\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30aa\u30ea\u30b8\u30ca\u30eb\u7248\u306esed\u306f\u30d9\u30eb\u7814\u7a76\u6240\u306e\u30de\u30af\u30de\u30db\u30f3\u306b\u3088\u3063\u30661973\u5e74\u524d\u5f8c\u306b\u958b\u767a\u3055\u308c\u305fUNIX\u30e6\u30fc\u30c6\u30a3\u30ea\u30c6\u30a3\u3067\u3001\u73fe\u5728\u3067\u306f\u30b3\u30de\u30f3\u30c9\u30e9\u30a4\u30f3\u3092\u30b5\u30dd\u30fc\u30c8\u3059\u308b\u3055\u307e\u3056\u307e\u306a\u30aa\u30da\u30ec\u30fc\u30c6\u30a3\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u306b\u642d\u8f09\u3055\u308c\u3066\u3044\u308b\u3002 \u5927\u91cf\u306e\u30c6\u30ad\u30b9\u30c8\u30d5\u30a1\u30a4\u30eb\u306b\u5bfe\u3057\u3066\u4e00\u62ec\u3067\u5b9a\u5f62\u306e\u51e6\u7406\u3092\u304a\u3053\u306a\u3046\u5834\u5408\u306b\u5927\u304d\u306a\u5a01\u529b\u3092\u767a\u63ee\u3059\u308b\u3002\u6b63\u898f\u8868\u73fe\u306b\u5bfe\u5fdc\u3057\u3066\u304a\u308a\u3001\u3042\u308b\u6761\u4ef6\u306e\u7bc4\u56f2\u5185\u306e\u6587\u5b57\u5217\u3092\u63a2\u3057\u51fa\u3057\u3066\u51e6\u7406\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u7279\u5b9a\u306e\u6761\u4ef6\u306b\u5408\u3063\u305f\u6587\u5b57\u5217\u3092\u691c\u7d22\u3057\u7f6e\u63db\u3059\u308b\u306a\u3069\u306e\u7528\u9014\u306b\u7528\u3044\u308b\u3002",
+          "sed (\u043e\u0442 \u0430\u043d\u0433\u043b. Stream EDitor) \u2014 \u043f\u043e\u0442\u043e\u043a\u043e\u0432\u044b\u0439 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 (\u0430 \u0442\u0430\u043a\u0436\u0435 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f), \u043f\u0440\u0438\u043c\u0435\u043d\u044f\u044e\u0449\u0438\u0439 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0435 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0435 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u043a \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u043c\u0443 \u043f\u043e\u0442\u043e\u043a\u0443 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445. \u041f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u0431\u044b\u043b \u043d\u0430\u043f\u0438\u0441\u0430\u043d \u043a\u0430\u043a UNIX-\u0443\u0442\u0438\u043b\u0438\u0442\u0430 \u041b\u0438 \u041c\u0430\u043a\u043c\u044d\u0445\u043e\u043d\u043e\u043c (\u0430\u043d\u0433\u043b. Lee E. McMahon) \u0438\u0437 Bell Labs \u0432 1973\u201474 \u0433\u043e\u0434\u0430\u0445. \u0421\u0435\u0439\u0447\u0430\u0441 sed \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0444\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0434\u043b\u044f \u043b\u044e\u0431\u043e\u0439 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b, \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u044e\u0449\u0435\u0439 \u0440\u0430\u0431\u043e\u0442\u0443 \u0441 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u043e\u0439 \u0441\u0442\u0440\u043e\u043a\u043e\u0439. Sed \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0422\u044c\u044e\u0440\u0438\u043d\u0433-\u043f\u043e\u043b\u043d\u044b\u043c \u044f\u0437\u044b\u043a\u043e\u043c, \u0442\u0430\u043a \u043a\u0430\u043a \u043d\u0430 \u043d\u0451\u043c \u043c\u043e\u0436\u043d\u043e \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043c\u0430\u0448\u0438\u043d\u0443 \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0430.",
+          "\u0645\u062d\u0631\u0631 \u0627\u0644\u062a\u064a\u0627\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: sed)\u200f \u0647\u0648 \u0623\u062f\u0627\u0629 \u064a\u0648\u0646\u064a\u0643\u0633 \u0627\u0644\u062a\u064a \u062a\u0639\u0631\u0628 \u0627\u0644\u0646\u0635 \u0648\u062a\u0637\u0628\u0642 \u0644\u063a\u0629 \u0627\u0644\u0628\u0631\u0645\u062c\u0629 \u0627\u0644\u062a\u064a \u064a\u0645\u0643\u0646 \u0623\u0646 \u062a\u0646\u0637\u0628\u0642 \u0639\u0644\u0649 \u0627\u0644\u0646\u0635 \u0641\u064a \u0645\u062b\u0644 \u0647\u0630\u0647 \u0627\u0644\u062a\u062d\u0648\u064a\u0644\u0627\u062a \u0641\u0623\u0646\u0647 \u064a\u0642\u0631\u0623 \u0627\u0644\u0645\u062f\u062e\u0644\u0627\u062a \u0633\u0637\u0631 \u0628\u0633\u0637\u0631 \u0628\u0627\u0644\u062a\u062a\u0627\u0628\u0639 \u0648\u062a\u0637\u0628\u064a\u0642 \u0627\u0644\u0639\u0645\u0644\u064a\u0629 \u064a\u062a\u0645 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062a\u062d\u062f\u064a\u062f \u0633\u0637\u0631 \u0627\u0644\u0623\u0648\u0627\u0645\u0631 \u0623\u0648 \u0627\u0644\u062d\u0648\u0627\u0631 \u0627\u0644\u0646\u0635\u064a \u0648\u0642\u062f \u0648\u0636\u0639 \u062e\u0644\u0627\u0644 \u0639\u0627\u0645\u064a 1973 . 1974 \u0628\u0627\u0639\u062a\u0628\u0627\u0631\u0647 \u0627\u0644\u0623\u062f\u0627\u0629 \u0627\u0644\u062a\u064a \u064a\u0633\u062a\u062e\u062f\u0645\u0647\u0627 \u0628\u0631\u0646\u0627\u0645\u062c \u064a\u0648\u0646\u0643\u0633 \u0648\u0627\u0628\u062a\u0643\u0631\u0647 \u0643\u0644\u0627 \u0645\u0646 Lee E. McMahon \u0645\u0646 \u0645\u062e\u062a\u0628\u0631\u0627\u062a \u0628\u064a\u0644 \u0648\u0647\u0648 \u0645\u062a\u0627\u062d \u0627\u0644\u064a\u0648\u0645 \u0644\u0645\u0639\u0638\u0645 \u0623\u0646\u0638\u0645\u0629 \u0627\u0644\u062a\u0634\u063a\u064a\u0644.",
+          "sed (\u0432\u0456\u0434 \u0430\u043d\u0433\u043b. Stream EDitor) \u2014 \u043f\u043e\u0442\u043e\u043a\u043e\u0432\u0438\u0439 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0438\u0439 \u0440\u0435\u0434\u0430\u043a\u0442\u043e\u0440 (\u0430 \u0442\u0430\u043a\u043e\u0436 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f), \u0449\u043e \u0437\u0430\u0441\u0442\u043e\u0441\u043e\u0432\u0443\u0454 \u0440\u0456\u0437\u043d\u0456 \u0437\u0443\u043c\u043e\u0432\u043b\u0435\u043d\u0456 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0456 \u043f\u0435\u0440\u0435\u0442\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u0434\u043e \u043f\u043e\u0441\u043b\u0456\u0434\u043e\u0432\u043d\u043e\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0443 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u0438\u0445 \u0434\u0430\u043d\u0438\u0445. \u0421\u043f\u043e\u0447\u0430\u0442\u043a\u0443 \u0431\u0443\u0432 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0439 \u044f\u043a UNIX-\u0443\u0442\u0438\u043b\u0456\u0442\u0430 \u0437 Bell Labs \u0432 1973\u201474 \u0440\u043e\u043a\u0430\u0445. \u0417\u0430\u0440\u0430\u0437 sed \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u0438\u0439 \u0444\u0430\u043a\u0442\u0438\u0447\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u0457 \u043e\u043f\u0435\u0440\u0430\u0446\u0456\u0439\u043d\u043e\u0457 \u0441\u0438\u0441\u0442\u0435\u043c\u0438, \u0449\u043e \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0454 \u0440\u043e\u0431\u043e\u0442\u0443 \u0437 \u043a\u043e\u043c\u0430\u043d\u0434\u043d\u0438\u043c \u0440\u044f\u0434\u043a\u043e\u043c.",
+          "sed (stream editor) \u00e9s una utilitat d'Unix que analitza text i implementa un llenguatge de programaci\u00f3 que pot aplicar transformacions al text analitzat. Llegeix l'entrada sequencialment l\u00ednia a l\u00ednia i aplica l'operaci\u00f3 que s'ha especificat per la l\u00ednia d'ordres o a trav\u00e9s d'un script i finalment mostra la l\u00ednia transformada. Sed es va desenvolupar entre 1973 i 1974 com una utilitat d'Unix per de Bell Labs, i avui \u00e9s disponible per a la majoria dels sistemes operatius."
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/screenshotCaption",
+        "Values": [
+          "Man page for GNU sed on Termux"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Utility"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Sed?oldid=1124309991&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "21116"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/designer",
+        "Values": [
+          "http://dbpedia.org/resource/Lee_E._McMahon"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influenced",
+        "Values": [
+          "http://dbpedia.org/resource/AWK",
+          "http://dbpedia.org/resource/Perl"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/Ed_(text_editor)"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Sed"
+        ]
+      }
+    ]
+  }
+]

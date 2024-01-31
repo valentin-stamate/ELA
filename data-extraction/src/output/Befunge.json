@@ -1,0 +1,238 @@
+[
+  {
+    "Language": "http://dbpedia.org/resource/Befunge",
+    "Properties": [
+      {
+        "Property": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "Values": [
+          "http://dbpedia.org/class/yago/Communication100033020",
+          "http://www.wikidata.org/entity/Q315",
+          "http://dbpedia.org/class/yago/Abstraction100002137",
+          "http://dbpedia.org/class/yago/ArtificialLanguage106894544",
+          "http://dbpedia.org/class/yago/ProgrammingLanguage106898352",
+          "http://dbpedia.org/class/yago/Language106282651",
+          "http://dbpedia.org/class/yago/WikicatProgrammingLanguagesCreatedIn1993",
+          "http://schema.org/Language",
+          "http://dbpedia.org/ontology/ProgrammingLanguage",
+          "http://dbpedia.org/ontology/Language",
+          "http://www.w3.org/2002/07/owl#Thing",
+          "http://www.wikidata.org/entity/Q9143"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#label",
+        "Values": [
+          "\ube44\ud380\uc9c0",
+          "\u0628\u064a\u0641\u0646\u062c (\u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629)",
+          "BeFunge",
+          "Befunge"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "Values": [
+          "Befunge es un lenguaje de programaci\u00f3n esot\u00e9rico, funge-oide, reflexivo y basado en pila. Difiere de los lenguajes convencionales en que los programas est\u00e1n dispuestos en una parrilla bidimensional. Las instrucciones \"flecha\" dirigen el control de flujo hacia arriba, abajo, izquierda o derecha, y los bucles se construyen dirigiendo el control de flujo en c\u00edrculo.",
+          "Befunge is a two-dimensional stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid. \"Arrow\" instructions direct the control flow to the left, right, up or down, and loops are constructed by sending the control flow in a cycle. It has been described as \"a cross between Forth and Lemmings\". A worthy companion to INTERCAL; a computer language family which escapes the quotidian limitation of linear control flow and embraces program counters flying through multiple dimensions with exotic topologies.",
+          "\ube44\ud380\uc9c0(Befunge)\ub294 \uc2a4\ud0dd \uae30\ubc18\uc758 \ub09c\ud574\ud55c \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c, \uae30\uc874\uc758 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub4e4\uacfc\ub294 \ub2e4\ub974\uac8c \ud504\ub85c\uadf8\ub7a8\uc774 2\ucc28\uc6d0 \uacf5\uac04 \uc0c1\uc5d0 \ubc30\uc5f4\ub418\uc5b4 \uc788\ub2e4. \"\ud654\uc0b4\ud45c\" \uba85\ub839\ub4e4\uc740 \uba85\ub839\uc758 \ud750\ub984\uc744 \uc67c\ucabd, \uc624\ub978\ucabd, \uc704, \uc544\ub798\ub85c \ud5a5\ud558\uac8c \ud558\uace0, \ubc18\ubcf5\ubb38\uc740 \uba85\ub839\uc758 \ud750\ub984\uc744 \uc6d0 \ubaa8\uc591\uc73c\ub85c \ub9cc\ub4e4\uc5b4\uc11c \uad6c\uc131\ub41c\ub2e4.",
+          "Befunge \u2014 \u0446\u0435 \u0441\u0442\u0435\u043a\u043e\u0432\u0430 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f. \u0412\u043e\u043d\u0430 \u0432\u0456\u0434\u0440\u0456\u0437\u043d\u044f\u0454\u0442\u044c\u0441\u044f \u0432\u0456\u0434 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0445 \u043c\u043e\u0432 \u0442\u0438\u043c, \u0449\u043e \u043a\u043e\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438, \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043e\u0457 \u043d\u0430 Befunge, \u0440\u043e\u0437\u0442\u0430\u0448\u043e\u0432\u0430\u043d\u0438\u0439 \u0443 \u0434\u0432\u043e\u0432\u0438\u043c\u0456\u0440\u043d\u043e\u043c\u0443 \u043f\u0440\u043e\u0441\u0442\u043e\u0440\u0456 \u0456\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u0439, \u0430 \u0432\u0438\u043a\u043e\u043d\u0430\u043d\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u043c\u043e\u0436\u0435 \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u0442\u0438\u0441\u044c \u0443 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u043c\u0443 \u043d\u0430\u043f\u0440\u044f\u043c\u043a\u0443. \u041a\u0440\u0456\u0441 \u041f\u0440\u0435\u0441\u0456, \u0442\u0432\u043e\u0440\u0435\u0446\u044c Befunge, \u043c\u0430\u0432 \u0437\u0430 \u043c\u0435\u0442\u0443 \u0441\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u043c\u043e\u0432\u0443 \u0437 \u044f\u043a\u043d\u0430\u0439\u0441\u043a\u043b\u0430\u0434\u043d\u0456\u0448\u0438\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u043c \u043a\u043e\u043c\u043f\u0456\u043b\u044f\u0446\u0456\u0457. Befunge \u0432\u0432\u0430\u0436\u0430\u0454\u0442\u044c\u0441\u044f \u0434\u0432\u043e\u0432\u0438\u043c\u0456\u0440\u043d\u043e\u044e, \u043e\u0441\u043a\u0456\u043b\u044c\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0430, \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0430 \u043d\u0435\u044e, \u0437\u0430\u043f\u0438\u0441\u0443\u0454\u0442\u044c\u0441\u044f \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u044e, \u043f\u043e \u044f\u043a\u0456\u0439 \u0432 \u0440\u0456\u0437\u043d\u0438\u0445 \u043d\u0430\u043f\u0440\u044f\u043c\u043a\u0430\u0445 \u043f\u0435\u0440\u0435\u043c\u0456\u0449\u0443\u0454\u0442\u044c\u0441\u044f \u0432\u043a\u0430\u0437\u0456\u0432\u043d\u0438\u043a \u0456\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u0439, \u0432\u0438\u043a\u043e\u043d\u0443\u044e\u0447\u0438 \u043a\u043e\u043c\u0430\u043d\u0434\u0438, \u0440\u043e\u0437\u043c\u0456\u0449\u0435\u043d\u0456 \u0432 \u043a\u043b\u0456\u0442\u0438\u043d\u043a\u0430\u0445 \u0434\u0430\u043d\u043e\u0457 \u0442\u0430\u0431\u043b\u0438\u0446\u0456. \u0414\u0430\u043d\u0430 \u0442\u0430\u0431\u043b\u0438\u0446\u044f \u043c\u0430\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0437\u0433\u043e\u0440\u0442\u0430\u0442\u0438\u0441\u044c \u0443 \u0442\u043e\u0440 \u043d\u0430 \u0432\u0438\u043f\u0430\u0434\u043e\u043a \u0432\u0438\u0445\u043e\u0434\u0443 \u0432\u043a\u0430\u0437\u0456\u0432\u043d\u0438\u043a\u0430 \u0456\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u0439 \u0437\u0430 \u043c\u0435\u0436\u0456 \u0440\u044f\u0434\u043a\u0430, \u043f\u0440\u0438\u0447\u043e\u043c\u0443 \u043d\u0430\u043f\u0440\u044f\u043c\u043e\u043a \u0432\u043a\u0430\u0437\u0456\u0432\u043d\u0438\u043a\u0430 \u0431\u0443\u0434\u0435 \u0437\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u043e, \u0430 \u043f\u0440\u043e\u0446\u0435\u0441 \u0432\u0438\u043a\u043e\u043d\u0430\u043d\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0438\u0442\u044c\u0441\u044f.",
+          "Befunge \u2014 \u0441\u0442\u0435\u043a\u043e\u0432\u044b\u0439 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u0421\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u0434\u0432\u0443\u043c\u0435\u0440\u043d\u044b\u043c, \u0442\u0430\u043a \u043a\u0430\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 Befunge \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0443 \u0441\u043e \u0441\u0448\u0438\u0442\u044b\u043c\u0438 \u043a\u0440\u0430\u044f\u043c\u0438 (\u0442\u043e\u0440), \u043f\u043e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f\u0445 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0435\u0442\u0441\u044f \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440, \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u044b, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u0432 \u0435\u0451 \u044f\u0447\u0435\u0439\u043a\u0430\u0445. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u0440\u043e\u0434\u0438\u043b\u043e\u0441\u044c \u0438\u0437 \u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0438 \u0432 \u0441\u043b\u043e\u0432\u0435 \u00abbefore\u00bb. \u041f\u0435\u0440\u0432\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f \u044f\u0437\u044b\u043a\u0430 Befunge \u0431\u044b\u043b\u0430 \u0441\u043e\u0437\u0434\u0430\u043d\u0430 \u0432 1993 \u0433\u043e\u0434\u0443. \u041a\u0430\u043a \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u043b \u0430\u0432\u0442\u043e\u0440, \u0435\u0433\u043e \u0446\u0435\u043b\u044c\u044e \u0431\u044b\u043b\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u044f\u0437\u044b\u043a, \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u044b\u0439 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0446\u0438\u0438. \u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430\u043c\u0438 p \u0438 g, \u043c\u043e\u0434\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u044e\u0449\u0438\u043c\u0438 \u0442\u0435\u043a\u0441\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b.",
+          "Befunge \u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629 \u062a\u062e\u062a\u0644\u0641 \u0639\u0646 \u0627\u0644\u0644\u063a\u0627\u062a \u0627\u0644\u062a\u0642\u0644\u064a\u062f\u064a\u0629 \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0628\u0631\u0627\u0645\u062c \u062d\u064a\u062b \u064a\u062a\u0645 \u062a\u0631\u062a\u064a\u0628\u0647\u0627 \u0639\u0644\u0649 \u0634\u0628\u0643\u0629 \u062b\u0646\u0627\u0626\u064a\u0629 \u0627\u0644\u0623\u0628\u0639\u0627\u062f. \u062a\u0639\u0644\u064a\u0645\u0627\u062a \"Arrow\" \u0645\u0628\u0627\u0634\u0631\u0629 \u062a\u0648\u062c\u0647 \u062a\u062f\u0641\u0642 \u0627\u0644\u062a\u062d\u0643\u0645 \u0625\u0644\u0649 \u0627\u0644\u064a\u0633\u0627\u0631 \u0623\u0648\u0627\u0644\u064a\u0645\u064a\u0646\u060c \u0623\u0648 \u0635\u0639\u0648\u062f\u0627 \u0623\u0648 \u0647\u0628\u0648\u0637\u0627\u060c \u0648\u0627\u0644\u062d\u0644\u0642\u0627\u062a \u062a\u0628\u0646\u0649 \u0628\u0625\u0631\u0633\u0627\u0644 \u062a\u062f\u0641\u0642 \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u062f\u0648\u0631\u0629.",
+          "Befunge \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica. O c\u00f3digo \u00e9 bidimensional. Foi criada por Chris Pressey, em 1993. \u00c9 baseada no conceito de pilha (LIFO).",
+          "Befunge je dvojdimenzion\u00e1ln\u00ed ezoterick\u00fd programovac\u00ed jazyk vyvinut\u00fd roku 1993 Chrisem Presseyem. Hlavn\u00edm c\u00edlem bylo vytvo\u0159it jazyk, kter\u00fd bude tak obt\u00ed\u017en\u00fd ke kompilaci, jak jen to bude mo\u017en\u00e9.",
+          "Befunge \u00e4r ett stack-baserat esoteriskt programspr\u00e5k med den ovanliga egenskapen att instruktionerna \u00e4r ordnade i ett tv\u00e5dimensionellt f\u00e4lt. Instruktionspekaren kan d\u00e4rf\u00f6r g\u00e5 i fyra olika riktningar (upp\u00e5t, ned\u00e5t, v\u00e4nster eller h\u00f6ger) och kan byta riktning vid utsatta pilar eller villkor. Befunge kan ocks\u00e5 vara sj\u00e4lvmodifierande i och med att man under k\u00f6rning kan \u00e4ndra instruktioner eller data i celler med hj\u00e4lp av instruktionerna p och g. Spr\u00e5ket har ocks\u00e5 sagts vara Turingkomplett, men det \u00e4r inte bevisat.",
+          "Befunge ist eine esoterische Programmiersprache von Chris Pressey, die \u00e4hnlich wie Forth Stack-orientiert ist. Die Programme basieren auf einem 2-dimensionalen Schema. Der Quelltext besteht aus ASCII-Zeichen in einer 80\u00d725 Zeichen gro\u00dfen Anordnung. Chris Pressey erfand Befunge 1993 mit dem Ziel, eine m\u00f6glichst schwer kompilierbare Sprache zu definieren. Eine Schwierigkeit f\u00fcr Compiler stellt beispielsweise das p-Kommando dar, welches den Quellcode zur Laufzeit dynamisch ver\u00e4ndern kann.",
+          "Befunge est un langage de programmation exotique r\u00e9flexif \u00e0 pile. Il diff\u00e8re des langages conventionnels par le fait qu'il est arrang\u00e9 sur une grille \u00e0 deux dimensions. Des instructions \u00ab fl\u00e8che \u00bb dirigent le flux de contr\u00f4le \u00e0 gauche, \u00e0 droite, en haut, en bas, et des boucles sont construites en envoyant le flux de contr\u00f4le dans un cycle.",
+          "Befunge \u306f\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u4e00\u3064\u3002\u624b\u7d9a\u304d\u578b\u3001\u30b9\u30bf\u30c3\u30af\u578b\u3067\u3001\u81ea\u5df1\u5909\u66f4\u7684\u306a\u8a00\u8a9e\u3067\u3042\u308b\u3002\u5b9f\u7528\u8a00\u8a9e\u3067\u306f\u306a\u3044\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u3072\u3068\u3064\u3002 \u3053\u306e\u8a00\u8a9e\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u547d\u4ee4\u306f\u4e00\u6b21\u5143\u306e\u5217\u3067\u306f\u306a\u304f\u4e8c\u6b21\u5143\u306e\u683c\u5b50\u4e0a\u306b\u4e26\u3093\u3067\u3044\u3066\u3001\u5b9f\u884c\u3059\u308b\u5411\u304d\u3092\u4e0a\u4e0b\u5de6\u53f3\u306b\u5909\u66f4\u3067\u304d\u308b\u3002\u3053\u306e\u8a00\u8a9e\u306e\u4efb\u610f\u306e1\u547d\u4ee4\u306f\u3001\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u4e2d\u30671\u6587\u5b57\u3067\u8868\u73fe\u3055\u308c\u308b\u3002\u3057\u305f\u304c\u3063\u3066\u3001\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u4e2d\u306e\u884c\u3068\u6841\u304c\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u683c\u5b50\u306e\u4f4d\u7f6e\u306b\u5bfe\u5fdc\u3059\u308b\u3002 1993 \u5e74\u3001 \u304c\u300c\u30b3\u30f3\u30d1\u30a4\u30eb\u304c\u56f0\u96e3\u306a\u8a00\u8a9e\u300d\u3068\u3057\u3066\u4f5c\u3063\u305f\u3002Befunge-93 \u306f\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u30b5\u30a4\u30ba\u304c 80 \u6841 25 \u884c\u306b\u56fa\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002Befunge-93 \u306e\u62e1\u5f35 (\u4e00\u822c\u5316) \u3067\u3042\u308b Funge-98 \u306b\u306f\u3053\u306e\u5236\u9650\u306f\u7121\u304f\u3001\u30c1\u30e5\u30fc\u30ea\u30f3\u30b0\u5b8c\u5168\u3067\u3042\u308b\u3002\u3055\u3089\u306b Funge-98 \u306b\u306f\u4efb\u610f\u6b21\u5143\u3078\u306e\u62e1\u5f35\u3084\u30de\u30eb\u30c1\u30b9\u30ec\u30c3\u30c9\u5bfe\u5fdc\u7b49\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u3002",
+          "BeFunge \u2013 ezoteryczny j\u0119zyk programowania. Programy w nim, w odr\u00f3\u017cnieniu od wi\u0119kszo\u015bci j\u0119zyk\u00f3w programowania, s\u0105 zorganizowane w dwuwymiarowej tablicy. Instrukcje \"strza\u0142kowe\" (< > ^ v) powoduj\u0105 przeniesienia sterowania, a p\u0119tle s\u0105 tworzone poprzez zorganizowanie sterowania \"w k\u00f3\u0142ko\". Ka\u017cda instrukcja w BeFunge jest oznaczana pojedynczym znakiem.",
+          "Befunge is een esoterische programmeertaal die in 1993 ontwikkeld werd door . Het is een stackgebaseerde taal met . Een programma wordt geschreven in een roostervan 80 kolommen en 25 rijen. Via richtinstructies wordt de richting die het programma uitgaat gedefinieerd. Op die manier kunnen ooklussen gemaakt worden."
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/name",
+        "Values": [
+          "",
+          "Befunge"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/name",
+        "Values": [
+          "Befunge"
+        ]
+      },
+      {
+        "Property": "http://purl.org/dc/terms/subject",
+        "Values": [
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/Category:Stack-oriented_programming_languages",
+          "http://dbpedia.org/resource/Category:Non-English-based_programming_languages",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1993"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageID",
+        "Values": [
+          "53391"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "Values": [
+          "1093431527"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "Values": [
+          "http://dbpedia.org/resource/Forth_(programming_language)",
+          "http://dbpedia.org/resource/Carnage_Heart",
+          "http://dbpedia.org/resource/Stack-oriented_programming_language",
+          "http://dbpedia.org/resource/Jargon_File",
+          "http://dbpedia.org/resource/Source_code",
+          "http://dbpedia.org/resource/Piet_(programming_language)",
+          "http://dbpedia.org/resource/Betty_(compiler)",
+          "http://dbpedia.org/resource/Comment_(computer_programming)",
+          "http://dbpedia.org/resource/Turing-complete",
+          "http://dbpedia.org/resource/Esoteric_programming_language",
+          "http://dbpedia.org/resource/Just-in-time_compilation",
+          "http://dbpedia.org/resource/Control_flow",
+          "http://dbpedia.org/resource/Malbolge",
+          "http://dbpedia.org/resource/Category:Esoteric_programming_languages",
+          "http://dbpedia.org/resource/Self-modifying_code",
+          "http://dbpedia.org/resource/INTERCAL",
+          "http://dbpedia.org/resource/Lemmings_(video_game)",
+          "http://dbpedia.org/resource/Category:Stack-oriented_programming_languages",
+          "http://dbpedia.org/resource/Compiler",
+          "http://dbpedia.org/resource/Reflection_(computer_science)",
+          "http://dbpedia.org/resource/Lisp_(programming_language)",
+          "http://dbpedia.org/resource/Python_(programming_language)",
+          "http://dbpedia.org/resource/Whitespace_(programming_language)",
+          "http://dbpedia.org/resource/Category:Non-English-based_programming_languages",
+          "http://dbpedia.org/resource/Category:Programming_languages_created_in_1993",
+          "http://dbpedia.org/resource/Line_feed",
+          "http://dbpedia.org/resource/Threaded_code",
+          "http://dbpedia.org/resource/Turing_completeness",
+          "http://dbpedia.org/resource/Hello_world_program",
+          "http://dbpedia.org/resource/ASCII",
+          "http://dbpedia.org/resource/Torus",
+          "http://dbpedia.org/resource/LIFO_(computing)",
+          "http://dbpedia.org/resource/Integer_overflow",
+          "http://dbpedia.org/resource/Topology",
+          "http://dbpedia.org/resource/Brainfuck"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "Values": [
+          "https://github.com/catseye/Befunge-93",
+          "https://github.com/catseye/Befunge-93/blob/master/doc/Befunge-93.markdown",
+          "https://github.com/catseye/Funge-98/blob/master/doc/funge98.markdown"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/2002/07/owl#sameAs",
+        "Values": [
+          "http://yago-knowledge.org/resource/Befunge",
+          "http://sr.dbpedia.org/resource/\u0411\u0435\u0444\u0443\u043d\u045f",
+          "http://sk.dbpedia.org/resource/Befunge",
+          "http://ja.dbpedia.org/resource/Befunge",
+          "http://ar.dbpedia.org/resource/\u0628\u064a\u0641\u0646\u062c_(\u0644\u063a\u0629_\u0628\u0631\u0645\u062c\u0629)",
+          "http://pt.dbpedia.org/resource/Befunge",
+          "http://et.dbpedia.org/resource/Befunge",
+          "http://ko.dbpedia.org/resource/\ube44\ud380\uc9c0",
+          "http://uk.dbpedia.org/resource/Befunge",
+          "http://sv.dbpedia.org/resource/Befunge",
+          "http://fr.dbpedia.org/resource/Befunge",
+          "http://es.dbpedia.org/resource/Befunge",
+          "http://de.dbpedia.org/resource/Befunge",
+          "http://fi.dbpedia.org/resource/Befunge",
+          "http://rdf.freebase.com/ns/m.0d_rd",
+          "http://ru.dbpedia.org/resource/Befunge",
+          "http://gl.dbpedia.org/resource/Befunge",
+          "http://www.wikidata.org/entity/Q814269",
+          "http://pl.dbpedia.org/resource/BeFunge",
+          "https://global.dbpedia.org/id/4yJBo",
+          "http://cs.dbpedia.org/resource/Befunge",
+          "http://nl.dbpedia.org/resource/Befunge"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "Values": [
+          "http://dbpedia.org/resource/Template:Quotation",
+          "http://dbpedia.org/resource/Template:Multiple_issues",
+          "http://dbpedia.org/resource/Template:Start_date",
+          "http://dbpedia.org/resource/Template:Short_description",
+          "http://dbpedia.org/resource/Template:Infobox_programming_language",
+          "http://dbpedia.org/resource/Template:Lead_too_short",
+          "http://dbpedia.org/resource/Template:More_citations_needed",
+          "http://dbpedia.org/resource/Template:Reflist",
+          "http://dbpedia.org/resource/Template:Citation_needed"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/developer",
+        "Values": [
+          "Chris Pressey"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/property/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/Forth_(programming_language)",
+          "http://dbpedia.org/resource/Esoteric_programming_language"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/abstract",
+        "Values": [
+          "Befunge es un lenguaje de programaci\u00f3n esot\u00e9rico, funge-oide, reflexivo y basado en pila. Difiere de los lenguajes convencionales en que los programas est\u00e1n dispuestos en una parrilla bidimensional. Las instrucciones \"flecha\" dirigen el control de flujo hacia arriba, abajo, izquierda o derecha, y los bucles se construyen dirigiendo el control de flujo en c\u00edrculo.",
+          "Befunge ist eine esoterische Programmiersprache von Chris Pressey, die \u00e4hnlich wie Forth Stack-orientiert ist. Die Programme basieren auf einem 2-dimensionalen Schema. Der Quelltext besteht aus ASCII-Zeichen in einer 80\u00d725 Zeichen gro\u00dfen Anordnung. Chris Pressey erfand Befunge 1993 mit dem Ziel, eine m\u00f6glichst schwer kompilierbare Sprache zu definieren. Eine Schwierigkeit f\u00fcr Compiler stellt beispielsweise das p-Kommando dar, welches den Quellcode zur Laufzeit dynamisch ver\u00e4ndern kann. Interessant ist Befunge f\u00fcr Forschung und Lehre, praktische Anwendungen d\u00fcrfte es eher nicht geben. F\u00fcr das Verst\u00e4ndnis von selbstmodifizierendem Code ist Befunge gut zum Experimentieren geeignet, auch unkonventionelle Methoden zur Mehrfachverwendung von Programmcode lassen sich an Befunge gut darstellen.",
+          "\ube44\ud380\uc9c0(Befunge)\ub294 \uc2a4\ud0dd \uae30\ubc18\uc758 \ub09c\ud574\ud55c \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub85c, \uae30\uc874\uc758 \ud504\ub85c\uadf8\ub798\ubc0d \uc5b8\uc5b4\ub4e4\uacfc\ub294 \ub2e4\ub974\uac8c \ud504\ub85c\uadf8\ub7a8\uc774 2\ucc28\uc6d0 \uacf5\uac04 \uc0c1\uc5d0 \ubc30\uc5f4\ub418\uc5b4 \uc788\ub2e4. \"\ud654\uc0b4\ud45c\" \uba85\ub839\ub4e4\uc740 \uba85\ub839\uc758 \ud750\ub984\uc744 \uc67c\ucabd, \uc624\ub978\ucabd, \uc704, \uc544\ub798\ub85c \ud5a5\ud558\uac8c \ud558\uace0, \ubc18\ubcf5\ubb38\uc740 \uba85\ub839\uc758 \ud750\ub984\uc744 \uc6d0 \ubaa8\uc591\uc73c\ub85c \ub9cc\ub4e4\uc5b4\uc11c \uad6c\uc131\ub41c\ub2e4.",
+          "Befunge \u2014 \u0446\u0435 \u0441\u0442\u0435\u043a\u043e\u0432\u0430 \u0435\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u043d\u0430 \u043c\u043e\u0432\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f. \u0412\u043e\u043d\u0430 \u0432\u0456\u0434\u0440\u0456\u0437\u043d\u044f\u0454\u0442\u044c\u0441\u044f \u0432\u0456\u0434 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0445 \u043c\u043e\u0432 \u0442\u0438\u043c, \u0449\u043e \u043a\u043e\u0434 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438, \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043e\u0457 \u043d\u0430 Befunge, \u0440\u043e\u0437\u0442\u0430\u0448\u043e\u0432\u0430\u043d\u0438\u0439 \u0443 \u0434\u0432\u043e\u0432\u0438\u043c\u0456\u0440\u043d\u043e\u043c\u0443 \u043f\u0440\u043e\u0441\u0442\u043e\u0440\u0456 \u0456\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u0439, \u0430 \u0432\u0438\u043a\u043e\u043d\u0430\u043d\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u043c\u043e\u0436\u0435 \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u0442\u0438\u0441\u044c \u0443 \u0431\u0443\u0434\u044c-\u044f\u043a\u043e\u043c\u0443 \u043d\u0430\u043f\u0440\u044f\u043c\u043a\u0443. \u041a\u0440\u0456\u0441 \u041f\u0440\u0435\u0441\u0456, \u0442\u0432\u043e\u0440\u0435\u0446\u044c Befunge, \u043c\u0430\u0432 \u0437\u0430 \u043c\u0435\u0442\u0443 \u0441\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u043c\u043e\u0432\u0443 \u0437 \u044f\u043a\u043d\u0430\u0439\u0441\u043a\u043b\u0430\u0434\u043d\u0456\u0448\u0438\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u043e\u043c \u043a\u043e\u043c\u043f\u0456\u043b\u044f\u0446\u0456\u0457. Befunge \u0432\u0432\u0430\u0436\u0430\u0454\u0442\u044c\u0441\u044f \u0434\u0432\u043e\u0432\u0438\u043c\u0456\u0440\u043d\u043e\u044e, \u043e\u0441\u043a\u0456\u043b\u044c\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0430, \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0430 \u043d\u0435\u044e, \u0437\u0430\u043f\u0438\u0441\u0443\u0454\u0442\u044c\u0441\u044f \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u044e, \u043f\u043e \u044f\u043a\u0456\u0439 \u0432 \u0440\u0456\u0437\u043d\u0438\u0445 \u043d\u0430\u043f\u0440\u044f\u043c\u043a\u0430\u0445 \u043f\u0435\u0440\u0435\u043c\u0456\u0449\u0443\u0454\u0442\u044c\u0441\u044f \u0432\u043a\u0430\u0437\u0456\u0432\u043d\u0438\u043a \u0456\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u0439, \u0432\u0438\u043a\u043e\u043d\u0443\u044e\u0447\u0438 \u043a\u043e\u043c\u0430\u043d\u0434\u0438, \u0440\u043e\u0437\u043c\u0456\u0449\u0435\u043d\u0456 \u0432 \u043a\u043b\u0456\u0442\u0438\u043d\u043a\u0430\u0445 \u0434\u0430\u043d\u043e\u0457 \u0442\u0430\u0431\u043b\u0438\u0446\u0456. \u0414\u0430\u043d\u0430 \u0442\u0430\u0431\u043b\u0438\u0446\u044f \u043c\u0430\u0454 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0437\u0433\u043e\u0440\u0442\u0430\u0442\u0438\u0441\u044c \u0443 \u0442\u043e\u0440 \u043d\u0430 \u0432\u0438\u043f\u0430\u0434\u043e\u043a \u0432\u0438\u0445\u043e\u0434\u0443 \u0432\u043a\u0430\u0437\u0456\u0432\u043d\u0438\u043a\u0430 \u0456\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0456\u0439 \u0437\u0430 \u043c\u0435\u0436\u0456 \u0440\u044f\u0434\u043a\u0430, \u043f\u0440\u0438\u0447\u043e\u043c\u0443 \u043d\u0430\u043f\u0440\u044f\u043c\u043e\u043a \u0432\u043a\u0430\u0437\u0456\u0432\u043d\u0438\u043a\u0430 \u0431\u0443\u0434\u0435 \u0437\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u043e, \u0430 \u043f\u0440\u043e\u0446\u0435\u0441 \u0432\u0438\u043a\u043e\u043d\u0430\u043d\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0438 \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0438\u0442\u044c\u0441\u044f.",
+          "Befunge \u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629 \u062a\u062e\u062a\u0644\u0641 \u0639\u0646 \u0627\u0644\u0644\u063a\u0627\u062a \u0627\u0644\u062a\u0642\u0644\u064a\u062f\u064a\u0629 \u0641\u064a \u0647\u0630\u0647 \u0627\u0644\u0628\u0631\u0627\u0645\u062c \u062d\u064a\u062b \u064a\u062a\u0645 \u062a\u0631\u062a\u064a\u0628\u0647\u0627 \u0639\u0644\u0649 \u0634\u0628\u0643\u0629 \u062b\u0646\u0627\u0626\u064a\u0629 \u0627\u0644\u0623\u0628\u0639\u0627\u062f. \u062a\u0639\u0644\u064a\u0645\u0627\u062a \"Arrow\" \u0645\u0628\u0627\u0634\u0631\u0629 \u062a\u0648\u062c\u0647 \u062a\u062f\u0641\u0642 \u0627\u0644\u062a\u062d\u0643\u0645 \u0625\u0644\u0649 \u0627\u0644\u064a\u0633\u0627\u0631 \u0623\u0648\u0627\u0644\u064a\u0645\u064a\u0646\u060c \u0623\u0648 \u0635\u0639\u0648\u062f\u0627 \u0623\u0648 \u0647\u0628\u0648\u0637\u0627\u060c \u0648\u0627\u0644\u062d\u0644\u0642\u0627\u062a \u062a\u0628\u0646\u0649 \u0628\u0625\u0631\u0633\u0627\u0644 \u062a\u062f\u0641\u0642 \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u062f\u0648\u0631\u0629.",
+          "BeFunge \u2013 ezoteryczny j\u0119zyk programowania. Programy w nim, w odr\u00f3\u017cnieniu od wi\u0119kszo\u015bci j\u0119zyk\u00f3w programowania, s\u0105 zorganizowane w dwuwymiarowej tablicy. Instrukcje \"strza\u0142kowe\" (< > ^ v) powoduj\u0105 przeniesienia sterowania, a p\u0119tle s\u0105 tworzone poprzez zorganizowanie sterowania \"w k\u00f3\u0142ko\". Ka\u017cda instrukcja w BeFunge jest oznaczana pojedynczym znakiem. W j\u0119zyku BeFunge program wykonuje si\u0119 czytaj\u0105c instrukcje, poruszaj\u0105c si\u0119 po dwuwymiarowym obszarze. Zatem \"licznik programu\" sk\u0142ada si\u0119 z dw\u00f3ch liczb, oznaczaj\u0105cych wsp\u00f3\u0142rz\u0119dne na tablicy programu. Natomiast do przenoszenia i przechowywania wszelkich danych s\u0142u\u017cy stos (obs\u0142ugiwany zreszt\u0105 na podobnych zasadach co w j\u0119zykach Forth i False).",
+          "Befunge \u00e9 uma linguagem de programa\u00e7\u00e3o esot\u00e9rica. O c\u00f3digo \u00e9 bidimensional. Foi criada por Chris Pressey, em 1993. \u00c9 baseada no conceito de pilha (LIFO).",
+          "Befunge je dvojdimenzion\u00e1ln\u00ed ezoterick\u00fd programovac\u00ed jazyk vyvinut\u00fd roku 1993 Chrisem Presseyem. Hlavn\u00edm c\u00edlem bylo vytvo\u0159it jazyk, kter\u00fd bude tak obt\u00ed\u017en\u00fd ke kompilaci, jak jen to bude mo\u017en\u00e9.",
+          "Befunge \u00e4r ett stack-baserat esoteriskt programspr\u00e5k med den ovanliga egenskapen att instruktionerna \u00e4r ordnade i ett tv\u00e5dimensionellt f\u00e4lt. Instruktionspekaren kan d\u00e4rf\u00f6r g\u00e5 i fyra olika riktningar (upp\u00e5t, ned\u00e5t, v\u00e4nster eller h\u00f6ger) och kan byta riktning vid utsatta pilar eller villkor. Befunge kan ocks\u00e5 vara sj\u00e4lvmodifierande i och med att man under k\u00f6rning kan \u00e4ndra instruktioner eller data i celler med hj\u00e4lp av instruktionerna p och g. Spr\u00e5ket har ocks\u00e5 sagts vara Turingkomplett, men det \u00e4r inte bevisat.",
+          "Befunge est un langage de programmation exotique r\u00e9flexif \u00e0 pile. Il diff\u00e8re des langages conventionnels par le fait qu'il est arrang\u00e9 sur une grille \u00e0 deux dimensions. Des instructions \u00ab fl\u00e8che \u00bb dirigent le flux de contr\u00f4le \u00e0 gauche, \u00e0 droite, en haut, en bas, et des boucles sont construites en envoyant le flux de contr\u00f4le dans un cycle.",
+          "Befunge \u306f\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u4e00\u3064\u3002\u624b\u7d9a\u304d\u578b\u3001\u30b9\u30bf\u30c3\u30af\u578b\u3067\u3001\u81ea\u5df1\u5909\u66f4\u7684\u306a\u8a00\u8a9e\u3067\u3042\u308b\u3002\u5b9f\u7528\u8a00\u8a9e\u3067\u306f\u306a\u3044\u96e3\u89e3\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u3072\u3068\u3064\u3002 \u3053\u306e\u8a00\u8a9e\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u547d\u4ee4\u306f\u4e00\u6b21\u5143\u306e\u5217\u3067\u306f\u306a\u304f\u4e8c\u6b21\u5143\u306e\u683c\u5b50\u4e0a\u306b\u4e26\u3093\u3067\u3044\u3066\u3001\u5b9f\u884c\u3059\u308b\u5411\u304d\u3092\u4e0a\u4e0b\u5de6\u53f3\u306b\u5909\u66f4\u3067\u304d\u308b\u3002\u3053\u306e\u8a00\u8a9e\u306e\u4efb\u610f\u306e1\u547d\u4ee4\u306f\u3001\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u4e2d\u30671\u6587\u5b57\u3067\u8868\u73fe\u3055\u308c\u308b\u3002\u3057\u305f\u304c\u3063\u3066\u3001\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u4e2d\u306e\u884c\u3068\u6841\u304c\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u683c\u5b50\u306e\u4f4d\u7f6e\u306b\u5bfe\u5fdc\u3059\u308b\u3002 1993 \u5e74\u3001 \u304c\u300c\u30b3\u30f3\u30d1\u30a4\u30eb\u304c\u56f0\u96e3\u306a\u8a00\u8a9e\u300d\u3068\u3057\u3066\u4f5c\u3063\u305f\u3002Befunge-93 \u306f\u30d7\u30ed\u30b0\u30e9\u30e0\u306e\u30b5\u30a4\u30ba\u304c 80 \u6841 25 \u884c\u306b\u56fa\u5b9a\u3055\u308c\u3066\u3044\u308b\u3002Befunge-93 \u306e\u62e1\u5f35 (\u4e00\u822c\u5316) \u3067\u3042\u308b Funge-98 \u306b\u306f\u3053\u306e\u5236\u9650\u306f\u7121\u304f\u3001\u30c1\u30e5\u30fc\u30ea\u30f3\u30b0\u5b8c\u5168\u3067\u3042\u308b\u3002\u3055\u3089\u306b Funge-98 \u306b\u306f\u4efb\u610f\u6b21\u5143\u3078\u306e\u62e1\u5f35\u3084\u30de\u30eb\u30c1\u30b9\u30ec\u30c3\u30c9\u5bfe\u5fdc\u7b49\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u3002",
+          "Befunge \u2014 \u0441\u0442\u0435\u043a\u043e\u0432\u044b\u0439 \u044d\u0437\u043e\u0442\u0435\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u0421\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044f \u0434\u0432\u0443\u043c\u0435\u0440\u043d\u044b\u043c, \u0442\u0430\u043a \u043a\u0430\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 Befunge \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0442\u0430\u0431\u043b\u0438\u0446\u0443 \u0441\u043e \u0441\u0448\u0438\u0442\u044b\u043c\u0438 \u043a\u0440\u0430\u044f\u043c\u0438 (\u0442\u043e\u0440), \u043f\u043e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f\u0445 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0435\u0442\u0441\u044f \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0442\u043e\u0440, \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u044b, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u0432 \u0435\u0451 \u044f\u0447\u0435\u0439\u043a\u0430\u0445. \u041d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u0430 \u0440\u043e\u0434\u0438\u043b\u043e\u0441\u044c \u0438\u0437 \u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0438 \u0432 \u0441\u043b\u043e\u0432\u0435 \u00abbefore\u00bb. \u041f\u0435\u0440\u0432\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f \u044f\u0437\u044b\u043a\u0430 Befunge \u0431\u044b\u043b\u0430 \u0441\u043e\u0437\u0434\u0430\u043d\u0430 \u0432 1993 \u0433\u043e\u0434\u0443. \u041a\u0430\u043a \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u043b \u0430\u0432\u0442\u043e\u0440, \u0435\u0433\u043e \u0446\u0435\u043b\u044c\u044e \u0431\u044b\u043b\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u044f\u0437\u044b\u043a, \u043c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u044b\u0439 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u0438\u043b\u044f\u0446\u0438\u0438. \u0421\u043b\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430\u043c\u0438 p \u0438 g, \u043c\u043e\u0434\u0438\u0444\u0438\u0446\u0438\u0440\u0443\u044e\u0449\u0438\u043c\u0438 \u0442\u0435\u043a\u0441\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b. \u0412\u0435\u0440\u0441\u0438\u044f Befunge-93 \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0430 \u0442\u0430\u0431\u043b\u0438\u0446\u0435\u0439 25X80 (\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u0439 \u0440\u0430\u0437\u043c\u0435\u0440 \u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0433\u043e \u044d\u043a\u0440\u0430\u043d\u0430) \u0438 \u043f\u043e\u0442\u043e\u043c\u0443 \u043d\u0435 \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0442\u044c\u044e\u0440\u0438\u043d\u0433\u043e\u0432\u0441\u043a\u043e\u0439 \u043f\u043e\u043b\u043d\u043e\u0442\u043e\u0439. Befunge \u043d\u0430 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0439 \u0442\u0430\u0431\u043b\u0438\u0446\u0435 \u043f\u043e\u043b\u043e\u043d \u043f\u043e \u0422\u044c\u044e\u0440\u0438\u043d\u0433\u0443. \u0412\u0441\u0435 \u043e\u0434\u043d\u043e\u043c\u0435\u0440\u043d\u044b\u0435 \u044f\u0437\u044b\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0442\u0440\u0435\u0431\u0443\u044e\u0442 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0440\u0430\u0437\u043b\u0438\u0447\u0438\u0439 \u043c\u0435\u0436\u0434\u0443 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f\u043c\u0438 \u0438 \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u043c \u043a\u043e\u0434\u043e\u043c. \u0412 \u044f\u0437\u044b\u043a\u0435 Befunge \u043d\u0435\u0442 \u043e\u0441\u043e\u0431\u043e\u0433\u043e \u0441\u0438\u043d\u0442\u0430\u043a\u0441\u0438\u0441\u0430 \u0434\u043b\u044f \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0435\u0432, \u0447\u0442\u043e\u0431\u044b \u0432\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044e \u0432 \u043a\u043e\u0434, \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u043f\u0440\u043e\u0441\u0442\u043e \u00ab\u043e\u0431\u0432\u043e\u0434\u0438\u0442\u00bb \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u043e\u043a\u0440\u0443\u0433 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f.",
+          "Befunge is een esoterische programmeertaal die in 1993 ontwikkeld werd door . Het is een stackgebaseerde taal met . Een programma wordt geschreven in een roostervan 80 kolommen en 25 rijen. Via richtinstructies wordt de richting die het programma uitgaat gedefinieerd. Op die manier kunnen ooklussen gemaakt worden.",
+          "Befunge is a two-dimensional stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid. \"Arrow\" instructions direct the control flow to the left, right, up or down, and loops are constructed by sending the control flow in a cycle. It has been described as \"a cross between Forth and Lemmings\". A worthy companion to INTERCAL; a computer language family which escapes the quotidian limitation of linear control flow and embraces program counters flying through multiple dimensions with exotic topologies. \u2014\u2009Jargon File"
+        ]
+      },
+      {
+        "Property": "http://purl.org/linguistics/gold/hypernym",
+        "Values": [
+          "http://dbpedia.org/resource/Language"
+        ]
+      },
+      {
+        "Property": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Befunge?oldid=1093431527&ns=0"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/wikiPageLength",
+        "Values": [
+          "12096"
+        ]
+      },
+      {
+        "Property": "http://dbpedia.org/ontology/influencedBy",
+        "Values": [
+          "http://dbpedia.org/resource/Forth_(programming_language)",
+          "http://dbpedia.org/resource/Esoteric_programming_language"
+        ]
+      },
+      {
+        "Property": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "Values": [
+          "http://en.wikipedia.org/wiki/Befunge"
+        ]
+      }
+    ]
+  }
+]
