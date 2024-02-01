@@ -1,0 +1,120 @@
+<div class="button-add">
+    <button (click)="addYourOwn()" class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
+    Add your own
+  </button>
+</div>
+
+<div class="page-container text-center" *ngIf="currentState === States.START">
+  <div class="text-4xl font-medium">ELA</div>
+  <div class="text-xl">
+    Explore Esoteric <br>
+    Programing Languages
+  </div>
+  <div class="mt-4">
+    <button (click)="start()" class="bg-blue-500 hover:bg-blue-700 text-sm text-white font-bold py-2 px-4 rounded">
+      Start
+    </button>
+  </div>
+
+</div>
+
+<div class="page-container text-center" *ngIf="currentState === States.QUESTION">
+  <div class="text-4xl font-medium">Question {{ currentQuestion + 1 }}</div>
+
+  <div class="text-xl">{{ questions[currentQuestion].name }}</div>
+
+  <div>
+    <label for="countries" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Select an option</label>
+    <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+      <option selected>Chose your option</option>
+      <option *ngFor="let option of questions[currentQuestion].options" value="{{ option }}">{{ option }}</option>
+    </select>
+  </div>
+
+  <div>
+    <button (click)="next()" class="bg-blue-500 hover:bg-blue-700 text-sm text-white font-bold py-2 px-4 rounded">
+      {{ currentQuestion + 1 === questions.length ? 'Finish' : 'Next' }}
+    </button>
+  </div>
+</div>
+
+<div class="page-container" *ngIf="currentState === States.RESULT">
+
+  <div class="grid grid-cols-2 gap-4">
+
+      <div class="relative overflow-x-auto rounded-md">
+        <table class="w-full text-sm text-left rtl:text-right text-gray-500">
+            <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+                <tr>
+                    <th scope="col" class="px-6 py-3">
+                        Product name
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Color
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Category
+                    </th>
+                    <th scope="col" class="px-6 py-3">
+                        Price
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="bg-gray-50 border-b">
+                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                        Apple MacBook Pro 17"
+                    </th>
+                    <td class="px-6 py-4">
+                        Silver
+                    </td>
+                    <td class="px-6 py-4">
+                        Laptop
+                    </td>
+                    <td class="px-6 py-4">
+                        $2999
+                    </td>
+                </tr>
+                <tr class="bg-gray-50 border-b">
+                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                        Microsoft Surface Pro
+                    </th>
+                    <td class="px-6 py-4">
+                        White
+                    </td>
+                    <td class="px-6 py-4">
+                        Laptop PC
+                    </td>
+                    <td class="px-6 py-4">
+                        $1999
+                    </td>
+                </tr>
+                <tr class="bg-gray-50">
+                    <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                        Magic Mouse 2
+                    </th>
+                    <td class="px-6 py-4">
+                        Black
+                    </td>
+                    <td class="px-6 py-4">
+                        Accessories
+                    </td>
+                    <td class="px-6 py-4">
+                        $99
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div>
+      Hello
+    </div>
+
+  </div>
+
+</div>
+
+<div class="page-container" *ngIf="currentState === States.ADD_LANGUAGE">
+  Adauga un formular
+</div>
