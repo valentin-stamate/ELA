@@ -41,12 +41,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\uc778\ud130\uce7c",
-          "INTERCAL",
-          "INTERCAL programoz\u00e1si nyelv",
+        "Values":
           "Intercal"
-        ]
+
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",

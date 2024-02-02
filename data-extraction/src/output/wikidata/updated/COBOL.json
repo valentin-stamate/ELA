@@ -4,25 +4,7 @@
     "Properties": [
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "COBOL",
-          "\u0d15\u0d4b\u0d2c\u0d4b\u0d7e",
-          "\u0e20\u0e32\u0e29\u0e32\u0e42\u0e04\u0e1a\u0e2d\u0e25",
-          "\u05e7\u05d0\u05d1\u05d0\u05dc",
-          "\u0c15\u0c4b\u0c2c\u0c3e\u0c32\u0c4d",
-          "\u0915\u094b\u092c\u094b\u0932",
-          "Cobol",
-          "\u041a\u043e\u0431\u043e\u043b",
-          "\u10d9\u10dd\u10d1\u10dd\u10da\u10d8",
-          "\ucf54\ubcfc",
-          "\u0995\u09cb\u09ac\u09cb\u09b2",
-          "\u0b95\u0bcb\u0baa\u0bbe\u0bb2\u0bcd \u0ba8\u0bbf\u0bb0\u0bb2\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bca\u0bb4\u0bbf",
-          "Kobol",
-          "\u0915\u094b\u092c\u0949\u0932",
-          "\u0643\u0648\u0628\u0648\u0644",
-          "\u06a9\u0648\u0628\u0648\u0644",
-          "\u053f\u0578\u0562\u0578\u056c"
-        ]
+        "Values": "COBOL"
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
@@ -181,7 +163,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Bibliothèque nationale de France ID",
+        "Property": "http://www.wikidata.org/prop/direct/Bibliothï¿½que nationale de France ID",
         "Values": [
           "11941315s"
         ]
@@ -313,7 +295,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Gran Enciclopèdia Catalana ID",
+        "Property": "http://www.wikidata.org/prop/direct/Gran Enciclopï¿½dia Catalana ID",
         "Values": [
           "0018386"
         ]
@@ -325,7 +307,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Encyclopædia Britannica Online ID",
+        "Property": "http://www.wikidata.org/prop/direct/Encyclopï¿½dia Britannica Online ID",
         "Values": [
           "technology/COBOL"
         ]
@@ -355,7 +337,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Encyclopædia Universalis ID",
+        "Property": "http://www.wikidata.org/prop/direct/Encyclopï¿½dia Universalis ID",
         "Values": [
           "cobol"
         ]
@@ -417,7 +399,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Brockhaus Enzyklopädie online ID",
+        "Property": "http://www.wikidata.org/prop/direct/Brockhaus Enzyklopï¿½die online ID",
         "Values": [
           "cobol-informatik"
         ]
@@ -478,7 +460,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct-normalized/Bibliothèque nationale de France ID",
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Bibliothï¿½que nationale de France ID",
         "Values": [
           "http://data.bnf.fr/ark:/12148/cb11941315s#about"
         ]
@@ -514,7 +496,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Bibliothèque nationale de France ID",
+        "Property": "http://www.wikidata.org/prop/Bibliothï¿½que nationale de France ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q131140-ECD76502-9689-4128-A780-861B6D094F83"
         ]
@@ -590,7 +572,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Gran Enciclopèdia Catalana ID",
+        "Property": "http://www.wikidata.org/prop/Gran Enciclopï¿½dia Catalana ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q131140-3fff240c-4b8f-6807-e6bc-ad0ceedb519d"
         ]
@@ -602,7 +584,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Encyclopædia Britannica Online ID",
+        "Property": "http://www.wikidata.org/prop/Encyclopï¿½dia Britannica Online ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q131140-29D6658E-E7AA-49AD-98DC-F6F8DA6212F1"
         ]
@@ -632,7 +614,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Encyclopædia Universalis ID",
+        "Property": "http://www.wikidata.org/prop/Encyclopï¿½dia Universalis ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q131140-95753173-ABCB-40FE-97C3-F7133B747638"
         ]
@@ -694,7 +676,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Brockhaus Enzyklopädie online ID",
+        "Property": "http://www.wikidata.org/prop/Brockhaus Enzyklopï¿½die online ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q131140-3272CB39-0D26-4A87-AD3B-B885FA964BD5"
         ]

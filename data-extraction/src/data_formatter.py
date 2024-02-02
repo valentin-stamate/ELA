@@ -1,7 +1,7 @@
 import os
 
 from src.logger import LOGGER
-from src.tags import TAGS
+from src.conf import TAGS
 
 
 def list_files_in_folder(folder_path):

@@ -30,12 +30,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "EGL (lenguaje de programaci\u00f3n)",
-          "EGL",
-          "EGL (linguaxe de programaci\u00f3n)",
-          "Enterprise Generation Language"
-        ]
+        "Values":
+          "Enterprise Generation Language (EGL)"
+
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",

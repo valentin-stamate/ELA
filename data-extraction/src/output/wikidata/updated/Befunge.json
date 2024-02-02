@@ -42,13 +42,7 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "BeFunge",
-          "\u0411\u0435\u0444\u0443\u043d\u045f",
-          "\ube44\ud380\uc9c0",
-          "\u0628\u064a\u0641\u0646\u062c",
-          "Befunge"
-        ]
+        "Values": "BeFunge"
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",

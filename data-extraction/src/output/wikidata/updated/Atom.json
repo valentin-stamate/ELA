@@ -41,9 +41,8 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "Atom"
-        ]
+        "Values": "Atom"
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",

@@ -28,11 +28,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u0623\u0648\u0643",
-          "Linguagem de programa\u00e7\u00e3o Oak",
+        "Values":
           "Oak"
-        ]
+
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",

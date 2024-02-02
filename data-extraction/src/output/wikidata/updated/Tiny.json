@@ -41,10 +41,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "Tiny",
+        "Values":
           "Tiny programming language"
-        ]
+
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",

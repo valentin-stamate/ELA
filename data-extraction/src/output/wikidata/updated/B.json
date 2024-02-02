@@ -253,28 +253,7 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u0411\u0438",
-          "B (programifo-linguo)",
-          "B\u8a00\u8a9e",
-          "\u0baa\u0bbf",
-          "B (programlama dili)",
-          "B (\u056e\u0580\u0561\u0563\u0580\u0561\u057e\u0578\u0580\u0574\u0561\u0576 \u056c\u0565\u0566\u0578\u0582)",
-          "Llenguatge B",
-          "Programski jezik B",
-          "B (bahasa pemrograman)",
-          "Linguaxe de programaci\u00f3n B",
-          "\u0628\u064a",
-          "\u0d2c\u0d3f",
-          "Bahasa pengaturcaraan B",
-          "B",
-          "\u0628\u06cc (\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u0646\u0648\u06cc\u0633\u06cc)",
-          "B\u8bed\u8a00",
-          "\u09ac\u09bf",
-          "B (ng\u00f4n ng\u1eef l\u1eadp tr\u00ecnh)",
-          "B (programoz\u00e1si nyelv)",
-          "B\u8a9e\u8a00"
-        ]
+        "Values": "B"
       }
     ]
   }

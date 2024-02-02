@@ -41,11 +41,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "Pico",
-          "\u067e\u06cc\u06a9\u0648",
-          "Pico (linguagem de programa\u00e7\u00e3o)"
-        ]
+        "Values":
+          "Pico"
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",

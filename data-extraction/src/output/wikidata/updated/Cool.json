@@ -41,10 +41,8 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u06a9\u0648\u0644 (\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u0646\u0648\u06cc\u0633\u06cc)",
-          "Cool"
-        ]
+        "Values":  "Cool"
+
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",

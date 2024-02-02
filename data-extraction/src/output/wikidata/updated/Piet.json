@@ -42,10 +42,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u0e20\u0e32\u0e29\u0e32\u0e1e\u0e35\u0e15",
+        "Values":
           "Piet"
-        ]
+
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",

@@ -42,11 +42,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u30c9\u30c3\u30b0",
-          "Dog",
-          "Dog (\u7a0b\u5f0f\u8a9e\u8a00)"
-        ]
+        "Values":
+          "Dog"
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",

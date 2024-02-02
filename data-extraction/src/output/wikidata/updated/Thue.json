@@ -25,10 +25,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "Thue",
-          "\u062a\u0648\u0648\u0647"
-        ]
+        "Values":
+          "Thue"
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",

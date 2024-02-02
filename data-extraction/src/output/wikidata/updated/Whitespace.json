@@ -43,12 +43,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u0412\u0430\u0458\u0442\u0441\u043f\u0435\u0458\u0441",
-          "\ud654\uc774\ud2b8\uc2a4\ud398\uc774\uc2a4",
-          "Whitespace",
-          "\u0648\u0627\u064a\u062a \u0633\u0628\u064a\u0633"
-        ]
+        "Values":
+          "Whitespace"
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",

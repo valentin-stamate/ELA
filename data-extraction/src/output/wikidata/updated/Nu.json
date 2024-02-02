@@ -44,12 +44,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "Nu (\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e)",
-          "Nu\u8bed\u8a00",
-          "Nu\u8a9e\u8a00",
+        "Values":
           "Nu"
-        ]
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",

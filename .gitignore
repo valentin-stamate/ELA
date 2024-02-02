@@ -132,3 +132,4 @@ dist
 .idea/
 *.pyc
 *.log.*
+apache-jena-fuseki-4.8.0/

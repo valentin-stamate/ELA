@@ -25,10 +25,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u0d2a\u0d3f",
+        "Values":
           "P"
-        ]
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",

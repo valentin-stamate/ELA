@@ -4,27 +4,9 @@
     "Properties": [
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u0e20\u0e32\u0e29\u0e32\u0e40\u0e1e\u0e34\u0e23\u0e4c\u0e25",
-          "\u092a\u0930\u094d\u0932",
-          "\ud384",
-          "\u067e\u0631\u0655\u0644",
-          "\u0baa\u0bc6\u0bb0\u0bcd\u0bb3\u0bcd",
-          "\u041f\u044a\u0440\u043b",
-          "\u041f\u0435\u0440\u043b",
-          "\u0caa\u0cb0\u0ccd\u0cb2\u0ccd",
-          "PERL\u7a0b\u5f0f\u8a9e\u8a00",
-          "\u10de\u10d4\u10e0\u10da\u10d8",
-          "\u0aaa\u0ab0\u0acd\u0ab2",
-          "\u0b2a\u0b30\u0b4d\u0b32\u0b4d",
-          "\u067e\u06ce\u0631\u06b5",
-          "\u0628\u064a\u0631\u0644",
-          "\u067e\u0631\u0644",
-          "Perl\u7f16\u7a0b\u8bed\u8a00",
-          "\u0d2a\u0d47\u0d7e",
-          "Perl",
-          "\u09aa\u09be\u09b0\u09cd\u09b2"
-        ]
+        "Values":
+          "Perl"
+
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",
@@ -192,7 +174,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct-normalized/Bibliothèque nationale de France ID",
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Bibliothï¿½que nationale de France ID",
         "Values": [
           "http://data.bnf.fr/ark:/12148/cb124906490#about"
         ]
@@ -204,7 +186,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct-normalized/Biblioteca Nacional de España ID",
+        "Property": "http://www.wikidata.org/prop/direct-normalized/Biblioteca Nacional de Espaï¿½a ID",
         "Values": [
           "http://datos.bne.es/resource/XX542605"
         ]
@@ -228,7 +210,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Bibliothèque nationale de France ID",
+        "Property": "http://www.wikidata.org/prop/Bibliothï¿½que nationale de France ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q42478-b7281a3d-4037-b2b3-8a39-4aef982cf7b5"
         ]
@@ -469,7 +451,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Gran Enciclopèdia Catalana ID",
+        "Property": "http://www.wikidata.org/prop/Gran Enciclopï¿½dia Catalana ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q42478-68429F58-6E2F-4E0B-AE04-7F02394E90A4"
         ]
@@ -482,7 +464,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Encyclopædia Britannica Online ID",
+        "Property": "http://www.wikidata.org/prop/Encyclopï¿½dia Britannica Online ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q42478-CB33AF3F-66FC-4610-9CB2-580003304AED"
         ]
@@ -843,7 +825,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/Biblioteca Nacional de España ID",
+        "Property": "http://www.wikidata.org/prop/Biblioteca Nacional de Espaï¿½a ID",
         "Values": [
           "http://www.wikidata.org/entity/statement/Q42478-fb6c075c-4da5-23d8-b035-84a4342302e7"
         ]
@@ -987,7 +969,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Bibliothèque nationale de France ID",
+        "Property": "http://www.wikidata.org/prop/direct/Bibliothï¿½que nationale de France ID",
         "Values": [
           "124906490"
         ]
@@ -1095,7 +1077,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Biblioteca Nacional de España ID",
+        "Property": "http://www.wikidata.org/prop/direct/Biblioteca Nacional de Espaï¿½a ID",
         "Values": [
           "XX542605"
         ]
@@ -1107,7 +1089,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Gran Enciclopèdia Catalana ID",
+        "Property": "http://www.wikidata.org/prop/direct/Gran Enciclopï¿½dia Catalana ID",
         "Values": [
           "0518411"
         ]
@@ -1120,7 +1102,7 @@
         ]
       },
       {
-        "Property": "http://www.wikidata.org/prop/direct/Encyclopædia Britannica Online ID",
+        "Property": "http://www.wikidata.org/prop/direct/Encyclopï¿½dia Britannica Online ID",
         "Values": [
           "technology/Perl"
         ]

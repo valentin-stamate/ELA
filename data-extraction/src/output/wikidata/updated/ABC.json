@@ -165,22 +165,7 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "ABC (proqramla\u015fd\u0131rma dili)",
-          "\u098f\u09ac\u09bf\u09b8\u09bf",
-          "\u0632\u0628\u0627\u0646 \u0628\u0631\u0646\u0627\u0645\u0647\u0646\u0648\u06cc\u0633\u06cc \u0627\u06cc\u0628\u06cc\u0633\u06cc",
-          "ABC",
-          "\u0627\u064a \u0628\u064a \u0633\u064a",
-          "\u0410\u0411\u0426",
-          "ABC (programlama dili)",
-          "ABC programoz\u00e1si nyelv",
-          "\u0a0f\u0a2c\u0a40\u0a38\u0a40",
-          "ABC (dasturlash tili)",
-          "ABC (\u7a0b\u5f0f\u8a9e\u8a00)",
-          "\u0d0e\u0d2c\u0d3f\u0d38\u0d3f",
-          "ABC (programming language)",
-          "Linguaxe de programaci\u00f3n ABC"
-        ]
+        "Values": "ABC (programming language)"
       },
       {
         "Property": "http://www.w3.org/2004/02/skos/core#altLabel",

@@ -41,12 +41,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "F",
-          "F (ng\u00f4n ng\u1eef l\u1eadp tr\u00ecnh)",
-          "\u0627\u0641",
-          "\u0d0e\u0d2b\u0d4d"
-        ]
+        "Values":
+          "F"
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",

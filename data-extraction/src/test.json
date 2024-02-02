@@ -1,0 +1,77 @@
+{
+  "Language": "http://www.wikidata.org/entity/Q244627",
+  "Properties": {
+    "http://schema.org/version": "2035099564",
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      "Brainfuck dasturlash tili",
+      "Brainfuck",
+      "ব্রেনফাক",
+      "ภาษาเบรนฟัก",
+      "برين فاك",
+      "ਬ੍ਰੇਨਫ਼ੱਕ",
+      "브레인퍽",
+      "برینفاک",
+      "பிரென்ஃப்ஃக்"
+    ],
+    "http://www.w3.org/2004/02/skos/core#altLabel": [
+      "Brainf**k",
+      "Брейнфак",
+      "Brainf*ck",
+      "OOk",
+      "Brainfuck",
+      "ภาษาเบรนฟัค",
+      "Брэйнфак",
+      "เบรนฟัก",
+      "Ook!",
+      "b",
+      "Brainf-ck",
+      "Brain Fuck",
+      "BrainFuck",
+      "Heilariðlun",
+      "bf",
+      "BrainF***",
+      "branflakes",
+      "b****fuck",
+      "Brainfsck",
+      "เบรนฟัค",
+      "brainfsck",
+      "brainf**k",
+      "Brainf***",
+      "BF",
+      "Brainfuck Komputillingvo"
+    ],
+    "http://www.wikidata.org/prop/direct/image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hello%20World%20Brainfuck.png",
+    "http://www.wikidata.org/prop/direct/instance of": [
+      "esoteric programming language",
+      "turing tarpit",
+      "programming language"
+    ],
+    "http://www.wikidata.org/prop/direct/discoverer or inventor": "Urban Müller",
+    "http://www.wikidata.org/prop/direct/named after": [
+      "brain",
+      "fuck"
+    ],
+    "http://www.wikidata.org/prop/direct/developer": "Urban Müller",
+    "http://www.wikidata.org/prop/direct/inception": "1993-01-01T00:00:00Z",
+    "http://www.wikidata.org/prop/direct/Freebase ID": "/m/01b5k",
+    "http://www.wikidata.org/prop/direct/influenced by": [
+      "FALSE",
+      "P′′"
+    ],
+    "http://www.wikidata.org/prop/direct/file extension": [
+      "bf",
+      "b"
+    ],
+    "http://www.wikidata.org/prop/direct/described by source": "Esolang",
+    "http://www.wikidata.org/prop/direct/Stack Exchange tag": "https://stackoverflow.com/tags/brainfuck",
+    "http://www.wikidata.org/prop/direct/icon": "http://commons.wikimedia.org/wiki/Special:FilePath/Brainfuck-mw-logo.png",
+    "http://www.wikidata.org/prop/direct/Quora topic ID": "Brainfuck-programming-language",
+    "http://www.wikidata.org/prop/direct/programming paradigm": [
+      "esoteric programming",
+      "imperative programming"
+    ],
+    "http://www.wikidata.org/prop/direct/subreddit": "brainfuck",
+    "http://www.wikidata.org/prop/direct/Microsoft Academic ID": "2779854571",
+    "http://www.wikidata.org/prop/direct/dialect of computer language": "P′′"
+  }
+}

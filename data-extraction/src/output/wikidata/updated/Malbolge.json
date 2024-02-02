@@ -43,10 +43,9 @@
       },
       {
         "Property": "http://www.w3.org/2000/01/rdf-schema#label",
-        "Values": [
-          "\u041c\u0430\u043b\u0431\u043e\u043b\u045f",
+        "Values":
           "Malbolge"
-        ]
+
       },
       {
         "Property": "http://wikiba.se/ontology#statements",
