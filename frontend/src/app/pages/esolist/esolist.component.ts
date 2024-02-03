@@ -31,7 +31,7 @@ export class EsolistComponent implements OnInit {
   }
 
   async fetchData() {
-    const response = await BackendService.getData();
+    const response = await BackendService.getData('esolangs_labels');
     this.esolangs = response.data;
   }
 

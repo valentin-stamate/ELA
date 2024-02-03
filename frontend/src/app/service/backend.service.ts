@@ -13,10 +13,10 @@ export class BackendService {
     });
   }
 
-  static async getData() {
+  static async getData(key: string) {
     return await axios.get(`${BackendService.HOST}/api/get-data`, {
       params: {
-        key: 'esolangs_labels',
+        key: key,
       },
     });
   }

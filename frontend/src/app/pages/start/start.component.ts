@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {NgFor, NgIf} from "@angular/common";
+import {BackendService} from "../../service/backend.service";
 
 enum States {
   START,
@@ -8,31 +9,53 @@ enum States {
   ADD_LANGUAGE,
 }
 
+enum QuestionType {
+  SINGLE, MULTI, DATE,
+}
+
 interface Question {
   name: string;
-  options: string[];
+  options: any[];
+  answer: any[];
+  type: QuestionType;
+  disabled: boolean,
 }
 
 const questions: Question[] = [
   {
     name: 'What programing paradigm are you looking for?',
-    options: ['A', 'B', 'C']
+    options: [],
+    answer: [],
+    type: QuestionType.MULTI,
+    disabled: false,
   },
   {
     name: 'Related programing languages',
-    options: ['??', '1', 'i']
+    options: [],
+    answer: [],
+    type: QuestionType.MULTI,
+    disabled: false,
   },
   {
     name: 'Typing discipline',
     options: [],
+    answer: [],
+    type: QuestionType.MULTI,
+    disabled: false,
   },
   {
     name: 'Newer than',
     options: [],
+    answer: [],
+    type: QuestionType.DATE,
+    disabled: false,
   },
   {
     name: 'Has official documentation',
     options: ['yes', 'no'],
+    answer: [],
+    type: QuestionType.SINGLE,
+    disabled: false,
   }
 ]
 
@@ -45,7 +68,7 @@ const questions: Question[] = [
   templateUrl: './start.component.html',
   styleUrl: './start.component.scss'
 })
-export class StartComponent {
+export class StartComponent implements OnInit {
 
   protected readonly questions = questions;
   protected readonly States = States;
@@ -53,8 +76,51 @@ export class StartComponent {
   currentState = States.START;
   currentQuestion = 0;
 
+  ngOnInit() {
+    this.fetchData();
+  }
+
+  async fetchData() {
+    const programingParadigms = (await BackendService.getData('programming_paradigms')).data.map((item: any) => {
+      return {
+        name: item.programming_paradigm,
+        label: item.label,
+      }
+    });
+    const programingLanguages = (await BackendService.getData('computer_language')).data.map((item: any) => {
+      return {
+        name: item.computer_language,
+        label: item.label,
+      }
+    });
+    const typingDisciplines = (await BackendService.getData('typing_discipline')).data.map((item: any) => {
+      return {
+        name: item.typing_discipline,
+        label: item.label,
+      }
+    });
+
+    this.questions[0].options = programingParadigms;
+    this.questions[1].options = programingLanguages;
+    this.questions[2].options = typingDisciplines;
+  }
+
+  selectOption(currentQuestion: number, option: any) {
+    this.questions[currentQuestion].answer.push(option);
+
+    if (this.questions[currentQuestion].type === QuestionType.SINGLE) {
+      this.questions[currentQuestion].disabled = true;
+      this.questions[currentQuestion].answer = [option];
+    }
+  }
+
   start() {
+    this.currentQuestion = 0;
     this.currentState = States.QUESTION;
+    for (const question of this.questions) {
+      question.answer = [];
+      question.disabled = false;
+    }
   }
 
   next() {
@@ -67,11 +133,14 @@ export class StartComponent {
   }
 
   finish() {
-    this.currentState = States.RESULT;
+
+    console.log(this.questions);
+
   }
 
   addYourOwn() {
     this.currentState = States.ADD_LANGUAGE;
   }
 
+  protected readonly QuestionType = QuestionType;
 }
