@@ -6,7 +6,10 @@
 
 <div class="page-container text-center">
 
-    <div class="grid grid-cols-2 gap-4">
+  <div *ngIf="!selectedEsolang">No esoteric language selected</div>
+  <div *ngIf="selectedEsolang">EsoLang <b>{{ selectedEsolang.label }}</b> selected</div>
+
+    <div class="esolang-grid">
 
       <div class="relative overflow-x-auto rounded-md">
         <table class="w-full text-sm text-left rtl:text-right text-gray-500">
@@ -20,7 +23,7 @@
             <tbody>
               <tr *ngFor="let esolang of esolangs" class="bg-gray-50 border-b">
                 <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
-                  <span class="cursor-pointer" (click)="showEsolang(esolang.esolang)"><u>{{ esolang.label }}</u></span>
+                  <span class="cursor-pointer" (click)="showEsolang(esolang)"><u>{{ esolang.label }}</u></span>
                 </th>
               </tr>
             </tbody>
@@ -28,7 +31,28 @@
     </div>
 
     <div>
-      Hello
+        <table class="w-full text-sm text-left rtl:text-right text-gray-500">
+          <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+              <tr>
+                  <th scope="col" class="px-6 py-3">
+                      Property
+                  </th>
+                  <th scope="col" class="px-6 py-3">
+                      Values
+                  </th>
+              </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let property of selectedProperties" class="bg-gray-50 border-b">
+              <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                <span class="cursor-pointer"><u>{{ property.property }}</u></span>
+              </th>
+              <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+                <div *ngFor="let value of property.values" class="cursor-pointer"><u>{{ value }}</u></div>
+              </th>
+            </tr>
+          </tbody>
+        </table>
     </div>
 
   </div>

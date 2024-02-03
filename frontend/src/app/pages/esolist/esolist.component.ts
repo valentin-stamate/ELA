@@ -22,16 +22,44 @@ interface ESOLang {
 export class EsolistComponent implements OnInit {
 
   esolangs: ESOLang[] = [];
+  selectedEsolang?: ESOLang = undefined;
 
-  async ngOnInit() {
-    const esolangs = await BackendService.getData();
-    this.esolangs = esolangs.data;
+  selectedProperties: any[] = [];
 
-    console.log(esolangs);
+  ngOnInit() {
+    this.fetchData();
   }
 
-  showEsolang(esolang: string) {
+  async fetchData() {
+    const response = await BackendService.getData();
+    this.esolangs = response.data;
+  }
 
+  async showEsolang(esolang: ESOLang) {
+    this.selectedEsolang = esolang;
+    this.selectedProperties = [];
+
+    const result = await BackendService.getSpecificData(esolang.esolang);
+
+    const propertyMap = new Map<string, string[]>();
+    for (let p of result.data) {
+      const property = p.property;
+
+      if (!propertyMap.has(property)) {
+        propertyMap.set(property, []);
+      }
+
+      const list = propertyMap.get(property) || [];
+      list.push(p.value);
+      propertyMap.set(property, list);
+    }
+
+    for (let [key, value] of propertyMap.entries()) {
+      this.selectedProperties.push({
+        property: key,
+        values: value,
+      });
+    }
   }
 
 }

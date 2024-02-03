@@ -10,7 +10,6 @@ export class BackendService {
         key: 'esolang_data',
         value: esolang.split('#')[1]
       },
-      // withCredentials: true,
     });
   }
 
@@ -19,7 +18,6 @@ export class BackendService {
       params: {
         key: 'esolangs_labels',
       },
-      // withCredentials: true,
     });
   }
 
