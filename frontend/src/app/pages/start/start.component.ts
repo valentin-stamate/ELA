@@ -138,9 +138,9 @@ export class StartComponent implements OnInit {
 
   finish() {
     const sendingParams = {
-      programming_paradigm: questions[0].answer.length != 0 ? questions[0].answer[0]: '',
-      influenced_by: questions[1].answer.length != 0 ? questions[1].answer[0]: '',
-      typing_discipline: questions[2].answer.length != 0 ? questions[2].answer[0]: '',
+      programming_paradigm: questions[0].answer.length != 0 ? questions[0].answer[0].label: '',
+      influenced_by: questions[1].answer.length != 0 ? questions[1].answer[0].label: '',
+      typing_discipline: questions[2].answer.length != 0 ? questions[2].answer[0].label: '',
       official_website: questions[3].answer.length != 0 ? questions[3].answer[0]: '',
     };
 

@@ -1,6 +1,24 @@
 RDF_STORE_URL = "http://localhost:3030"
 RDF_STORE_DATASET_NAME = "ELA"
 
+esolangs_labels_filtered="""
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ela: <http://www.semanticweb.org/ontologies/ELA#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+SELECT ?subject ?label
+WHERE {{
+  ?subject rdf:type ela:esolang.
+  ?subject rdfs:label ?label.
+  
+  {programming_paradigm}
+  {influenced_by}
+  {typing_discipline}
+  {official_website}
+}}
+
+"""
 esolangs_labels_query = """
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>

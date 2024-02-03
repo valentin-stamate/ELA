@@ -1,5 +1,5 @@
 <div class="button-add">
-    <a href="/add-esolang" class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
+  <a href="/add-esolang" class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
     Add your own
   </a>
 </div>
@@ -9,50 +9,68 @@
   <div *ngIf="!selectedEsolang">No esoteric language selected</div>
   <div *ngIf="selectedEsolang">EsoLang <b>{{ selectedEsolang.label }}</b> selected</div>
 
-    <div class="esolang-grid">
+  <div class="esolang-grid">
 
-      <div class="relative overflow-x-auto rounded-md">
-        <table class="w-full text-sm text-left rtl:text-right text-gray-500">
-            <thead class="text-xs text-gray-700 uppercase bg-gray-100">
-                <tr>
-                    <th scope="col" class="px-6 py-3">
-                        Esolangs
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-              <tr *ngFor="let esolang of esolangs" class="bg-gray-50 border-b">
-                <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
-                  <span class="cursor-pointer" (click)="showEsolang(esolang)"><u>{{ esolang.label }}</u></span>
-                </th>
-              </tr>
-            </tbody>
-        </table>
+    <div class="flex flex-col gap-4 relative overflow-x-auto rounded-md">
+      <table class="w-full text-sm text-left rtl:text-right text-gray-500">
+        <!--        Recommended esolangs-->
+        <thead *ngIf="recommendedEsolangs.length!=0" class="text-xs text-gray-700 uppercase bg-green-200">
+        <tr>
+          <th scope="col" class="px-6 py-3">
+            Recommended Esolangs
+          </th>
+        </tr>
+        </thead>
+        <tbody *ngIf="recommendedEsolangs.length!=0">
+        <tr *ngFor="let esolang of recommendedEsolangs" class="bg-green-50 border-b">
+          <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+            <span class="cursor-pointer" (click)="showEsolang(esolang)"><u>{{ esolang.label }}</u></span>
+          </th>
+        </tr>
+        </tbody>
+      </table>
+      <!--        All esolangs-->
+      <table class="w-full text-sm text-left rtl:text-right text-gray-500">
+        <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+        <tr>
+          <th scope="col" class="px-6 py-3">
+            All Esolangs
+          </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let esolang of esolangs" class="bg-gray-50 border-b">
+          <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+            <span class="cursor-pointer" (click)="showEsolang(esolang)"><u>{{ esolang.label }}</u></span>
+          </th>
+        </tr>
+        </tbody>
+      </table>
     </div>
 
     <div>
-        <table class="w-full text-sm text-left rtl:text-right text-gray-500">
-          <thead class="text-xs text-gray-700 uppercase bg-gray-100">
-              <tr>
-                  <th scope="col" class="px-6 py-3">
-                      Property
-                  </th>
-                  <th scope="col" class="px-6 py-3">
-                      Values
-                  </th>
-              </tr>
-          </thead>
-          <tbody>
-            <tr *ngFor="let property of selectedProperties" class="bg-gray-50 border-b">
-              <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
-                <span class="cursor-pointer"><u>{{ property.property }}</u></span>
-              </th>
-              <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
-                <div *ngFor="let value of property.values" class="cursor-pointer"><u>{{ value }}</u></div>
-              </th>
-            </tr>
-          </tbody>
-        </table>
+      <table class="w-full text-sm text-left rtl:text-right text-gray-500">
+        <thead class="text-xs text-gray-700 uppercase bg-gray-100">
+        <tr>
+          <th scope="col" class="px-6 py-3">
+            Property
+          </th>
+          <th scope="col" class="px-6 py-3">
+            Values
+          </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let property of selectedProperties" class="bg-gray-50 border-b">
+          <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+            <span class="cursor-pointer"><u>{{ property.property }}</u></span>
+          </th>
+          <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
+            <div *ngFor="let value of property.values" class="cursor-pointer"><u>{{ value }}</u></div>
+          </th>
+        </tr>
+        </tbody>
+      </table>
     </div>
 
   </div>

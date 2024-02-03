@@ -1,1 +1,16 @@
-{"Language": "http://www.wikidata.org/entity/Q1335388", "Properties": {"http://www.w3.org/2000/01/rdf-schema#label": "Alice", "http://www.wikidata.org/prop/direct/image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice-2-screenshot.jpg", "http://www.wikidata.org/prop/direct/instance of": ["programming language", "software"], "http://www.wikidata.org/prop/direct/developer": "Carnegie Mellon University", "http://www.wikidata.org/prop/direct/inception": "1998-01-01T00:00:00Z", "http://www.wikidata.org/prop/direct/Freebase ID": "/m/09fhy0", "http://www.wikidata.org/prop/direct/official website": "http://www.alice.org/", "http://schema.org/version": "1990815733"}}
+{
+  "Language": "http://www.wikidata.org/entity/Q1335388",
+  "Properties": {
+    "http://www.w3.org/2000/01/rdf-schema#label": "Alice",
+    "http://www.wikidata.org/prop/direct/image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice-2-screenshot.jpg",
+    "http://www.wikidata.org/prop/direct/instance of": [
+      "programming language",
+      "software"
+    ],
+    "http://www.wikidata.org/prop/direct/developer": "Carnegie Mellon University",
+    "http://www.wikidata.org/prop/direct/inception": "1998-01-01T00:00:00Z",
+    "http://www.wikidata.org/prop/direct/Freebase ID": "/m/09fhy0",
+    "http://www.wikidata.org/prop/direct/official website": "http://www.alice.org/",
+    "http://schema.org/version": "1990815733"
+  }
+}

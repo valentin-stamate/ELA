@@ -28,6 +28,38 @@ def get_specific_data(key, value):
     return FORMAT_FUNCTIONS[key](data)
 
 
+def get_filtered_data(body):
+    print("filtered_data")
+    pp = ''
+    ib = ''
+    td = ''
+    ow = ''
+    if body.get('programming_paradigm'):
+        pp = "FILTER EXISTS { ?subject ela:programming_paradigm ela:" + body.get('programming_paradigm').replace(' ','_') + ". }"
+    if body.get('influenced_by'):
+        ib = "FILTER EXISTS { ?subject ela:influenced_by ela:" + body.get('influenced_by').replace(' ','_') + ". }"
+    if body.get('typing_discipline'):
+        td = "FILTER EXISTS { ?subject ela:typing_discipline ela:" + body.get('typing_discipline').replace(' ','_') + ". }"
+    if body.get('official_website') == "Yes":
+        ow = "FILTER EXISTS { ?subject ela:official_website ?website. }"
+    print('here')
+
+    f_query = esolangs_labels_filtered.format(
+        programming_paradigm=pp,
+        influenced_by=ib,
+        typing_discipline=td,
+        official_website=ow
+    )
+    # print(esolangs_labels_filtered)
+    print(f_query)
+    fuseki_query = FusekiQuery(RDF_STORE_URL, RDF_STORE_DATASET_NAME)
+    query_result = fuseki_query.run_sparql(f_query)
+    data = query_result.convert()['results']['bindings']
+    print("after")
+
+    return FORMAT_FUNCTIONS['esolangs_labels'](data)
+
+
 # ================================================== FORMAT FUNCTIONS ==================================================
 
 def format_esolangs_results(results):

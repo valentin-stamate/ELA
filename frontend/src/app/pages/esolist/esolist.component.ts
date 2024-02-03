@@ -22,24 +22,31 @@ interface ESOLang {
 export class EsolistComponent implements OnInit {
 
   esolangs: ESOLang[] = [];
+  recommendedEsolangs: ESOLang[] = [];
   selectedEsolang?: ESOLang = undefined;
 
   selectedProperties: any[] = [];
 
   constructor(private activatedRoute: ActivatedRoute) {
     this.activatedRoute.params.subscribe(params => {
-      this.fetchData(params);
+      this.fetchRecommendedData(params);
     });
+    this.fetchData();
   }
 
   ngOnInit() {
-    this.fetchData(null);
   }
 
-  async fetchData(params: any) {
+  async fetchData() {
+
+    const response = await BackendService.getData('esolangs_labels');
+    this.esolangs = response.data;
+  }
+
+  async fetchRecommendedData(params: any) {
 
     const response = await BackendService.getData('esolangs_labels', params);
-    this.esolangs = response.data;
+    this.recommendedEsolangs = response.data;
   }
 
   async showEsolang(esolang: ESOLang) {
