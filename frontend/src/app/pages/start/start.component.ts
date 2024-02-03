@@ -15,13 +15,25 @@ interface Question {
 
 const questions: Question[] = [
   {
-    name: 'Care este capitala Angliei?',
+    name: 'What programing paradigm are you looking for?',
     options: ['A', 'B', 'C']
   },
   {
-    name: 'Gaseste-l pe X^2 + 1 = 0?',
+    name: 'Related programing languages',
     options: ['??', '1', 'i']
   },
+  {
+    name: 'Typing discipline',
+    options: [],
+  },
+  {
+    name: 'Newer than',
+    options: [],
+  },
+  {
+    name: 'Has official documentation',
+    options: ['yes', 'no'],
+  }
 ]
 
 @Component({

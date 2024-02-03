@@ -1,19 +1,20 @@
 <div class="button-add">
-    <button (click)="addYourOwn()" class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
+    <a href="/add-esolang" class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
     Add your own
-  </button>
+  </a>
 </div>
 
 <div class="page-container text-center" *ngIf="currentState === States.START">
   <div class="text-4xl font-medium">ELA</div>
-  <div class="text-xl">
-    Explore Esoteric <br>
+  <div class="text-2xl">
+    Explore Esoteric
     Programing Languages
   </div>
   <div class="mt-4">
-    <button (click)="start()" class="bg-blue-500 hover:bg-blue-700 text-sm text-white font-bold py-2 px-4 rounded">
-      Start
-    </button>
+    We have prepared a quiz for you to find an EsoLang that is best suited for you.
+    Press <span class="cursor-pointer" (click)="start()"><b><u>here</u></b></span> to open the quiz. <br>
+
+    If you want to explore all EsoLangs go to <a href="/esolist" target="esolist"><b><u>EsoLang list</u></b></a>.
   </div>
 
 </div>
