@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {NgForOf, NgIf} from "@angular/common";
-import {RouterLink} from "@angular/router";
+import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {BackendService} from "../../service/backend.service";
 
 interface ESOLang {
@@ -26,12 +26,19 @@ export class EsolistComponent implements OnInit {
 
   selectedProperties: any[] = [];
 
-  ngOnInit() {
-    this.fetchData();
+  constructor(private activatedRoute: ActivatedRoute) {
+    this.activatedRoute.params.subscribe(params => {
+      this.fetchData(params);
+    });
   }
 
-  async fetchData() {
-    const response = await BackendService.getData('esolangs_labels');
+  ngOnInit() {
+    this.fetchData(null);
+  }
+
+  async fetchData(params: any) {
+
+    const response = await BackendService.getData('esolangs_labels', params);
     this.esolangs = response.data;
   }
 

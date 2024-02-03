@@ -1,6 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 import {NgFor, NgIf} from "@angular/common";
 import {BackendService} from "../../service/backend.service";
+import {Router} from "@angular/router";
 
 enum States {
   START,
@@ -26,33 +27,33 @@ const questions: Question[] = [
     name: 'What programing paradigm are you looking for?',
     options: [],
     answer: [],
-    type: QuestionType.MULTI,
+    type: QuestionType.SINGLE,
     disabled: false,
   },
   {
     name: 'Related programing languages',
     options: [],
     answer: [],
-    type: QuestionType.MULTI,
+    type: QuestionType.SINGLE,
     disabled: false,
   },
   {
     name: 'Typing discipline',
     options: [],
     answer: [],
-    type: QuestionType.MULTI,
+    type: QuestionType.SINGLE,
     disabled: false,
   },
-  {
-    name: 'Newer than',
-    options: [],
-    answer: [],
-    type: QuestionType.DATE,
-    disabled: false,
-  },
+  // {
+  //   name: 'Newer than',
+  //   options: [],
+  //   answer: [],
+  //   type: QuestionType.DATE,
+  //   disabled: false,
+  // },
   {
     name: 'Has official documentation',
-    options: ['yes', 'no'],
+    options: ['Yes', 'No'],
     answer: [],
     type: QuestionType.SINGLE,
     disabled: false,
@@ -75,6 +76,9 @@ export class StartComponent implements OnInit {
 
   currentState = States.START;
   currentQuestion = 0;
+
+  constructor(private router: Router) {
+  }
 
   ngOnInit() {
     this.fetchData();
@@ -133,9 +137,14 @@ export class StartComponent implements OnInit {
   }
 
   finish() {
+    const sendingParams = {
+      programming_paradigm: questions[0].answer.length != 0 ? questions[0].answer[0]: '',
+      influenced_by: questions[1].answer.length != 0 ? questions[1].answer[0]: '',
+      typing_discipline: questions[2].answer.length != 0 ? questions[2].answer[0]: '',
+      official_website: questions[3].answer.length != 0 ? questions[3].answer[0]: '',
+    };
 
-    console.log(this.questions);
-
+    this.router.navigate(['/esolist', sendingParams])
   }
 
   addYourOwn() {

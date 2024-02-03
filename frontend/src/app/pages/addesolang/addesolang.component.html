@@ -12,6 +12,16 @@
   </div>
   <div class="mt-4">
 
+    <form class="max-w-sm mx-auto text-start mb-4" #form>
+      <div *ngFor="let property of properties; let i = index" class="mb-5">
+        <label for="prop_{{ i }}" class="block mb-2 text-sm font-medium text-gray-900">{{ property }}</label>
+        <input name="{{ property }}" type="text" id="prop_{{ i }}"
+               class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5">
+      </div>
+      <button type="button" (click)="onSubmit(form)"
+              class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center">Submit</button>
+    </form>
+
   </div>
 
 </div>

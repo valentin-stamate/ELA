@@ -13,11 +13,12 @@ export class BackendService {
     });
   }
 
-  static async getData(key: string) {
-    return await axios.get(`${BackendService.HOST}/api/get-data`, {
+  static async getData(key: string, body: any = null) {
+    return await axios.post(`${BackendService.HOST}/api/get-data`, {
       params: {
         key: key,
       },
+      body: body,
     });
   }
 
