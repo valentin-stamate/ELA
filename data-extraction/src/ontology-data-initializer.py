@@ -12,6 +12,7 @@ from src.sparql_queries import insert_esolang_multiple_query, insert_typing_disc
 
 
 def insert(sparql_query):
+    # LOGGER.warning(sparql_query)
     g = Graph()
     ela = Namespace("http://www.semanticweb.org/ontologies/ELA#")
     g.update(sparql_query)
@@ -166,8 +167,8 @@ def insert_developers(values):
             label=values
         )
         try:
-
-            insert(insert_developer_query_f)
+            if not exists(values):
+                insert(insert_developer_query_f)
         except:
             LOGGER.warning(f"Failed for {values}")
             LOGGER.info(insert_developer_query_f)
@@ -178,36 +179,38 @@ def insert_developers(values):
                 label=dev
             )
             try:
-
-                insert(insert_developer_query_f)
+                if not exists(dev):
+                    insert(insert_developer_query_f)
             except:
                 LOGGER.warning(f"Failed for {dev}")
                 LOGGER.info(insert_developer_query_f)
 
 
 def insert_computer_languages(values):
+    LOGGER.info(values)
     if type(values) == str:
         insert_computer_language_query_f = insert_computer_language_query.format(
             individual_id=generate_unique_id(),
-            label=values
+            label=values.replace('P′′','P-prime-prime')
         )
         try:
-
-            insert(insert_computer_language_query_f)
+            if not exists(values):
+                insert(insert_computer_language_query_f)
         except:
             LOGGER.warning(f"Failed for {values}")
             LOGGER.info(insert_computer_language_query_f)
     else:
         for cl in values:
+            c_form=cl.replace('P′′','P-prime-prime')
             insert_computer_language_query_f = insert_computer_language_query.format(
                 individual_id=generate_unique_id(),
-                label=cl
+                label=cl.replace('P′′','P-prime-prime')
             )
             try:
-
-                insert(insert_computer_language_query_f)
+                if not exists(c_form):
+                    insert(insert_computer_language_query_f)
             except:
-                LOGGER.warning(f"Failed for {cl}")
+                LOGGER.warning(f"Failed for {c_form}")
                 LOGGER.info(insert_computer_language_query_f)
 
 
@@ -283,7 +286,8 @@ def main():
             "label": "",
             "altLabel": "",
             "version": "",
-            "designed_by": ""
+            "designed_by": "",
+            "influenced_by": "",
 
         }
 
@@ -295,6 +299,8 @@ def main():
             insert_developers(esolang_props['http://www.wikidata.org/prop/direct/developer'])
         if esolang_props.get('http://www.wikidata.org/prop/direct/dialect of computer language'):
             insert_computer_languages(esolang_props['http://www.wikidata.org/prop/direct/dialect of computer language'])
+        if esolang_props.get('http://www.wikidata.org/prop/direct/influenced by'):
+            insert_computer_languages(esolang_props['http://www.wikidata.org/prop/direct/influenced by'])
         if esolang_props.get('http://www.wikidata.org/prop/direct/programming paradigm'):
             insert_pr_paradigm(esolang_props['http://www.wikidata.org/prop/direct/programming paradigm'])
         if esolang_props.get('http://www.wikidata.org/prop/direct/typing discipline'):
@@ -413,13 +419,14 @@ def main():
             subreddit=property_values["subreddit"],
             label=property_values["label"],
             alt_label=property_values["altLabel"],
-            designed_by=property_values["designed_by"]
+            designed_by=property_values["designed_by"],
+            influenced_by=property_values["influenced_by"]
         ).replace('   ', ' ').replace('   ', ' ').replace('   ', ' ') \
             .replace('  ', ' ').replace('  ', ' ').replace('  ', ' ') \
             .replace('\n \n', '\n').replace('\n \n', '\n').replace('\n \n', '\n') \
             .replace('\n\n\n', '\n').replace('\n\n\n', '\n').replace('\n\n\n', '\n') \
             .replace('\n\n', '\n').replace('\n\n', '\n').replace('\n\n', '\n') \
-            .replace(';\n .', '.')
+            .replace(';\n .', '.').replace("C++","Cpp").replace('P′′','P-prime-prime')
 
         try:
             insert(insert_esolang_multiple_query_f)

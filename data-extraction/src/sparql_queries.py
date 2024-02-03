@@ -122,6 +122,7 @@ INSERT DATA {{
                       {developer} 
                       {computer_language} 
                       {programming_paradigm} 
+                      {influenced_by}
                       {typing_discipline} .
 
   ela:{individual_id} {knowledge_graph}
