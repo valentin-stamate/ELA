@@ -11,6 +11,7 @@
       Run query
     </a>
   </div>
+  <div class="error" *ngIf="errorText!=''">{{this.errorText}}</div>
 </div>
 <div class="mt-4">
   <table class="w-full text-sm text-left rtl:text-right text-gray-500">

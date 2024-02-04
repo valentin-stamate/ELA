@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
 import axios, {AxiosResponse} from "axios";
-import {NgFor} from "@angular/common";
+import {NgFor, NgIf} from "@angular/common";
 import {NavbarComponent} from "../navbar/navbar.component";
 
 @Component({
@@ -8,12 +8,14 @@ import {NavbarComponent} from "../navbar/navbar.component";
   standalone: true,
   imports: [
     NgFor,
+    NgIf,
     NavbarComponent
   ],
   templateUrl: './sparql.component.html',
   styleUrl: './sparql.component.scss'
 })
 export class SparqlComponent {
+  errorText = ''
 
 // Replace these values with your Fuseki server information
   results: any
@@ -50,25 +52,34 @@ export class SparqlComponent {
           },
         }
       );
-
+      console.log(response)
       // Check the response
       if (response.status === 200) {
         this.results = response.data.results.bindings;
         console.log('Query Result:');
         console.log(this.results);
+        this.errorText = ''
       } else {
         console.error(`Error: ${response.status} - ${response.data}`);
+        this.errorText = response.data
       }
     } catch (error) {
-
+      console.dir( error);
+      // @ts-ignore
+      this.errorText = error.response.data
     }
   }
 
   headings() {
-    return Object.keys(this.results[0])
+    if (this.results != undefined) {
+      return Object.keys(this.results[0])
+    }
+    return null
   }
 
-  keys(result:any) {
+  keys(result: any) {
     return Object.keys(result)
   }
+
+
 }
