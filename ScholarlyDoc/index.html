@@ -6,6 +6,15 @@
     <title>Scholarly HTML</title>
     <link rel="stylesheet" href="css/scholarly.min.css">
     <script src="js/scholarly.min.js"></script>
+    <style>
+        pre code {
+            width: 900px;
+            background-color: #eee;
+            border: 1px solid #999;
+            display: block;
+            padding: 20px;
+        }
+    </style>
 </head>
 <body prefix="schema: http://schema.org">
 <header>
@@ -143,13 +152,19 @@
         <h3>Backend</h3>
 
         <p>
-            It is the server that handles the user requests. Build with Express it follows the REST architecture
-            enforcing us
-            to create endpoints associated with certain resources. The information between the client and the server
-            will be in JSON
-            format because is easy to work with and is translated directly as javascript object. Express is also a very
-            popular lightweight
-            framework that has many libraries that we can use to make our work easier.
+            Initially we have thought about using typescript together with express framework to create the backend of
+            the application but, while design the system we opted for an approach using python since in can handle
+            better the data that needs to be inserted and retrieved from the RDF Store.
+        </p>
+        <p>
+            So, we have implemented a Django server exposing an API for data management in the frontend.
+            The API documentation can be found
+            <a href="https://app.swaggerhub.com/apis/valentin.stamate/ela/1.0.0">here</a>
+        </p>
+        <p>
+            In this API we are exposing methods for querying the ontology in the RDF Store and formatting the data in a
+            friendly way for the users. We opted to do the text processing in the backend to reduce as much as possible
+            the load in the UI, to improve user experience.
         </p>
     </section>
 
@@ -168,9 +183,11 @@
             our chosen RDF store due to its efficiency in managing and querying RDF data. It provides a robust and
             scalable platform for storing ontological information about esoteric programming languages. The RDF store is
             a critical component, housing the structured knowledge derived from existing lists of languages and enriched
-            through integration with <a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a> and
-            <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a>.
+            through integration with <a role="doc-biblioref" href="https://www.dbpedia.org/resources/sparql/"
+                                        target="_blank">DBpedia</a> and
+            <a role="doc-biblioref" href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a>.
         </p>
+
 
     </section>
 
@@ -201,26 +218,221 @@
             </li>
         </ul>
         <p>
-            In the following figure we can see the initial structure of the ontology that may suffer completions after
-            thoroughly exploring and analyzing the data from external sources.
+            To be able to use a RDF Store to host an ontology we firstly had to create one. For this task we have chose
+            to model the ontology using <a href="https://protege.stanford.edu/">PROTÉGÉ</a>. Using the tool the design
+            of the ontology was easier to do. Since our project is focused esoteric programming language we thought this
+            should be the "main" entity in our ontology (the use of the quotes is because, theoretically speaking there
+            is no such thing as a main entity in an ontology). The reason why we call this the main entity is to explain
+            why most of the properties are linked to it and the other entities are simpler. We chose to not over
+            complicate the other entities and keep focus only on what we were interested in.
+        </p>
+        <p>
+            To have a better view on our ontology, we have used a plugin for <a role="doc-biblioref"
+                                                                                href="https://protege.stanford.edu/">PROTÉGÉ</a>
+            named <a role="doc-biblioref" href="https://protegewiki.stanford.edu/wiki/VOWL">VOWL</a>. Using this we were
+            able to have a
+            graphical view of the ontology (that can be seen in the following picture)
         </p>
         <div>
             <img src="./img/ontology.png" style="width:100%" alt="img">
         </div>
-    </section>
-
-    <section id="docker">
-        <h3>Docker</h3>
-
         <p>
-            Each component will run a docker container in the final stage of the application. This provides several
-            advantages
-            such as isolation, portability, dependency management, scalability, security and we can deploy the
-            components easier in a
-            cloud provider.
+            Even though all of our entities have the rdfs:label property using this plugin will not display it this way.
+            Using the same ontology exported from PROTÉGÉ, and instead of the plugin, using it's online counterpart
+            <a href="https://service.tib.eu/webvowl/">WebVOWL</a> we have a better representation of our ontology.
         </p>
+        <div>
+            <img src="./img/ontology2.png" style="width:100%" alt="img">
+        </div>
+        <p>
+            Because it may be unclear from the pictures what are all the properties available in the ontology, here is a
+            list of all the properties and the meaning
+        </p>
+        <ul>
+            <li>Object Properties</li>
+            <ul>
+                <li>country : Esolang was developed in a country</li>
+                <li>designed_by : The designer of the esolang</li>
+                <li>developer : The developer of the esolang</li>
+                <li>dialect_of_computer_language : whether the esolang is a dialect of another programming language</li>
+                <li>influenced_by : programming language the influenced the esolang</li>
+                <li>instance_of : instance of programming language</li>
+                <li>programming_paradigm : programming paradigm of the esolang</li>
+                <li>typing_discipline : whether the esolang is weakly typed, strongly typed, etc</li>
+            </ul>
+            <li>Data Properties</li>
+            <ul>
+                <li>creation : date of creation</li>
+                <li>described_by_source : Url to related info about esolang</li>
+                <li>discoverer_or_inventor : Name of person</li>
+                <li>file_extension : extensions of the code file of the esolang</li>
+                <li>Freebase_ID : id in the closed freebase database</li>
+                <li>GitHub_topic : Url to a github project</li>
+                <li>Google_Knowledge_Graph_ID : ID in the GKG</li>
+                <li>icon : url to an icon</li>
+                <li>image : url to an image</li>
+                <li>Microsoft_Academic_ID : id in MAKG</li>
+                <li>MIME_type : MIME type used in the esolang</li>
+                <li>named_after : a related name</li>
+                <li>official_website : url to an official website of the esolang</li>
+                <li>Quora_topic_ID : ID on Quora</li>
+                <li>rdfs:label : label of the esolang</li>
+                <li>schema:description : description of the esolang</li>
+                <li>schema:version : version</li>
+                <li>skos:altLabel : alternative label</li>
+                <li>Stack_Exchange_tag : Url to stakoverflow</li>
+                <li>subreddit : subreddit id</li>
+            </ul>
+        </ul>
     </section>
+    <section id="data-extraction">
+        <h3>Finding Data about Esolangs</h3>
+        To populate the ontology with data about esolangsm we have used multiple approaches:
+        <ul>
+            <li>
+                At first, we have used a python script to extract all esolangs names available in the <a
+                    role="doc-biblioref"
+                    href="https://esolangs.org/wiki/Language_list">esolang list</a>
+            </li>
+            <li>
+                Using the extracted names we have than tried to get all the data that as possible from better sources
+                like <a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a> and <a
+                    href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a>.
+            </li>
+            <li>
+                On <a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a> we didn't find much
+                data about esolangs. The initial extracted list have around 3000 names of
+                esolangs, and from <a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a> we
+                were able to extract 20 esolangs which was not enough for our application
+            </li>
+            <li>
+                From <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a> we were
+                luckier, and we were able to extract data about 48 esolangs
+            </li>
+            <li>
+                Since the two datasets were not mutually exclusive, we were left in the end with 55 esolangs and data
+                about them.
+                But not all the above-mentioned esolangs had all properties mentioned before.
+            </li>
+        </ul>
+        <p>
+            All the data that was extracted from <a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a>
+            or <a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a>, was through
+            sparql after scanning the available documentations to find the best parameter for the queries.
+            The queries were run on each dataset for all the ~3000 esolang labels mentioned above.
+        </p>
+        <p>
+            This query was used for Dbpedia:
+        </p>
+        <pre>
+    <code>
+    sparql_query = f"""
+        PREFIX dbo: <http://dbpedia.org/ontology/>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
+        SELECT ?language ?property ?value
+        WHERE {{
+          ?language a dbo:Language ;
+                     rdfs:label "{language_title}"@en ;
+                     ?property ?value .
+        }}
+    """
+    </code>
+        </pre>
+        <p>
+            This query was used for Wikidata: (wdt:P31 is rdf:type and wd:Q9143 is instance of "esoteric programming
+            language")
+        </p>
+        <pre>
+    <code>
+    sparql_query = f"""
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+        SELECT ?language ?property ?value
+        WHERE {{
+          ?language rdfs:label "{language_title}"@en ;
+                    ?property ?value .
+          ?language wdt:P31 wd:Q9143 .  # Filter by instance of "esoteric programming language"
+        SERVICE wikibase:label {{ bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }}
+        }}
+    """
+    </code>
+        </pre>
+    </section>
+    <p>
+        After retrieving the data we had to populate it into our ontology. For this had already hosted the ontology
+        export from the Protégé tool in the RDF store provided by Apache Jena Fuseki. For this, were also used sparql
+        queries to insert esolangs and other entities (country, computer language). Here is a code snippet of the query
+        used for an esolang (Keep in mind that this is only an example since not all properties are available for all
+        esolangs):
+    </p>
+    <pre>
+    <code>
+insert_esolang_query = """
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ela: <http://www.semanticweb.org/ontologies/ELA#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+INSERT DATA {{
+  ela:{individual_id} rdf:type ela:esolang ;
+                      ela:country ela:{country_id} ;
+                      ela:designed_by ela:{developer_id} ;
+                      ela:developer ela:{developer_id} ;
+                      ela:dialect_of_computer_language ela:{computer_language_id} ;
+                      ela:influenced_by ela:{computer_language_id} ;
+                      ela:instance_of ela:{computer_language_id} ;
+                      ela:programming_paradigm ela:{programming_paradigm_id} ;
+                      ela:typing_discipline ela:{typing_discipline_id} .
+
+  ela:{individual_id} ela:Google_Knowledge_Graph_ID "{knowledge_graph_id}"^^xsd:string ;
+                      ela:version "{version}"^^xsd:string ;
+                      ela:Microsoft_Academic_ID "{microsoft_academic_id}"^^xsd:string ;
+                      ela:Quora_topic_ID "{quora_topic_id}"^^xsd:string ;
+                      ela:Stack_Exchange_tag "{stack_exchange_tag}"^^xsd:string ;
+                      ela:creation "{creation_date}"^^xsd:date ;
+                      ela:Freebase_ID "{freebase_id}"^^xsd:string ;
+                      ela:GitHub_topic "{github_topic}"^^xsd:string ;
+                      ela:MIME_type "{mime_type}"^^xsd:string ;
+                      ela:file_extension "{file_extension}"^^xsd:string ;
+                      ela:icon "{icon_url}"^^xsd:anyURI ;
+                      ela:image "{image_url}"^^xsd:anyURI ;
+                      ela:official_website "{official_website_url}"^^xsd:anyURI ;
+                      ela:subreddit "{subreddit}"^^xsd:anyURI ;
+                      rdfs:label "{label}"^^xsd:string ;
+                      skos:altLabel "{alt_label}"^^xsd:string .
+}}
+"""
+    </code>
+        </pre>
+    <p>
+        Before inserting an esolang we made sure to insert the other related entities to be able to make correct
+        associations between them. The queries for those entities look similar but simpler. Also, to avoid double
+        insertion of esolangs or other entities we have used a sparql query with <i>ASK WHERE</i> to check whether the
+        same esolang label already exists in the RDF Store.
+    </p>
+    <p>
+        A similar query, but slightly modified is used for inserting new esolang from user input. As it is impossible to
+        make an automation to retrieve data from the esolang list since it not structured in any way, out best hope to
+        improve the quantity and quality of the stored in the RDF Store is have user help. As is it was mentioned
+        before, there a page in the application the provides support to add new languages. So any user the is willing to
+        support this initiative can fill the form with information about esolangs and the data will be added in the RDF
+        Store
+    </p>
+</section>
+<section id="ref">
+    <h3>References</h3>
+    <ul>
+        <li><a href="https://www.dbpedia.org/resources/sparql/" target="_blank">DBpedia</a></li>
+        <li><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target="_blank">Wikidata</a></li>
+        <li><a href="https://service.tib.eu/webvowl/">WebVOWL</a></li>
+        <li><a role="doc-biblioref" href="https://protegewiki.stanford.edu/wiki/VOWL">VOWL</a></li>
+        <li><a href="https://protege.stanford.edu/">PROTÉGÉ</a></li>
+        <li><a href="https://esolangs.org/wiki/Language_list" target="_blank">List of esoteric programming languages</a>
+        </li>
+        <li><a href="https://jena.apache.org/documentation/fuseki2/" target="_blank">Apache Jena Fuseki</a></li>
+    </ul>
 </section>
 </body>
 </html>
