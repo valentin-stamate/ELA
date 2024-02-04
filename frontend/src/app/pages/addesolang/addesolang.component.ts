@@ -1,6 +1,7 @@
 import {Component} from '@angular/core';
 import {NgForOf} from "@angular/common";
 import {BackendService} from "../../service/backend.service";
+import {NavbarComponent} from "../navbar/navbar.component";
 
 const properties: string[] = [
   'label',
@@ -33,7 +34,8 @@ const properties: string[] = [
   selector: 'app-addesolang',
   standalone: true,
   imports: [
-    NgForOf
+    NgForOf,
+    NavbarComponent
   ],
   templateUrl: './addesolang.component.html',
   styleUrl: './addesolang.component.scss'

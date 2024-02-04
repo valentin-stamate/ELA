@@ -1,12 +1,14 @@
 import {Component} from '@angular/core';
 import axios, {AxiosResponse} from "axios";
 import {NgFor} from "@angular/common";
+import {NavbarComponent} from "../navbar/navbar.component";
 
 @Component({
   selector: 'app-sparql',
   standalone: true,
   imports: [
-    NgFor
+    NgFor,
+    NavbarComponent
   ],
   templateUrl: './sparql.component.html',
   styleUrl: './sparql.component.scss'
