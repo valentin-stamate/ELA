@@ -1,0 +1,104 @@
+openapi: 3.0.0
+info:
+  title: ELA
+  version: 1.0.0
+servers:
+  - url: http://127.0.0.1:8000
+paths:
+  /api/find-data/:
+    post:
+      tags:
+        - General
+      summary: find-data
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              example:
+                influenced_by: C
+                programming_paradigm: multi-paradigm_programming
+                typing_discipline: dynamic_typing
+                official_website: 'Yes'
+      parameters:
+        - name: key
+          in: query
+          schema:
+            type: string
+          example: computer_language
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /api/insert-data/:
+    post:
+      tags:
+        - General
+      summary: insert
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              example:
+                label: ''
+                altLabel: ''
+                country: ''
+                designed_by: ''
+                developer: ''
+                dialect_of_computer_language: ''
+                influenced_by: ''
+                instance_of: ''
+                programming_paradigm: ''
+                typing_discipline: ''
+                Google_Knowledge_Graph_ID: ''
+                version: ''
+                Microsoft_Academic_ID: ''
+                Quora_topic_ID: ''
+                Stack_Exchange_tag: ''
+                creation: ''
+                Freebase_ID: ''
+                GitHub_topic: ''
+                MIME_type: ''
+                file_extension: ''
+                icon: ''
+                image: ''
+                official_website: ''
+                subreddit: ''
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /api/get-specific-data:
+    get:
+      tags:
+        - General
+      summary: get-specific-data
+      parameters:
+        - name: key
+          in: query
+          schema:
+            type: string
+          example: esolang_data
+        - name: value
+          in: query
+          schema:
+            type: string
+          example: Q42478
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}
+  /api/hello:
+    get:
+      tags:
+        - General
+      summary: hello
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json: {}

@@ -7,7 +7,7 @@
 </h2>
 
 
-<a href="https://valentin-stamate.github.io/ELA/ELA_API.html" target="_blank">Open API Documentation</a>
+<a href="https://app.swaggerhub.com/apis/valentin.stamate/ela/1.0.0" target="_blank">Open API Documentation</a>
 
 
 <a href="https://valentin-stamate.github.io/ELA/ScholarlyDoc/index.html" target="_blank">Scholarly Documentation</a>
@@ -30,5 +30,3 @@ Team:
             Mihai Cristian-Laurentiu
         </li>
     </ul>
-    
-
