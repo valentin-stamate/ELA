@@ -21,3 +21,11 @@ body {
   align-items: end;
   padding: 16px;
 }
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  justify-content: flex-end;
+}
+

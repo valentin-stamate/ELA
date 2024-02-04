@@ -1,11 +1,35 @@
-from pyfuseki import FusekiQuery
+import uuid
+
+from pyfuseki import FusekiQuery, FusekiUpdate
+from rdflib import Graph, Namespace
 
 from api.queries import *
 
 
 # =================================================== DATA FUNCTIONS ===================================================
 def insert(data):
-    pass
+    f_query = insert_esolang_query.replace('{individual_id}', generate_unique_id())
+    for key in data.keys():
+        if data[key] != '':
+            f_query = f_query.replace('{' + key + '}', data[key])
+        else:
+            f_query = f_query.replace('{' + key + '}', "INVALID_LINE")
+
+    lines = f_query.split('\n')
+    updated_query = ""
+    for line in lines:
+        if 'INVALID_LINE' not in line:
+            updated_query += line + '\n'
+    updated_query = updated_query.replace(';\n  ela', '.\n  ela').replace(';\n}', '.\n}')
+    print(updated_query)
+    g = Graph()
+    ela = Namespace("http://www.semanticweb.org/ontologies/ELA#")
+    g.update(updated_query)
+    fuseki = FusekiUpdate('http://localhost:3030', 'ELA')
+    try:
+        fuseki.insert_graph(g)
+    except Exception as e:
+        print(str(e))
 
 
 def get_data(key):
@@ -35,11 +59,13 @@ def get_filtered_data(body):
     td = ''
     ow = ''
     if body.get('programming_paradigm'):
-        pp = "FILTER EXISTS { ?subject ela:programming_paradigm ela:" + body.get('programming_paradigm').replace(' ','_') + ". }"
+        pp = "FILTER EXISTS { ?subject ela:programming_paradigm ela:" + body.get('programming_paradigm').replace(' ',
+                                                                                                                 '_') + ". }"
     if body.get('influenced_by'):
-        ib = "FILTER EXISTS { ?subject ela:influenced_by ela:" + body.get('influenced_by').replace(' ','_') + ". }"
+        ib = "FILTER EXISTS { ?subject ela:influenced_by ela:" + body.get('influenced_by').replace(' ', '_') + ". }"
     if body.get('typing_discipline'):
-        td = "FILTER EXISTS { ?subject ela:typing_discipline ela:" + body.get('typing_discipline').replace(' ','_') + ". }"
+        td = "FILTER EXISTS { ?subject ela:typing_discipline ela:" + body.get('typing_discipline').replace(' ',
+                                                                                                           '_') + ". }"
     if body.get('official_website') == "Yes":
         ow = "FILTER EXISTS { ?subject ela:official_website ?website. }"
     print('here')
@@ -58,6 +84,11 @@ def get_filtered_data(body):
     print("after")
 
     return FORMAT_FUNCTIONS['esolangs_labels'](data)
+
+
+def generate_unique_id():
+    unique_id = str(uuid.uuid4())
+    return unique_id
 
 
 # ================================================== FORMAT FUNCTIONS ==================================================

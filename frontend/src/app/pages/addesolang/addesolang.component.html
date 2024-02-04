@@ -1,9 +1,20 @@
-<div class="button-add">
+<div class="button-container">
+  <div class="button-add">
+    <a href="/sparql" class="bg-blue-500 hover:bg-blue-700 text-sm text-white font-bold py-2 px-4 rounded">
+      SPARQL
+    </a>
+  </div>
+  <div class="button-add">
+    <a href="/esolist" class="bg-yellow-500 hover:bg-yellow-700 text-sm text-white font-bold py-2 px-4 rounded">
+      Esolangs list
+    </a>
+  </div>
+  <div class="button-add">
     <a href="/add-esolang" class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
-    Add your own
-  </a>
+      Add your own
+    </a>
+  </div>
 </div>
-
 <div class="page-container text-center">
   <div class="text-4xl font-medium">ELA</div>
   <div class="text-2xl">
@@ -19,7 +30,9 @@
                class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5">
       </div>
       <button type="button" (click)="onSubmit(form)"
-              class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center">Submit</button>
+              class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center">
+        Submit
+      </button>
     </form>
 
   </div>

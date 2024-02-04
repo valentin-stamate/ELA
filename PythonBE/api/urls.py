@@ -21,5 +21,6 @@ from api.rdf_controller import *
 urlpatterns = [
     path('hello/', hello),
     path('get-data/', get_rdf_data),
-    path('get-specific-data/', get_rdf_specific_data)
+    path('get-specific-data/', get_rdf_specific_data),
+    path('insert-data/', insert_esolang)
 ]

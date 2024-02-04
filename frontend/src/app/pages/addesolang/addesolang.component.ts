@@ -1,7 +1,10 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
 import {NgForOf} from "@angular/common";
+import {BackendService} from "../../service/backend.service";
 
 const properties: string[] = [
+  'label',
+  'altLabel',
   'country',
   'designed_by',
   'developer',
@@ -23,9 +26,7 @@ const properties: string[] = [
   'icon',
   'image',
   'official_website',
-  'subreddit',
-  'label',
-  'altLabel',
+  'subreddit'
 ];
 
 @Component({
@@ -40,11 +41,11 @@ const properties: string[] = [
 export class AddesolangComponent {
   protected readonly properties = properties;
 
-  onSubmit(form: HTMLFormElement) {
+  async onSubmit(form: HTMLFormElement) {
     const formData = new FormData(form);
     const data = Object.fromEntries(formData);
-
-
+    await BackendService.insertData(data);
+    form.reset();
   }
 
 }
