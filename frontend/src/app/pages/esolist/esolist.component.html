@@ -6,12 +6,12 @@
   </div>
   <div class="button-add">
     <a href="/esolist" class="bg-yellow-500 hover:bg-yellow-700 text-sm text-white font-bold py-2 px-4 rounded">
-      Esolangs list
+      EsoLangs List
     </a>
   </div>
   <div class="button-add">
     <a href="/add-esolang" class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
-      Add your own
+      Add EsoLang
     </a>
   </div>
 </div>
@@ -77,7 +77,10 @@
             <span class="cursor-pointer"><u>{{ property.property }}</u></span>
           </th>
           <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap">
-            <div *ngFor="let value of property.values" class="cursor-pointer"><u>{{ value }}</u></div>
+            <div *ngFor="let value of property.values" class="cursor-pointer">
+              <a *ngIf="['official_website','GitHub_topic'].includes(property.property)" target="offw" href="{{value}}"><u>{{ value }}</u></a>
+              <u *ngIf="!['official_website','GitHub_topic'].includes(property.property)">{{ value }}</u>
+            </div>
           </th>
         </tr>
         </tbody>

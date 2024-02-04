@@ -123,6 +123,7 @@ SELECT ?predicate ?object
 WHERE {{
   ela:{value} ?predicate ?object .
 }}
+# Q42478
 """
 
 RDF_SIMPLE_QUERIES = {

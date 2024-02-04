@@ -2,11 +2,21 @@
 .esolang-grid {
   min-width: 1200px;
   display: grid;
-  grid-template-columns: 360px auto;
+  grid-template-columns: 360px 900px;
   gap: 24px
 }
 
 .esolist{
+  //width: 00px;
+  //width: 800px;
   height: 700px!important;
   overflow: auto;
 }
+
+//.esolist-prop{
+//  //width: 00px;
+//  width: 800px;
+//  height: 700px!important;
+//  overflow-x: auto;
+//  overflow-y: hidden;
+//}

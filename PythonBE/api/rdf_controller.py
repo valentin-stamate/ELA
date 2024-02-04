@@ -27,8 +27,11 @@ def get_rdf_data(request):
         if key == "esolangs_labels":
             try:
                 body = json.loads(request.body)
-                data = get_filtered_data(body)
-                return JsonResponse(data, safe=False)
+                if len(body.keys()) != 0:
+                    data = get_filtered_data(body)
+                    return JsonResponse(data, safe=False)
+                else:
+                    return JsonResponse([], safe=False)
             except Exception as e:
                 print(str(e))
                 data = get_data(key)
