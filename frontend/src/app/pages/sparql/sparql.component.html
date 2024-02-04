@@ -1,27 +1,11 @@
-<div class="button-container">
-  <div class="button-add">
-    <a href="/sparql" class="bg-blue-500 hover:bg-blue-700 text-sm text-white font-bold py-2 px-4 rounded">
-      SPARQL
-    </a>
-  </div>
-  <div class="button-add">
-    <a href="/esolist" class="bg-yellow-500 hover:bg-yellow-700 text-sm text-white font-bold py-2 px-4 rounded">
-      EsoLangs List
-    </a>
-  </div>
-  <div class="button-add">
-    <a href="/add-esolang" class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
-      Add EsoLang
-    </a>
-  </div>
-</div>
+<app-navbar></app-navbar>
 
 <div class="flex flex-col flex-wrap gap-5">
-  <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Enter Your SPARQL
+  <label for="message" class="block mb-2 text-sm font-medium text-gray-900">Enter Your SPARQL
     Query</label>
 
   <textarea #textarea id="message" rows="4"
-            class="query block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"></textarea>
+            class="query block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500"></textarea>
   <div class="button-run" (click)="this.runQuery(textarea)">
     <a class="bg-green-500 hover:bg-green-700 text-sm text-white font-bold py-2 px-4 rounded">
       Run query

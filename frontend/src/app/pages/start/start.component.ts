@@ -2,6 +2,7 @@ import {Component, OnInit} from '@angular/core';
 import {NgFor, NgIf} from "@angular/common";
 import {BackendService} from "../../service/backend.service";
 import {Router} from "@angular/router";
+import {NavbarComponent} from "../navbar/navbar.component";
 
 enum States {
   START,
@@ -64,7 +65,7 @@ const questions: Question[] = [
   selector: 'app-start',
   standalone: true,
   imports: [
-    NgIf, NgFor
+    NgIf, NgFor, NavbarComponent
   ],
   templateUrl: './start.component.html',
   styleUrl: './start.component.scss'

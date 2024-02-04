@@ -2,6 +2,7 @@ import {Component, OnInit} from '@angular/core';
 import {NgForOf, NgIf} from "@angular/common";
 import {ActivatedRoute, Router, RouterLink} from "@angular/router";
 import {BackendService} from "../../service/backend.service";
+import {NavbarComponent} from "../navbar/navbar.component";
 
 interface ESOLang {
   esolang: string;
@@ -14,7 +15,8 @@ interface ESOLang {
   imports: [
     NgIf,
     RouterLink,
-    NgForOf
+    NgForOf,
+    NavbarComponent
   ],
   templateUrl: './esolist.component.html',
   styleUrl: './esolist.component.scss'
