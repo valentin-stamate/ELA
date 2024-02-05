@@ -30,3 +30,8 @@ Team:
             Mihai Cristian-Laurentiu
         </li>
     </ul>
+
+
+
+<a href="https://github.com/valentin-stamate/ELA/assets/79109977/ce6e7c34-e450-4b2b-b567-8e3cb374f2c3">ELA presentation video</a>
+
